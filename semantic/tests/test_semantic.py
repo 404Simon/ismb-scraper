@@ -21,6 +21,7 @@ from ismb_semantic.labeling import (
     parse_label_text,
     parse_opencode_output,
     run_labeling,
+    write_indexes,
 )
 from ismb_semantic.papers import load_papers_jsonl
 
@@ -335,6 +336,41 @@ class LabelingRunTest(unittest.TestCase):
             labels = json.loads((results_dir / "labels" / "k-02.json").read_text(encoding="utf-8"))
             self.assertEqual(labels, {"0": "Graph learning"})
             self.assertFalse((results_dir / "categories" / "k-02.csv").exists())
+
+    def test_partial_run_preserves_other_k_categories(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            input_dir = Path(tmp) / "input"
+            results_dir = Path(tmp) / "results"
+            _write_run(input_dir, _label_input())
+            for name, size in (("k-02", 2), ("k-03", 3)):
+                run_dir = input_dir / name
+                run_dir.mkdir(parents=True, exist_ok=True)
+                clusters = [{"id": index, "size": 1, "titles": [f"Title {index}"]} for index in range(size)]
+                (run_dir / "label_input.json").write_text(
+                    json.dumps({"k": int(name[-2:]), "clusters": clusters}), encoding="utf-8"
+                )
+                (run_dir / "clusters.json").write_text(
+                    json.dumps({"k": int(name[-2:]), "actual": size, "resolution": 1.0}),
+                    encoding="utf-8",
+                )
+                labels = {str(cluster["id"]): f"Category {index}" for index, cluster in enumerate(clusters)}
+                (results_dir / "labels").mkdir(parents=True, exist_ok=True)
+                (results_dir / "labels" / f"{name}.json").write_text(json.dumps(labels), encoding="utf-8")
+                (results_dir / "categories").mkdir(parents=True, exist_ok=True)
+                with (results_dir / "categories" / f"{name}.csv").open("w", encoding="utf-8") as handle:
+                    handle.write("k,category,year,paper_id,title,doi\n")
+                    for index in range(size):
+                        handle.write(
+                            f"{int(name[-2:])},Category {index},2024,p{index},Title {index},10.1/x\n"
+                        )
+
+            write_indexes(input_dir, results_dir)
+
+            rows = (results_dir / "categories.csv").read_text(encoding="utf-8").splitlines()
+            self.assertEqual(len(rows), 1 + 2 + 3)
+            self.assertEqual(
+                len((results_dir / "summary.csv").read_text(encoding="utf-8").splitlines()), 1 + 2
+            )
 
     def test_invalid_label_is_not_saved(self):
         with tempfile.TemporaryDirectory() as tmp:

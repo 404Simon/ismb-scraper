@@ -11,6 +11,8 @@ import sys
 from pathlib import Path
 from string import Template
 
+LABEL_MODEL = "opencode-go/deepseek-v4.1-flash"
+
 PROJECT_ROOT = next(
     (parent for parent in Path(__file__).resolve().parents if (parent / ".opencode").is_dir()),
     Path.cwd(),
@@ -210,7 +212,7 @@ def _duplicate(label: str, labels: dict[str, str]) -> str | None:
     return None
 
 
-def _write_categories(path: Path, k: int, run_dir: Path, labels: dict[str, str]) -> list[list]:
+def _write_categories(path: Path, k: int, run_dir: Path, labels: dict[str, str]) -> None:
     rows = []
     with (run_dir / "clusters.csv").open(encoding="utf-8", newline="") as handle:
         for row in csv.DictReader(handle):
@@ -221,10 +223,54 @@ def _write_categories(path: Path, k: int, run_dir: Path, labels: dict[str, str])
     rows.sort(key=lambda row: (row[1].casefold(), row[2], row[4].casefold(), row[3]))
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["k", "category", "year", "paper_id", "title", "doi"])
         writer.writerows(rows)
+
+
+def _category_rows(results_dir: Path) -> list[list[str]]:
+    rows: list[list[str]] = []
+    for path in sorted((results_dir / "categories").glob("k-*.csv")):
+        with path.open(encoding="utf-8", newline="") as handle:
+            reader = csv.reader(handle)
+            next(reader, None)
+            rows.extend(row for row in reader if row)
+    rows.sort(key=lambda row: (int(row[0]), row[1].casefold(), row[2], row[4].casefold(), row[3]))
     return rows
+
+
+def _summary_rows(input_dir: Path, results_dir: Path) -> list[list]:
+    rows: list[list] = []
+    for run_dir in sorted(input_dir.glob("k-*")):
+        try:
+            k = int(run_dir.name.split("-", 1)[1])
+        except ValueError:
+            continue
+        clusters_path = run_dir / "clusters.json"
+        label_input_path = run_dir / "label_input.json"
+        if not clusters_path.is_file() or not label_input_path.is_file():
+            continue
+        metadata = json.loads(clusters_path.read_text(encoding="utf-8"))
+        clusters = json.loads(label_input_path.read_text(encoding="utf-8"))["clusters"]
+        cluster_ids = [str(cluster["id"]) for cluster in clusters]
+        labels = load_labels(results_dir / "labels" / f"{run_dir.name}.json")
+        labeled = sum(1 for cluster_id in cluster_ids if cluster_id in labels)
+        rows.append([k, k, metadata.get("actual", len(cluster_ids)), metadata.get("resolution", ""), labeled])
+    rows.sort(key=lambda row: row[0])
+    return rows
+
+
+def write_indexes(input_dir: Path, results_dir: Path) -> None:
+    """Rebuild combined files from all per-k artifacts, so partial runs never drop rows."""
+    with (results_dir / "categories.csv").open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.writer(handle, lineterminator="\n")
+        writer.writerow(["k", "category", "year", "paper_id", "title", "doi"])
+        writer.writerows(_category_rows(results_dir))
+
+    with (results_dir / "summary.csv").open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.writer(handle, lineterminator="\n")
+        writer.writerow(["k", "requested", "actual", "resolution", "labeled"])
+        writer.writerows(_summary_rows(input_dir, results_dir))
 
 
 def run_labeling(
@@ -249,8 +295,6 @@ def run_labeling(
     labels_dir = results_dir / "labels"
     categories_dir = results_dir / "categories"
     failures = 0
-    summary = []
-    all_rows: list[list] = []
 
     for k in cluster_counts:
         name = f"k-{k:02d}"
@@ -318,19 +362,10 @@ def run_labeling(
             save_labels(labels_path, labels)
             print(f"[{name}] cluster {cluster_id}: {label}")
 
-        actual = len(cluster_ids)
-        resolution = ""
-        metadata_path = run_dir / "clusters.json"
-        if metadata_path.is_file():
-            metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
-            actual = metadata.get("actual", actual)
-            resolution = metadata.get("resolution", "")
-
         labeled = sum(1 for cluster_id in cluster_ids if cluster_id in labels)
-        summary.append([k, k, actual, resolution, labeled])
 
         if labeled == len(cluster_ids):
-            all_rows.extend(_write_categories(categories_path, k, run_dir, labels))
+            _write_categories(categories_path, k, run_dir, labels)
         else:
             categories_path.unlink(missing_ok=True)
             print(
@@ -339,15 +374,5 @@ def run_labeling(
                 file=sys.stderr,
             )
 
-    all_rows.sort(key=lambda row: (row[0], row[1].casefold(), row[2], row[4].casefold(), row[3]))
-    with (results_dir / "categories.csv").open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
-        writer.writerow(["k", "category", "year", "paper_id", "title", "doi"])
-        writer.writerows(all_rows)
-
-    with (results_dir / "summary.csv").open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
-        writer.writerow(["k", "requested", "actual", "resolution", "labeled"])
-        writer.writerows(summary)
-
+    write_indexes(input_dir, results_dir)
     return failures

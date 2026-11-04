@@ -18,7 +18,7 @@ from .clustering import (
     representative_indices,
 )
 from .embedding import cached_embeddings, embed, validate_embedding_meta, write_meta
-from .labeling import run_labeling
+from .labeling import LABEL_MODEL, run_labeling
 from .papers import load_papers, load_papers_jsonl
 
 
@@ -45,7 +45,6 @@ def _parser() -> argparse.ArgumentParser:
     label_parser.add_argument("--input", type=Path, default=Path("output/semantic"))
     label_parser.add_argument("--results", type=Path, default=Path("results/semantic"))
     label_parser.add_argument("--clusters", default="2-20")
-    label_parser.add_argument("--model", default="opencode-go/deepseek-v4.1-flash")
     label_parser.add_argument("--agent", default="semantic-labeler")
     label_parser.add_argument(
         "--force", action="store_true", help="Relabel clusters that already have labels."
@@ -98,7 +97,7 @@ def _write_cluster_run(
     sizes = {str(cluster_id): int((labels == cluster_id).sum()) for cluster_id in cluster_ids}
 
     with (run_dir / "clusters.csv").open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["cluster", "year", "paper_id", "title", "doi"])
         for paper, cluster_id in zip(papers, labels.tolist()):
             writer.writerow([cluster_id, paper["year"], paper["paper_id"], paper["title"], paper["doi"]])
@@ -199,7 +198,7 @@ def _run_label(args: argparse.Namespace) -> None:
         input_dir=args.input,
         results_dir=args.results,
         cluster_counts=parse_cluster_spec(args.clusters),
-        model=args.model,
+        model=LABEL_MODEL,
         agent=args.agent,
         force=args.force,
         timeout=args.timeout,
