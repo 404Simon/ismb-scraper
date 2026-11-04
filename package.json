@@ -1,0 +1,16 @@
+{
+  "name": "ismb-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "ismb-scrape": "./src/cli.ts"
+  },
+  "scripts": {
+    "scrape": "bun ./src/cli.ts",
+    "test": "bun test"
+  },
+  "engines": {
+    "bun": ">=1.4.0"
+  }
+}
