@@ -3,6 +3,7 @@
 import { parseArgs } from "node:util";
 import { mkdir } from "node:fs/promises";
 import { join, relative, resolve, sep } from "node:path";
+import { computeLeadLabs } from "./affiliations";
 import {
   authorExtractionScript,
   buildAuthorMetadata,
@@ -24,6 +25,7 @@ import {
   type OpenAlexResult
 } from "./openalex";
 import { pageStateScript, readReadyPage } from "./page-readiness";
+import { parsePublicationYear } from "./publication";
 
 interface IssueArticle {
   title: string;
@@ -76,6 +78,9 @@ interface PaperFiles {
 }
 
 interface PaperMetrics extends AuthorMetrics, GitHubMetrics {
+  Y: number | null;
+  L_lead: number | null;
+  C_lead: string[] | null;
   R: number | null;
   h_lead: number | null;
 }
@@ -110,6 +115,7 @@ interface BrowserArticleData {
   authorsDetail: AuthorDetail[];
   authorNotes: string[];
   doi: string;
+  publicationDate: string;
   abstract: string;
   pdfUrl: string;
   artifactCandidates: ArtifactCandidate[];
@@ -132,10 +138,13 @@ interface ScrapeResult {
 }
 
 const METRIC_NAMES = [
+  "Y",
   "A_first",
   "A_senior",
   "A_lead",
   "A_total",
+  "L_lead",
+  "C_lead",
   "R",
   "h_lead",
   "S",
@@ -458,7 +467,25 @@ async function scrapeArticle(
       article.url,
       warnings
     );
+    const publicationYear = parsePublicationYear(data.publicationDate);
+    const leadLabs = computeLeadLabs(
+      authorMetadata.authors_detail,
+      authorMetadata.joint_first,
+      authorMetadata.joint_senior
+    );
     const mergedMetrics = mergePaperMetrics(authorMetadata.metrics, openAlex);
+    const derivedMetrics = {
+      ...mergedMetrics.metrics,
+      Y: publicationYear,
+      L_lead: leadLabs.count,
+      C_lead: leadLabs.countries
+    };
+    const derivedMissing = unique([
+      ...mergedMetrics.missing,
+      ...(publicationYear === null ? ["Y"] : []),
+      ...(leadLabs.count === null ? ["L_lead"] : []),
+      ...(leadLabs.countries === null ? ["C_lead"] : [])
+    ]);
     const primaryRepository = selectPrimaryGitHubRepository(
       data.artifactCandidates,
       paperName
@@ -478,9 +505,9 @@ async function scrapeArticle(
       });
     }
     const finalMetrics = mergeGitHubMetrics(
-      mergedMetrics.metrics,
+      derivedMetrics,
       github,
-      mergedMetrics.missing
+      derivedMissing
     );
 
     let html = buildStandaloneHtml(paperName, article.url, data.articleHtml);
@@ -661,6 +688,21 @@ function articleExtractorScript(url: string): string {
       el = el.nextElementSibling;
     }
     return chunks.join(" ");
+  }
+
+  function extractPublicationDate() {
+    const meta = qMeta([
+      "citation_publication_date",
+      "citation_date",
+      "citation_online_date",
+      "dc.Date",
+      "DC.Date",
+      "prism.publicationDate",
+      "prism.publicationYear",
+      "article:published_time"
+    ]);
+    if (meta) return meta;
+    return String(jsonLd.datePublished || jsonLd.dateCreated || "");
   }
 
   function findPdfUrl() {
@@ -950,6 +992,7 @@ function articleExtractorScript(url: string): string {
     authorsDetail: authorData.authors,
     authorNotes: authorData.notes,
     doi,
+    publicationDate: extractPublicationDate(),
     abstract: extractAbstract(),
     pdfUrl: findPdfUrl(),
     artifactCandidates: extractArtifactCandidates(),
@@ -1607,22 +1650,29 @@ function isResumableRecord(value: unknown): value is PaperRecord {
     return metric === null;
   });
 
-  const hasAllMetrics = METRIC_NAMES.every((name) => {
-    const metric = metricValues[name];
-    if (name === "h_lead") {
-      return metric === null ||
-        (typeof metric === "number" && Number.isFinite(metric) && metric >= 0);
-    }
-    return metric === null ||
-      (typeof metric === "number" && Number.isInteger(metric) && metric >= 0);
-  });
-  if (!hasAllMetrics) return false;
+  if (!METRIC_NAMES.every((name) => isValidMetric(name, metricValues[name]))) {
+    return false;
+  }
 
   const missingSet = new Set(missing);
   const missingIsAccurate =
     nullMetrics.every((name) => missingSet.has(name)) &&
     missing.every((name) => isMetricName(name) && metricValues[name] === null);
   return missingIsAccurate;
+}
+
+function isValidMetric(name: MetricName, value: unknown): boolean {
+  if (value === null) return true;
+  if (name === "C_lead") {
+    return (
+      Array.isArray(value) &&
+      value.every((country): country is string => typeof country === "string")
+    );
+  }
+  if (name === "h_lead") {
+    return typeof value === "number" && Number.isFinite(value) && value >= 0;
+  }
+  return typeof value === "number" && Number.isInteger(value) && value >= 0;
 }
 
 function isMetricName(value: string): value is MetricName {
@@ -1680,20 +1730,16 @@ function decodeURIComponentSafe(value: string): string {
   try { return decodeURIComponent(value); } catch { return value; }
 }
 
+function metricCell(value: unknown): string {
+  if (value === null || value === undefined) return "";
+  return Array.isArray(value) ? JSON.stringify(value) : String(value);
+}
+
 function toCsv(rows: PaperRecord[]): string {
   const columns = [
     "paper_name",
     "authors",
-    "A_first",
-    "A_senior",
-    "A_lead",
-    "A_total",
-    "R",
-    "h_lead",
-    "S",
-    "C",
-    "I_open",
-    "I_closed",
+    ...METRIC_NAMES,
     "doi",
     "abstract",
     "article_url",
@@ -1712,16 +1758,9 @@ function toCsv(rows: PaperRecord[]): string {
   const valuesFor = (row: PaperRecord): Record<string, string> => ({
     paper_name: row.paper_name,
     authors: JSON.stringify(row.authors),
-    A_first: String(row.metrics?.A_first ?? ""),
-    A_senior: String(row.metrics?.A_senior ?? ""),
-    A_lead: String(row.metrics?.A_lead ?? ""),
-    A_total: String(row.metrics?.A_total ?? ""),
-    R: String(row.metrics?.R ?? ""),
-    h_lead: String(row.metrics?.h_lead ?? ""),
-    S: String(row.metrics?.S ?? ""),
-    C: String(row.metrics?.C ?? ""),
-    I_open: String(row.metrics?.I_open ?? ""),
-    I_closed: String(row.metrics?.I_closed ?? ""),
+    ...Object.fromEntries(
+      METRIC_NAMES.map((name) => [name, metricCell(row.metrics?.[name])])
+    ),
     doi: row.doi,
     abstract: row.abstract,
     article_url: row.article_url,
