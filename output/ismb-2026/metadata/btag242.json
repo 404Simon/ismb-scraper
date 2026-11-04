@@ -1,0 +1,130 @@
+{
+  "paper_name": "Bridging the phenotype-target gap for molecular generation via multi-objective reinforcement learning",
+  "authors": [
+    "Guo, Haotian",
+    "Liu, Hui"
+  ],
+  "authors_detail": [
+    {
+      "name": "Haotian Guo",
+      "affiliations": [
+        "College of Computer and Information Engineering, Nanjing Tech University, Nanjing, Jiangsu 211800, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hui Liu",
+      "affiliations": [
+        "College of Computer and Information Engineering, Nanjing Tech University, Nanjing, Jiangsu 211800, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7158-913X"
+    }
+  ],
+  "joint_first": [
+    "Haotian Guo"
+  ],
+  "joint_senior": [
+    "Hui Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": 6,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 2,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "College of Computer and Information Engineering, Nanjing Tech University, Nanjing, Jiangsu 211800, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Hui Liu",
+      "openalex_id": "https://openalex.org/A5101912981",
+      "h_index": 6
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/hliulab/XMolRL",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag242",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag242/8726309",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag242/68709293/btag242.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/hliulab/XMolRL"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19607680"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ebi.ac.uk/chembl"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "http://www.lephar.com",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag242/3/btag242_supplementary_data.pdf?Expires=1796426176&Signature=RVcNHjd~L8ghmyDrPFAG9G8GdKk8e13qd8jAR9KO3JUbRXXT-moi8D9EMk5JlHIOesSOPk7W8fqJ1smEDhvZWiEmHi597zvWIpWBZkZ9solyfqFOZRzjL~LsCQq5QUZslT~TIcNDAKYiufCmZUZpUrrRD5tjKW4u3~lU6nU55gh67rVnBjD2n732fqoOIc3D6XqBKace21qrw4Jh9kmBm0NueHDJj3~60r0u6LQHQuuvqa9b4s2Fue70Smb4AILIgyYfcmI4pMs7b10OZKedcrn0psfrO2InjQzp-JcbXDatZXMszr1DI-TjI9bzhBrwkoWRefOawRQpzB3ULbMoOA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://dx.doi.org/10.1093/bioinformatics/btag242",
+      "https://zinc.docking.org",
+      "https://clue.io/data/CMap2020",
+      "https://www.rcsb.org",
+      "https://paccmann.github.io"
+    ]
+  },
+  "files": {
+    "html": "files/btag242/article.html",
+    "pdf": "files/btag242/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag242/3/m_btag242f1.jpeg?Expires=1796426176&Signature=eP4hvji73hgHNHpaljLdQnmNQQ112V60V47Cu~k85iYjcHv6RO1Sk1lyXIS3qtxTwfg8g3ouyhNKMDH5RGqDI6KvRhdvvVvY9UToMt7IBzOvrYsk~JFyQE3AaNjn66U9aViqPFNvlcvUb4w4-KPBfM4zkx-uuY4SFpcMD~q8xhTE~rAGFJAAK~2PvxW3tS1izNRYNnolEg6DWRwc79jm04TgfjASB1uTGqKZgMu3mluR-msqvW7klG53in0hO9ARiDbxo9Mfo2qAP3U6M90O2SlKbHy40DTy0Eu2FNySYTZrLfrDaT9IxGmYr5WU2nPaJEsuSz3cWATSq5jii4jAbg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag242/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag242/3/m_btag242f2.jpeg?Expires=1796426176&Signature=RYnXBdK5yHrVzclFmI5zXpNuzYlUCKh4ESALwtt9Hd7Z32ZYtbghLnCEI7iclLPB7FnkCF6Xh18Td6--r0VIkMl~g0qtAA8LnFkqS095QHsxgl0pvowfug7Vyc3MzkOfpo9K2qzboqka~asBGrkVybewjfXB5hoYLwrukzke2c-2JY~jSwUZT9tuKauviYu7kqOinT4uVjeboX6IAA6WhpVURmS0eCb6VS0xXpKFLe3TvVwrhJEIkVbzqjfShmWyMUDviPfZXATym49yrSfV40h9cBxOUvDU18G85N7I-RyqbHcDzMTYiqahzLfMU3Je7M9ptsT~aQOvuYUkcH71cw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag242/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag242/3/m_btag242f3.jpeg?Expires=1796426176&Signature=J~~EodSsDK6~TjmimkZjTOv4Gq0UE7YVJBbcOiSngAhs9ttHTgis-HP8IrIQBX0iI61pIoAxSi~WY901lZzXDx1Ukby5MUUc3-n07bJ2tP9pFhXyXkANiewxsbadAN~uccixe2FIy045927KUFX0s3uq-~H~Z~2Wwx2rv5vqbsPk4ExeeNmSVchTv9RSO680BR8bS4rgOzxTNWyszxaxhhZUX-kjEZfdVJb93~8qIX~drqE2x5y5SUzqMsKsPhINndc4EB4KoDo4NbuBVUdAvZFs0VEY~WRshsjGuDq7mlmdM0z0BSMWhjlOAABTJYmhPnRT7HgIJh5eWnm1gDtPKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag242/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag242/3/m_btag242f4.jpeg?Expires=1796426176&Signature=RcfrfBY23zW96160vBLk6dLpCH5mDSzXm2oXjnMaeUlIY9lA-6Y2zs5gN0d1Q1cPQvzzck9-ixq2iWMAMIDOTU6TUXhEcCIPiQJkwUGjXkkg~LTkGGxfFtkCD4Zp835lFu4DDnhNNY0QQTKrAPSRiOWsS-e5FkGkKJm8Y0JP18LpTXNALKGGswUz9wm4ODSwhcKGqTALC0ehRpLa-DVO8g3VAFcqmh4Y5-g9sd58HpTPKnOPQARAMUIQ3efaPK-yEz85NVWEvzkLX3xwa7Fkj4WS2ZT1vGeTybonoJ7SRJ5qqn0-oL31InxpOcO~7J8e9nfNE1mEYNC1g62rc43-ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag242/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag242/3/m_btag242f5.jpeg?Expires=1796426176&Signature=injkVJ-zPgjUI~icuOls0hDSp9wBn52oz-GZCMaq5cpadmS4PjvQm8qI32zUOL7t-w~6eF3eld0Ip8WShRpB1eZb83ElMa7j62EET~lMRJCprsKRdWuLSM1ORaOkuumpELTX86H7GqKZc3xYrjvgoaGVM4WrDTQMbkE07slhQcAaxKL7rXDaMbDwBKyzSbUtWe3gKZ6mYDdbvWp~-8o-CeeypOO3ct7cg-n4gyEulW-XPIKgmzNzAFc9vAUyTGWPSjlCCsB0HPPmXc2S7Tvv14nLkcphnbyo1ZHkjhANdMI9Jtls8LzrZPXOwX8wTqHFu~CsQCdwALDeSi4eEoaUrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag242/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "paper_name": "DiSPA: differential substructure-pathway attention for drug response prediction",
+  "authors": [
+    "Han, Yewon",
+    "Kim, Sunghyun",
+    "Jeong, Eunyi",
+    "Lee, Sungkyung",
+    "Yun, Seokwoo",
+    "Lim, Sangsoo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yewon Han",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Dongguk University, Seoul 04620, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sunghyun Kim",
+      "affiliations": [
+        "Department of AI Convergence, Dongguk University, Seoul 04620, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Eunyi Jeong",
+      "affiliations": [
+        "Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul 04620, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sungkyung Lee",
+      "affiliations": [
+        "Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul 04620, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Seokwoo Yun",
+      "affiliations": [
+        "AI Research Team, Ar-ge Inc., Seoul 08757, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sangsoo Lim",
+      "affiliations": [
+        "Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul 04620, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1737-6242"
+    }
+  ],
+  "joint_first": [
+    "Yewon Han"
+  ],
+  "joint_senior": [
+    "Sangsoo Lim"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 1,
+    "h_lead": 15,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 3,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, Dongguk University, Seoul 04620, South Korea",
+    "Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul 04620, South Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sangsoo Lim",
+      "openalex_id": "https://openalex.org/A5101655230",
+      "h_index": 15
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/sslim-aidrug/DiSPA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag272",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag272/8726300",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag272/68709229/btag272.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/sslim-aidrug/DiSPA"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/7060305"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132465"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag272/3/btag272_supplementary_data.zip?Expires=1796503466&Signature=FlBrKazmqoRx7WoJhVnxAkhfng2LOYxaGuKy2eYkbxQnTdE8SscAOPRqjZNVyDYCcIcz~MR4S0zwpWUKzmmAgtaKUxbitENqgvr-ZAY8DU2YlCSJXYo3sopKk3YGq7nBjD4BNT31VwGXt-vavFEZVWX~NyP3dqlSvatH4BXQu4wGfRvEn9aagONrxbOVYL-MVvb4X7pux8GjHdQI9ykBD7A2FKpQpFglo3nSviUjcpooGa16USFs8iyXBpDlD5AvmvmO2lLDLE06H-LISdQDyuFH6WD-6lSN9EaXD3MbCESOkhE5MrQ8CRrJ1PfA2h4mb9Lq9hihuGDppdku7sau-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag272/3/btag272_supplementary_data.zip?Expires=1796852500&Signature=e8hRh01ezKBW-gssf-lUnwot9nCARlRh3ff5Lw7MmquZ6KUSv6owhohTq~q009rpUC1hYzGrUeTQ5qMiYSAhh~QKG9VxRE~rkNobHRczIsPsUoLPT-Kwk-LUMTRIG5gEOGPXtSS6WWTyxohCM2RwF~6w~gNwm1vqAm88AgBSLAppKjrUdwvw4noNVTF1K5oCnDToUw3SWHYlNLhl49euNvEcxru6H2csXY4pyToDX4EACCoDRN2r7IjPSN~FfJ1ZYc~LHfQYVaNsEHO60yI1t8lZ1X7ZfjEfWJL5LBq7tnlhQm~odnnhOhXPoSv9G~pzC~2HZV2iJlHdsg8LH725cQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag272/article.html",
+    "pdf": "files/btag272/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag272/3/m_btag272f1.jpeg?Expires=1796503466&Signature=c~zb~kc0up6rrMquLpEMwOutTRfj48rVVgmkwjKLv6SFmPvHWMI0mhh2FU8H9S4xEDUDvAyx2InJtTA6~4~x7Lnzr8ALEt15E~BgP4w7i-zUWUCVmtbNVeD77dj5h~I9fjXoYZ3X8SIIYnsV8wI59jK4QFHciVdDqPEdPed5CGe5Q7Q3ZLRrGw2KGIgLmnYV2jEi2Hsi-I6r0IuxRQis-tyd2yuNAIqHavepHyu~3tl~o~fFzNd14gOilyOQBAZFGF7KP8rfGEhUkrqWIV7iiBbdFjggVspVYqdHDOvESl8vZNp61xQseiXUm-E9ukeHw7NaBd05BGq3~H1E6PI2aw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag272/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag272/3/m_btag272f2.jpeg?Expires=1796503466&Signature=3W0QN7COao-k3i5kLKjGTb5djnzY-LBeJJHrt9Kq8F8WyZizLTIIsImq~KmBj9fkGqOuzFJqkdd47Q1caHCodsEexhDp8p~w1C~20phEche2qGSaRwhCP4tAxJA7gud26I7CMP5e-aV-XPNQtzHLRnVwJzXq4V6BNNc~lTguSeQkdfsV9WSADn4OTCtzYeT5n8zPNar9Osne5hGVzd1bgG~9GMCqc98KX1vv1-zSYhl0uSIzSe~Lkwb6X8j7iWAZhSlrNHAQH0KTdRInAZrcfKHmsovrViiIq2kdqE2IViroH3ew3qkXDcUIP~-1RR6ra7kBZASeqUY2Vj13xMuv7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag272/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag272/3/m_btag272f3.jpeg?Expires=1796503466&Signature=2Z6oBs145KkcCaNSYihu3w6X1SL0nLc7k7A40o1-H2zJhU3CO-e~fnRx-uaaoUNV6TNWcnQG-9Cn3Su0hROeUe63n8M1s5zJ3fubCCFpY-46xH~9sEpqjVApOOnrCYt5DoKA2Md7IBCWuWrsPPQXIZ3Re58yAsQOypl7C14dSGErBUEnar~eJFuT7j~0kuYd8yE6ecOyFXzXhKUbrcQ6-wF4KXHc~KlhqBfYoAN03lK9E9xkiaeoNVqspjcKAaS83iMTGvvHOOiButFbQuDvOshlR90P~NA08YkuiCupWTYbHlmOe3QSNvs2dSvhyBX4iCf9rzxqGTCjHYnje276Lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag272/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag272/3/m_btag272f4.jpeg?Expires=1796503466&Signature=oU4oEoBq0Z-kQdoR6gHLE9i91GVoXmJMoqaqIjrTP~vqnY~ixH~mkf84~r5jK54ZSoFxmXNVBJz62OxgpM10MyRA6S8-3fxmLBCzMzZNzJrLlid53cBuo~pGayf~~zDd5tS~CU1FuU~fzpojwGVr7q0Xjpf1VqNm71JwE1pNDzLu~Z2Oiv1YIMzXqNwkTdPQYmXdM8mLzRleYrJDHk-E-npLpsUUsUmYN7-0WEO0h-6X92oJJ6bZA3aGaLNYwBof7juJ-pMhsIzCZkznhTrB2R1ZGKkc1DJqtxKUP9pWy~N1a5-AoauNfdRdj-zW0AccPPfhqeuVj~UcCvJ-RGIGBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag272/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

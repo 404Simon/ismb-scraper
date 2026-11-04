@@ -1,0 +1,146 @@
+{
+  "paper_name": "AutoPCR: automated phenotype concept recognition by prompting",
+  "authors": [
+    "Tao, Yicheng",
+    "Huang, Yuanhao",
+    "Wang, Yiqun",
+    "Luo, Xin",
+    "Liu, Jie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yicheng Tao",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI 48109, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9615-4976"
+    },
+    {
+      "name": "Yuanhao Huang",
+      "affiliations": [
+        "Gilbert S. Omenn Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8878-1520"
+    },
+    {
+      "name": "Yiqun Wang",
+      "affiliations": [
+        "Gilbert S. Omenn Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-4157-9407"
+    },
+    {
+      "name": "Xin Luo",
+      "affiliations": [
+        "Gilbert S. Omenn Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0005-5335-3031"
+    },
+    {
+      "name": "Jie Liu",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI 48109, United States",
+        "Gilbert S. Omenn Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9504-0587"
+    }
+  ],
+  "joint_first": [
+    "Yicheng Tao"
+  ],
+  "joint_senior": [
+    "Jie Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 16,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 38,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI 48109, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jie Liu",
+      "openalex_id": "https://openalex.org/A5100454161",
+      "h_index": 16
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/yctao7/AutoPCR",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag304",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag304/8726349",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag304/68709569/btag304.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/yctao7/AutoPCR"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag304/3/btag304_supplementary_data.pdf?Expires=1796475665&Signature=0Nrqq9jopnEG0fL4dElCdrwY-MphHmFvZA~o8o1VxXmx4nA3GipH81H1pmDtvfzKtwvKIXSzcShzuUJciH8ZA2cVr0~BWgpj8pB0PcOA5eOAlr8HReR5j5Kag1Dvui1jzPQSVxXpYQLoHrIG~CxrntmOk7NOR55W0oRX4jtyn-g9VoIKtOezbXRULvr8FJwb8rJVYTRHOIYR3G56tqHFbIbuAiWO9QzCUTt8eILLLrYZOIxXc9sZyo4yC23Lj5fQEo66oEpIettLc9zxSIqz6vPy-jLywj1K89RM62jmHo98soZkRpWyGJRGUAR~lXzKJCCWeV9mGExUAnBKs0ZA7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag304/article.html",
+    "pdf": "files/btag304/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag304/3/m_btag304f1.jpeg?Expires=1796475665&Signature=SptVz2Bz6QjKAMn9uTvStvP9CQSLKSok4rv9oC1LbJnHgsrO4lNSjmcv1lQzgKC41p-4Vi7e0OQYKrIA-PS~zHZpaK2kD8bOwRYUwWjxwBw75bqKRPOps3Xq2gWurnbCgp6HMi5TMpPkQzaOG2DBz-Sib0wTeGJ858g3OJKx1f~rGcbz5L~x9YgNzXpogHjOchOZ-Nd9hHyivpmBY1HVUZfDfHWGspX06ffjlITmZZVdpVMR3WLrVS2SHkGJFutuEv0uJC4m3wmafWSGXARhOGnhglKaSztqyvBKqFMU3H4SFbqZuMNQn4bYn3201OVORR~KM1oFq3EngAl5bDBunw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag304/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag304/3/m_btag304f2.jpeg?Expires=1796475665&Signature=y09W3ynqnTDVKsnAkeHXjymGBevy998lFwyg3b46y02d8LzFgm~SBlvePEWGrRYQwzaejL9SsYrTcMS0KtQKmlpLANwtlM8O8G5Z0yKopjtvf-dm0By8z4W~Mk88yT0QFNHPUbQZv8Q1C~pgU3qOMJBHqw~tqGgACwT2vlcG8E-NKuSOmM30UuhUZkhZeMQ6Yf7on0Ub1v9zjNb95BCXN9DxqaGG1mBFqJ6aKYJ1Bz-4gstNG~IsV~Rrv8fZ-tDfgoSXOdhjmRFOxK-VZe-cwV3G0gi8VqjqVasM-Q2Ai3tVfob8-KJoZ4bgWpNh4qJYBnxalIagAZK3nRfI5-TFxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag304/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag304/3/m_btag304f3.jpeg?Expires=1796475665&Signature=yj55sbk5BOPAsGM4OeySAwB7pMfn0F2KTxmW2yLiDGqAvTcAzX7msjitZnF9xfIW37OzSYq~~UnaWPpCXWAa9tFkBskHis3hle2C5qoLaA8BMYGMycB~3l2Zw5WuicSZF-sZm7sh3c5d3Hc4OFRnYiDd2K2hwEwkUDLwTR8kccf~KiEmtKx6nM8EppH7DRKF9gkHJLKw9Xg0S2aO4TUE96P1zHSHL8qBf3pnDFg1slA~0TrV8639~ttwibEr~1qL61lZFegDvR3FNCsedzz-ls0jF-d0xXwl7vv39i7frfrricxLKP1HunO87BunpZzaFcT9iYMg9Ebv55jJL7PZLQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag304/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

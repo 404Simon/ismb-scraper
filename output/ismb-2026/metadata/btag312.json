@@ -1,0 +1,109 @@
+{
+  "paper_name": "Incorporating indel channels into average-case analysis of seed-chain-extend",
+  "authors": [
+    "Gibson, Spencer",
+    "Yu, Yun William"
+  ],
+  "authors_detail": [
+    {
+      "name": "Spencer Gibson",
+      "affiliations": [
+        "Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yun William Yu",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8275-9576"
+    }
+  ],
+  "joint_first": [
+    "Spencer Gibson"
+  ],
+  "joint_senior": [
+    "Yun William Yu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": 21,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 41,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, United States",
+    "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yun William Yu",
+      "openalex_id": "https://openalex.org/A5015501574",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/Lazarus42/seed_chainer_indels",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag312",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag312/8726336",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag312/68709483/btag312.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Lazarus42/seed_chainer_indels"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag312/3/btag312_supplementary_data.pdf?Expires=1796430506&Signature=4YCSYJf17Rt7PYdyOZC0O2wszLwBOTWfxAduW8F9WLUJmPCoSG04t7Vdgiccw8yIl6P3g0XnSu1ITC6NMFMwFs7~0cQBlHphrvUFNYSYzaU7IUQqRa9IaOBLuCg6XDjCDpuanAer3NzyTd-jm06~Q92AQoopI6Ldp14kwhrKJnLgWi2t9YTQqUxL7uCBFhJD~tUIU2kWwy47jvNuVzfeZ7bnKYIFdA1HylGSb~L3~EsEo~gPEskn6Z~Hs~MRL2LuHYFH0fW8Sz6FLChB1Xm1dQD5NwOGe3UYp3hfnSaUK8AsBkPV~sgtlp3Rw16rMk6IRC7k4X0tuN3qky7XOy5iDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag312/article.html",
+    "pdf": "files/btag312/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag312/3/m_btag312f1.jpeg?Expires=1796430506&Signature=s6kf4EBrc5m1DX8Ce~R1yzXKLaaEV8Ez9bsZ99~t799vHF96tBdZJ0Gjf7Ln8HdoxgaA~KifvvZsU-yQ5f~~kZ1orGI8NK4vOaDqShaEaQnvMQ6uVI9V-9ukFy1is5jXzBYyHnKo4XJMEehP1a0rwP5OXs2sbYCQlL1nmdyD9D2BWxMPKt-JeMuqUyonlQQD4bBdJydyz6MbF~xpvW2o-vfHyqV1aqlOnGRicwelOzfcRHmOU038gvd~XL05JxUduo9gUY3U7uIloFeN0NVNZXI9YmW91zsf64cXjThs-1Oi~dNi7D5I1KVy-oE95lGADjM2EB3QBpGFqbnwMCIWMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag312/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag312/3/m_btag312f2.jpeg?Expires=1796430506&Signature=4Qn1TzEblcZUtKBus8NkT-DCekvs5Njwo~LPn9wtNx1ZknifMxcQXA0ZWwc-EULXRhLZM26vrSseBsQl42YNsdSZzbp9s5-qq4VGDeUTrx5Jszdi1X9sT90xApGmHOYZMyYoey5dZhnIGRCpwA2Wh0dI5gulPgv5~wIIEyA2QqIw6UA4C6nxQBKtKISHU1d-cP3w-v6TN6EvJ0khllnizuzGpTxPs1MSGKw5cywY~NbODiA20ozVx8fVnmvbzj5OSnxP1Vs6JXpKcPRjbSe5uDT26vTHxIYR2~jjDKqU0pSgwxSg6cU-FN9WjgpT9jKx9VK7VCeB8o5kNjDe8ICwsg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag312/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

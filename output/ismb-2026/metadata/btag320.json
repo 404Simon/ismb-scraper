@@ -1,0 +1,159 @@
+{
+  "paper_name": "KLaR: fusing knowledge graphs and language models for biomedical target discovery",
+  "authors": [
+    "Jiang, Yinghui",
+    "Li, Zixian",
+    "Xu, Yanchao",
+    "Sun, Haotong",
+    "Xu, Bocheng",
+    "Liu, Xiangrong"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yinghui Jiang",
+      "affiliations": [
+        "National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen, Fujian 361102, China",
+        "Department of Computer Science and Technology, Xiamen University, Xiamen, Fujian 361005, China",
+        "Shenji Technology Co., Ltd, Hangzhou 310000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zixian Li",
+      "affiliations": [
+        "Shenji Technology Co., Ltd, Hangzhou 310000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yanchao Xu",
+      "affiliations": [
+        "Shenji Technology Co., Ltd, Hangzhou 310000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Haotong Sun",
+      "affiliations": [
+        "Shenji Technology Co., Ltd, Hangzhou 310000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bocheng Xu",
+      "affiliations": [
+        "Shenji Technology Co., Ltd, Hangzhou 310000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiangrong Liu",
+      "affiliations": [
+        "National Institute for Data Science in Health and Medicine, Xiamen University, Xiamen, Fujian 361102, China",
+        "Department of Computer Science and Technology, Xiamen University, Xiamen, Fujian 361005, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9885-1978"
+    }
+  ],
+  "joint_first": [
+    "Yinghui Jiang"
+  ],
+  "joint_senior": [
+    "Xiangrong Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 1,
+    "h_lead": 40,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Technology, Xiamen University, Xiamen, Fujian 361005, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Xiangrong Liu",
+      "openalex_id": "https://openalex.org/A5026771763",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/stardj/KLaR",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag320",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag320/8726354",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag320/68709606/btag320.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/stardj/KLaR"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag320/3/btag320_supplementary_data.pdf?Expires=1796490887&Signature=a7jPg9S9q18QOlvJ1zlvdIyVJu1Wf84DaoFemIvFnYzpdiFzXb06P5ZjQ-6KCOGEtSFbfDt1UGxj1EgvCpxM3CjZkWWVPnyQzC~CQBYwx4wR3Jaxk9BskXQbX3IVzS42auP-8dl6zUkanBnNVHayixjT5ZZArkN6zcZ7DaKD7DEntfTd0SP-UAzjZRbppcEDJaETZ4kOHICGT4dfbiHw020U96DkFjlsICVuCe6IN9PadFO8QQdkrJz06gmYSe-Z77E8FvdH4JyD5kiecNe~1s05UYYo-guav4DqgbLuBw8vykrfEpGm0jFCj~hWU8Vlw82yX5Z9ELVCq9l7g0lZpw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag320/article.html",
+    "pdf": "files/btag320/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag320/3/m_btag320f1.jpeg?Expires=1796490887&Signature=xzVV5mCfPnqmVVzz6p6U55dk4CGVaw3GFFWT1GLinWbWJ4nte8KjNC58Ku1IPrJyAx-yj3RfhiDv~~HML1IuJBzLgrYSGWVzKZx2SgfO5nSdOm1~ezLpcEpsGxGYAzACSfpL30HoF-aqrtJYA-zq5C4fQFpibVAdHUGtA52zuuvup6~1AfoNcrKq~4i2IKl0700YsYV2tS6xD81AA2cHzh3br8nw4Z0wK8TGJ06gcMb9zPxDXVmh7ouvzshVqbVczobYrn95--vuGri45qIFWfhr-e7QuGzTw0UKVnNSQNqvGZA~9HoHnymQ44msA5QMA4hBPIrXCTR4tD95hX0F5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag320/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag320/3/m_btag320f2.jpeg?Expires=1796490887&Signature=5CBqdQckCyf1dYtglYxMSG1S0D4-kHf51nFRaqtT7vHY4Xx8USvPZ3H8cK~G5UhyJqRsxyiiiOzM~MqqD~RyZ8MGB6EfhCFzGXbIQaDDIcduDPI-zouM0Qv4sc~kUD4zns7UKXaF2y8JoCdmt8Y1nf1lm~DZU8-BgSnziUgWXmLmzp9xB2XKW3~E6lBY5InC2JZNnkg6UhIg8slVzp-GOcpoAd-TltTntYfE4v3NgYxaNk94xBvOCJUziVedIViBCpGbtwncHhfc2tgmqbAmLAnqh8iEIdmTtOP1aap6-pFstE3HnFJPQaoMO8vPPQPNwTzkLYKLFrEvzg4FOSp7og__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag320/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag320/3/m_btag320f3.jpeg?Expires=1796490887&Signature=k29DBX9KSOa~oEmInKiDAQ77wTlM6yE1ps0U04~pH7yE0jtdHP~27G~tpPqzdEPeHtqaU-XwfRL2MZiaoyPP47JtcduR7fNVrtpDoDPwpB3HI7Q1Ti0P4LDVaNAGe4qxvl-TMnioZZsi1hVNne4EleONr3ZIlvPbG8Xhwle4db0s4BqjuMqbMp5oA4awfn88CmBUhxIOkgL8FTTjzEc3PtaTQFJglGd6idrmynhQZM54bKr6Y1hXvFaqsyvL34ODoQkv0lqpz4t4CQ2QFCiyTUidCTER4V-vEusPI6Q8hDGM7FIc9WNXyQr8KvpXO265Q92hzy8xc0ohGyI3T60tZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag320/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "paper_name": "PIMO: pathway-based interpretable multiomics interactions for multiomics integration",
+  "authors": [
+    "Parsa, Sai Phani",
+    "Kosaraju, Sai Chandra",
+    "Ko, Euiseong",
+    "Baek, Beomsu",
+    "Mersha, Tesfaye B",
+    "Kang, Mingon"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sai Phani Parsa",
+      "affiliations": [
+        "Department of Computer Science, University of Nevada, Las Vegas, Las Vegas, NV 89154, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sai Chandra Kosaraju",
+      "affiliations": [
+        "Computer Science Department, Cal Poly Pomona, Pomona, CA 91768, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4332-6217"
+    },
+    {
+      "name": "Euiseong Ko",
+      "affiliations": [
+        "Department of Biomedical Informatics and Data Science, Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Beomsu Baek",
+      "affiliations": [
+        "Department of Computer Science, University of Nevada, Las Vegas, Las Vegas, NV 89154, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tesfaye B Mersha",
+      "affiliations": [
+        "Department of Medicine, Indiana University of School of Medicine, Indianapolis, IN 46202, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mingon Kang",
+      "affiliations": [
+        "Department of Computer Science, University of Nevada, Las Vegas, Las Vegas, NV 89154, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9565-9523"
+    }
+  ],
+  "joint_first": [
+    "Sai Phani Parsa",
+    "Sai Chandra Kosaraju"
+  ],
+  "joint_senior": [
+    "Mingon Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 1,
+    "h_lead": 21,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 7,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Nevada, Las Vegas, Las Vegas, NV 89154, United States",
+    "Computer Science Department, Cal Poly Pomona, Pomona, CA 91768, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mingon Kang",
+      "openalex_id": "https://openalex.org/A5058010272",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/datax-lab/PIMO",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag238",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag238/8726317",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag238/68709349/btag238.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/datax-lab/PIMO"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag238/4/btag238_supplementary_data.pdf?Expires=1796535924&Signature=zyi3~JeJX40~fL2vHlkInYj0wT3Xy0Omg9YQfPBjPbDXuYpkw3CV1LdrrEIRb7cq7FKVedRotQJg3ZpgprROKFAVuFlCVFBx~IviPxWUBmTBQWHCYHjWlmK2uRgapdnCKzch~8MTXEdZuyyjuliLuZ3w~slyE4XKbwlO~LfCYUszDmUk5gv4LA~beh3PbNIKS~l~UDZ2RiH9tLED~5ekRrbLItl2U9Z~GnZC2IhvkQYpQSb2~l32mbsyw513JRmO2IDhx8b2oqMR0H6Y2vl9~x8DmdVP~LPuzeWJTZ-U5PCU0cV3sCkbkSs9W0eitd0ryzF~3Oxsozc9g3zizUbm4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag238/8726317",
+      "https://www.cbioportal.org"
+    ]
+  },
+  "files": {
+    "html": "files/btag238/article.html",
+    "pdf": "files/btag238/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag238/4/m_btag238f1.jpeg?Expires=1796535924&Signature=Y-W-YjD~r55xj~i5qvneAwMGK3WioKmLUVw1HqEEXkWUf4vhXHrW2Wq5Ywks4r1utmsaIpb1PSxfGyZqXeeUe1OqCLJRd9faYl1mwBar7gwf7N7QTN8psJS9G60WnhB1HaPgAA4jcB4hZwZvGDPheWa~GO2PmhgaaEyHgJDoMtWUra-3lRyzoys-h62LAjk8bZBZi0cROmzCLf-ChtZlwgqb8a-jCWY7n8rqujI9vcAT1XUif-3raze-ctIfiilHbYwRqpRQYGLBQsWIzUMIfYlrlutvbA09Ym1Eab3HbdTqsEXKQMia4QtxE-smYl9RvkrsiT9BzELap9btr-1SNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag238/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag238/4/m_btag238f2.jpeg?Expires=1796535924&Signature=4T4OLW7iA79v0j2PRI0Zm50pfgxxH~wNHQfK0xduH30fpTYal7-qHq6DF5P4UAe3ORMClWW9GqzerTt7QXdcEg-bhvNzSelMvY9VH9ON~HQB5hmREKHKijorHHn~4nK3NDmQ0Tu9SgTzGO1Xdf4iHYqZF40tZVkRQ-lHXI3npJ1vr6c3a4Y1lOV0TzmSrg0cpHLHp-3jXfmFJX9mEOVDmv65kHns9KYxgxvHvV~QKnURUljQO2wk3iXc2gn7RRv4TCtNQX9W3FPHnHVQHzTTtyRxEi2j7jHJ5LHkjVQJCgbqfrboN9mCzWp3QoEHFFmNssPgBU8AvVi0rpjI9qIPKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag238/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "paper_name": "Optimizing protein tokenization: reduced amino acid alphabets for efficient and accurate protein language models",
+  "authors": [
+    "Rannon, Ella",
+    "Burstein, David"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ella Rannon",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv, 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Burstein",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv, 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6219-1880"
+    }
+  ],
+  "joint_first": [
+    "Ella Rannon"
+  ],
+  "joint_senior": [
+    "David Burstein"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": null,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Israel"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 52,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "The Shmunis School of Biomedicine and Cancer research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv, 6997801, Israel"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "David Burstein",
+      "openalex_id": null,
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/burstein-lab/BioTokenizers",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag226",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag226/8726310",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag226/68709302/btag226.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/burstein-lab/BioTokenizers"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.18256943",
+      "https://doi.org/10.5281/zenodo.18257091"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ebi.ac.uk/metagenomics"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/btag226_supplementary_data.pdf?Expires=1796419528&Signature=1Ryg45~SyrYaAyCTeEZhK2BLBKtvrytS0mMPiqG1CPlt0hfiyLlvKfhZAr8SmO17HyDb3OU55rQKs-1JPj-doJD7dBBJqzChQ~3xCgsFQV-tRDVY4OhPb983k9ONda7mgmUp3VEVjYgQBsPfhLWCg-XX1z2-U8OIq~0KptEurgFuIfETNCJri8w3zZCr~0VBHOF2ValsH7hFBPQF~GHK8MvFqy46UUIohs5Opwn119xuDYfDZQLhjWIKQmGhRfShO05iHX-nhBO8cOExQ2ZWqogwIsx3iV3tYDERh-HtvnyTcx3aVv1B9acteglydAdO43lhZZiYBj-5ebyNSU2mVQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.ncbi.nlm.nih.gov/genbank/wgs"
+    ]
+  },
+  "files": {
+    "html": "files/btag226/article.html",
+    "pdf": "files/btag226/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f1.jpeg?Expires=1796419528&Signature=yiqeB7Hz38HKpewdYNeVrVAClVr0UsQW2v7csfzbyew4b~RLGhw5N0kv8n267t4MMybQfEkMrJbtSzMEWHAz4jBbyG8rVrHkZXrRAy-MVviKAU7mELsA45eHm3cT5VzJ~kLuuOFRPloCsaF7N~a6oUPYjjSRN8Gt2aTyvRRL0RicY1KP0831A1R506Hthw5MzPGOeEYvK0aNbogmixj8MeMNd8pe-Qy1EXBrpCnKmAAwUugqgHr5PKjiWvgCHD-eUs~WcdXl0cj5Sb8CWh2L0OqPRXBhPo05dQPkBoM1mSyk6ASSaEDBc1495U5nB4KbOZjdY2kIxmIxD-hlSEfQCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f2.jpeg?Expires=1796419528&Signature=f2la~V~L9DT0zSLgbA4KF0WMrd2HOfTuhLMjtR--oc2pyDSCmOwDGOIF5IV-GbD0xFSIXapbPoPEgSWnP-Q4bhyBBuVlEcsprG78CUfTnsycHqngJ9uUSJu2EzRfM7cJ7G8XAbHJ-GCC-TYcgZh8-e20c52S1lFNpsAje7tzUd53q9itbZyUHQjMUvcYM-qwoIb8NlCG~asAa7nzo48C2Zk-bDTzBKccbVIvjY9uvDgWMurGOsu0HT4O-1sQpCL4AcUTxRyjXVpLOgUpl9nRlD65GOXnCGXtde0~bSp~PoS5tZFPw5TLTu40qGpkSaQHRdr~lmPqRLnujWgqdOxx0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f3.jpeg?Expires=1796419528&Signature=VJHJAGC-BEEBTZK1lbA~Fi3VWdP2WXfWPqsuWg5sgNVnpUnBhI~UivtF0Nql6Kr~gC1ww4h7PCB3VVHqdev7p~7oPlWiEIv1ziRgdLfq~3-HtwHt4jWAMqzJCQq289-B30c8qy-bNgvZNbz1my5KCEHecWsYZp9dFZNKGXAAEfWX2wb4yhHEP6A1EP-h2itPJ1hHy8O28ZsnITnir8R56W0pUs3BXOnvQeAq7rg84WrJJfCxjIGVy4CMs1~OO4owKRuS-4qAD~xOXuliphyIMPdhSiom0~VI4hRDq5m4HSqkcXxj8Dq1KfcwUMrpVhRBD2~LAjg2ONt4hEsOa2gVAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f4.jpeg?Expires=1796419528&Signature=iOzysCJl~XIf61XX7wxQpYJ5ibUTrrZ0dUx27As85bvl8-k~Sy0mb-u1joxRW7gdSZXEdlGJk5ibnoKHvJyfrHNIunnPDtdByGOL7-9oigVleioQ9K~V0NDxHDxFtgBzASNnRBA0hStSxbx0vi91UyqLfr-UvaOsvLmEQhHKR0KOHcnUIfFYIRl5OrbvP4tmNR3PT5qw1E20FmEx30h5RnQj3axa-54UqVNetyHxS21gsYGDDg7ulN13-6JJQXxhm7yyt~cnX7NY5seH~-otn9IgO94vhysm6e31I60ugQPranovoLUtj5nhh7ra56PUZXSQX7jaWp-dh34U0yTFhQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f5.jpeg?Expires=1796419528&Signature=0H0VNqY5kWHhsweqry2BVBvCRBkBGYhSrngn~ow6E062guZFJ0a-gStob0wbVgPt9GUNmwLucSxKyir-sLfqEf~nI7fs9arVFj~dZZrLWdJv6MliUQTlAcBFWcRg9nCfkfmOEacmEjNST3Y24aV-Z2jIc8dBBWxTnN1auKj3htZsG2TjX4CCFOLhRa8Ky9j~K5UG~uZeIgAoq1q73x0RNTcg2iA4PxfY-xQ2gn5k7Y~2KBiLD4BqdSFG0u-iase-1HXOIEiTqqceAysAGsvLbxYrKwji3SuDMNnFHmd8MPoHVPuU-nsesL5HdpNo-dIF~Fe4iLNWt-4JIPhAY5wY4Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f6.jpeg?Expires=1796419528&Signature=g~mxluTXjgYpOtEqNY4LoLQD4kLmifPKqXO5Ksfz8TxpQZOMTJdoxFz3IdDF-qG1dGKXDjb~oDgEtmEF48h8jSiZd~M~US7dEiEai8PYTG~2k11~74J0bWaNHu70iStXl02MfTi1DZ5FZIvO8a8bLDvet~wyzZUt3jUkHGfyL5U5C7Rgo86LVm81xjvSNSW-9zNREStpD~43muCmmJy23TWspsBIdJM5IAv1EXPgScMHxc0DSZbnvZNNbJALRSt-CgGjcpU4C3OGuOOLh26KjBNKSLmGpdKNzPH3RX-eqU5cKn1p~HWNfpBNu9e9UMYlPWReyxtJi4N26cVy9aZFyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag226/3/m_btag226f7.jpeg?Expires=1796419528&Signature=N2Vv3wFEq4P~rcTn4zx3jnEjukdDLvM5Ef~mbRCOJ0Q~zwTKG0krVV5CfcUIGkQYDDVQ3jpF~X~hU322LDBjb4ad5v-PYdkppqwCl-p1dwp0lSG31OArO3BjXI9ZyC3xa1aifKzpWB0EVxY5PrTBMF8Ae2ebentgeWcwYanVE8nF8P3YOjtB72-bgvC5h5H8nMMZfhTgz1yAddqawNPh3UdSQam9LKcBUVTXKrMdx2ZnnfmHvP6In1QIbsJm0ecICEfhFoxb2CNARbCnFv7Mo51WHuO40OBG2WmJgFz7z~mYNLbpNPKRC6FYlxb6qeMgBGNUrNK-iAOF4gKse-BPLA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag226/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "paper_name": "Detecting and reconstructing breakage-fusion-bridge cycles from long-read sequencing using BFBArchitect",
+  "authors": [
+    "Li, Chaohui",
+    "Raeisi Dehkordi, Siavash",
+    "Muliaditan, Daniel",
+    "DasGupta, Ramanuj",
+    "Luebeck, Jens",
+    "Zhu, Kaiyuan",
+    "Bafna, Vineet"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chaohui Li",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0009-6196-1191"
+    },
+    {
+      "name": "Siavash Raeisi Dehkordi",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daniel Muliaditan",
+      "affiliations": [
+        "Genome Institute of Singapore (GIS), Agency for Science, Technology and Research (A*STAR), 138634, Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ramanuj DasGupta",
+      "affiliations": [
+        "CRUK Scotland Institute, Glasgow G61 1BD, United Kingdom",
+        "School of Cancer Sciences, University of Glasgow, Glasgow G61 1QH, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jens Luebeck",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4391-979X"
+    },
+    {
+      "name": "Kaiyuan Zhu",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States",
+        "School of Computer Science, Shanghai Jiao Tong University, Shanghai 200240, China"
+      ],
+      "country_hints": [
+        "United States",
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Vineet Bafna",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States",
+        "Halicioğlu Data Science Institute, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5810-6241"
+    }
+  ],
+  "joint_first": [
+    "Chaohui Li"
+  ],
+  "joint_senior": [
+    "Vineet Bafna"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 1,
+    "h_lead": 80,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 55,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Vineet Bafna",
+      "openalex_id": "https://openalex.org/A5028801735",
+      "h_index": 80
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/AmpliconSuite/BFBArchitect",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag225",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag225/8726302",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag225/68709244/btag225.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/AmpliconSuite/BFBArchitect",
+      "https://github.com/AmpliconSuite/ecSimulator"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag225/3/btag225_supplementary_data.zip?Expires=1796457925&Signature=qapvmQdrwdiKUOw0U98nSkpHITkOcWXODxpM8SpkLIj3pO8zm1CVynKvoDFMpQqswkXrjyN4QKgmsdaP8T6MT4znqsNBorwzT0xDZ8lgoeSIba8TXu1f~5LWSHFpfi-p5qZupQQNXtRC~nej2HpYk0rkorqd43v7fddnCqtw5b6MXP50Kq3SjnwOyzF60xkAKnBB2vlAeZVK~FNYu-Ez4Ed4slAnfsJqRfutikYO-LTUQqIhvMUNQVkafYPAyS6ylwIOW42GeiSVzlw4x6DdSPhiwp9Zp~jcizH4sFLrZ9-nAFp3bZbceDH-8wat~LQg2Z8zjbA4YiGBc08k3nlZiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag225/3/btag225_supplementary_data.zip?Expires=1796852758&Signature=N6xklB5nNyVpEkaoVQ7go1puhMjE9uuRzBaq5SXrmhZatzOVQhLYwFFllNa1Qa5aUU4RohOUYgc5LqH~wd0sol32q-cqzAKFTNJhRmLoRf5v4qI4lsvOWeScisx8xbPR-eeHOwowkBaNohk3stMClo2cX85lRJl0Ijej-gahMe3mfji3hjwn683lEtM4J8NB0aqhUJlkYeK6g4yIZrR0yVPmYjorYZ832mhEcSUKi--rhoQILzNl3rsTqF9Lhy7iIsxqB6B~PMww4v8PeXVDgUkfCRy938R3KqZ9edx9Z-ui5GhrTWTmkU2~NLfji3qsPgWGtCuxTgmC0nOOdtdHBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag225/article.html",
+    "pdf": "files/btag225/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag225/3/m_btag225f1.jpeg?Expires=1796457925&Signature=wQYjo1hW0o2kRfG~XB9Y9BaaRnHoOYIVAx7b0FH2IS~zTnVacuphBydxrOGPJQp9f851ASZ9ylCqLjtPnpzPf2MKDn8lHtBnysg0Yi5fFqN9Wbole~VhNDNA6D4CUqoo5kw-2CCKKVb0klYP-pTqw9BgkEyTY9mQRHX86DLwBtX7kV1OABzttkWpS0bVVaoQfpC40ioqHJfrQgg3d6i6BG8-FcBuZwQ44lSrLUtkXXgas29Pke-JW7XsseG2MWtCEaufSm~SDo8fs9YDd9uu5niTaU91gdEbLhrhn7QtqeQbHsW4GXSRO5mOqokZKr83iicnJPR8x6dIma-a5BFzeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag225/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag225/3/m_btag225f2.jpeg?Expires=1796457925&Signature=x0MoL6m3e5eNHrb7aBX8h61nbDn0eOVNGW69WRDWptd6TX5-XrOfcv84nRBnr8HPQ9Rc51cu-krZSg~9aJXugEmfb-ozla8KE0EUkp4mkPnMC~GC1uXmTyDQATzMZdZaaZlbZIWUis22BNtHMQTTdJJsScLBnKuVLyrqpK4mOqLrHVu4gnUeQUl9dtAE0wNsbtPSVVsXjwDL21Ria3JZreSdoQk8Ll5vEi-kO05ZN4msaMeI6tOi6Ns7uJHBPCFdAicNsHkPBdm73H3ZxWhzkO3~e5aLOwfV~OenCrgzhNdXlSgNU0sSFEH8UoZLrn6z~sQ2FNBwtbRbK3NWEN96og__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag225/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag225/3/m_btag225f3.jpeg?Expires=1796457925&Signature=URuzARe6kpfWG3juRNycf-0jYP9xocavDVm~llNzE5gGiJCczseiGctWbQQT7gtRl5btnZ86KKjuWFrbg-2r3SJq-OT913P0o0yh636kwfrlVJ-sNtED80OBSSi7pS6ZYWZtrzI9wVqjsrdrumRHWO4KylG4hxxSOnL8R0r21fb8jd0viHEm9hY6QFfs6HUrNnssTqdfNiwNORt4A0Iel6bR41jSDg4KGofZdYheYhKdJOfwZHnFEPPrWLgTMfieJYWj25gWQXYAeBo68f9U1ybVc78HsqJPTyOGHYUsk8Xh21foOTXDxSkZ-PQqq6FS9tWN0SPh5OqykExINJB-3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag225/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

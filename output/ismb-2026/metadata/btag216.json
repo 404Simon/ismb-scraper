@@ -1,0 +1,141 @@
+{
+  "paper_name": "eGoT: enhanced graph-of-thoughts for multi-hop knowledge retrieval and hypothesis generation in biomedicine",
+  "authors": [
+    "Sanda, Nihar",
+    "Gyori, Benjamin M",
+    "Quaranta, Vito",
+    "Ganguly, Auroop",
+    "Paul, Ayan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Nihar Sanda",
+      "affiliations": [
+        "The Institute for Experiential AI, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5303-6400"
+    },
+    {
+      "name": "Benjamin M Gyori",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, United States",
+        "Department of Bioengineering, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Vito Quaranta",
+      "affiliations": [
+        "The Institute for Experiential AI, Northeastern University, Boston, MA 02115, United States",
+        "Bouvé College of Health Sciences, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Auroop Ganguly",
+      "affiliations": [
+        "The Institute for Experiential AI, Northeastern University, Boston, MA 02115, United States",
+        "Department of Civil and Mechanical Engineering, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ayan Paul",
+      "affiliations": [
+        "The Institute for Experiential AI, Northeastern University, Boston, MA 02115, United States",
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Nihar Sanda"
+  ],
+  "joint_senior": [
+    "Ayan Paul"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 3,
+    "h_lead": 24,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 1,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "The Institute for Experiential AI, Northeastern University, Boston, MA 02115, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ayan Paul",
+      "openalex_id": "https://openalex.org/A5077110311",
+      "h_index": 24
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/NNeuralDynamics/eGOT",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag216",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag216/8726293",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag216/68709189/btag216.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/NNeuralDynamics/eGOT"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag216/3/btag216_supplementary_data.pdf?Expires=1796827452&Signature=NNKZYkiAKbfYqG9tHaki0XvoLHY2cR56uLjfYE1MYp2kEhNrTtumv8yXFwQHWMpq~U4xZYoFiBK0JSviISDOPNGSUt6ju7zKBwQ2rRRBPR~V2wP6~PWEJcjQ0i17eQi7kb6Ybe3KYk3sRntnKrW4IwJrgESRC~2Xm0PKxAHuaXNnMiiSFyKJEpw2yGrSlKhcWHC8ukxa1fzdIJlWqQzUn7Erhu~CIyhJPE1iOJ3C5sdhmCcD3kBAsLgXhqVWx3bfjz47rTvEjngV8JfLJD8v7m-pyacZj4hYv5sYxEy7ztmPTxkstmRlr5FlblaWWgCmqPuN4gA2QfvcPIf0c2zbHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag216/article.html",
+    "pdf": "files/btag216/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag216/3/m_btag216f1.jpeg?Expires=1796827452&Signature=BvdhIVx4eHbFlAPmX2p40WjY9p~WeR1ikmjTEW5gkeFgpO4qKw7VVlE5U8uJbXSv6wuTdKtC-MsU3CrzUv3rIuhwqBcvrKlGdxwEIB0QAiC7B0MIEYPgN5LzeT0U7bin932vT9QFsPXDK8fRPa-aRSXCSTLVBP3PJCMC0BjdWrjDawbTLddfwDpW11NnuyDFLbnX8RDhnYi23HYEi6WZ7l7-EsKQ1lIOAoaYNxKK0iDGT54Sx7SovTiXVywmKKZIJr3kxJT200RgA0RjPy0L2puRR-QOAwY9Y0gJH4uJ~6SA~zc-LY8TwBFNnkUYVjKldt2I6R097cBlXeSvofwmnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag216/figures/figure-001.jpg"
+      }
+    ]
+  }
+}

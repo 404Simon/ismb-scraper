@@ -1,0 +1,268 @@
+{
+  "paper_name": "Quantifying domain-specific relevance of computational biology Wikipedia articles using TF-IDF and cosine similarity",
+  "authors": [
+    "Pradeep Menon, Arya",
+    "Davis, Trenton",
+    "Hegde, Megha",
+    "Näpflin, Nicolas C",
+    "Anjum, Audra",
+    "Barman, Sarah",
+    "DeBlasio, Dan",
+    "Eranti, Pradeep",
+    "Nebel, Jean-Christophe",
+    "Sélem-Mojica, Nelly",
+    "Shome, Sayane",
+    "Welch, Lonnie R",
+    "Kilpatrick, Alastair M",
+    "Rahman, Farzana"
+  ],
+  "authors_detail": [
+    {
+      "name": "Arya Pradeep Menon",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7216-5785"
+    },
+    {
+      "name": "Trenton Davis",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Megha Hegde",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0009-0008-2523-4619"
+    },
+    {
+      "name": "Nicolas C Näpflin",
+      "affiliations": [
+        "Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University of Zurich, Zurich 8057, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6845-7400"
+    },
+    {
+      "name": "Audra Anjum",
+      "affiliations": [
+        "Office of Instructional Design, Ohio University, Athens, OH 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-8774-9141"
+    },
+    {
+      "name": "Sarah Barman",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5302-0169"
+    },
+    {
+      "name": "Dan DeBlasio",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4110-4431"
+    },
+    {
+      "name": "Pradeep Eranti",
+      "affiliations": [
+        "Université Paris Cité, Inserm, T3S, Paris 75006, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3060-3967"
+    },
+    {
+      "name": "Jean-Christophe Nebel",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1812-5269"
+    },
+    {
+      "name": "Nelly Sélem-Mojica",
+      "affiliations": [
+        "Centro de Ciencias Matemáticas, Universidad Nacional Autónoma de México, Morelia 58089, México"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0003-1697-3862"
+    },
+    {
+      "name": "Sayane Shome",
+      "affiliations": [
+        "School of Medicine, Stanford University, Stanford, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lonnie R Welch",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6419-9416"
+    },
+    {
+      "name": "Alastair M Kilpatrick",
+      "affiliations": [
+        "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4795-8799"
+    },
+    {
+      "name": "Farzana Rahman",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4785-5845"
+    }
+  ],
+  "joint_first": [
+    "Arya Pradeep Menon",
+    "Trenton Davis"
+  ],
+  "joint_senior": [
+    "Lonnie R Welch",
+    "Alastair M Kilpatrick",
+    "Farzana Rahman"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 3,
+    "A_lead": 5,
+    "A_total": 14,
+    "R": 0,
+    "h_lead": 17,
+    "Y": 2026,
+    "L_lead": 3,
+    "C_lead": [
+      "United Kingdom",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom",
+    "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH 45701, United States",
+    "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lonnie R Welch",
+      "openalex_id": "https://openalex.org/A5069844269",
+      "h_index": 26
+    },
+    {
+      "name": "Alastair M Kilpatrick",
+      "openalex_id": "https://openalex.org/A5004851534",
+      "h_index": 13
+    },
+    {
+      "name": "Farzana Rahman",
+      "openalex_id": "https://openalex.org/A5057079573",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag278",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag278/8726359",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag278/68709644/btag278.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.18311878"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/btag278/article.html",
+    "pdf": "files/btag278/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag278/3/m_btag278f1.jpeg?Expires=1796444983&Signature=oOoymIACKkgMVWAL9RsYGxdlcxGyDdxHJj3YAOxNozi-TsUZ9WeX5avnqKP8h7nMgR6sio4ehngYGKS7iWNjjCL8kN~~SyNAuH-gj4VpvOcHG4EDj8TNn6KPQ-B6TXMmncwbZvEwoKau6qj68h6l~Yp1fMncUWMu0r3gMjyf~KnlSvYs0VGIZaOt4EwByTuMHVZQFJDmqbi3ZFko3EzsS~taCh8W-0dFJSuZT4r3fnd3xPCvqlG4UGt0xanTwXbbqfZNc0-ZKRnoB~WJ6ChfIxNhRLESAYMC88Cc3ByDXyUDCZkcgIPKhHa5AMldv~lAon6T9cPrNTEquvhYOoEY2g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag278/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag278/3/m_btag278f2.jpeg?Expires=1796444983&Signature=X5ebhAu2Yi4NlPjvq9FFA3RRFWC01cz0kGu7J84C-Kykn4HChmjEzEpkk6SbOLnu6CFQz4dMSCqQZ7xY-meJc5137BM1Hbub7euQARs1sfmq1Hj5~cuGEe9iFKD2BHVzkWRmydbWSYQ4CANyVUPXRkZzp64EcZfLPGWj1pcUuNX8LlcZvOeqdmzSMvGTsPFOv1Txd0b0mMN3aO6d0eaIErvljwELKomIN~8AGqiOiVGgxoi2GdD522QwB68zKf6p196iYiUvh5MWMdjZrl4xk2sz7yMzV74UU3AlXnljjFFis4RNPRnxv-hRc64Uw1TB6A~82vqxWM8g-Yf94wIOFA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag278/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag278/3/m_btag278f3.jpeg?Expires=1796444983&Signature=ZnkvgCvMKplZolTJiYKFmGkq3iwqJFh2G2sHEyZfV91wb36ok7DP4hWW7al3bz-nzWHWV6-1phobCW6Xq2xSIpj8DLK~xH16m~m6xFeUmkIXx0CQIDSDlxq9ubHwVYtKM28vCZtKTjrL0N9saxRextEwo8OdVS4D8Yt~D1gYUinNUoIs5DxSpvSNHiyH1lhVUyrJdOzPvO1QuclVrJkmeVOj5XR2bW5RJXSiwdDdFFqzsVZC2a99xIGtHneBAxFoHl644pw0SMNScD9wimiRnLmmM2yElTYIWAyekXbHomMKQ5fGKXl7jT5zCrQ~9l8akhklo8ZoiYzEwLsTLg3IlA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag278/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag278/3/m_btag278f4.jpeg?Expires=1796444983&Signature=p~fTDmam2oW4AqRWepgLcDGMK6BX2J32a0ZkYkyAxIeyStMT9MQbuTc7j2mnXIerbPTUNOV34UsKjjqB0AwT~jCl8~uDYu8wuVkoO6naxH8MSzi8-8Xtk7UC8lRtz50GOSTLEOYJib5NKQNugm06UXmYc4p6X0hr9W2CK7p5EbUiCe1f1zGZoVTlVKAsoT~-DBfMQOABAzCtFnfHuFbqfPDM3YGYHB97y6uOWn64t2bleBjpRYX3ktyx2lI9K69Q34CZ75j-OduC7CXUpn1MzWsg9W6hB6fCnsOiQTbv8l3zDlG7z5w2PeRGFTiZnzfywxRHxWjEZoqgS2dRA70l9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag278/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag278/3/m_btag278f5.jpeg?Expires=1796444983&Signature=C~omeAImksA296lvf-Sl-8bbz7quVFuLnoeEtHrLEbpXMmgtYAkEnQlNPhtZxaBH5jIYf4HpbIl0XBnWWlXbjPOo~gdRtzKETXOCbtMGHqG6fMbuFZt9vfBaZkeI26EynLikCOPbSdd8oka5wlvJCr2kQ8ksNzb2Smb7r20U-Nl63tQkKObMu8RrX5Cnkj1YHL5W8JOobIxF-vqfEN6Lv19S9Mf~ckHGMD8LkShjCEMadvJmgILUq4T0CO11wSwiVoBVSaJvKKLHzPFG00t1~n4eCFdMdz9yjqak4-tXpJDjbhVERGCDKrrn13GcZewuIjx2QVwnJVTuW3qYfaP-Zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag278/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

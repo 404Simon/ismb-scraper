@@ -1,0 +1,129 @@
+{
+  "paper_name": "PertAdapt: unlocking single-cell foundation models for genetic perturbation prediction via condition-sensitive adaptation",
+  "authors": [
+    "Bai, Ding",
+    "Song, Le",
+    "Xing, Eric P"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ding Bai",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates"
+      ],
+      "country_hints": [
+        "United Arab Emirates"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Le Song",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates"
+      ],
+      "country_hints": [
+        "United Arab Emirates"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Eric P Xing",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates",
+        "Machine Learning Department, Carnegie Mellon University, Pittsburgh, United States"
+      ],
+      "country_hints": [
+        "United Arab Emirates",
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Ding Bai"
+  ],
+  "joint_senior": [
+    "Eric P Xing"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 100,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United Arab Emirates"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 19,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab Emirates"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Eric P Xing",
+      "openalex_id": "https://openalex.org/A5009547049",
+      "h_index": 100
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/BaiDing1234/PertAdapt",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag307",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag307/8726320",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag307/68709370/btag307.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BaiDing1234/PertAdapt"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag307/3/btag307_supplementary_data.pdf?Expires=1796424477&Signature=NgZsSw9OU-sZdHvt1kfdKzOyGGErn4qM2DgQ6AVpf0up~XzCL7R7vTnODD5IK0PtcHerSzPkaehVGqOcit6JgjAdjAIUsPnRyJ5Br4pUOGtZX0mAkgcA3Y0VHB9iw0CAWAx6BxjNB2VwFcrI5DUkYocKzgeX7iaYjF8lx23~rO68JfMdMI3MnMNBWu24b8jL6cx2JOx419zSsWSDIWJ4uT7nqXxj5F536AjJWfC2ieNRKv-sfX6QrA3D~is4mLGHUWwDww9eFRjRb9ytm2K2fIRBD5clmRB82-f1E6bz05pVtJqdYZmnBj50LPmRG8vYyRjz6UOuFEYhjfSK-8Tedg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag307/article.html",
+    "pdf": "files/btag307/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag307/3/m_btag307f1.jpeg?Expires=1796424477&Signature=WeIyExZJ-kPf8o9EXlOt89zEUEzHTbwgj4qVyd3yj7WYIQqGXqWRCTwyx6Y-mJHBlSOjM9oQZWYLeUtmTM9gOgamtkQAmP26EMPf5IzWWNk11qb-v3Q-N-PCC5UtgDumhTKNP7~9yfr5SNQxW6mcAQMfROWvDmcP~5p-ncFqPAkCOaeiqydvl5wh3gxqVuX-U9GJeBYXE8cWoR5KBEKO6ToleAILUW3JhU1VEVtVv38PKE322iHUlvckmYGUTI5nDw0qKo-2QmHDBxIn361QHRjyJ7LsH8KwkSRKsvBIAzQSF7vL~WuAYVpykR4EX9cZlydbW894ai2uR4tQmJ5Fpg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag307/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag307/3/m_btag307f2.jpeg?Expires=1796424477&Signature=fCndAuzIWC34lYnSjvyQ~l5SCvYxKRMImZe8rJCKSqrovLEtfjEm-ICMHAigcUzNiRVkQH08d8e4CzO1YR~ljtff2CCyizdmkYyAMHhXqEajokh4cP01lRxRTs1rBvyglk34kYfl2gor46A0XKP3sqKHyXuYwFrkiRpGfHTzFP2fCaEsh0~vL0Ykhe3lSEUd9wIxWO9w7Rf1ilFchliu6GHInLqXQ20g3a5Muj3hhNJKKKTKPXicxcx~UahTkFDnWDzRQTs7Yv8gTsGXMkoe0EsegZPFkj1Eoa0tPj36E3b0g0a5Dd1lqqQp8gPKzzbZGgilsUUdaih78rl7biMr5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag307/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag307/3/m_btag307f3.jpeg?Expires=1796424477&Signature=RvLk6iktWPGxnBMgd9hGDNq~H3Zfa5mG6rN10kZ4TBeOQuBUleacyE9pmc7GkN9Gw3-u3nQKoI81TkcVzrugfkSYVc696Kcn7vouSivSSKvQvwLBWHIRNYuFl441lqvih1rbP~fDI9ifgqFdgXqzGtmXmFG89Tlhw6CISL7BP0KtrnYJUyEOtFoLtKlpQJ3BFgucFcbFGkmWOgPGUcwOOoJSzSANbVNIsv5WdASEhX~verHqzCYbFDnLQVPlQSfv62WDMTy4sYWyqeA~ka84GadkOf2gMGzU~LraOqPBdm1YPuXHKJjfR2vMKggK9~wZrd6WarsmTGLP6tgiPIdJFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag307/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag307/3/m_btag307f4.jpeg?Expires=1796424477&Signature=PcqygbossqZsxyy52G1U0s0q44HJ~g2P7xPtIc-9zcoWEBZjKUp1NXIkcbfoP2CGmW5~XRdy50FR2hgIIyaHKR2OxO7K0JIzqMY-vUA6YSi9CFU1x4g9uACfxQJr68w4vaMakeopJAe89gN7nb9qGfdIfeqJUEinn~9uTjZHrfNYnNl71zDsTH4099C6H0KgesRSe0q7tIr1WXmT0CZe6yHn02IMjsiyRtn7eDNeLrnHtuBPyX-rnbdxGKd1N6Nt8ji-yNsX5N3Foloim0tkPT1NTHEdmug1ybUIH-XzV2jblQ2KUQPUOlD2peGnVdoAD58DL8URitUkYJMgbgMZzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag307/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

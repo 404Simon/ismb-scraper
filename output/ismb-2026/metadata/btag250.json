@@ -1,0 +1,220 @@
+{
+  "paper_name": "Agentomics: an agentic system that autonomously develops novel state-of-the-art solutions for biomedical machine learning tasks",
+  "authors": [
+    "Martinek, Vlastimil",
+    "Gariboldi, Andrea",
+    "Tzimotoudis, Dimosthenis",
+    "Galea, Mark",
+    "Zacharopoulou, Elissavet",
+    "Escudero, Aitor Alberdi",
+    "Blake, Edward",
+    "Čechák, David",
+    "Cassar, Luke",
+    "Balestrucci, Alessandro",
+    "Alexiou, Panagiotis"
+  ],
+  "authors_detail": [
+    {
+      "name": "Vlastimil Martinek",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andrea Gariboldi",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dimosthenis Tzimotoudis",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mark Galea",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Elissavet Zacharopoulou",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aitor Alberdi Escudero",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Edward Blake",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Čechák",
+      "affiliations": [
+        "Central European Institute of Technology, Masaryk University, Brno, 625 00, Czech Republic",
+        "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Brno, 625 00, Czech Republic"
+      ],
+      "country_hints": [
+        "Czech Republic"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luke Cassar",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alessandro Balestrucci",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Panagiotis Alexiou",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3437-7482"
+    }
+  ],
+  "joint_first": [
+    "Vlastimil Martinek"
+  ],
+  "joint_senior": [
+    "Panagiotis Alexiou"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 11,
+    "R": 4,
+    "h_lead": 27,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Malta"
+    ],
+    "M": null,
+    "T": null,
+    "S": 40,
+    "C": 1391,
+    "I_open": 1,
+    "I_closed": 22
+  },
+  "lead_affiliations": [
+    "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Panagiotis Alexiou",
+      "openalex_id": "https://openalex.org/A5027227036",
+      "h_index": 27
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/BioGeMT/agentomics-ml",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag250",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag250/8726289",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag250/68709163/btag250.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BioGeMT/Agentomics-ML"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/btag250/article.html",
+    "pdf": "files/btag250/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag250/3/m_btag250f1.jpeg?Expires=1796406560&Signature=XmlUYlkFEm0zMVRGaAqtAux7eMXmsC7tsl~bWgJl5tun-MrYQ3Z8LhOIM-txAtdgN~NpWWI6Mz-TxKYCjEJpypXXb3P2XmgWW5ifyh70QVIT4E6zlIjlCdBdVEH3UKA-IjvRCtmI9OcMaJ0~nQ8sEv~dh3VPmJNFlMTOElZ472ZEklJSdA3jLJOs34SK8kJwqxTzhCtw2dzKGttmTOpWVr5f-KB~NUIBwl4xVBgaJIT7LnNBSdsbwYWCexZpmi1VFtRQB5SKWYPiCErncLDu8OC~8kYQsplrLAFwRgSTSHArNpBvArqOGX6uwoN7aUB~pkKxjrdiSSq0leKsJOp8Zg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag250/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag250/3/m_btag250f2.jpeg?Expires=1796406560&Signature=umicGbNXx8FVDL~jDB0Kn3RJO2-Cx46e2YukMH1K4C3CtO1k~1ttQgQVJxVyCu7qU2qJO6ZcwSdRNjqn7MivV79dvx7J~LDIncIk9cGqkX86bmH7DVcIy3am5o0I6o1y2frebPDvcVkQFXxhlvCJnl2BmttKBQq9IxHy4RjuWbZOGw4lSloA5vSfZb2GgxDf5VOghGVIERzlDP6kST3SCWKO2~W4bBQv3XRz6RVZcUzEif6YtTIjMWNhgAZ1RSxWNdU-cVgogjDy3KmoFcVxHuHfaNoB8zDBDB~xhXidvHNjLVOtIXsnD~hTSnS2zq7ZY3jPZI-vZx9QTlmLjLJJ4Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag250/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag250/3/m_btag250f3.jpeg?Expires=1796406560&Signature=CS5QJCVrzfzlqWxgmhzOsKiSrtriRlbDmmfSe5H~IZHZKyks5MRdwKAnLkV12ucwM9vRfd2BZQNIGXFbBVwFuiBo~Hpr8Q13MfwPzLMIRICb5RIbb-S34YesdFhKo8eApSVWj3mHLVOBxizMBhNfGSkeXw2boI7Q60aP9iJTRrw7w-APmFRwZ2uqqHxta3jfh~RL8rq3Cr10wYYoXvwipok8VABfKCjcL4izqFLknjk59SlJO46G3CqJIx3~-DSL6p5kM5MJChICNDM-31sOnbn93~HoLtUlhl2~Qa08iQgOahmNC0C1TI1VkVGPanZk1MJNcgX3S4aMM~TaVN1cUA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag250/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

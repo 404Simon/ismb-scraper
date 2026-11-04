@@ -1,0 +1,205 @@
+{
+  "paper_name": "Benchmarking AI scientists for omics data–driven biological discovery",
+  "authors": [
+    "Luo, Erpai",
+    "Jia, Jinmeng",
+    "Xiong, Yifan",
+    "Li, Xiangyu",
+    "Guo, Xiaobo",
+    "Yu, Baoqi",
+    "Hao, Minsheng",
+    "Wei, Lei",
+    "Zhang, Xuegong"
+  ],
+  "authors_detail": [
+    {
+      "name": "Erpai Luo",
+      "affiliations": [
+        "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0009-0009-4087-6027"
+    },
+    {
+      "name": "Jinmeng Jia",
+      "affiliations": [
+        "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yifan Xiong",
+      "affiliations": [
+        "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiangyu Li",
+      "affiliations": [
+        "School of Software Engineering, Beijing Jiaotong University, Beijing, 100044, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6017-0701"
+    },
+    {
+      "name": "Xiaobo Guo",
+      "affiliations": [
+        "Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Capital Medical University, Beijing, 100069, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Baoqi Yu",
+      "affiliations": [
+        "Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Capital Medical University, Beijing, 100069, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Minsheng Hao",
+      "affiliations": [
+        "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lei Wei",
+      "affiliations": [
+        "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xuegong Zhang",
+      "affiliations": [
+        "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China",
+        "Center for Synthetic and Systems Biology, School of Life Sciences and School of Medicine, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9684-5643"
+    }
+  ],
+  "joint_first": [
+    "Erpai Luo"
+  ],
+  "joint_senior": [
+    "Xuegong Zhang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 9,
+    "R": 2,
+    "h_lead": 55,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 13,
+    "C": 12,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "MOE Key Laboratory of Bioinformatics and Bioinformatics Division of BNRIST, Department of Automation, Tsinghua University, Beijing, 100084, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Xuegong Zhang",
+      "openalex_id": "https://openalex.org/A5081242795",
+      "h_index": 55
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/EperLuo/BaisBench",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag227",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag227/8726318",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag227/68709354/btag227.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/EperLuo/BAISBench"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://huggingface.co/datasets/EperLuo/BaisBench"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/btag227_supplementary_data.zip?Expires=1796435269&Signature=LEjX7Bir7l~XiSeid9OIxs~Xlgyi2wHzgRR-LPtl6b7g6gojL0lQIU~nK81McZ4-uHDveZhzEEQpifcRK9CIBd5rA9SW8qxF73CyvVbXmg8DVUxpS9tCdcZb9GmXSd2k~3Ovmx8T8dkee6rrIxIXCRRBIFr7WDMLW5BLiMrx0h6P8SD7jy50NLW0NR7A9C970KaCarMM9vp7Q0lCRfcxIhr-qZ-yTmQVQuMoRhb8zFeRLbTHb-bKAwrMSzcywQgXR36AT9i-E6D47h9zToyA5aw~mnapHlr8VPjI3YHh~51MMo2AR9X189hG0pEYABm2XPe0hlNouPc3DtlKsMPipQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/btag227_supplementary_data.zip?Expires=1796844639&Signature=OuT5zvBfC-j9JLbqgj-aQkwFRhBqESMf6BYn7yvkwaAlD5N0iMWdwuzTMBWs-cI1~BwCC-I1shNVjhm048PE85iQp2ZcPAU2sfQBDRyqKf~vfrcL0mGGDFbBTT~MPgpecMGq0qnTMEyltigTLlHeIwurMfa93Z9AsfiT9wPB1QnMq~SvQDSks-N9kMIb6Zls3AmQJqIvG~byAnCK1f8cVwxwV9hiF71ujJGMz1Bxl2cNn5j65vlZElUcSEsKroR1c-U~e-eJYHbBKz4Ino6BLz7QLXMDOKKCV16-bkBKPaPm7b5BMvsKUBnp2KCEr0n2xGVKZCNRwbFAfg78S2tMsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag227/article.html",
+    "pdf": "files/btag227/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/m_btag227f1.jpeg?Expires=1796435269&Signature=OG5BfZzQiJq~tFj~ki11zGekFSThisDiNioHI1RDTemEvQxSW1r5S7QnMzR6y~fMSfcjJSkcoZVzClymIQJb1zxvwSoHgxs~iooeBVa3vJUf5uxUL9tT-grD-IX4H9L6rgtoNhVpPHXvZ6teWJcWXxfAb13Dlw-Vxa2YSjwmC~vgQKe9tDcte9BkwcIuqCknLWysVD65cMgKyDdhncrwgaNjckVeKXEJZD6xwqsvRR7Ow7HjOpAz~ksFwtIkD4gfS4eMxScL2--IHT5E63x6wdgmbfks76YlsPO1XsK-dhdIt-u~aYOGhPiIB0~jdEpxqM0BiNu5AhONx4BWKC0z6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag227/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/m_btag227f2.jpeg?Expires=1796435269&Signature=XZ0HpCpstBmZmIgC7yIfSSt3EQijAB1~fdPgoSOQMpToJGdrzXpGu3kBnBn4aduP2n67OVaA3rc66LbP1Na0EPffLFihfuGyt3e0VUf~1fuG9~qCfek2oLMyQdUPGRmb4jdJI81UFu~z1JzK9V0J6Sn630mCYf3iFYZVi6P6Mg599OqctITiSwCYK~Nrud4i2usdoZ3m4ASczv6hx~WpepZ7dxD5VbzY7YCLwAB9joI3lQKto745rQbhRsj8~nssBI5-dAdkMn1kAb7ftxMUQ5wBxIge3rfRRLGoQ27xPu65bVpLS~cq6NxlglG~aB0sRwenXZ2nLi4m7QnRdEgG7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag227/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/m_btag227f3.jpeg?Expires=1796435269&Signature=EwKqMiZmrclwzPO000IBbEqIyg9v1yCuYwtnoiU1GcEAWQvppRKX-E-9ycbO-rVlKLUgwtu9nODZGJFdhGeEfYbkC57m10P~NR-knjDQYJIOCipaCmhjq2jkVAi13oR~0iT46dbnkV1g-qvFt0Jfw-eVC6ujOTGh0D1L6eWjrNm5BFh~o0wlYwZXA4hg5GAZ6r4nNVXbUU1NzWZ3YdQ4l3V4yzFSwIc8VvOmnQXfWdlbGoRlK-T3hByZTBJWkHDHEbFIfu~RDvEJSRt1KVdoceaI3O--Iy6usxrnxOD2J7GBwvBZ3wlqsxqvtwUDjp2UHIKhRpr3V-YB4G~8tG-www__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag227/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/m_btag227f4.jpeg?Expires=1796435269&Signature=ize5JDkjZcl~vQTOr8kJaN40GDJK-NfVXk4QyGWl7-qWOnq7TRlOBgWhHmyrwZweBKF7yfYhmmuDjYewtvqnRBQV9izH0T31hBcspCbR-F~suiB3war4kUySlZGu2yB8Hqt5K6xs74Hm8t7nBQ0my15jFzD6Y-ut8ErROCneTU8EuufzLHur-oN4EEyUnmlUCLyvHme2GXPWTCJn8dVWLGXWC9-eqCuXh9yru80zrQxnDAFR01gb~J~GNqznl0bQIk6FMIzNHiUZtbCLXNCDLRt9FT9jb~7MTnSDU-5ubjn--Wnk4cXjLb6fDWzCKmZ61sqccbwOuxCdCxfZKfqcOA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag227/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/m_btag227f5.jpeg?Expires=1796435269&Signature=fqhHwNclUY004hn4zZXBGrlE6zhm-Cj5yU6SsVkqOxHVmQn94XoO32YakcaJbf09lNsPapL3xstT0JjAPP86c6ZykSaV1XjfDrkIX8r6lh5LzIM57Ewx4u8snaPbyFkGwP0KE-31FyXJhLznGIMQxg8yf~mxJxAJUkl-S6SnhINE8KumEbZx4FKHFZB9syCRcS8-s5ePVYjZF4hsZ4nHkXAJnDnY7fa~9Vrz7sKCkta02t6xL6pdEnHwyi5Iv9AI5d79xyK1iJG~dAVQZfgCF-7bLPYFTul2mMITfC3hM6IkfG2xTecwyyDSi8~vSOPvgCBj2xxCHHGm2tJQ7vUO5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag227/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag227/3/m_btag227f6.jpeg?Expires=1796435269&Signature=LWsqDsOI-~QPuAVJ4hoYazEtjajSbqbbDD1~qrXKSpnTwyRYrS0GihMlK2fD1Tl99OehWzqF4YuHbA~umQbDXD~MDg43y6xmUMOE9NCYrrH6SbfSHo~TDMzupNT~nL6jSMFsyvZE0xgU0EbyZBsrtx-kUZciegS4P0lsLNgwY5t79MyidAcb2KZb9R-45jO8OEQIzlzYzBSixRBO3DF0IAuB~wOIESaIxFnEF2irelFJFD5--r3UORPo7X8q9i0Gy1YdmG~1apPiOY96aROz9y5fq2qSk94-pcaRUVg9xKji6o3lT9YjuOhk9dmQRUmrp7WkH7GeNBg0qJVtatE8BQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag227/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

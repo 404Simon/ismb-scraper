@@ -1,0 +1,155 @@
+{
+  "paper_name": "Improving hit discovery by integrating activity cliff sensitivity into active learning",
+  "authors": [
+    "Kim, Junha",
+    "Kim, Youngkuk",
+    "Koo, Bonil",
+    "Bang, Dongmin",
+    "Kim, Sun"
+  ],
+  "authors_detail": [
+    {
+      "name": "Junha Kim",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0001-9790-0229"
+    },
+    {
+      "name": "Youngkuk Kim",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd, Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0006-0693-1553"
+    },
+    {
+      "name": "Bonil Koo",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4357-1850"
+    },
+    {
+      "name": "Dongmin Bang",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9217-8380"
+    },
+    {
+      "name": "Sun Kim",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd, Seoul, 08758, Republic of Korea",
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5385-9546"
+    }
+  ],
+  "joint_first": [
+    "Junha Kim"
+  ],
+  "joint_senior": [
+    "Sun Kim"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 36,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 4,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sun Kim",
+      "openalex_id": "https://openalex.org/A5100460439",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/wnsgk/AC-Active",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag302",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag302/8726304",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag302/68709259/btag302.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/wnsgk/AC-Active",
+      "https://github.com/molML/traversing_chem_space",
+      "https://github.com/biomed-AI/GLARE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag302/3/btag302_supplementary_data.pdf?Expires=1796404418&Signature=NB79D3MsXdJq2xcISmpEgxvaxwjcQnjXWYlPe6r9pd0Vc1cT6jkysVj26-lvFNLV6FIDwNOtwlWfF9cv2tm1qhSB71-Bb6pgqqkDDUCZ6MDb13a6B~auKU84Rtbq~mEnZKXTukzbmmybzGZxyXmOBUIf~Bxxc827Br2Ly9qbnTqXP8-HYRkqdivmRRarEYD2PdOrLq5lUJhK5x5-ouVT4IlyZb15TiaFjfBqST7JW2tOwxOCaaobol7YsKHvRggaqPcYeKnevKZe1I24f18Jtq5UZO~n65AsJSKSfyCbgt~QxefbIsW~NQEjsw-1AieuPo9HryDkN9NZ4r~CQi2K0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag302/article.html",
+    "pdf": "files/btag302/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag302/3/m_btag302f1.jpeg?Expires=1796404418&Signature=EWcblz-HL7MrGpGqAhVow5bg-77Fwew2gg3llE-mCkkm6JH2iLallRGfYKxC3egY3uN46cVJdKtEu0S2FB6Eq-gIyJxS5dHVrscH1D4p9SZ8NWdN-Kc6nwKYxU0cPaF8BNtrdWIenfkLbp5SDA5xiv0x7ohPuo-mosCZlDjWdFAudNJ7VIzimli~BljPmHkoODeRJhzRDaCiR4bXZTGEEIv4c4iLt-7kW1eHCzUyuHbgTamMW5lSHOfn445dFDECaEP2xhH8P874Kc-MJLbni0KeTxQnAv8r3iHovBnEKJAZKUSmCTAhizWTYqj-hfQ-LnoEXWjRTdEv3V2uVo1gkg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag302/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag302/3/m_btag302f2.jpeg?Expires=1796404418&Signature=laTh~YXYtei86hExL2Vv~l-F3yX26pliL~Wa341j3uZPcIXKZTm12FV-~WxnYapVuJZfr2~IEL4KhqBq3hSgDnMXyzbbi4-mXrfT~LsHcCg8VW1fkL6AyreHnMTRGX0uJCmIgdJ8BOt1d2JdhJB3rVcF~Xt39Xhx9OPPn6EMgRzLdivonAlHEyG9TSgau4Ehe~VR8YZdPNsP2gtLWMkdPLBTUZ~8nOXWbVv1TDQ-NruhbYe6GMUqsE0eGdECr0oRpj44FqBSFsb7ssSuEOk1mtYR23KP4hjzFHq96fnql33GctCxsKuk8tzAsfkNGNP6hl-mpz66VVCZed~nPveBzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag302/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag302/3/m_btag302f3.jpeg?Expires=1796404418&Signature=0qlEb7-7BdMKDFaVCpB~fIZ~jNCnXvj6I~AYSNVMTda9BCIHtLAU4CxslYTvf0zvE1iTbk1SCMRjF8KRbkTiDvZHr-aEcCBaOL513vr98zptD-RBkGmXlbB0SkkV-vrXHPRU~jWjGxlq-QKKr1sfC2-r7KKu4j0LYmX5sPjQNMQ-KcxRRydqE48pKv9rL3iOeZE9-lRa1mx66IbtEPKK2wyg1hzIEHDBDsYA8PtlY4U0nJSJdAULFXhY24NCtn-fNSikaVEhD9uieleMotMvH2dIEakGztFlFZi8pQzPEGAp12bdck4E6ZVpe7EdHO-r1CrHSypdpQOEhDfKpVSjBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag302/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag302/3/m_btag302f4.jpeg?Expires=1796404418&Signature=cGaiPzZy4euqHf-~Bllmx0YeMaRcxs9Wx5gs4Pm7l-6-5t15D0wWPHgtDJgFAYn9B6XNGbqRgFcWv1~ydToGXUBBIxl9LYPqI4qzJRDG0LhxwJw88ZHVQ2yS87N6pTRDj7hVXZ23irCVo0~w~gQMe7aKbxMI5MDXXziUf3tiGEKiBKmJ1AxyxQqHxVU2TvDHk1643J7y8rz718Ot6RybU~B5RcUzNA~RTfPusnHZAS0qQEOuG1LrBC17zWTGLF0tvXQAZ1C9WGsrD2bDgzaNF4tkB-35xE9Pnty6DjhaqahLTcfriCOVisWF0gBTo4ZurxbaAxv1fMD4-eqVjigH1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag302/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

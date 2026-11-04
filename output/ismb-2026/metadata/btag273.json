@@ -1,0 +1,149 @@
+{
+  "paper_name": "Phlag: scalable detection of genomics regions with unexplained phylogenetic heterogeneity",
+  "authors": [
+    "Şapcı, Ali Osman Berk",
+    "Arasti, Shayesteh",
+    "Braun, Edward L",
+    "Mirarab, Siavash"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ali Osman Berk Şapcı",
+      "affiliations": [
+        "Bioinformatics and Systems Biology Graduate Program, UC San Diego, CA 92093, La Jolla, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4396-817X"
+    },
+    {
+      "name": "Shayesteh Arasti",
+      "affiliations": [
+        "Department of Computer Science and Engineering, UC San Diego, CA 92093, La Jolla, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Edward L Braun",
+      "affiliations": [
+        "Department of Biology, University of Florida, FL 32611, Gainesville, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1643-5212"
+    },
+    {
+      "name": "Siavash Mirarab",
+      "affiliations": [
+        "Bioinformatics and Systems Biology Graduate Program, UC San Diego, CA 92093, La Jolla, United States",
+        "Department of Electrical and Computer Engineering, UC San Diego, CA 92093, La Jolla, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Ali Osman Berk Şapcı"
+  ],
+  "joint_senior": [
+    "Siavash Mirarab"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 0,
+    "h_lead": 56,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 52,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Bioinformatics and Systems Biology Graduate Program, UC San Diego, CA 92093, La Jolla, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Siavash Mirarab",
+      "openalex_id": "https://openalex.org/A5087959579",
+      "h_index": 56
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/bo1929/phlag",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag273",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag273/8726330",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag273/68709431/btag273.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bo1929/shared.phlag",
+      "https://github.com/bo1929/phlag"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19713355",
+      "https://doi.org/10.5281/zenodo.19713368",
+      "https://doi.org/10.5281/zenodo.19713363"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag273/3/btag273_supplementary_data.pdf?Expires=1796852629&Signature=qUgE97yPFsgbIWfV59DJ4kQH~vXBvXD2jN0c253yvFzwacY996jxdiBjjl4Jk5R2gbzF8vkDH1vV94JB-VLn82YhfbzNpWrC6r2KLI1hAH~603rvM5y7lIm88A0nRBX2KDrN4Fe800fUC8bwyhgDbcgEZQ4CBZSb7EB9M20e2ySp9K0f232Y8QBDwU6eSH8v~2vR86vs2vSzUbGZODkJsXrfiVY-NoSS320dr0J4Du-7UGjr8VtMOlJz3nN0TOIzKER9IGxM34Pl~5SGCLUI2SqIoJOxkW-kTHKdMz8YbZtbpjPasj~Oov1aEac39rR4j6NwL2YpB239hJzKfd~jvg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag273/8726330"
+    ]
+  },
+  "files": {
+    "html": "files/btag273/article.html",
+    "pdf": "files/btag273/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag273/3/m_btag273f1.jpeg?Expires=1796852629&Signature=je7BSNTYz-h8qQ9sqWYPM4ke4VyQA-7qN9K5lUvSukqnwJZqWUzAK6m~KFhYFH4B7fZOnqbl64vbe6OhcFqvUplFwzTrZfWrnNwOtSs1Wddn7iZqtRplMaJ1iq9Xi5YCZn69A5fJf83l0kvIcmvnaci5GCs6zWqacSb44S1kEtNSnfrBm4BZARKzyJNlTAedShay95GyQtTSBuUWyUiJWTnxR7EeH1VHEUlxRVGWXG~0v6VSFtCBTR-bo6IXwwJ~SOrpZ-H-DOscYNyOvxqwR9xjXK13e~4ndS2t5BSgNGaLuHsihMUaIBvbiJt7k9AQtYTguVmUEOp1RaMFFEM2FQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag273/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag273/3/m_btag273f2.jpeg?Expires=1796852629&Signature=cMP0wZEFyQknVAKaE6J5d9kl2NTlFCucbCrxe6GHI3vCdR1JQmx-mm3YEou0Ln6JO~iZ71Bhh1XppIw9~1S~apSm6F794k7eHm8bIdqay50yrz38GKJAcoRv~MHo6aabmNYIl~XlZZSNUpnswl5nfKFAwaP7JTGOek6~YbtP114k6l0SJfOMQH8dq1U9emUW-sRVaZ-juUhLdXJmxpK7bOS402SZaR-PcaMy85Pfu~VkbXUtCUmKkpmdU0TGql0MXN-b5YS0OaoHHIdXp3APDy1kkVajhzU7uxwiyKIHZzx-x~N-xOC~mBLO54HvEc~xDgthRpTNRZHpvyAv47NOww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag273/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag273/3/m_btag273f3.jpeg?Expires=1796852629&Signature=4Nsgpw1LH4CaixyMfAPsVTxMWjA74ajsc2VitONUdb7ny0kgnjAG0UFxSogZLHh8Q85SDgcE~c8~6ZQKTNMSA-P18gisWGpvvI628DIWtY2sTIGu0W8hl5FTw06Epvd0PTQ0hObSlgTIkJ6zccGO0RIgleDAkGQMaX-QIY2c8wH0VplE4SY-8xUT5rgaQ5cyakRKRUCAVImuNFxYeK1dsUk3rrIbCZMhocf4wh7ECj3bsLsTBmQTIH7fB-FORnpCYtc-6l-Sg3cDncpL333jJ0Nu4aqO-QY-0L28GouRnBYgt6B~PG68xXE86iogY5LWLnbwQUFTn1oAv~1S0s6Vcw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag273/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag273/3/m_btag273f4.jpeg?Expires=1796852629&Signature=AOSoV-gjuKygOysNDskgRrImmi56Gli6BWHjecZEDvdhU2jYM-d-nYinsPpsVW2NAz9MOn0UIutMgeap6t8XcrZDFBSCwk6-MA6BipobjjoOk5Sbf6TXWb5ErIeeH~pHBxa-udOJSkyNUs1SfMLOoLTwhjs6UBQh4SCLAFtQMR9Ur-FDqQfYn6L8u-TAzJx5Cwd1-JTy2IkszJUkeMyVPPswacgW51J5G2uUUKlJrKpA0f6inC3bCuyIi7Tbz4qGkTGF8bCNVXWsxhxyQTSaydBd1geZcxSS5DLhJD7jbL0xTsK0ufDVh2LcdggsBO8Ez1WYKo0HbrCPLOIWBiz-FA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag273/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag273/3/m_btag273f5.jpeg?Expires=1796852629&Signature=pu30H4AX47-cHIppD~hXiM8njFwzs1p24BvNBbeLzKM0Z32lEEox1mp5Xg22WVUqGkr~Ol-mpVSaZ9kEowsfoARLo-33t9WZ345imxBfh9ub5ze4Pbb-yVSypsIsc8VFp4-SqcPHrWEZFeuL7wq31jnaJAmHj5p8PiwbdVXCZmEgqy6rId0eTNHHmZT60FZl1V~OVPYnVFp7MbBHwzJZ3X6yfWNu4k8We8T28O8kYSbOOAeaWzptcmmbiT-p8nHrlPTcYtOPlEQO9kZws78EYHQOvzHfhr~dr9eT7NPgTt7jIKjRpATn11zsDIiJ-sScMkJBCMk04Wk5OGuTWA-BIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag273/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

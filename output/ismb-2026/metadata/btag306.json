@@ -1,0 +1,147 @@
+{
+  "paper_name": "Striping artifact removal in VisiumHD data through nuclear counts modeling",
+  "authors": [
+    "Malsot, Paola",
+    "Londschien, Malte",
+    "Boeva, Valentina",
+    "Rätsch, Gunnar"
+  ],
+  "authors_detail": [
+    {
+      "name": "Paola Malsot",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zürich, 8092, Switzerland",
+        "ETH AI Center, ETH Zurich, Zürich, 8092, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0736-7062"
+    },
+    {
+      "name": "Malte Londschien",
+      "affiliations": [
+        "ETH AI Center, ETH Zurich, Zürich, 8092, Switzerland",
+        "Seminar for Statistics, ETH Zurich, Zürich, 8092, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6806-492X"
+    },
+    {
+      "name": "Valentina Boeva",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zürich, 8092, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4382-7185"
+    },
+    {
+      "name": "Gunnar Rätsch",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zürich, 8092, Switzerland",
+        "ETH AI Center, ETH Zurich, Zürich, 8092, Switzerland",
+        "Swiss Institute for Bioinformatics, Zürich, 8092, Switzerland",
+        "Medical Informatics Unit, University Hospital Zurich, Zürich, 8091, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Paola Malsot"
+  ],
+  "joint_senior": [
+    "Gunnar Rätsch"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 1,
+    "h_lead": 91,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 7,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, ETH Zurich, Zürich, 8092, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Gunnar Rätsch",
+      "openalex_id": "https://openalex.org/A5035416263",
+      "h_index": 91
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/paolamalsot/destriping-GLM",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag306",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag306/8726321",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag306/68709376/btag306.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/paolamalsot/destriping-GLM"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag306/3/btag306_supplementary_data.pdf?Expires=1796669357&Signature=YNhjjuHZLwxNFY0bMs~KCERkxoQtH28yYFq1LaE1Yfe4XHQ0SLumc5rj7Oz~02amSVqs6GFqdjbmAbCxOAKO2od6zhLvtv85qAhKudv9pBmW4-d9VXuuDG3GKpwpF4YQvPpZeNsayo1lZe~wda2uZLBTAk21qR5nr4AGJcLUxXpZWRHB2l6gsed2jHFI4JzRPagOeusOYNR0vzDWl2wMgDAH9YqPFGmWss5rzaZFydF4zkdEkQGbyKKHnLCug8yeFxGvle0nQintsKVYHYbnyiLzEqcXrNyMiQpI1d5wmXCeXULW9rn5JP4kcgDQsY6r8tNiXaySyFSvvb5ejSe6uQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag306/article.html",
+    "pdf": "files/btag306/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag306/3/m_btag306f1.jpeg?Expires=1796669357&Signature=qXvInl5D-Lg3c2KuWwzGBmAB3dCnBCftd7DyGS36-P3RRT-emXYSUyUanLXIKV8O--aoFaMhLs2oNLkQvIfCT2S4ciVc9y-vx9mJAQ7QBHMJg7c3XF9OmEgpOavAovcL7AbW50iO1R7W~Y0K9ol8WVkdF1eT4QidwZ-lgFkJfHdG8upQAi3D7zKRpUkTl~aXGy438DB5Ugeq5Kz-9Yjkn7YvNU~58O8aZtFHMjOJa5YRrWSOHRoujUNw0XEFxNFL-nDhV8FrDlUtMMZF5mWsgrixIRArazwEudDHOthpawVZLPBW98xMrnOhg2Fbu2-unRAN5LHD8VVLqKZGc8ESYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag306/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag306/3/m_btag306f2.jpeg?Expires=1796669357&Signature=OLdd-KvbaA4J~pvy80mqyCkcYEd5~yyikUZxilQTAuoijwPq-En~WrQFm2b4jijI1VxPyxThYrlGmQo5QfrdXbINsfcwSGKbu-9c-6-BEqfJPVjFjy~hnIGUjIwG~ArAwo7HuuQjvGmDrL1qva8v~SZp16wOxuMdS4TOxokEaqQCOXSLLXjoJHP9TwQXt3m3rKU2X9ZGm3P7IUnGC6aQAeGJnBCyoxd-p2exNt-ArHwH5b5JEzteYE05m7HK80JTQqFULErJmZ3QwWGvnFarWR-ui6LdOur3olW5RpORK8xeYppvbcewbvHeMxzW0iDue1RBT6P8LUyZE3FzO46TIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag306/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag306/3/m_btag306f3.jpeg?Expires=1796669357&Signature=hkAWklLkWUwt0c9rVafERBrT8XM7beZMExho5-Wu~hYKLd-EwDo3IPnB3BHZg2zcYMflRRHpoXri32PzO316SWm-scFFTPt0SN3HVonrxc4nle878X3iSwli~PsiW-ez4B9u8Gd-BuFSz32S1XbDrxgc-lMbIrhX7nJ64vv3M8b-TqLOqWbhY9RmctfEdezu1r0dqduifEzHWlvGmCUCoJaJr2E4kXW-moGowm5M7lSMe0gIy539TDvLc4LiEJuQk8iYctFZoz8MrTCEXQu3SvIC5t3eumKNTRhqqWRptvrqn9kjitAbAVtqYKMVOYIARDxgsw9kjiaSOsmhycepnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag306/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag306/3/m_btag306f4.jpeg?Expires=1796669357&Signature=A4EOE8eY-iMJeKOCY2b9KrPS~RgZCLJorbuoEeVkQYIRCHXWwElf5JX9tDsBpZKjPUMB4cN4LRJULoD6QPgG6oXcX7ZelJaO0gjFwb-3m-I6TX5dPXmTRDQkJuYYvXXq47c4kRhzxcdfqqeUNCk85myjs0RC4HCgUQGwCs5aMiL~FEC0Yfn2qsnwuvci~cmrZzvHF~L3~ZUmciQfDQyQ5qxHK2RAADF2UIofK~qDCHknsXVNYbgWCUUHLZ9TcCJmC9jLhltXTNJ6Y4lAzC6rAihIFApG~0L0mrBtJ5UYpf4OG1Kaa8sHI8b8UVJsE6MT88Sjm-Jp5zz6mkiopcfHxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag306/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag306/3/m_btag306f5.jpeg?Expires=1796669357&Signature=oFXq1Qh8bnZvVhHDAhAIEzemYDogxbpdOIcSCH4ZUZvb-uU6Ia508fwovzn8efgV3VtfEtSfUQEFzUV6BLv-s~l2yb9d2sTD1kZb2jezwkOMR3IT~KB-D5tPMZ3lUX-7JVEVcCsP2FpyrbhHow~3kfP8g-wlrAtVj7EQ2jnfBTmsGqN-6mKVGM42c7vKNygDQ~3mPV-HUj8iDr6EqVWiyZ1S3Syxg9Y1AuPGoXFTIDeSEIw2pi52mj~ftHCESKHUU2o6gltV1HhNoxEuGDpotU1RqwDLzpoUqqXCVPG0vltFsvyouKfGPrimA3Q2mRdki6Csi7pGsaZ~ytdMJ8o5hQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag306/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

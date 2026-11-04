@@ -1,0 +1,162 @@
+{
+  "paper_name": "BiMba: using Vision Mamba to predict protein sites that bind other proteins",
+  "authors": [
+    "Shirali, Azam",
+    "Govindasamy, Parshatd",
+    "Stebliankin, Vitalii",
+    "Shi, Jimeng",
+    "Mathee, Kalai",
+    "Narasimhan, Giri"
+  ],
+  "authors_detail": [
+    {
+      "name": "Azam Shirali",
+      "affiliations": [
+        "Bioinformatics Research Group (BioRG), Knight Foundation School of Computing and Information Sciences, Florida International University, FL 33199, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Parshatd Govindasamy",
+      "affiliations": [
+        "Bioinformatics Research Group (BioRG), Knight Foundation School of Computing and Information Sciences, Florida International University, FL 33199, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Vitalii Stebliankin",
+      "affiliations": [
+        "Euleris Inc., Miami, FL 33140, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jimeng Shi",
+      "affiliations": [
+        "Bioinformatics Research Group (BioRG), Knight Foundation School of Computing and Information Sciences, Florida International University, FL 33199, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kalai Mathee",
+      "affiliations": [
+        "Euleris Inc., Miami, FL 33140, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Giri Narasimhan",
+      "affiliations": [
+        "Bioinformatics Research Group (BioRG), Knight Foundation School of Computing and Information Sciences, Florida International University, FL 33199, United States",
+        "Euleris Inc., Miami, FL 33140, United States",
+        "Biomolecular Sciences Institute, Florida International University, Miami, FL 33199, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Azam Shirali"
+  ],
+  "joint_senior": [
+    "Giri Narasimhan"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 40,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 54,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Bioinformatics Research Group (BioRG), Knight Foundation School of Computing and Information Sciences, Florida International University, FL 33199, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Giri Narasimhan",
+      "openalex_id": "https://openalex.org/A5068890173",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/Azam-Shi/BiMba",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag243",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag243/8726357",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag243/68709624/btag243.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Azam-Shi/BiMba"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag243/3/btag243_supplementary_data.pdf?Expires=1796403791&Signature=Lo45m-tA42JRnWP~186sMjbA85vhcLqqSXfHZa~AhbvmDMhsCU2a15DTVOemwXjlfAwisz-8Mnhp3H0vOPTqzHE7qCjri7O4CambTTNYDAoYGWX0~nuJHPu2J1T4HCMJggrVe~av9DDiAQP2Wxa40yVFQx2QUUr2Q69ifJTHYZaQTPeuQz2wfkQRaknFT9qTv55aeoJsQ9BOiyD6t5r5oLBng152QvAPvKxanJsG3Jtp~~3wQc1ci46MPpz7pCdcpMMmeAHMxEvn-K1eJ~2OWPP7fNhG55kO9Z~N0VlPamlhepTTOW8rNKk7pfLZLjaKCX64v-S1SloDYRI5Tj3~aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag243/article.html",
+    "pdf": "files/btag243/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag243/3/m_btag243f1.jpeg?Expires=1796403791&Signature=RRbk7ddTVBhzgLrfFQLq5n~tWkmEKiuA40~qQCgvKxt9i59Zh2MNc9l~03WfW4eDqXYiqRTDVffGikHCxh4baPqjm9Hlh0aWjIynuJBmUxSbA1zCwiNzfBnwPraHy-xPiRNUYqOYvxvltN8jOJQzUOCJotxre5SaWQA7e73eMlCXhiyJvrig6Y~8xTT68UXL9qixJxoza5UdYVZdbhErMzusqpSqNG71YzVyp4ICMjyTQjlPUlQQ4GZUOln-n-5i-n1rTaEO6Bgw13HUa4U1fINipBolz-5wWomryD4KpJHv21brvWNmJoel1CRw6h~niYAtiMKKW4mMHll1nQugrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag243/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag243/3/m_btag243f2.jpeg?Expires=1796403791&Signature=ipxKFOiFl8euvtwU9evBNsSIP6H3afZGKPvpOmiHY0tYsBemzIz2bAKjMPN-3WUrzJ-0e-vC-Ao70ZD1LOrLDctbbtQWSwcVe~fyTg60rHpvSB07SgOBckvOSs9sBwD3hdwYY7Z1Tj~cm5ZRa4W1yboy3tcd2oRlxdU9XG-ROjmdt~9fZPBw9yzDiu265~N3fOEz4OcKHdGJRr1BdV6CTarzGb4vXVpPAVaS5RG29uCpbTKtOyBjRnxAKaU50h~-40pcSgspA50OnUJdoEmUHcD2P7T5osNvacy-7O55lL~pmJcLfsUwplTYzXOkNHlYXf6~XjMdNmrwstpj2FaK1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag243/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag243/3/m_btag243f3.jpeg?Expires=1796403791&Signature=Plx~G2Y8GJ5vv4N-b4dTWGN1UerA0e7LF3LMzs2bWVAzq3n~OIrXOMCfhW0PTXPl5zMgf7o7ASsxsZo3FtjR~NFQH1oS0puYIrDKsL1JMpV1iey6ynbYNDuomin5b7I~kXhPAxRjH-0DewpYN2Q4rEPKmS3hGy131~a3G5VeMnARcVQ03cM4T~D3hzpeDz0~D0BzD0qG01w1Z5aE5jJp5EC---eIxbvgBJoJeKaySeZPmQ5YGVg1KqCOrpav6HDYdWB3T6Ft3~ykYiQ3g~eNbfx7IguX6wPSsszT0abhbiwhzNbVphcKO9kiZ2WBdEQHjQg7fhrOBbA~-OM7~EGWIQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag243/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag243/3/m_btag243f4.jpeg?Expires=1796403791&Signature=4ZEA9Ae8RufpsvQbzbMyEdF6If7ZbPg5WtZFQLOlBhVjuVIvgvAMTCbj7i3o~3VxxTKHGP8WDzAmus9HjwB7cDOGDGhQuxDiCTzFQsmlGgNFIKgjpbJkwDPWtDv~jkCd7KdYMNn8hnUsqEFTeFdO5yc5JBG4YsvN~-ndKe8Fm6lESZ8eiskyc2gEzw7JNk8mdCsVqfT6PSoYDyWm4tD-zB5x3EOln4f6m13cqtYLaFR3UdidtGKGNmtu2Bf4sut7z3-UKTooruFbYVNQPZm4sf1UKuo1jM1B-WFg8KAY3GRB8D3VLH~F2UblcmdTQdV-A9Tro~ph6y9nzEINmdf8dg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag243/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

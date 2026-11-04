@@ -1,0 +1,140 @@
+{
+  "paper_name": "Riemannian metric learning for alignment of spatial multiomics",
+  "authors": [
+    "Halmos, Peter",
+    "Xia, Yufan",
+    "Raphael, Benjamin J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Peter Halmos",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08544, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yufan Xia",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08544, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08544, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1274-048X"
+    }
+  ],
+  "joint_first": [
+    "Peter Halmos"
+  ],
+  "joint_senior": [
+    "Benjamin J Raphael"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 79,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 81,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, Princeton, NJ 08544, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin J Raphael",
+      "openalex_id": "https://openalex.org/A5025899028",
+      "h_index": 79
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/raphael-group/MGW",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag220",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag220/8726335",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag220/68709474/btag220.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/raphael-group/MGW"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/14986870",
+      "https://doi.org/10.5281/zenodo.20074368"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://data.mendeley.com/datasets/w7nw4km7xd/1"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/btag220_supplementary_data.pdf?Expires=1796423926&Signature=bGmGWEOIZBKNGlyaYTeNYVYewVsKjefuOH7z~dHX7-wOb3yjq3cu3wUHx5yNNduHzhfl89iq0-8npRs2dFZye~KPhDhQ-h9oMzig-3G2rLRjnahkfEyUT2~EjqAqS0lEGPPL9WMgH8ljTl9UsMotpSbpuNo6nZ0LsdDaozRgXjl7lSJJ8VTSwIofsXzWqkscFvrYEe4d2223e3U6n2GAfnV-wzsmBFItcRih9OuM8wRyc0UBXGd3K490ObhgWXT2jDjfUze0pvNqAuhf4zgKGZCAJ1nsY5AOOlIIsaQPFFCo~nhLJQl-PntLTTLuvs4GaZbfUze4djB7wN8EgR8I4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag220/article.html",
+    "pdf": "files/btag220/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/m_btag220f1.jpeg?Expires=1796423926&Signature=eE-EYyM3r5Mx3qLShxWI7hBhIEj2~qaPFnNX-0VfrSUdeMqNcLgm6FKrtjhSDt12ZFgJjXzYtT65m-M5VWuYq98gzZwl3XPTsAPX~Z0hSqPA2iiPo1fhQ69AsyOLOsQDIPPnQnlf2sowwWHS7UVi3bEPexQaX9Y2twSfhusU5okfaPT5NTNLyIKW4I1KH-vBYmvuoR1YnzD9FTb9XUKO8-ds~dl9dRjL7KLZEHTWjIrlqY6dy3RpgYzflrerm2qUyiegxshTXETgm678rcKfxK9Zy~JE4PK-kOP180B6rSO320Oo~yB3wSdpeSjx1I1JQflRlRDwN-FRpPju0Z2U8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag220/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/m_btag220f2.jpeg?Expires=1796423926&Signature=JGYYXc1KzCRD4fh4FF83lh4w~XYUStjuKNPfQ4gUEsMVTLTZ7gUJzPZjR9Ya5EasdUMFy3xg~DEGzop2ly8CxNKYZRYljab0aQzPXt1Fm4bucYuQyPtOhqxz-bl5gA2eWRmZo6vBYXESww1F2HvDj-P9jDzQNaXaZ2yQNTOmhWaN3yNJpZ7EiwvqSGTRL9CJh2wgA1SpDcfu~9coRvoOSWUiUuFqiep2EnKK8N6mf7PoHizvFH9yr9tAdRwF3-JNWwHbgk98qnNXoRCT3IyrGXBm12ngIBp-YNPInGhPnfwtilaHUGXhsDeV5Xrq5nz017dZxak7pehCnpycNDehQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag220/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/m_btag220f3.jpeg?Expires=1796423926&Signature=SYeH3TkmLDM3rUsf1JwUFqUq1NjA4wl5KddJexLwyZ34FJLfFoQcQDnjfKuf-dqdk0PN3RcpxiyLFsOc6fsFAyiYfnEyUa8m5S12hqvLN~6A0Zz10U3ZlmL~fZ~QMdZ6Vw2mQ1rr-fzv6KwVtvmSg5nmS8YbNOTdkjRyhHtJ3oksWrc~eMlOuk-3zTx5Qg5YHKUsLV4hzqETlvtZwMKGHmc0p32msn5F66QUg36ceVioXCt3CuQ9uuXx~bCjrymKCfH~KjgKdSHv7ouVrI7YizttMzFpcWUqN~28NGpwpbGqio2QqjOkrL65MdCwBV5lARgwOXF8EqMqNbLh~wIdWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag220/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/m_btag220f4.jpeg?Expires=1796423926&Signature=NqUXuJ5pAbQ40sNTS~BUttGYqe6NTu~QhS82Lyx0eQZZVu5woVoCT-LJ97RFsKWmHhANbHLQvw8dUW7goJUI-SxnaHzcJGMpwd9h8y-Czt7p3M5LgZaaUn56tpkGTgMKCUq6M~iA6PMarNg0rYsIuG0fpMB2eAquWV-mr8xCrEM~pDHexYNVZIlM4GUN86pkPmWzvvv0AuWEuJp2gqpLOqXOw36nuy6oIi~lndoMPMNloqWHxpokub3GmtuRe0GdpLmQ-eSJzHZpzEzb7Ii3RUDMw-Jc7Bstq-Umv9ldQgOEoWdcz3pe709rgXm7Qi59sXFKj1NQ-VAvdMGlYnY8WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag220/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/m_btag220f5.jpeg?Expires=1796423926&Signature=dKnLCqaIgCRZooIS7j4q7JZNIQvIQ65vsKdUQIAUUQIWm9vSUx5Ktv31-0oNBcEbDGPyH~Nj~60jooIrc~N9iRvoH0oZT4kCqHT19A5vrP6~2WaVaZ0LlAdhCjYEb8g~4JUxvI3em4AUlkIyU0GTCf9PjXkBy7QIl6e6jVS63nEWlC~4kNeR7Zoswc23X-T1iQeek7axH25KggOy3SwRDLnqhWeRw7QXxF-aszGCtJCNm6Uk-M9frjYbZeBm8OHzQzD82YkavWl8aaMhd2SZ2ahS-bQAAwCxYuYlU2xURE0aZUru1Ys3Up9q3~c5IO1CY0vVJvBuS3f00g3aTnoaGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag220/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag220/3/m_btag220f6.jpeg?Expires=1796423926&Signature=eV3r0jkZqo~H5kZRZMQBL7T-IcwtbGkkgiKexx2qoe135epP1hBsSMXZgsLiT7F8M2Z5hxmCn2vIPM-dVm7KHjBCVVhAtqlUwSBXN0CLGeSdgdctyq27dbHHJN-p9pHhX4Fpycq6pACPyhWqt2gn6UlEO1yNL1hOiZNkOxS3CAp4zf~PewKdI~8PtkrkjTBj6ZHt6ef0RmHzs2Gn4Ujz~kETNhazZzJd61vn7yEWicUQWYfKRE6fdRixX-DTXi4wN6wCiJHbqaGVGghbSPzHEagxKXN8o4gGiipEjBSfaoAdssbDDHQvrzyZNHLbu~MGhhn73g90feg8-~mK2g~aMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag220/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

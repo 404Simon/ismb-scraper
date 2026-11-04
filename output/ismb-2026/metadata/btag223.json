@@ -1,0 +1,287 @@
+{
+  "paper_name": "Inferring and evaluating network medicine-based disease modules with nextflow",
+  "authors": [
+    "Kersting, Johannes",
+    "Bucheron, Chloé",
+    "Spindler, Lisa M",
+    "Aguirre-Plans, Joaquim",
+    "Manz, Quirin",
+    "Pock, Tanja",
+    "Tan, Mo",
+    "Delgado-Chaves, Fernando M",
+    "Nogales, Cristian",
+    "Schmidt, Harald H H W",
+    "Menche, Jörg",
+    "Maier, Andreas",
+    "Baumbach, Jan",
+    "Guney, Emre",
+    "List, Markus"
+  ],
+  "authors_detail": [
+    {
+      "name": "Johannes Kersting",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3882-0093"
+    },
+    {
+      "name": "Chloé Bucheron",
+      "affiliations": [
+        "Max Perutz Labs, Department of Structural and Computational Biology, University of Vienna, Vienna, Austria",
+        "Vienna Biocenter PhD Program, a Doctoral School of the University of Vienna and the Medical University of Vienna, Vienna, Austria",
+        "Ludwig Boltzmann Institute for Network Medicine, University of Vienna, Vienna, Austria"
+      ],
+      "country_hints": [
+        "Austria"
+      ],
+      "orcid": "https://orcid.org/0009-0004-0699-6475"
+    },
+    {
+      "name": "Lisa M Spindler",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0007-3502-3033"
+    },
+    {
+      "name": "Joaquim Aguirre-Plans",
+      "affiliations": [
+        "Discovery and Data Science (DDS) Unit, STALICLA SL, Barcelona, Spain"
+      ],
+      "country_hints": [
+        "Spain"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1971-1350"
+    },
+    {
+      "name": "Quirin Manz",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5706-2718"
+    },
+    {
+      "name": "Tanja Pock",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0007-4106-4659"
+    },
+    {
+      "name": "Mo Tan",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0001-6706-2789"
+    },
+    {
+      "name": "Fernando M Delgado-Chaves",
+      "affiliations": [
+        "Institute for Computational Systems Biomedicine, University of Hamburg, Hamburg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6171-1215"
+    },
+    {
+      "name": "Cristian Nogales",
+      "affiliations": [
+        "Max Perutz Labs, Department of Structural and Computational Biology, University of Vienna, Vienna, Austria",
+        "Ludwig Boltzmann Institute for Network Medicine, University of Vienna, Vienna, Austria"
+      ],
+      "country_hints": [
+        "Austria"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7535-0417"
+    },
+    {
+      "name": "Harald H H W Schmidt",
+      "affiliations": [
+        "Department of Pharmacology and Personalised Medicine, Maastricht University, Maastricht, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0419-5549"
+    },
+    {
+      "name": "Jörg Menche",
+      "affiliations": [
+        "Max Perutz Labs, Department of Structural and Computational Biology, University of Vienna, Vienna, Austria",
+        "Ludwig Boltzmann Institute for Network Medicine, University of Vienna, Vienna, Austria",
+        "Faculty of Mathematics, University of Vienna, Vienna, Austria",
+        "Research Center for Molecular Medicine of the Austrian Academy of Sciences, Vienna, Austria"
+      ],
+      "country_hints": [
+        "Austria"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1583-6404"
+    },
+    {
+      "name": "Andreas Maier",
+      "affiliations": [
+        "Institute for Computational Systems Biomedicine, University of Hamburg, Hamburg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4408-0068"
+    },
+    {
+      "name": "Jan Baumbach",
+      "affiliations": [
+        "Institute for Computational Systems Biomedicine, University of Hamburg, Hamburg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0282-0462"
+    },
+    {
+      "name": "Emre Guney",
+      "affiliations": [
+        "Discovery and Data Science (DDS) Unit, STALICLA SL, Barcelona, Spain"
+      ],
+      "country_hints": [
+        "Spain"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3466-6535"
+    },
+    {
+      "name": "Markus List",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany",
+        "Munich Data Science Institute (MDSI), Technical University of Munich, Garching, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0941-4168"
+    }
+  ],
+  "joint_first": [
+    "Johannes Kersting"
+  ],
+  "joint_senior": [
+    "Markus List"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 15,
+    "R": 2,
+    "h_lead": 37,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 874,
+    "I_open": 38,
+    "I_closed": 56
+  },
+  "lead_affiliations": [
+    "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Markus List",
+      "openalex_id": "https://openalex.org/A5035928806",
+      "h_index": 37
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/nf-core/diseasemodulediscovery",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag223",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag223/8726292",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag223/68709180/btag223.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/nf-core/diseasemodulediscovery",
+      "https://github.com/REPO4EU/modulediscovery_demonstration",
+      "https://github.com/mwaskom/seaborn",
+      "https://github.com/scipy/scipy",
+      "https://github.com/REPO4EU/network_preparation"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.17674968",
+      "https://doi.org/10.5281/zenodo.19186412",
+      "https://doi.org/10.5281/zenodo.17674988",
+      "https://doi.org/10.5281/zenodo.15049754",
+      "https://doi.org/10.5281/zenodo.17536307"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://nf-co.re/diseasemodulediscovery",
+      "https://repo4.eu",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/btag223_supplementary_data.pdf?Expires=1796410489&Signature=x~L1bI7joWhKrOQ3MOPEHYuM8kQjjULaYOIg5rNsUxzRtoj-Ve9aB~nxc6HE0ZKS5WfheI6T3epYHA6~vnVZwNJ0dZxU~RTZ3lWVI8e2eS8HwV73lVWlvrrFBtF4zU2OnXv~-WTlSUHVqIR~xH8Esiv5GcrNwR5EgxsPuKRT~oI~qSq1hxbpZ-AbrkNZtFaZH3gmiLOTDDdESXczaxfK7luN7o0lPihxn~~uzba49xoalcGChOjAxyPLE5SByLG8u9vXRYRkIo~WL05c-fBpQ9R17~xG94ZaoLoqiIHPREs7HeN8gNQdAs7BrLfkuPTM3zhN16qCQEuHZ8~fQER68A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.disgenet.com"
+    ]
+  },
+  "files": {
+    "html": "files/btag223/article.html",
+    "pdf": "files/btag223/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/m_btag223f1.jpeg?Expires=1796410489&Signature=1Bv0Otz6WYrEa4FnGnFt5LbhXyAq7BBP3L6Im3gETBnru9d73wldHGzeE64~EMb-8dyuVnu65Tehbc1vAE-F5iGsiE4oYT0wjydeAuSBJ5joSHJzn7CWo9EQLQwRll9lJPA16Yq9bUAJobqS6FY0w8Kf2K3-9XBO9LgWP5DNWZB1uhqgJuT9zP1Vtk4LGSM4l1uV3UhBGMOx-nBkhNezdiV51guC0pjGGHN12KoSU0PofsTm8Std1a4qdrapqmVpKbSH15kPXEc3gcfO4CMLffqlXjzwg1xUlg6Nmsf8F9QJperdetPIBMjF-NNqSROGJMkzSMQ5vdV4JpdvnOzHZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag223/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/m_btag223f2.jpeg?Expires=1796410489&Signature=uYa7hm~JX3RnRenP5vjrGAz2L0BMfUVuqB-NOksJ-oyXjagnZrOsgX7epXRrUBHgTFQbPErGCSz~UjafHzxXlIB3ZSrbpzVT2u8iv2bHXJaVu8drp5Wv1p3lnvvgadw0dKiQGced~SfqqExI5d4LjvNc0~H4DcFVJVjRmmxvu8HlVnV3Dvi-Rg2fJGQ~jDk6pUQcf3xGKIzkzEiLyEluN5JkncPTZTF3HNXg4ZdQtpa6Mh-A27H6j5qoSDmPyo2YUzIZ7Kc1YR9PMf2A-2jnFgq7NZPYR7GKBemwWvUteUdzA19ORG-tyXJkYys71meSQ5~tMErDhvc~X3iWgNPkaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag223/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/m_btag223f3.jpeg?Expires=1796410489&Signature=vQDad6yA3uwmg8p~4TCb9XuY6H2LHpe-JeTi5bn~ARVoRnbtldrOhuXX9v4r-O4yW7rgS-q5zLhjux0LAMSuYX4wHUoJi1~4CjbdEr-wT8E8KtXoPnEVkEki9GtYFQXgyijd~UZ3lo3uD3~EKqk79lrN6eJQjj6PNhHg0QCaJ7PMWcS8mW00DqlLfUZFMqal7hULtC6KDV~wpPGK2DNYiMKNh7ly4tw4miVymLhQ50l5Dv5~2jUAwjlLd2iLSTUeLykHKc2vq7pcXCH6PsOmdLuAa9fkTs0XKUFaNAmKr9jn5iEaTHh7ReYAxlwZ5YsTiP5D42z3hRvpS2JhroVJjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag223/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/m_btag223f4.jpeg?Expires=1796410489&Signature=eoz0YWt4TjwySxSoTfM~cjiknX~~vcw5DGeRoRHHMZZkOyvyi7Edpgidre5m7yPOR7~N3qMMZUR1FqG7GalHKtkronELMkNt36CIklaoCoRqfKq9OxXk8bYqO8s~qhGLsKAcQ-Ep1Hmmp4Bm7RwxqaEZ99d4oFPKQxlW68X7pvD0fvt2TIJZQeLrTptPMZDcjI3aKVQ9mr~HqQppSeHSfhg0z8CHXRql5quPo9gOBFmoAig2-c6~Bh1x~OSOFfoIpEeC6Ww7v6Qd0Cm9utF2m7Q-6YZ-qyx2v9x2K61GT4jbAJTtqtL52nx6OsY-8jTiClS-Yl8bEA~kSeibvwM57Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag223/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/m_btag223f5.jpeg?Expires=1796410489&Signature=LMr1hMJwKp8aeAq1KVzuwRd6VcixRLa1Llwu3SnIO0YO2duyHF2sJ2YBRnpo4UrESjk-Jj7ESBoMDSnobxoSID1-v~FyPQxiYojvOR-xXrHumfcg2g6MhL1hhHey-qW5ohA5xmM3m~bKcEIT2liwskIhhcAE1QKSLSOU8MVRvQ2jEU9NJkjAqy3z3nFwOXUTm9nNEUXY8o692Iz7LfQuEyWzsNT5m7tYKHMbMjFvhXDDszLf7hg34Ud~yaULdkq3qPIp7a4oeJsDzZfJd743J1bHKfSkNsQlAvreoZd07y8CIIaea9on5~EtSWmxm-QqC7c6-VTcA5AtTKzbgW6jrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag223/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag223/3/m_btag223f6.jpeg?Expires=1796410489&Signature=tQ5zcCU98GrxTaArO9lu0bE5QdfWBuwjGJ3q6zV1pF~7Ql~kPdt-mJAIXkwRdS7xserzQ8gRicOLJ1OIC6SJ1EFyMgQjAdNfs2DXwN4YVSoT4f8KUL3N-U0y3A7s6A9VAAbV4hDTXKVSw0MCVCSEqcRLaPZIa3GGAHj0VW9FWRv3iRzo9RYbg3oJTcq5DWLjkrxUyaq1vlZxmiPBe7FSNZs4svyFV2~Gm8r5JAyXCnE~GseJz750f8O0Fvr-T0lq8nhCHrxzfw~kWXXC0Jv09Q0JCf3TtH5OlycCUW3ZJM~Rh06FSUetp0Qk59PXuZmsXLZbnQ2rUlEwdeT~agWNnw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag223/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

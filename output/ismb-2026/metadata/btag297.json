@@ -1,0 +1,160 @@
+{
+  "paper_name": "Foundation model enables interpretable open and error-tolerant searching for mass spectrometry-based proteomics",
+  "authors": [
+    "Altenburg, Tom",
+    "Muth, Thilo",
+    "van Zalm, Patrick",
+    "Steen, Hanno",
+    "Renard, Bernhard Y"
+  ],
+  "authors_detail": [
+    {
+      "name": "Tom Altenburg",
+      "affiliations": [
+        "Hasso Plattner Institute, Digital Engineering Faculty, University of Potsdam, Potsdam, 14482, Germany",
+        "Department of Pathology, Boston Children’s Hospital and Harvard Medical School, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "Germany",
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Thilo Muth",
+      "affiliations": [
+        "Data Competence Center (MF 2), Robert Koch Institute, Berlin, 13353, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8304-2684"
+    },
+    {
+      "name": "Patrick van Zalm",
+      "affiliations": [
+        "Department of Pathology, Boston Children’s Hospital and Harvard Medical School, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hanno Steen",
+      "affiliations": [
+        "Department of Pathology, Boston Children’s Hospital and Harvard Medical School, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bernhard Y Renard",
+      "affiliations": [
+        "Hasso Plattner Institute, Digital Engineering Faculty, University of Potsdam, Potsdam, 14482, Germany",
+        "Department of Pathology, Boston Children’s Hospital and Harvard Medical School, Boston, MA 02115, United States",
+        "Windreich Department of Artificial Intelligence & Human Health, Icahn School of Medicine at Mount Sinai, New York, NY 10029, United States",
+        "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY 10029, United States"
+      ],
+      "country_hints": [
+        "Germany",
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4589-9809"
+    }
+  ],
+  "joint_first": [
+    "Tom Altenburg"
+  ],
+  "joint_senior": [
+    "Bernhard Y Renard"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 11,
+    "h_lead": 40,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Pathology, Boston Children’s Hospital and Harvard Medical School, Boston, MA 02115, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Bernhard Y Renard",
+      "openalex_id": "https://openalex.org/A5005996110",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag297",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag297/8726306",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag297/68709268/btag297.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://gitlab.com/dacs-hpi/yHydra",
+      "https://gitlab.com/dacs-hpi/yHydra_train"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag297/3/btag297_supplementary_data.pdf?Expires=1796417161&Signature=Erf~Q42~XPZD2S1vzAtPd7GHTD68Jp9Gc8zIRvH5wEpliU85j0on0WXckPLog5Rm5YGFYvSoKgH9oj-3hCkfSPEp-Kw1IkwoeX-FaoTjXOPsCscSkIJaMR13IQEj9gtL9lFS6Im2CXhkjoLFgLBM7QVZTiCo3-ZnA7OvZP43HSgqyjK7xDGs8MozR5Hl8VYh228ObVj1IMmeBN41DZxiuJh5bAMCOglaC3Fz5BY6hJnakz0mvgJRhNuUOnTF3-KZo2INZf7jX~lNFQP2evReAyDFappR0bJXoH4KxG~2t5DrOCndUmTdH9KcuuQueMXvtq49aIKClgSsx0XXW0QJ6g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag297/article.html",
+    "pdf": "files/btag297/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag297/3/m_btag297f1.jpeg?Expires=1796417161&Signature=FTMmReuIlCbGbtssDQIrH19uWMn26OD-1a1OPtJhCHr8Omk~NSgAueBxMhfsEfbFIP4-Uk~v2dWw3yIV~~quCDabMebFkCHvPGxYM6NEPLFf~0S4Dol3I~IZZt4j0SHOSJII9chWaK-ayUpCqBlFnjGHZdG6VrWQoqcCFkAi2Jn5n~VYfafP-veaLOietIvSi9uW0RlBqA3oaKz6dgnNHf-glijPrI3STsblqeWWB0aAtIvYg66p6aXppt2z8C76DlLpHXLPyvZexBMuFFvADDZ6gxLdwN0msyUkHV4c1yDBSJD6f2JGrSSaTGhq0xImPu7SE39zx4ySEAPpdyXVwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag297/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag297/3/m_btag297f2.jpeg?Expires=1796417161&Signature=eE325-y4xzLubQ2XTBmoXwn8IJvS6ntRBl4la4I27z5eorEuzsUpG2HHCx4tzMR1qF7GASzShrvDdqsoSpgWcv~mYPBiQ6lNtOwwCCIweSZa~3MSgp34-wCszcwLsDyYQtp9Z0eFTdghEwCHXVgElcyA3iT4FcbBSeqX5SFEZeV3tveOA8c46GYrErETor9Kp~bZKI6m9vwSKBOlSJFaOMteNtw~xQsof3GkrpJQxJP1VaYD1DVElmBBbRaewcn-b323hoJc0JRljYqm9P41c3nmXvANJx53SCoHo~-oqCBahww2ZtKMJX~EMu8GNXGAfYsdr3slV3y2rd9qrZ2nJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag297/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag297/3/m_btag297f3.jpeg?Expires=1796417161&Signature=MlZFzP46~4Ja-A4npr7wZAy3qej1-NTUBhLol~bzXhdcKHb-QXtqjeTHY8cwpwgddfTqVg6qTkfPQerd5M3f0C5hpptotzIhZqz-tF5r3YWSThQJjGMiI7QxWjBoIPiLmlwP8WmsM6CvjbGWHTDRp1boZhn9wHU23oy3qhUBUNMVrzy-D0-2ncIjwWhzhAjB9dx6twgTJZ7ONb2Owg0pMeYuJQ~Qygaq-sj1XD0gt-5jzH3VfFpFQsjVm5X6AEtoHd7U30dYNRuK4h4~BLo-D6BKcrg26gjdH3MMwa7gHdCEJEo~LZ8OTlqQW~jAUMQ2eSjiUR-5EH8c1L0rL64PPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag297/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag297/3/m_btag297f4.jpeg?Expires=1796417161&Signature=aaYTwVVUa4YYxy1QtODf7QkLZ2-z0VE8NfLI9CY55euRFKeQcWJ4PXMct0CKj4YTvuiTdmeMyuplnU7UjQ7-77impEQWAgc-s4UnUe4rcXHSimOH2PxvqVpdpnQCBapaxC~R0ByPzmxkcrI1ThDGsGzpsVCrFPXyjzlJTpApPLAMMI6aq2u2MBiP62hAINxQ~Q4aMk~~of2f~SyxYioxMpI6swGyF2PITObD4cmm8GZNTAS7G4E~s5rQiFhobQB4ol~KydeYGCLlE6XyKnrfZpif5QMOeX0PGdgh3KyoVqtTmAFsU1pe78JA4T9kkERZ5AMCaEPkZTe5aiM7g75kQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag297/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

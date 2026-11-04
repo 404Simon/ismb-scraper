@@ -1,0 +1,163 @@
+{
+  "paper_name": "ATTNSOM: learning cross-isoform attention for cytochrome P450 site-of-metabolism prediction",
+  "authors": [
+    "Kim, Hajung",
+    "Lee, Eunha",
+    "Chung, Sohyun",
+    "Park, Jueon",
+    "Baek, Seungheun",
+    "Kang, Jaewoo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Hajung Kim",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3209-3494"
+    },
+    {
+      "name": "Eunha Lee",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sohyun Chung",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jueon Park",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Seungheun Baek",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jaewoo Kang",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea",
+        "AIGEN Sciences, Seoul, 04778, South Korea"
+      ],
+      "country_hints": [
+        "South Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6798-9106"
+    }
+  ],
+  "joint_first": [
+    "Hajung Kim"
+  ],
+  "joint_senior": [
+    "Jaewoo Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 52,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 6,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jaewoo Kang",
+      "openalex_id": "https://openalex.org/A5076917278",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/dmis-lab/ATTNSOM",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag314",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag314/8726294",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag314/68709192/btag314.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dmis-lab/ATTNSOM"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/btag314/article.html",
+    "pdf": "files/btag314/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag314/3/m_btag314f1.jpeg?Expires=1796850880&Signature=K~F9c9TXhM74OxhNIcRMmue2RZSCHENr9QIkMvR48xhR~yPJQcdo1677nWbpnX-ILgv~tFDcIdHsmrmwn6GLcoPT5ij~K~Wk~kDGdSqX0FijxjbLPrt0mPqHYmvIPjNS3vrGiP3pce3BFFHhgAUL-B3UrepnUW~1q5qPCkMRiu5FyeKc55z-KAM-hTovFEM1kVH8ii7AtF9CIJeCVVF0UjMj2OA68wsJL7VLZwKmqASY8ur2ZNk4PqjQeFWtsrorKYp1mWQ4yS3estGA8csaUqoA6CuXkEA9SoGSqzGsm5U~Opurrmahcdlf~PVrJiS7U5Skcgwyw99~HEltT~NSvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag314/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag314/3/m_btag314f2.jpeg?Expires=1796850880&Signature=4YRR84a1-kDgYqw91VagaK41GmTgR83Jo0TAuuf791P~S51PqHYXveAmi0yYxtUV5fsqKIY63KmxQ~m5440Lw7y6S7w4BPXWpq6smbPnfgyOq~pf8Tg1fgwmf3XZ9nFduGk0KtYwJHQzgl7ZBxXJ6qOFuBFIt0fBhpBEOc0THtXIOoojncbLsklaawJ19m~UN9R5eGEhumiGBoxR4P34ej4ItiwpNQK-f2YErKXPO7WJxxkY9zHFx3NvVshRI7Mu4ILKTcz-yiQT5IdRNpozkWV2918lAnkqtIl7VO6HkNS95Ht8GksmER6ku4QT-ofyBCzRRTc63ctsIisvzWdd-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag314/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag314/3/m_btag314f3.jpeg?Expires=1796850880&Signature=bggCUNYlf90s0ZkACnTIRHxlhQHJxZvFjWiaXAi9eq-KveEk2tR-Iz4TsIvgRNeEeNJlUEbCztcALawbnpxUfXuhePpKWkBjFQaxaAK5VRprtZg8MBgjp0GRglsFakfeEpcDDotGBXdpZEj6RSYnjN-60prd98nZGNi0JIedCyDXE2QQ9jAYO-FlJwj-kPjpaHFTHBc4oD~915go9ua3Tjs2DKvNuFvz3HllepNaYrOsPsbpQCOgnSQKF3OGEvaWxfGDGrXuk0X52SohyYrndfvp-M04BOMGFHMuaqOXo8ntjy27Z-x2GeBBUffIs0--0plaZA7K1IT9sDgo8tjrug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag314/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag314/3/m_btag314f4.jpeg?Expires=1796850880&Signature=pJWwcbkhERgyjrjTXPMQlIMT3ThwWDpEZYy34fiiLnzZ1UjagX2k2CnlS0YKUWbGqzWJ5JRz7S325EjLY2fexCKK4p8upUuCoG-xBhE-hTfYMTUWjgATSOHZDQimJfNuIjCu1kFDb~XTU09-q3bPOdb~ctI7uSnT3aXxgZAjyHQuNy3WpbaknSYOpfsRZC-MomrcYBRZOEGHvWHyiKoT35hGnnVFR8ouUgJkZUjBT1iXNV1zdyVInyLvb2hh0dwz~wqZaDW4DbykUwWljR7iOaOBOsRjxV4TJjQdEB7RwfhpNjdJ6x9~XdhLJI2fN1lUsQ48i3bg8iB4PJHiVNfRPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag314/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag314/3/m_btag314f5.jpeg?Expires=1796850880&Signature=hsfv-c6ZO0vTnraUhyiUXFTItyouSpwVLobTwQM8jF9u7BxjRTs~9IPc4MXqdIjBeVpXlpYo1VUw1K9O1mZz~o-Y0fkBygKWJX96JrPxEbIkNbiu1BGif-M1ac8T3NR9RV5IKBtKJya29ZP3WwgLT13PCU861y1Uk8kKOmtEPUcYnpw6YmcGFJlOuLHgo-KTqo2pPq0BjKvQP2yKzUAyet06UZFOxB7-XY7OqONXP8S73oEns2Bb20Fjzsff3JhWr9VLj7otU4T0MCXSNRqnXzY9WuC-U46nHCC2mYX9FkMQ7l5x3-EYqzmWjb8vtMjIk9ciJiA0N8RbMtJxH1nPaw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag314/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

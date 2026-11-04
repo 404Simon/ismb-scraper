@@ -1,0 +1,137 @@
+{
+  "paper_name": "RAmpSim: a thermodynamic simulator for hybridization capture in metagenomic sequencing",
+  "authors": [
+    "Zhang, Aidan",
+    "Boucher, Christina",
+    "Noyes, Noelle",
+    "Yu, Yun William"
+  ],
+  "authors_detail": [
+    {
+      "name": "Aidan Zhang",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0008-6257-5164"
+    },
+    {
+      "name": "Christina Boucher",
+      "affiliations": [
+        "Department of Computer and Information Sciences and Engineering, University of Florida, Gainesville, FL 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9509-9725"
+    },
+    {
+      "name": "Noelle Noyes",
+      "affiliations": [
+        "Department of Veterinary Population Medicine, College of Veterinary Medicine, University of Minnesota, St. Paul, MN 55108, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6149-1008"
+    },
+    {
+      "name": "Yun William Yu",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8275-9576"
+    }
+  ],
+  "joint_first": [
+    "Aidan Zhang"
+  ],
+  "joint_senior": [
+    "Yun William Yu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 0,
+    "h_lead": 21,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 30,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yun William Yu",
+      "openalex_id": "https://openalex.org/A5015501574",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/az002/RAmpSim",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag303",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag303/8726350",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag303/68709576/btag303.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/az002/RAmpSim"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA751055"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag303/3/btag303_supplementary_data.pdf?Expires=1796419170&Signature=qPhwH4Ph9~6qbnkQAvwh3LQVn9dmlIBoqwIhyKc8~2sW77h1mhe3GvI4xcxN970RKgB0hpE64lj0ii~tRogfXailTdo646BozropE-y4fdvdI0AnMoKeLHnZI6PxuBFoiJT94LnBN8rVkEso9LMPONKNCCilNj41pyASycPdsLMyxjlrw5-ds8Ln67zetMxVQQLyy5PVYJslzaa362jz2HHWX90pdB8fkPK4PVRmGwQ0G3ei-s8yOOSm0bm9DY3qMyW3a5DQjyjQDAhbNPH61lPIjCuls8RRc4Y0Zm3yMGQdP34O3rSPDNaYd9kZAE1MRQPRcBsRwiAJyFl42dsNuQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag303/3/btag303_supplementary_data.pdf?Expires=1796419171&Signature=VYrYp1Rec0-6p~o2H1S1uyQwJ4ousYe8R1qGhJO~aWxRDjpWWZl4tAJp-MVIcbh0DPPHdzdxHLpQUf1C2sMej5mPBcardQ7~dlTwI2fdW3yhrh8Mwfrn8jiyjh6skR-1cErO61Vs1l8fd2rIvNqv~WU3c1eFtke9LL81u5y0kr56iFbwaYwTRiOtgK40M~99eZA5jwj7dNMXXislzwFhLqx0kQQRSbAQJKrztj3Kvvc73EIa7mRqLiBxvpKQqJtoDAVmgz-cWEdUFrQP-PiLEcw0Hi7Tftv~dPCRy9dNjtjtSVHVN2ARCBZjYxXJCNbEhDLBHOWWIo719Wn2aFmUxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag303/article.html",
+    "pdf": "files/btag303/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag303/3/m_btag303f1.jpeg?Expires=1796419170&Signature=LMP0OjIL8EQ3pmVI2fwJU2frTrmcMQkGFbygztsLdS0EO-2TMu~MYySlksrU2UnI6wwcpU4~x1qtk9cVInz5pdC82tXW3CmUIwI-zX38cZwkNabxsUbZY7uph7zqorgFTe34QKVpJhypfWssFiPdEbLKr8VP9ItnMlfLIA3FadAZd-9MQ5t5mz8gtXq1Dc5AIUx~PqB4i8MwjMrpZh3CgS7WQ7Fb2bQwV8cR5RxwejRrfw~lG1Lo-EJSnI2PIiFVSd3OrRgSKMnxyVCaK0wYZBjC6Z-hCdGBftCPGLKG2cD216n7vg01iyrj3Tpq9MLzxQSp9a7c7D1I6LWugvc1PA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag303/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag303/3/m_btag303f2.jpeg?Expires=1796419170&Signature=foHcBEvBgnT85RO05Imr2zgf7SNLqnlCsHfhhm0LBiCkJHWzX90I0i8uPv~Z2N1XH3OqzO22V89FVmhIufj4TW9B769PNnUMxkaRsO4RA8w88E9ByNpJpJMRipHYL6Dfdh-hhvCybnbEq0LHHChD5AeB8fLk~4YP1Z0JYIQKwmMMhHsKskpTKZ5tHak1Px7i1KW2~NqHEtOp41CMy-17DAJEDzUXNUloPfUzBBde67Qns9wNjrQhNI6n0H6dHCLNWMcFgi7VKh-PNlk1A8m4hf5H5RWHVZbJJM5x5ExKazRhRoTAhrs2jPMmt2WDRkNa0u2Efdsp5lU98Ml296JfxQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag303/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag303/3/m_btag303f3.jpeg?Expires=1796419171&Signature=KWkMGJUfEn6rFpRqNnMKeT-rXe51-w1lipEHnqTjygfKwfDBFKaSMoat7mMD52fkLGo-qXGeqO525AfMmQx7rF2-Do2rJVNF4yl2Be8l2bWIu0q~1~dWcrZD3LraAF~b2F8x1lIt0O2OBxDn8asckGXFsEwQDcAatdkN9MAO7Mtc0yTAOUj~xNyaOWtDKlHp8Ngl7jbmUW2axxpVT3pR470b8CPayYmJDVu4X4qqpgzsA3o~PFE3SHr2wFNTO-xQlq8ZAN9orbfNc7DDoDUWcrT6Uykuombe0v92dYrK4k50Nf8ckt0u7c8f21YUAfh15Nje2LsAY1foKwqh-P5uKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag303/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

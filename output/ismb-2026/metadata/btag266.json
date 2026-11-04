@@ -1,0 +1,128 @@
+{
+  "paper_name": "DNA-aware evaluation and debiasing of sequence-to-function models",
+  "authors": [
+    "Cakmakci, Doruk",
+    "Li, Yue"
+  ],
+  "authors_detail": [
+    {
+      "name": "Doruk Cakmakci",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montreal, QC H3A 0E9, Canada",
+        "Mila—Quebec AI Institute, Montréal, QC H2S 3H1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7626-7647"
+    },
+    {
+      "name": "Yue Li",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montreal, QC H3A 0E9, Canada",
+        "Mila—Quebec AI Institute, Montréal, QC H2S 3H1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3844-4865"
+    }
+  ],
+  "joint_first": [
+    "Doruk Cakmakci"
+  ],
+  "joint_senior": [
+    "Yue Li"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": 30,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 25,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Mila—Quebec AI Institute, Montréal, QC H2S 3H1, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yue Li",
+      "openalex_id": "https://openalex.org/A5100387763",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/li-lab-mcgill/dna-aware-s2f-eval",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag266",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag266/8726307",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag266/68709275/btag266.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/li-lab-mcgill/dna-aware-s2f-eval",
+      "https://github.com/kundajelab/chrombpnet",
+      "https://github.com/jmschrei/bpnet-lite"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19210955"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/btag266_supplementary_data.pdf?Expires=1796431974&Signature=QEJvJeE1xWCudLO8HFD1KbCfAmxFRDKCGP3v6hXA-O98faykQycgmsO7LQ0dNyGekxHMQ-uTnxjwbeUi2aJLF6V7xLOlNgtDT8QcKrI2VBbBn4xQgZqAkvWvqsePoolTUJwo0h6QxQaXupcZI0iRZBhBROUfsUutXz8aJOjNGhVNluXdS~GW46fBiVKcegEix6BIyVHBmlRZ72wY155BSh11zrOyy3ZKSWfnOmKbWIDom0m4DqAeVXe7bcLZgCvqW-mrD2U4nFxe9atr7B9rJOqeCPMiKV8SGHfZhg24xMSsbIG0ZmyWJBu73zvqZyp~wpsqYjJ~XrfW55usduYA8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag266/8726307",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/btag266_supplementary_data.pdf?Expires=1796431975&Signature=lNphYxu8Muy0OrH5Po6AulGsmML5wVCXoK3hFzzaLXr06bd2IZKLK7sgLo9U9jUF6PemNRgzskWTbO4UbpiVIG3o1gYxUSf8-RFSDZXAIS3AfH8V4YbfA4hpgfIpkY3R4QhwwbiwPvlybOi3qFjvbjm4jMlfHrodFoAWXzbN4yEpGd2eLfIyt8VEwBsA8QakFoS0EPXE~Z8eMdYPw6ttVfredH7iA1mndgGX3OSHwTDb9e1mWZ6bZ3ASrN8NPzB97rCIFG2kavl1HAU~YM1ZaNqCKBi2KLrjQ7cZGACBOIqOpOAYYDPm7FifRBOR2L2LB-AmLuYmrXBkyG8OxP89PQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag266/article.html",
+    "pdf": "files/btag266/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/m_btag266f1.jpeg?Expires=1796431974&Signature=TcaGPJETOBzqGshq8yApyG0Cqcb9XU3Hl9VCfw9s227Vi3wD-QcV4XFUJ5XJ-8L6uvIM8mASb7Cd7tkTkpiGidC3qK0VvCPkPPotci3WNOILhgWUgbchj7Vl7eDUEE1RY9G~XotBZzPKn6hTWtqRY6hy4rMxngcJV7cQJjNJoHwDUEBOnF6NNavbR~i8DaIqNxyz6x3MFWtp2pRxaEOJL6fgICedx~z29BkGJOBKZ7pdfGGk7Qmj~FetpcDbxuXNFxXb1oj~nbqp6B7BXzp7NGeVL4Z2xz-8X-og41ACnR3dsA9tVMSG9dvUEck9xghqViKWxdoFIuLJia2uNSKU7Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag266/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/m_btag266f2.jpeg?Expires=1796431974&Signature=3l9nQ6q~bGjbwqdi3Hv4eg1YXEePsfXo-DQD8eVtFQ7p9lhVbuHhpplF2M85BufBdqXmgECGWw7LyrvicIA38xFtltEa7YXqyYxyDTe1ARrzMQyBhynpx4BKfqrXyOJ0lYQZjy~QhdusgsPKjTwz4x1Y0JCV9baMqM5Y-fkMQmboOU-T2Fr4LVkltpeufN08ZkcYfzy1DseCXp8Qrp2Yq90yLRv9-rotkcGm5SvNMeW48BV9dHmrRIYXC8S-JZsSeQRklcH~4dfcKVSmL9IvAT3KZrjXK5hfLfYfW-GotRjjSm55f2VFcuVMCio1lnK7ZKJwWQ7X8YjQ16LBp3lqYQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag266/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/m_btag266f3.jpeg?Expires=1796431974&Signature=hGQq2FkB9CVJ6hyPwHKuDF9dMtX~3UPASOkeIE6W1VgRFx5U8D3i9snT1F4ZqbiBZnX2v~P-zUDl552XGYngv00qcS4GgIZ-NqWs2Y3IUWDYwcr65TrtvpXfSIb6bSHUE3~76jZMrb36zfdAy0YXjZ7vZeKQ~UjRKDPoETkq~V5ixHmNuexJSUuU4Uzm5X0udzTrSt~3gQxCnQpoijae1kUJRn6sNfZMyv8BYMkuGbYQg6z5Wm1uyPJ9A4OIXGlgr8jyoC9GDkAv2Cn6fb~FxDJAriL0HITSUxpk8lYY2DVTYzhRJm0uasMex3HUTW1kUXGD8JaxFQfcsxqWhk~qjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag266/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/m_btag266f4.jpeg?Expires=1796431974&Signature=eePwJxyx~wWth2qfg8bcLgvpcpObPOoU0FCIoQodS-Qpc4H~mzlZ-7Seed0PuO6fL9qTc5VJTmeIOK1jcUqg9hSDPWMYjdly0p~gWCLK3Dri35I7gcRGbLRvAUP79qyLto4hUDXXZQfEp-fBupBHt9Vvr-8R~pWuWcWVy9ktiwEvF-ppNmSjcNxdF8BFD1pAu1YCsmtkfluqC~YPYm57F1fbUl0rjcN-Nollqr~tTRk83D2h3~0Ne5ILb5firPRXwX6NYqcYBIolhnuf1GCPfwLk6RFxtrc0gV2G9b6KIDe1RgVg8Lmf32uPyidLypXHf1uhtXXcLfQzRPHVLSSYwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag266/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag266/3/m_btag266f5.jpeg?Expires=1796431974&Signature=R5dNqRB3nAbjlES33fE5GxXDzfVxxGFz40bqCa0T7jWtwYQH4gfwmqSfbHfq5xop73Wz~NnqrZI31qmtgtfHJKElCX2xgVLuaSIqOp9MLKri~TsqUIwZgvScoWrMmw6u2a-Z3LDgYn3es3uJsMfSnVRmYDdhWzwYlia-0vLPELk1I4T2I0C27T6R1QJaJltliuuBbxubD24W84xzQkxuAk8D3GqCj4N1pJPNd6fFBrLUI7aO9wFRPTIi7Q5kkA49V0LJ86AJpD97~Eu6PiXuY5wyZJSmUba1yULFz7LGTlkP4mEUrESd31dRuDMV5lIS7lIZm2W2k3q8BQCASagwHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag266/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

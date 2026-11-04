@@ -1,0 +1,144 @@
+{
+  "paper_name": "PUFFIN: protein unit discovery with functional supervision",
+  "authors": [
+    "Uludoğan, Gökçe",
+    "Giledereli, Buse",
+    "Ozkirimli, Elif",
+    "Özgür, Arzucan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Gökçe Uludoğan",
+      "affiliations": [
+        "Department of Computer Engineering, Boğaziçi University, Bebek, Istanbul, 34342, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8684-2457"
+    },
+    {
+      "name": "Buse Giledereli",
+      "affiliations": [
+        "Department of Computer Engineering, Boğaziçi University, Bebek, Istanbul, 34342, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Elif Ozkirimli",
+      "affiliations": [
+        "Roche Informatics, F. Hoffmann-La Roche AG, Basel, 4070, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3206-8427"
+    },
+    {
+      "name": "Arzucan Özgür",
+      "affiliations": [
+        "Department of Computer Engineering, Boğaziçi University, Bebek, Istanbul, 34342, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Gökçe Uludoğan"
+  ],
+  "joint_senior": [
+    "Arzucan Özgür"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 0,
+    "h_lead": 31,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Türkiye"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 18,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Engineering, Boğaziçi University, Bebek, Istanbul, 34342, Turkey"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Arzucan Özgür",
+      "openalex_id": "https://openalex.org/A5030252794",
+      "h_index": 31
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/boun-tabi-lifelu/puffin",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag265",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag265/8726308",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag265/68709284/btag265.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/boun-tabi-lifelu/puffin",
+      "https://github.com/pyg-team/pytorch_geometric",
+      "https://github.com/a-r-j/ProteinWorkshop"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag265/3/btag265_supplementary_data.pdf?Expires=1796414446&Signature=atdKVIdCF6eiWzU4T2-wc3zwGu-~IW74ZiRU0fJ35hinrPQLALvjCzvbKAMSDvcNd~hrm5V1sDyFpBF6bjbeN0vlY--fzf5sAMDZWW4uvmd7V0T23cwtEg22oxnRS0~63RuPh5YuAhen-8tvn-UiiKLuvQrqsJYOCotbrrB1Lk4aK7b2RrAGnhRyWbOJYUTYlIUq6N5PdypgTim27AATtV5KJky824lpQQBfoo4aS2UyK0oAhfcuvkhbWu78rhZqL0nVAMBGT5pWd82i-1sPCgthr4TiOlrvtaZEQZYm~zbg4eyheqJhZX1gWGnopAGgcpJKeVeYZu1CRd-u~D-BlQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag265/article.html",
+    "pdf": "files/btag265/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag265/3/m_btag265f1.jpeg?Expires=1796414446&Signature=jEYYcVdoVocAVbNRryTkqPUqFpM6jHT20CMiD6aynpfS53brMAXY7JWZTJvyYqPmDGtX-pFNxc-XpnnUc-YrOqyIQwP65f-yjT5~rRgfsiEHlgxt4KNZWKmGaNeeQWHLJR3B1DKNgyLwJLt5-AZUOS0TY9CMVzyaimAqcv1EXf9XTUSJeZJ-7OtaCVBpplSQKS9PskBpQVNxborpH-lm0ECaJB5mYY0Sm~JbfG5XCa5LYNWp7Qwpc3kuKtxqGp5FVwB0L27tg8Orn6vSxbGjaDvLQAQr6rLI6g1oBbFmb70F7eT498kXtgH90VesGoIHUAlTetLWuABGxzghosUThw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag265/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag265/3/m_btag265f2.jpeg?Expires=1796414446&Signature=Ouqi2E2XMencoqohFdXxWGsXYkD3LOVOrlGXZdNhY5S2Bb9JzgodLJaBLYKWKIHKGPUkgJVvmTyYLvBQq0mGweaoaBHfv65pLP1cAud7tyba-UkvAZyIxk-VIbV0ZZlZN2yQ58VGmedWqvWjwwgFzoO7ww-gyqEriXj6pnIMTz1Zls03lmaxbaaA6fUSpjbr5HvU9mtlym4LiOEOyE238fwZ8VnDyFb7OsIsXtujBD~3W~quvNkCvxzpE2W1~AeGXMTMTiGSAyOced-eeeNdsGNidGjps-sjIWZ5jE1XgpXcGL~WHec0DY-cux10y-JS4~~IypAbaurx3p6TgH-iog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag265/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag265/3/m_btag265f3.jpeg?Expires=1796414446&Signature=DYC~1wJQJG3-dZJi1labJBbHeDf00WfYsKZ-wE37tlPiE7nrDRO-vBtd8ROFTExjSnxixvX0ggNCsNVp0~oeBKD~5eglg728uh8vjxDeRtjx~Ghpn32zmsG9Nmw3-h~WD9Vn0gkE-Tzluiirc-4kXJ7XRyHwj9LKGWL2xkaccgR08s9ZuLP6caWAesLURq8JBZdTt3jVxrQx6AX8kguRkE8HCrb63y1V9EsJa2Hmo2xvtCin8fAT0J-fwY9DhJiW-JOuO9TpIJFXxvmFlGJaiTaJPMkU6CVdcfRrFMi1OZUdUK4W5OV6OoXs25OcVbuLHyo8fc7myEzqxH0JkCvSCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag265/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag265/3/m_btag265f4.jpeg?Expires=1796414446&Signature=XvHEtYABFP43csscKXw8L37FuTFhAvCPPTJtysI19K7KrtM~X9guwc-QEOot1frAQEG9Yr3TOeJS6iUDp7quIdz2gW70gOa4nBzNeDJ94ig3qahbd3ShCrm~KktXsDtUU~iRkdQB1pCRRrDw4DNBea7aD8lfhma3wA7WtbCV~88rk-9hBwE19N-FiHHHtSJ4YHu4PR2AoeqH5NrJNCRN98QgTdwsgxQt6s5QhoP3khr7147yCY3KqJLPSvDf1h6qZQXN5dcf~EnkKFCDIuL8nxGP~PclyX6uJZKyjm3ZrVXzVy96XZ5g5IouumlnTnB~sDfgzmypeoKtE4STTEBb0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag265/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag265/3/m_btag265f5.jpeg?Expires=1796414446&Signature=nORWsIh4tQKFaiVCOU6l2sCK3vcA5kSRFK5ImaTy2A~s9JDE1brI3Loy04z8o0mNLJB2F5k7RMuOIV-GbuC9~JakqSvSSEnVOpVG7F0q6w64ysMN4Nyuuu8bJxJMwJ63BnX58~OtLm5JhBlTx~k51M0VP-IPYlQ-kwKGKUeYP2LLAhUZ-HMjDeP48X6iH8QAV1llnRzGci-ixCnhkP-OXA~413QvBfBA-Prwy0~W78OKOZRAtQK30eEAXC4o~0pI8YsLFQL-hieEtiHbVs2aeUwvWfTBoX-cUR7nUgK2vBrRd66kfrWodRVZg3dUozQ8j4j7BFrzq1635ARIs5CM1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag265/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "paper_name": "Amaranth: enhanced single-cell transcript assembly via discriminative modelling of UMI reads and internal reads",
+  "authors": [
+    "Zang, Xiaofei Carl",
+    "Zahin, Tasfia",
+    "Khan, Irtesam Mahmud",
+    "Shi, Qian",
+    "Xing, Yi",
+    "Shao, Mingfu"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiaofei Carl Zang",
+      "affiliations": [
+        "Center for Computational and Genomic Medicine, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, United States",
+        "Huck Institutes of the Life Sciences, The Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0009-8313-5157"
+    },
+    {
+      "name": "Tasfia Zahin",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0000-7040-210X"
+    },
+    {
+      "name": "Irtesam Mahmud Khan",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0170-518X"
+    },
+    {
+      "name": "Qian Shi",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-2925-0481"
+    },
+    {
+      "name": "Yi Xing",
+      "affiliations": [
+        "Center for Computational and Genomic Medicine, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, United States",
+        "Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States",
+        "Department of Biomedical and Health Informatics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9257-7613"
+    },
+    {
+      "name": "Mingfu Shao",
+      "affiliations": [
+        "Huck Institutes of the Life Sciences, The Pennsylvania State University, University Park, PA 16802, United States",
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6112-5139"
+    }
+  ],
+  "joint_first": [
+    "Xiaofei Carl Zang"
+  ],
+  "joint_senior": [
+    "Mingfu Shao"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 13,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 452,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Huck Institutes of the Life Sciences, The Pennsylvania State University, University Park, PA 16802, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mingfu Shao",
+      "openalex_id": "https://openalex.org/A5052979637",
+      "h_index": 13
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/Shao-Group/amaranth",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag292",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag292/8726313",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag292/68709326/btag292.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Shao-Group/amaranth",
+      "https://github.com/Shao-Group/amaranth-test"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-8735"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/btag292_supplementary_data.pdf?Expires=1796414691&Signature=4xDFoTq8aYgQTmJBBu7L08~HSRHqSaSkRXqIAl9omZtXBULcq7EhkEzKrM2L-9RSify4lDJwhPe5nERD1Y7qzJpPmkK3mKVQ~Z25KjAtRt4DisGlCMmdK9m0YWife8p8itoV5Lg9iHWg6d7wOyqYtOKQgz9w2-Um2KPmsOyNtTi6rxIf4ptks-BlORo0TXMTaPxZFhsffGCv1npo0Jc9SCgmy7kWawgs4Wg6ORfpDW7oM~zM31lL0~-QqLuwRhe~RzxQjSN0sF-n7q0Jb7XYoIkOzRu-0I3Rgdq0YSSey8eR7RpCy7qmDhvMMy8QGMpV-m3rFNqQ1cZ-gVoGKRsTtA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/btag292_supplementary_data.pdf?Expires=1796414692&Signature=oUVvUFNm3xowMdh3YdOAyH4e~LcTYzN1Gcizsk6JRysXWx9wlRyFdAHrbbC5vQPtIe-RqvuEZYVuhXEOVUcZxCNUzZ889SPrddG1sMOq~A~8OSjvdq-uH9wFVGWQoMxO1jIeQoqUkbGcVQYYGqtqPFAhI2Ka8jy-aY~KJwBr45c5ig5AKAhHxkt4dyclLRNksb3T2bEa~su4duNz0dwH1YQ83upvUBAXcil7F97VSt23vqOTUJDa8nXfgxgGw07N6qYsjmVXcPRBpk2nwMKoUGxUg9qNkEQzQX8zienL9yan6FT0S6sSCUguFzwIu7awu2uGTfTBXxxuz5Dg~1oRGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag292/article.html",
+    "pdf": "files/btag292/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/m_btag292f1.jpeg?Expires=1796414691&Signature=BWfe6~i~AIdpvFEiTYs~2pZwCiDgQDlW-sTX8x~eeDRpMjf6DX0Zy9K3qzmEROIcoTQp4ZMfVF46XlM9kSIuUAwsaiTu~obCG7nyhXdohFA6Gksb~1o7hHNug3rk7lyKy1YvnYodNmLeuhDUo8ZILOc6uf9d55Hngt2M5ivceKMx5KCjM~vnRS6esJbLm2ZVIW7t4FLEl~M9PBm3ZupC5kVC5wlZ2p8E9sLZuKXCmMQfIQt9z-IXd2bakSWd2ZC8fIVRMlEJ-QMWg-qeber-xJQBK0BHFJYhCAY5lskrzvYLly15EbUYmG4XIm77gKmKGr87Yx1KNM76dBR9EAVRZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag292/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/m_btag292f2.jpeg?Expires=1796414692&Signature=lhK1BOH1LhfR1WwzLmvArdaFt9F~2JgTnYzMGBJWkiD9TScCoFsIPCnWe7VIVsVte7oXm1JKH06whUSajYBvihyBGNBS--8pnl2vSyj8OapHZPgvwiITmkdwOeMUklkKO15RyatIc~4kXUBchZRUYWdr~s9TvFhStGhjfiuhpWHgRIZOnYh5yru9LAdRXnqVC7~6vK5yzqhMOJNYWpTiA4bjFNolu0N0yMtwvS14coU4Jh~X9awKLb5YBaPuWTPNo2k0XeOU8hgp6K2cWDqIgBcSIcc2jIyKLPOxiA0ffv~N3NJ2cLLgCmhloQYuXlmfehnUok0ni4ZfvNajyugAWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag292/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/m_btag292f3.jpeg?Expires=1796414692&Signature=hiEcNFBWcncCHXhewaMdSf-FwV8Gz-XbEIfqGcgv4zOI-RNx2btK25Wc0CJa4df6Etb2Qx2eK0J~2X1VyiRbsWIvdseBot-4elwd1R2cGSfffjxC1bg8Vy~YE7gW3vbXre7oO8LJ3WoeVf-zA-JN-zJxaof~o6bFwAxFtVrgtbE~k1wCV95t52P~j~P6LHpV7yrUbYh7lY6UvEmv0Qc50GxEks1aoyL3oWpgbs~Abrywwp8lLPobC~znN0ClBsW06tyNlPWW8cTJ5EohdqD2WEHCR0BYxfT1bdof3AGEq46ma8PsKbQDOYg3SiVfyC6JvLw23QSV54S8ImVjW-XQjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag292/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/m_btag292f4.jpeg?Expires=1796414692&Signature=0nAN6M3zIFaJWyzxwW-UsVipoHUEXX-mpaRX8o-2X0~1sFyU-PYuEzVhxy-x9FyO98t7KINPBiiqBPJa46XbHlExrN3jok9klqraF5pnr~XzLnpd-L44oA8aC6kJuhEVOsKMz~YJIOmWO74Wite-t068C~Q7~L6NipGFNlPwZh3Sl4ffkGfKVTDhCpxmdg~GQRetwTun0U4U8tvfsqyI8RHpoiiFR1AfTmuExu46~8Cz1Ix3n7iwqt2XVhefsPsUO6Uu08pjZEULWRWjZIv0vwqf64l0fNHbFk40Y3kcpAwDQLAHHnr8cHSmI0nFLUzHL~v-bNKvCZBoUt2BvqBAIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag292/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/m_btag292f5.jpeg?Expires=1796414692&Signature=d9rUc~euYIUKmZ3QfQIO7VQ6RtQdyuObrBENAjYEHM8fX5Iu97YQs4e5oktE6FaEHFo13Gk6ig55mTngJFiMWnTPrJgy3g--qesbt3L1Hm0V0gK8tmBjBdrLos1QRakTnMMV-22~b-lhut4RaCMK-LylukPKM1khMMZIZdKZha1BxWV5VUiTsLYGWHaLtorr4WyOhn3CC~ko~tOJKTt8D-0Mw-1v3OlCTJgfZakGcndgqYJeWgwyZn7DBs~h8ct5rVK6vtUqaDHZQJdzySguP6NKQox8sc8B0DxtUrOFsxMwN-YHLT80RskfYcsE-G3~HAtm0MB2A5Vj~rQzsXyIQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag292/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag292/3/m_btag292f6.jpeg?Expires=1796414692&Signature=XzYvZMjB2ZcmCV6XhY4hswbPS3NkixuTp2ns~4jtWgyYDLhNYxEJBzY41j28od4BgaNb9Npb-x4s6s9baUmWsfR8PaJVkE5av0kL7kyIobrQCcUyekZgHkxD2NqQMdp7tlVje3qZj6CZTDmB6R1HZgStblUEbMX3ENJIJOPY0Y2FhTifB~Gb-t8LZejNhTiqD5YPhreGFXgvjzFlsKDDhfAMRbxvVamk5jQVb9de-9sWZgnqfpq8Bps~DEEuRbZIjrC9Kmv9qpQ7CLX~s3l1QpvAi2Qo3Ezgv0g0AYACjByuht8R77LpV4RvP553JZ4DrWrSdE0E5b84xbGDJ-hR5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag292/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

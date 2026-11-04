@@ -1,0 +1,152 @@
+{
+  "paper_name": "Fairness-aware supervised hierarchical contrastive semantic learning for sexual dimorphism analysis",
+  "authors": [
+    "Ko, Euiseong",
+    "Parsa, Sai Phani",
+    "Kosaraju, Sai Chandra",
+    "Mersha, Tesfaye B",
+    "Kang, Mingon"
+  ],
+  "authors_detail": [
+    {
+      "name": "Euiseong Ko",
+      "affiliations": [
+        "Department of Biomedical Informatics and Data Science, Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8522-5334"
+    },
+    {
+      "name": "Sai Phani Parsa",
+      "affiliations": [
+        "Department of Computer Science, University of Nevada, Las Vegas, NV 89154, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5274-500X"
+    },
+    {
+      "name": "Sai Chandra Kosaraju",
+      "affiliations": [
+        "Department of Computer Science, California State Polytechnic University, Pomona, CA 91768, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4332-6217"
+    },
+    {
+      "name": "Tesfaye B Mersha",
+      "affiliations": [
+        "Precision Pulmonary Medicine Research Program, Department of Medicine, Division of Pulmonary, Critical Care, and Sleep Medicine, Indiana University School of Medicine, Indianapolis, IN, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9189-8447"
+    },
+    {
+      "name": "Mingon Kang",
+      "affiliations": [
+        "Department of Computer Science, University of Nevada, Las Vegas, NV 89154, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9565-9523"
+    }
+  ],
+  "joint_first": [
+    "Euiseong Ko"
+  ],
+  "joint_senior": [
+    "Mingon Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 1,
+    "h_lead": 21,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 37,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biomedical Informatics and Data Science, Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, United States",
+    "Department of Computer Science, University of Nevada, Las Vegas, NV 89154, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mingon Kang",
+      "openalex_id": "https://openalex.org/A5058010272",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/datax-lab/FairHICON",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag237",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag237/8726291",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag237/68709173/btag237.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/datax-lab/FairHICON"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240567"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag237/3/btag237_supplementary_data.pdf?Expires=1796445957&Signature=TaMujxKXOR~NYMwCIsbSVO-QFVHrS6hB8-c5TtV~xY33dWB8ajToZj-umuyjTDs0gXk5gkEqBhjaNOof6xdVYPUiskjL68NNKmv~PV2Zwce5PVkJNZ9ZOUuwGnKTqRxRlqTFvT3EZ9XaqbAbGN8nVHnzFdxSpzoREDQWFBlrKDcAa9UuRbo1XdKOsRY7Pa-4wP-JwFbpFtEh-PIuSa6leafvUMBnFPnPidPxRpr92LloQrsnInLA8lsn55Z6lRO8ISZazulA47H8zGw8pZ3QQJqpwtsHuBKSMj4yMsb3i9RgBRzUziOPwP7rSnN9wEq5Is0Dwc5W6xdk~lGDSM~xpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag237/article.html",
+    "pdf": "files/btag237/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag237/3/m_btag237f1.jpeg?Expires=1796445957&Signature=jZC4CyCRWKM4VVwEMq~OxCpAJD7FBxC4vj39vU9d6lmbs7HKAehxN~qUxvDKkR1g324-CASSy~bSOCoUUVvFbiSZjT2FCS0gkoTnbcpYzI25~MuYIm0sgo4YK2ipmZrQB9H5yW5aUdU5qLrNc2wqjryUqQYYIa6zCMhnZLiooUDrjIejB0iRQU1HIlgiJH0AxXfb5FQPe-m3P3DRoQxj8zcCO5~GhBgOYL6c2SmKiEV-ik7wGffVJI6YlqA8KSmcLl9OKMDZ39GCud3GhnHUu3-qQSzgIO~dyP5y-HjY-PFkxJLEMLCmHlfx1kS1AQ5P5A4rUCVbkegXSsnVlsAEfA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag237/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag237/3/m_btag237f2.jpeg?Expires=1796445957&Signature=W5AeNbPh4BOw3A-uybDPVrO01s7h3NEx8f054Mn-tbE2bmo9iO3~ZJySBWqcz2Kvf7rz-OpZTNEFnRTNqTlfrh6vEVgPnuGv4dS~-ZhotU12F-gQ2AOOtbb898mxwtM-nPxS-9paTda97fqgNJTKxtP~eFgqNjhlQOPSwoE43nefL95P-vDv9t6Ek~Pt3spwRw3sdY73z9gp3plnQt05MyDsyYAhEzmHLwMo5GipZgadWf9hv5ufnlbH-wuovqMFksaEuykAWDlWS7RTt2KQSrVK16iG7k6Ym6khKdMFUmjlx5y8Gj0dtcaqJxtVmzhn3WHpmp-7YlfAEO9c~GFVCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag237/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag237/3/m_btag237f3.jpeg?Expires=1796445957&Signature=APcA7kMWOlyi~InezqlGrX1fggi090Ra-vjlrrXS5~I3-j89lNMHSG11XNXu4RHQbs7xuWGaxDm4fQ5MH5vWhiHRoapciHOXfsVi~PPcFbwUDdgt42ivS8Lwl6ouvYsEFaOXwjfAvw4opwAmLaK3UColjMzOq6nwh6y1ll6dPuqJgpZzNpdhYdE2cA2MAibbguJ-oyo9Uzq~F3AiF8IG9q70Hq72v0Zg7mtrAZ01RiSdxy8loFdt1QSxHi~fM-X4P-7nzbHhXYjBAjJ1Kgp25qnkdmwT-D7zmxMxPvSgjau23IYn44V8j-GNVwheOD-08uVWHVYwD1AJklHHZNUgGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag237/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag237/3/m_btag237f4.jpeg?Expires=1796445957&Signature=FAY3OYd7~TZYbGcrTdjJDGueu145Btdnb5IOKQUyww2W8ggcAWZ1h6sfYeH-gbHGt3G4I43RpdND-pQhGT4hiZcCpMOOdO9cP8HflQXVLKTxzpKQXViLhp-ZD9E70HuA7s2~sEd6WCufVpPsjYBcM3M5jMyk630iJbJU3ExBhr0vwG-igBI8JQ4fiAwmoSCy0zVFRc5FlKl0SoO2fydSibzamhzPhPYqW6wAl~tICgiFZheNJKhfykZ7gFTtiR3w3Z0NyQROECS5QM1vk3uE-Viu~xSxwxYcE1NBZ3uA74SXiOhQvyAxRJ29UWk3MIrhI4XKf2NmEsWMGbRkIoIdSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag237/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

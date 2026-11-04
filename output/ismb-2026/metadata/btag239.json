@@ -1,0 +1,165 @@
+{
+  "paper_name": "NoisyFlow: differentially private optimal transport using neural networks for secure biomedical data sharing across multiple institutions",
+  "authors": [
+    "Li, Yunyang",
+    "Khandekar, Nikhil",
+    "Wang, Skylar",
+    "Khanna, Varada",
+    "Sanker, Julian",
+    "Gerstein, Mark B"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yunyang Li",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06511, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nikhil Khandekar",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06511, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Skylar Wang",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06511, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Varada Khanna",
+      "affiliations": [
+        "Department of Biostatistics, Yale School of Public Health, New Haven, CT 06511, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Julian Sanker",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06511, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mark B Gerstein",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06511, United States",
+        "Program in Computational Biology and Biomedical Informatics, Yale University, New Haven, CT 06511, United States",
+        "Department of Statistics and Data Science, Yale University, New Haven, CT 06511, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9746-3719"
+    }
+  ],
+  "joint_first": [
+    "Yunyang Li",
+    "Nikhil Khandekar"
+  ],
+  "joint_senior": [
+    "Mark B Gerstein"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 189,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Yale University, New Haven, CT 06511, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mark B Gerstein",
+      "openalex_id": "https://openalex.org/A5042321575",
+      "h_index": 189
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/gersteinlab/NoisyFlow",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag239",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag239/8726326",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag239/68709405/btag239.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/gersteinlab/NoisyFlow"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/btag239/article.html",
+    "pdf": "files/btag239/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag239/3/m_btag239f1.jpeg?Expires=1796463329&Signature=zZbcqehG1h5niZC1zJkaMEhIB4ONhVKYL3eaL5tpeDml6ig0IaMXJqPOVTdN00bxf17RjGgJFJrriHEF2lagM1txa3vvX~3NEI2sGU44lOUhVqja-yqU8~g6or2DmfmSw2~9uGH6kRo8VbQcXukI3vZsKxiHIWr8uMrR-~1HxrKs5evP3Z55FngEyfuwuCds82Vzy0Q4e3yEjOXl-~rBCcIcJaY2OD3ONo8~HubjpioDrrIQ40QLqe2YCaRWTqr9fxwHQnk~qRQYBe8UYkBBjEu6XAF5q6TOin8x3~bk6bgiaajv-FhOmBAbYdUYdjQn9i9Qrp1rwtF~3jcWwcDHPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag239/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag239/3/m_btag239f2.jpeg?Expires=1796463329&Signature=P4klDlGQL8OPnQvKKq8oIQEkI01ArZKbPcJ8ZAnyodUkS4Jodn0rhPs6gPoo968dReQ9I0hZUFzN4WVl0OXjpm9vvJoHl3LnTU73evZM4kovZW9a31HQK7W8tFkBBJj4~x26ha0ATU~R-ClnCMqhbyFTKbpvPG23E5LH98ZsSeK5Sf5N150LfkI5~-VGtOvsrNYXy2uHkiwX~fpigNTNMzvavd3UP9kP9vnbAJ4c0Irf2AZScGp6Na0qvUCPzUZOPhFTWq5WfRtf8OWE~QFzNBgGJmAcfoKP2oFM8FWokUSfGxU4aKBRt8DpFG~ls3igl0e1zcgHFvuE5FTymoovXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag239/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag239/3/m_btag239f3.jpeg?Expires=1796463329&Signature=0t3Q0-jGzmaSYlETfqopJV5Llq75P2TZyJDvZjvIN-oNSCYky40q5CGR3AjsF8YqmYz0s0g~K2jNS0jQhD~Q0AW2cW-iJVtPotY~87JRQSOQ~7xYxp74-dKCmJ7ISCLmW2aBDkK~1cu1txIFwZElbLDYx91qz988MhPauhguwpN-mAqDf3CMq~3VgNggxKEgFLXjxBcxxXiJGMDG5CtcdvAoGwIofqm9chlN1xA3KR4eGrl1sXYEDFdgPeTzqJqJb~mN5uw2hkeaiOGMgnIeVJxs8MC446Do19NYSxRHFwV5PfonQc~PaeQdrtmJUVffhgXwxsjSp77EK2xngTsfsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag239/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag239/3/m_btag239f4.jpeg?Expires=1796463330&Signature=3PoujwCIMKFwWIb0xbgMuti3P8AlP5yPz2klrnK6Ge2dUWCIdUZAuZ5Ux0cJCRe~DqrfWEMGANAFJaqxjzMYMDV1-uIVWUiSaXrocUlgqiKXxZFaNknlP~bidqI2HVdg2gIIRyLTvLhmy7ZnESoy83Zwhaih~6tINy6Ey5fgxd7L~Q8kY36J9Uhpkkup~2~lqrynOK1nNjgCI2g~rdqXMgre8vBxx8~TO8266uF5T2W0Htlq1UWVoPnUaZmEH1QPDQRDdtug6vehWjPzfgL9B4~sGvaN2VgfCtvcaG~Frj7AAXDsq1eJdCfmXHgIfmCsCvcuSmtF9d3Nst~huJEGOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag239/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag239/3/m_btag239f5.jpeg?Expires=1796463330&Signature=0UuceYFxuAolxZEdF3UWnQj6lhog76WjakRP0giDg17sXDE9Ukk920GM1555ruUoTEh2~kNaTObPBszSorHUFHnELUi~jNNmPypIlVF2shzAodtsgoecjdcDYo75orTa-GH~pPFIVuJorj-tIeKJpItiu1oQLe2wBFUci-tFk9wEUCRzoG3t8gsYRifXKHL8G5CAPm3m0j1W7noButo7eQ7ZgMgHLDA-inODo6zds5QPb5b5RHI0oGGlk7st9aSSXi23I1lbD863dqFzgosmbdzZTfC8L-DdL2oawx2sHmkJIgzbU6eXmowqKicDdePePxuqmSl06iJQkKJG2uSpQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag239/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

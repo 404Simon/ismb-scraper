@@ -1,0 +1,120 @@
+{
+  "paper_name": "CAMUS: scalable phylogenetic network estimation",
+  "authors": [
+    "Willson, James",
+    "Warnow, Tandy"
+  ],
+  "authors_detail": [
+    {
+      "name": "James Willson",
+      "affiliations": [
+        "Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign, Urbana, IL 61801, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8496-3597"
+    },
+    {
+      "name": "Tandy Warnow",
+      "affiliations": [
+        "Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign, Urbana, IL 61801, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7717-3514"
+    }
+  ],
+  "joint_first": [
+    "James Willson"
+  ],
+  "joint_senior": [
+    "Tandy Warnow"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 3,
+    "h_lead": 66,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 11,
+    "C": 239,
+    "I_open": 0,
+    "I_closed": 14
+  },
+  "lead_affiliations": [
+    "Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign, Urbana, IL 61801, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Tandy Warnow",
+      "openalex_id": "https://openalex.org/A5032411541",
+      "h_index": 66
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/jsdoublel/camus",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag245",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag245/8726316",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag245/68709340/btag245.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jsdoublel/camus"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag245/3/btag245_supplementary_data.pdf?Expires=1796542798&Signature=S-QaYofmw8safCZv9FBQN0zIQO3jvGus7~u6tbYp6T0sOXPso61HBshND-F09KZ3ctYXrXSjC0MiBjNczRm5aTNRLo3FdaFHKndtSrmZP7f42KLTSqTf5oelBY6v7tZP1DT5RoZHHDR2nb25~3B-Fhv0nzv2Rdim9kT2gey86glAH4SpQNUrTFNBs8CRIMKDaMRLTjIav3cys3qNTdnrw-U4t946c7UsaQMYB6VqmVPp3AMJ0LgX1m6~Ntw5ZdPhUYiDiSxK9CQvEpH3SabBkY1itljOrknOm-9KjtB6JnuSfJ1gwwh32UJ3JT-TAuFxTOEL4FldeTiJrG2nA-oziw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag245/article.html",
+    "pdf": "files/btag245/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag245/3/m_btag245f1.jpeg?Expires=1796542798&Signature=L5mSdG9IEJ6~xg0O2RE7NQ9EEtObb7I9UwvdvYYtH8yrC2YiD083AprLE~oUWY5xaeYU~E56-wF~ycixOrQYtBSIA6dHgKEvTGBcuECcC6NsZ6kiTNFt5O4My02wVJu75Dq~qVMkfPl8Q-RA9jG2By8tnwXkR88~-5~N~uNOle6yDwbKn1alMc4UWIyK~8YdfCAFOmJPDKeM7GavuS8eFBNI1pvvKiAueFxtVowa~Z2WoHNUpYXxRZ4ogexBEg6pHK1NzNVMJsrU68Z2kMqBbOAdNVftr5KzCa0jdXmARq0o1AR6KKRhkUmAyyU5d2Y1bp1ovGYftU73LQ1vkMYggw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag245/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag245/3/m_btag245f2.jpeg?Expires=1796542798&Signature=uoWt3uCP17ba4kIpRXu7fc6u~37Jvt8LHWpDtZjITszN-UnIJElZa0TgXeX4wuUIe5AKalaUkxHe3hCaYzpQvpta5tkafoIXnE3R5yqjjdxwxf3s4bTiuyfeqkiBzctsb4wDSs6s1xmpH2bknEq4G7XRtpBNuALEhamP69lTIfMSPZVLGl5ub~-4eWAERYfLOsMGJ6e1I1WeWuI8qfovyOdRcOqz6gCq~DRP3oDLEq6a7xJ15KLwuJmDFn2QiywebWgfRZAXR4PoHRcDQ0TYqhdPsv6OlGfi5Odf1E-8HrxefGid9Cxad7UFq9TUOYVqvSYQ-OVm6VUaFVCJ81tBrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag245/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag245/3/m_btag245f3.jpeg?Expires=1796542798&Signature=JyELzmxU8~PrVHHgU~57fqTsRlYpEPq0BJPhQyP5Wuou2axc1zKxiz7vm0Sc6n-oBh5Aik~sLIEXC7VF-eHEhWCJqTZ~YyDQ9EmBN0zynFp8qRRv5NgWjKOX9Rfqlx7DLy2zexiv21VaE9js6jlBufaBOFHJfr0dkZo-v~5LLd-NAAMBea16ssLxd2G~ExRwRyZY8kZCljxkjk3UW1t143-8y81pzNvGarkVy8pnIoTvncWGW8wKZ1OaoT855jm~EKh8JOmZWBlcYGIOzcDxjkzGFZYon7I8uiiw89KEeb8aunH2UEDZAoa~sogVtHHKnGSV4B8TlAKFqZHyblSLoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag245/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag245/3/m_btag245f4.jpeg?Expires=1796542798&Signature=q5GFNi44GGvJie7S81JLaHsY2ykx46PwbPuNfZvHx6xWRTnaCzr7yAhE1dfoCJtahctcAcRhuc4iQ7cwDXU9sNfJE8h7r0R6muYICPqmeIVfKGXClddd7LMzR8VkF-fiJtorqfeoMLqlk2SxQzBRU1ELhcNDbhKbV4TVoSfKqjLzKrG1Uxwv1OWKNE8istlQsZ8WjpWsxHiJXNKcqkw6c98vTtxj-hwW0mhG6KOFJu~MoJ2MB~I82k-spl0ecVehCHkP5Zzt1Azcb79XWV7OgHMRt0ycBqb7YiZmt4hrvzmHxd55lrQgJzRZVgdHmgSMGQCEVCGtuzhrBCLmVma2yA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag245/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag245/3/m_btag245f5.jpeg?Expires=1796542798&Signature=FS4gWSvUETYgy3gj763yKb1UOA2vyqQ2GbxuXqXQbtAalrHPOVvuJ-gyBR-NNJUa1EDynFMXcogc44GAca5R9nYtYqy2PaiDbs68XpMBCc~85sWsWXZirNePIRCdwp-RqwhnCj8--rS5-Dt9w~vqRjbfMVsAqYvcDRyYw4TmqhBdL~AP2LlZAesCZW4E95KjfbMF-t6Zg5zppYJeS4S4kmTEYZdDVuAvMayV2AX2gQYUKEKFEVxSZxU1cQLj3cNUZFjpSiMdLFyhfUVWoTe6oOd8Pwm9pM7dAuqL9OpL3BQK-nR3JbCRoRZPr2bG1p-p8G0OCf-DOhw9gxDeGyRL5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag245/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

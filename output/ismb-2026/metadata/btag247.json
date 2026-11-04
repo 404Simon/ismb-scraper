@@ -1,0 +1,151 @@
+{
+  "paper_name": "SIVA: diagonal integration of spatial multi-omics data via spatially informed variational autoencoders and anchor guidance",
+  "authors": [
+    "Jiang, Peng",
+    "Chen, Sishuo",
+    "Wu, Xingye",
+    "Liu, Juan",
+    "Tian, Tian"
+  ],
+  "authors_detail": [
+    {
+      "name": "Peng Jiang",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sishuo Chen",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xingye Wu",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Juan Liu",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9344-7415"
+    },
+    {
+      "name": "Tian Tian",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6147-1082"
+    }
+  ],
+  "joint_first": [
+    "Peng Jiang"
+  ],
+  "joint_senior": [
+    "Tian Tian"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 18,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 19,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, 430072, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Tian Tian",
+      "openalex_id": "https://openalex.org/A5004532673",
+      "h_index": 18
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/PelenJiang/SIVA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag247",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag247/8726331",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag247/68709440/btag247.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/PelenJiang/SIVA"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/20034790"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag247/3/btag247_supplementary_data.pdf?Expires=1796403001&Signature=cxCojm6Ey2OzcxPZu7UNn3aOe9hDB59w~mfdwwDA9S~QPHWTRCGX5Ibe~MY~WejmL0fY8osS8o1OFXVzySmRetFt4H2DrXnzi9eB7R-MHwZhNT07bO~KplbJw2QFEKgFzaZh9IAXBOaFNzInGOmYLETDMlgtWXxw5rIKLDZmwHBaNW1fv3IWL~d9V1ag2-N2rmMN66EWGIE0BnL8qTiOeTA5WxPW20xjpn3LxGbhvu-lrxRUS3FnmpVDpsrErV5uPB2vCF2yu2bVUTXA8tlfV88Jz0DdxeM3CbBVs0uJA4yT6SJNyBGYJYUclxpXo2rpKLcQyo~-1F-uXGaij9HjMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag247/article.html",
+    "pdf": "files/btag247/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag247/3/m_btag247f1.jpeg?Expires=1796403001&Signature=bvp4YJY1xQY0lCJ6ghLAv76T3l8yTkfdMAKygXHB8avviVASXjpUt3iH5MC8-c9oCKOI1VkNI15xF5gTKM9Xu2VJcsLOzJbAVpiGEmGA1z5BRLHSH4fwHALb-5H5hK1rTOJhfq4DK8iv5vNzuwxk3IBtY89PBX4atuF7w4FThVmktt-8vQy3dr62848agTjh8qcC3WmCEYWfiA5P1Y-4UGKdfRkUEXVmAJZUrA7YX0HhH58AdhFuypMvFdtdyUxTBCvUxoM1EeemUNsirCKEcdD-A53~n2Gjyt2t5J6bamjd4lCezpk6UudnoX48ybEMLElluzA~~He1pI4-ibBT-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag247/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag247/3/m_btag247f2.jpeg?Expires=1796403001&Signature=whnu6wI3vycFwZL46ys2Ot-t3GmqpqvUcQwxM7W07WBL~a-dHOY1m46Ll4RcKk1HLs6ZgYLpAMZKzRtkMiPYX01Rb2y1X8UTvM6hawllzjCUCjjom3CECc3F1sXlby1FwxQ7~nJKhC6~ig-QcgUY96Zr-W7xj6cUqUaTdysVi4awC4j5xg1EJ2mi59tboLJwCHZPSGfGfWwKd52ByQlXpLpsiiczDcc63reuks8Lv7v6AFO~isP2my2Rr4Q7EKtZ1bapd-tW18iYe852HR~hi6Wp9a~od7LOrjqJTU-FbMwMX9rgCpsDgmqlt6wuV8SVn4b~-bkZtAnx3hBDEnVKbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag247/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag247/3/m_btag247f3.jpeg?Expires=1796403001&Signature=4sjs4KsglH-UGFlZHhimNTaRAH1-v1MbFWZhh0k8wMA0P~mTuw1P7oGSN7-Ly6KDWT6Rd5EI4Y~tgQN1YVvUoAUqb3OJ3~8eG6TLXL6qKvMUhGcCec9QlB-FpOC09nRzqQk6rrIkS9RxE8OHIWTIph9XeLEz1-uk3kSrgHnMHtC4uR2JAfdTX8z-bWPdsUKFuqDvlb755KvGILGgyZ7StMGCFx3T5WI~6~XhU5~1fEprqzuR0aMill3RBdibMDbUXAcLcZVnDcMDEG4Ug3pk4GcA2r0ZQW8jDi0YWi1opQfbgK5dKfqsFB55klP8o1hmgSKpSWfINE3KiDewdNp90g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag247/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag247/3/m_btag247f4.jpeg?Expires=1796403001&Signature=L-6vA6z4DW3BOrX9zkfP145wZRRRVzoxuo1NSMpOw-MA3mUv4GIjZQMaqYoVSnLwpqvBexC4yHwQJQuUZ17cn2CJLD0Yqzn3L-Dl-93iADez-Zxa7kVk7XaA7KW~4nxZjj4ERh-6P5lIdO1ftI2-E66qVsn4n3HbMjS4r-sarzdUGZZnUWSLNEqVUskp6GZrn~d9Rua2HbiFlC1el9VyE1cFhG5NQrF7kFLJEPPMdgtjnWrmI9MUG-bWBZSyUaO9xDt6Kuy0BmhGCVheuaANtl8M-gsdkx-7OwwRqkAWJBEOhhWtBkePArq6tLgoGGKnbpfPrFMWjY6mgAI2XpsHwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag247/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

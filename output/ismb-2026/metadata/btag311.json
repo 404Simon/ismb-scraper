@@ -1,0 +1,129 @@
+{
+  "paper_name": "Is a Win–Win possible? Achieving pareto-optimal privacy-utility balance in fine-tuned genome language model embeddings against embedding reconstruction attacks",
+  "authors": [
+    "Al-Saidi, Reem",
+    "Ayday, Erman",
+    "Kobti, Ziad",
+    "AlSeidi, Rola"
+  ],
+  "authors_detail": [
+    {
+      "name": "Reem Al-Saidi",
+      "affiliations": [
+        "School of Computer Science, University of Windsor, Windsor, Ontario, N9B 3P4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Erman Ayday",
+      "affiliations": [
+        "Department of Computer and Data Sciences, Case Western Reserve University (CWRU), Ohio, 44106, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ziad Kobti",
+      "affiliations": [
+        "School of Computer Science, University of Windsor, Windsor, Ontario, N9B 3P4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rola AlSeidi",
+      "affiliations": [
+        "Department of Mathematics, Philadelphia University, Amman, 19392, Jordan"
+      ],
+      "country_hints": [
+        "Jordan"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Reem Al-Saidi"
+  ],
+  "joint_senior": [
+    "Rola AlSeidi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 1,
+    "h_lead": 2,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "Canada",
+      "Jordan"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computer Science, University of Windsor, Windsor, Ontario, N9B 3P4, Canada",
+    "Department of Mathematics, Philadelphia University, Amman, 19392, Jordan"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rola AlSeidi",
+      "openalex_id": "https://openalex.org/A5071763972",
+      "h_index": 2
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/AnonymousISCBConf/Win-Win-Privacy-Utility-Analysis",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag311",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag311/8726355",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag311/68709612/btag311.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/AnonymousISCBConf/Win-Win-Privacy-Utility-Analysis"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag311/3/btag311_supplementary_data.pdf?Expires=1796516720&Signature=J87YcU4Q-xR7Aohg8-LpTlGinoKNxqi1tuouPUdACtnuuoLUkaXGDCeIuYsdVnbBaRfPJdJ6tmAzMb4-~SHP9hhSTgrgPoRnYx73eK-w6LXORJNVwsnRP7v-SHnkDuKwnRfCSHwxpSwZSOgl41Z-69hU0bYebtitqwyLBzthF0jHcSzkFGLxI8jWm2ulRH2eBU4bL9kokZLWNfS2-IwuLZ~ySJjhtkHYHaD7HiAp3rrj6Jf2xGPgTe8ofw1ccppivnQkWJEK5dHw~8PTBBibqeG-dC8tuvq8laRDtnIpVVDGPqmnyvDo0geHp69y-5AAQp9zfWhapzmiGYPnHBsx~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag311/3/btag311_supplementary_data.pdf?Expires=1796516721&Signature=q3X6Hi5ZJiQcOcfi6y6uQHtBDJ4RtHFLKdQPsGe9~pxUndMleX~ZzFDULleVKVXKRSJQ27yfUspdsWrQ0goC8tfZRqygEAWGI4irCw3dSY8FgDb8zQzYaODqDGG723Cy-t5QjaoGCQXLjONCBTEaSd0q4i-iM~YZEp5wqRWjHv~oGwnAiA9piu1gyMpXYGhQQ3YP-xonaYksV1g4vA3llnGGQFBLZ-REhzVomW0CQDffxr0VmeV1hnE4wf7UWXAzh9wqae-qFuyarbmS~SNwq3aJ7uPvJ7HkMnaUsQHdl2yyCCsnOo5MAkW-6o72QY0Mbyj54JvpCBDvwDu43iMkRA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag311/article.html",
+    "pdf": "files/btag311/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag311/3/m_btag311f1.jpeg?Expires=1796516721&Signature=4VD9AWWGTp~vUL7gvDaVBZyDZs36bAZ2fNNKaKKVMrbVtWkXme6s3GhUydVTZGOMAzYsYHMhaDE4Mk-zrib7pRzYAu2Cx0x3EWAOofpd285w9SFOBnu2nLwvHuxpDnG8fM4ZkQs6r2NU-oURnrjGP90rum0rMs4u4hwgOX7ELkRzy5DgPCqwWKkh9smXCnkQ5Xl5Pu94OKXi43d244p0DDib559ljsvQh776jfw5ULRVMTS-GEtENacfeFM4LPMmrsCKi72MljjJgN0~s1t1pOnMTWUSyAUVbfLFRFcb3C-s9pa46vS8h2UBX-ZpbRPtADwed0aexMM1rWAdM6e39w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag311/figures/figure-001.jpg"
+      }
+    ]
+  }
+}

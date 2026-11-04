@@ -1,0 +1,157 @@
+{
+  "paper_name": "Diffusion-based representation integration for foundation models improves spatial transcriptomics analysis",
+  "authors": [
+    "Jain, Atishay",
+    "Pham, Tuan M",
+    "Laidlaw, David H",
+    "Ma, Ying",
+    "Singh, Ritambhara"
+  ],
+  "authors_detail": [
+    {
+      "name": "Atishay Jain",
+      "affiliations": [
+        "Department of Computer Science, Brown University, Providence, RI 02912, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9972-4217"
+    },
+    {
+      "name": "Tuan M Pham",
+      "affiliations": [
+        "Center for Computational Molecular Biology, Brown University, Providence, RI 02912, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0005-8622-1203"
+    },
+    {
+      "name": "David H Laidlaw",
+      "affiliations": [
+        "Department of Computer Science, Brown University, Providence, RI 02912, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3411-7376"
+    },
+    {
+      "name": "Ying Ma",
+      "affiliations": [
+        "Center for Computational Molecular Biology, Brown University, Providence, RI 02912, United States",
+        "Department of Biostatistics, Brown University, Providence, RI 02903, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3791-7018"
+    },
+    {
+      "name": "Ritambhara Singh",
+      "affiliations": [
+        "Department of Computer Science, Brown University, Providence, RI 02912, United States",
+        "Center for Computational Molecular Biology, Brown University, Providence, RI 02912, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7523-160X"
+    }
+  ],
+  "joint_first": [
+    "Atishay Jain",
+    "Tuan M Pham"
+  ],
+  "joint_senior": [
+    "Ritambhara Singh"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 1,
+    "h_lead": 24,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 25,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Brown University, Providence, RI 02912, United States",
+    "Center for Computational Molecular Biology, Brown University, Providence, RI 02912, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ritambhara Singh",
+      "openalex_id": "https://openalex.org/A5070578596",
+      "h_index": 24
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/rsinghlab/DRIFT",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag259",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag259/8726325",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag259/68709397/btag259.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/rsinghlab/DRIFT"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag259/3/btag259_supplementary_data.pdf?Expires=1796422251&Signature=BClYsu70Cazqu7gndDaZ~2DjOFD2-K5-mErg1rVObCQ-NOVXMA-2HI54PgRSPygizuGh4bP4qF9q40HLEMqvx8SCeSLvcAXVoTrT-dSOFkqatgEm2SRhNVPTh~9gkGFF4tFK8lHnC1zJbh4dFS-QMAfQ2yo7R8WZnzSyKQwv9WjPM5njvvoFKgKhOoFdpIfBYfv-i9vWEm8SZmIj4WQoITjvn3NbV-~mBYuYA41m0a-8D5Q4y90jRv-3AjVSxwVdIuCfV1anQi-A6HTJj3npmgEgnelIBtYGB2R9WyPQQdOvdjLe4ryxw7Z2qjb8eUlVbzgmP5s9A5g~6jvOASW7nw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag259/article.html",
+    "pdf": "files/btag259/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag259/3/m_btag259f1.jpeg?Expires=1796422251&Signature=0pmzq~1dPONUlhOzzgro28cmNRIIluifJNOfVtVdSf4Ez~0d5hjKAnT7NIryRbP43ZTzWgiYM1VvNxlKku25NgdvxJ2UPCJIPeOgfBoGtLRnLEYVXcYoE9wfV3zHoNs63Kpm9p5RC~bDDmIeOypY1HI96t3myiWadolourlq6Z0lJAK6SR1HMGlevWCUsg~oCN8TKz81LAxfIKOPz3i0Qvw8~Dc8CdqXb64JI9ZZfuhCnthceAMMEPM5llfo5jpGPPr0gNxycDwhZcveOtEoCiDUDiz4qoNDjEFZsXBP5J5v1fRcR0lMmUBIAAKnPbvlXKHILsRL4Eudo6OFObrW5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag259/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag259/3/m_btag259f2.jpeg?Expires=1796422251&Signature=I0pnTcaxmMhE-vB4hlSkg7-PJTy6EJ~EDqfSvXRnWDSWiLXD1PvmTkjuH36o6rIZm0ZF-JBmqXpOdfjZj~NyAcYkuZrqWkm7aTjlKPILi4P~6Tx45rk55qXnBCp4T6B~Qv9U22Ha5IDB2LMa5hQtRlH2uZHzRR-U02RxgNiOt~BJQoCqJ4SNHdt39Rh6ZRUTkJlnE72LD~cnje7vZLIbdXXkFPPY3DRfFxvXCAImixLs3DSZplvAcBPzDM-xq-xl8iO9KFa87jrhaYqfQrMaHn3gvdRjtn0eEhX2FFBGK5HmcLyTLrgwJEf42rpadnN-q6xu5twbvuF0BilMDHRFyw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag259/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag259/3/m_btag259f3.jpeg?Expires=1796422251&Signature=UfBWM6Iw0QrnZMtifSHcCx99SThMyb9urU6FB7RpGKqjFzeIW7UP-J2Hpkx7WGNc3w5oAZYh9C5pye4ryThi2oUOS1YB1EYwu2u1S9-7pgoVyfXFzogRzQImcqkUkUFFJRmcrlgehiaCA4VVH-jlwPxD9MLk4OyTjTD4~4ibt1KkKfAAv~TnqgcjI~R03y~nKG578Zjd2Fvhi-kR4dg4dD9qVcNTQeQ0DR3cQwi8L3RWErt8bu2hoT3pfuUt03QivzYL29YrdZDyGLKJVIluu22PWGhcS26~bo~rpzydzWQmPNRHemym5LgFqJ7EYdei15eoSLx8qt6l~0~iFo9Plg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag259/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag259/3/m_btag259f4.jpeg?Expires=1796422251&Signature=RKRg2uE21R9k1IcF6CNT5AJKK5~e9rGL34McD4ctt1p4zhhuKmJNcMwaAr8HtleknrA0v164Ncwef8jm4oqXisNUxeODwYm12cKxrT1xKhwCAxlpq59wom3-hEQbcX8ZdaFa0~DPDKoOhR72Nmo5unIcEfJwYxNvyCrJwVpscDlpn9kOL~8zhTIoR8rWsAOI3eOgcKk1MrePM6LNOfxpj4dPAlTGJbWqWQbQ5X03g3MUOZg~072obnjGBI~1B1Sx4NgeFfAeXDyWTwzyQXkS3AG~F9RyLwDsMMMkkndXKvQNP7dbjvCjRg0nD8Ew6hTQsn9AoRT29XjnTyckmHS1CA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag259/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag259/3/m_btag259f5.jpeg?Expires=1796422251&Signature=3NnpQXfgXiKbV-EZsmrGPt1I4uU4fjHSRvAODNFfWbIigmBRn8vCWEsuudRH1O-t3cKFiBJKNaFedS2KA9S6qStf5HXm4jg8SgcDe~JM8Un0zSpM~aNwJWNfdFuitwaSwrWnXTJWUrTBonUHzzYeRsICVgP87YnzOXNWBDYCgArxKCm7zH3qFB3r1aNQr2YXRLyqQY4ER5-QlzK7Ph2SLmCAT1eJepD7OTEUqXmVrcaPU~-1MqK60jcUgtIvauZ7FITW5jAU~ZKKuoy8lFysoHCr-3fsNxuPxOZwxn1k9Tky5U0b6yVybuHxzUkHMNLvKjwTookFJxOikzpflfrR~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag259/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

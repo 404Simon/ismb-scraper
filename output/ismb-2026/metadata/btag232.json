@@ -1,0 +1,139 @@
+{
+  "paper_name": "NPBIP: predicting binding preferences of uncharacterized nucleic-acid-binding proteins",
+  "authors": [
+    "Shimshoviz, Noam",
+    "Butto, Safwan",
+    "Orenstein, Yaron"
+  ],
+  "authors_detail": [
+    {
+      "name": "Noam Shimshoviz",
+      "affiliations": [
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0009-0006-5197-6515"
+    },
+    {
+      "name": "Safwan Butto",
+      "affiliations": [
+        "Department of Computer Science, Bar-Ilan University, Ramat Gan, 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yaron Orenstein",
+      "affiliations": [
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, 5290002, Israel",
+        "Department of Computer Science, Bar-Ilan University, Ramat Gan, 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3583-3112"
+    }
+  ],
+  "joint_first": [
+    "Noam Shimshoviz"
+  ],
+  "joint_senior": [
+    "Yaron Orenstein"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 22,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Israel"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 5,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, 5290002, Israel"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yaron Orenstein",
+      "openalex_id": "https://openalex.org/A5037786810",
+      "h_index": 22
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/OrensteinLab/NPBIP",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag232",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag232/8726353",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag232/68709598/btag232.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/OrensteinLab/NPBIP"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/btag232_supplementary_data.pdf?Expires=1796446084&Signature=Kj8APitv-rlrZ8tKEPk7kALLHhS-oACFG8Dz2FwP7HvV3pzbur-bVWrJfyuK4hYUtrndZSKDcfcqpozRwEftMMCcdwwGeqderroS~0-eLEXdsvvmZIxG-Rsg7vqZ0BtGk2WMvSowKMr4OT~HQz15IBMshE7vtxObe9tgHC-cvpJ4roxuyBBUi~kr10nx4faYwkAuEvzUo6z7QBsqqKYaUToBHNYvk~bjYnf-sq8vCe~iLaiI1mBXy~WiPDOkLbaSN4OkpaWWM5Dgib~ktmd0LHURCeZ1PU16AyrobAfbSdKZ4VPf5A7E0QF9BUR99nwbaPfozJdrL8AaxLk74xRGVg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://thebrain.bwh.harvard.edu/uniprobe",
+      "https://hugheslab.ccbr.utoronto.ca/supplementary-data/RNAcompete_eukarya",
+      "https://hugheslab.ccbr.utoronto.ca/supplementary-data/RBPZoo"
+    ]
+  },
+  "files": {
+    "html": "files/btag232/article.html",
+    "pdf": "files/btag232/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/m_btag232f1.jpeg?Expires=1796446084&Signature=kZk64LvAYNpx2ihk5tg9~V6xM6ZoJ2qevOJwudjH~KZloLUVHsNYO0wEYy0hPmkyDsCzbm~3Km2G6xUspH~L~jfUYyH0rwSKSGrkHSqQRkqw1WOx9Ek~UoTxcJrEGJL5~nu9w7sO7MPB0~Q1p0pVYfkZxmAe318EgOljZw8QAHBfdwYEetaPBfrkPw55x6gSz0KMVVIjdmnpWXK-A5yOSODqES0BzpIVuPhtGlWEvj5Nm1hn~P-RtsHG4PRkK5QB8R49JwQfCa3LNNHmPwjtxf-b22jTz9sFJIRbdDjN~zoJ0UbNx0RX7Ow3lNm0Z6FGGsXlYXgwO6aOFaGMYVx9cw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag232/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/m_btag232f2.jpeg?Expires=1796446084&Signature=ySzSlb~lvIWI2IEWT7Ca3Nuz6g0b1UX5jccdjwH8iU1l9-E3hbwLBvyBipW0rt76QmKTDjqb1x5UzaEf2gB0eDI8nJWHb3wto0QaerVQwtMaoYWYgCpaaAOgrPcxl7ip1HsXzxkd8g8RMCdg0lcLJRtMjHU76wjzrInkFZKgv85eotd7TrmR13waWwKjR0oMB50esFLQLkILGN2lHb5zq3F1Bb6auyrYiWQ-fuO~cJtuTh4xMD3qYt6lJzkrcBytGkjyl70ucyDxQDSXOn9a5lj8x3o1N7cddaAeveFOanW2KoaYX83191fsNkJaL3-sAeZyUsH8xytD2KhKz6XE7Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag232/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/m_btag232f3.jpeg?Expires=1796446084&Signature=HzkH0wUKverRy52l~837U6vzXFoJ-WkoQhlLYp~hBGPQVIdLX3T60qMfDk2cPvQpF8p7lSa9ic-gdwvA8iM~x4MVKhQxiE5x5EtRtKz~kua3DBQhLApVv8Xw2t09kAi46TMSE7MgzvZ7RMXxNQ973kwEGEQbF26lvAT~PE3W1NFtiZT-eLp~Hc9qFcLEtATGeVS6fo57WhIPylR8jJBUxWYHlDYWKGwpJG7afjLV2yjv3oDX1nDjpQH1KuvZTGwVoeS6BJGSVFTTt45YnGDBa6T0aOjVFN~FdGlrx~tWdZohDdmVUsv58pCFQ6fBPbfrKXiwrfArnsjUnpLKeHNygg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag232/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/m_btag232f4.jpeg?Expires=1796446084&Signature=IkD5W5467-ISS4zf97w8TTVSW6F04EYisGfM5-avjQ3fAypInZ72A9F2HMbqCiSrJQlBFabpGlMHjE4FyA~~RdIDPX~mj4kRB8HJXzw604ffPJ7vDSFZLR2ZQH6OZsOIDNWq4cAsd2XL2ox-Xi86gs4gWBm3Rf3TxeCH1s~pKUEbVaeIni99FF3d1DK6iUf3dPT-CDJ8jzgSdzKEArkd4a3r0~D0GZXANEFwZFhwREXt6rhXV-4fN2NOXiCQ4IyeauEAeDEv955~ovLNqgfu0DT1VZB7KdtWf0TKIQg3ESdr-PgF4sVLyGOmmvhhN1hf7LR8dQ1BpuN63HYRyoT5EA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag232/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/m_btag232f5.jpeg?Expires=1796446084&Signature=4lQ3pWMC1jQJ5hKb9fOJgbq0BU77N-5vy6zQxNEs5AWWvo4brtzn-cgrJzEKzBPjVm7n4aWJwrdYhTgIPJdS4Phjh4yNyXgKXyP92tbPBjp1N0o96VvJRkkcDRIX5ofwUiVmcsonx0AHF76ZfeEsMdQxKHAGeY3N0ZwiR3gjE3lTdZWep9DcBL~Bb69FBvmDWwjbiE2~9KREhaZpfnaxtTPS4PMXsyavktx-boXJx6oSnafMlOrLEW61d9kbW7~iQa66Y17Yamx8xNrBfSHZrPY8hvqHCX3AeUCM-qhen8hofYFTY~ZMkYkkKZuuc9v5B5qXstehYtT8MessmTUg3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag232/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag232/3/m_btag232f6.jpeg?Expires=1796446084&Signature=J2Qzgyn07aTgNTK8RSE2MAuFS~ZOMtuUDOQOAo-QA0GIj2VRJ0vUtp0OH26k-84FpW52~cdWNSFAGL0hOzOnInl6hS46EEwJevuoTFqvJi08NzKu6~wkipiaQABxlbVS6IIb5srxe5Ka03KQ2yxSVwldhXGFHCTudXEvmH-VdskVbVHR0nTr1A5lDG2dd6g5NT4qZKmPJZs069~HpVEVRxfGd6QB~WJvyPlALICi47os5O6ohF13ZP5N2M8iGkiCY6c5MELj8NhRFG2A6y2JKZZwcz~AQFv4hkirRtY7dzS~xY5OLgRdLJYjHcaSfaQzVBIXaj2wet-C5Ko2GfM1rQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag232/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

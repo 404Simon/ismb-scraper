@@ -1,0 +1,113 @@
+{
+  "paper_name": "The gift of novelty: repeat-robust k-mer-based estimators of mutation rates",
+  "authors": [
+    "Wu, Haonan",
+    "Medvedev, Paul"
+  ],
+  "authors_detail": [
+    {
+      "name": "Haonan Wu",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Paul Medvedev",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, United States",
+        "Huck Institutes of the Life Sciences, Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Haonan Wu"
+  ],
+  "joint_senior": [
+    "Paul Medvedev"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": 35,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 20,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Paul Medvedev",
+      "openalex_id": "https://openalex.org/A5066909672",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/medvedevgroup/Accurate_repeat-aware_kmer_based_estimator",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag234",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag234/8726344",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag234/68709535/btag234.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/medvedevgroup/Accurate_repeat-aware_kmer_based_estimator",
+      "https://github.com/bluegenes/2022-focused-cani-comparisons"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/18303511"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag234/3/btag234_supplementary_data.pdf?Expires=1796451771&Signature=k34cy3aU26pUlwSg-MHajOQBsxf-sw1xtQrHZKPRIYW2TRotP~45EiQ6nSY-ODNHeOCosm-aUB96l0ffLzf~pgUe3ef~QCrrZiLkmAHrS8s7AM3uCu2DKC2ApXqJLSaVBJ5jKujQuXsZMcoVufVE39NRhQQ4mbBpXC2j7UhHzKfk2g4~M68TtE67Ju0JPvOHGua~rFeiy3ld8a1twUDUulEEXETMGjlWK608t7SU27kfDzx-AMKNy1u750y5rSf8wojCAwXM22X~DHGa54D3p31cHINka~CKHVdMJC6S7jt5A3fKE35yA6lhXjKZDEKugHIsciixuogsXnh~zbf9-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag234/article.html",
+    "pdf": "files/btag234/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag234/3/m_btag234f1.jpeg?Expires=1796451771&Signature=xy5-ApWmnWH1FiRhgtZfMK0j799fe3wjPWHUnEjXKjk93de81N4J3Jn4SmszRe9vzqB74xSxVdaMB740QvYJ-KPjTiu6jeLhyKZlcA9ulc52MjSJvnYgxELLE3gxc8fsoAEH0JoYJNhk5~x9j4zRbxIuuARP~8n8h4xHl-YsssYHlSK02lOQY14UmsBYr1SdJOWsp0RVT7qTRZq2~PKAqlq1VZCG4APBcoY8CW9L8QHrSIlFLKJ3wV3Cna2qzJ-3R1N4kdrUKoZRI37IWDiSzGIZYsjQq67K1tSznYFGqTUTslcKDhmDoUnH~gKpDVWLLFSX5APoKlWDQB1fTl~kCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag234/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag234/3/m_btag234f2.jpeg?Expires=1796451771&Signature=r5fZrCU2HOoYShaDLKFbWyna~shcz91kNktqPiYmy~PmX8We3ix5SKtDU-AiDfPPBV~d9O02EMgcAKK9OtviMr7slsEsRdlJDaf4swkC0mrV6NLbc5c58rxcLdOtEDEl5h4B7hC3v3Zqma7GzOfCeqJWU2mFtfh-amJjFEIo1iJ4ytoQcZcpBp7ZQ759CoWFTk6cR7oH88fW~wpNgWutxwQUfvzWDYyoO6zDYgWe67YfkoNaoz6g7I0gYM0dOVCbnuVZ1XePbbDFQ2~vdqT2Vij0AJmr0pj9QCd4puwV-6FshpOsFK1j4zPn3WQiOATis4EaoCEWCEsWsVw8-0gkZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag234/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

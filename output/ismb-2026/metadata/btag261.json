@@ -1,0 +1,165 @@
+{
+  "paper_name": "Seqwin: ultrafast identification of signature sequences in microbial genomes",
+  "authors": [
+    "Wang, Michael X",
+    "Kille, Bryce",
+    "Nute, Michael G",
+    "Zhou, Siyi",
+    "Stadler, Lauren B",
+    "Treangen, Todd J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Michael X Wang",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, United States",
+        "Department of Civil and Environmental Engineering, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7009-6958"
+    },
+    {
+      "name": "Bryce Kille",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2946-6915"
+    },
+    {
+      "name": "Michael G Nute",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4129-6525"
+    },
+    {
+      "name": "Siyi Zhou",
+      "affiliations": [
+        "Department of Civil and Environmental Engineering, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7718-2864"
+    },
+    {
+      "name": "Lauren B Stadler",
+      "affiliations": [
+        "Department of Civil and Environmental Engineering, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7469-1981"
+    },
+    {
+      "name": "Todd J Treangen",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, United States",
+        "Department of Bioengineering, Rice University, Houston, TX 77030, United States",
+        "Ken Kennedy Institute, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3760-564X"
+    }
+  ],
+  "joint_first": [
+    "Michael X Wang"
+  ],
+  "joint_senior": [
+    "Todd J Treangen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 40,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 26,
+    "C": 152,
+    "I_open": 1,
+    "I_closed": 3
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Rice University, Houston, TX 77005, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Todd J Treangen",
+      "openalex_id": "https://openalex.org/A5054369332",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/treangenlab/Seqwin",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag261",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag261/8726324",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag261/68709391/btag261.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/treangenlab/Seqwin"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19874011"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://bioconda.github.io/recipes/seqwin/README.html"
+    ],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag261/3/btag261_supplementary_data.zip?Expires=1796457128&Signature=CnBkEUWFXV7p~IT~ni1D-l3gc9MCyssRf~Gn9KOhD5fIQpBKgBUiTLxQ6M~3SSzJnXAnSo5Scm~Hxn7MptarDRWig9GmEgw7cAl4g621jMf27fbf5NZ6bwxV6wsrYJi~agKJyviKlraefIQi~cN8r7QUh~Mf8gRQHrH8JyGPAKQqrkMqz1IDqOF952h7-lme2RXRjGLW7JzrkZRhsKBavnj91aMX2UBuq3VAlrSWczCbYAcvDAE978tvm3cOIdRQltcMgqagdc8sDFIpej8NNczUxu2J1XwppMMHVID4lAus-BqsTypJNS96DwZx8d--6CJSogTolpUZ-alm748IWA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag261/8726324",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag261/3/btag261_supplementary_data.zip?Expires=1796852807&Signature=S9p0VFK9-~q80IHVH68rgWN3vNlVss09F12LcaYtyuKtYaPVeSBSbr2gF7ogjinSILf5-y6WxIwyFtL0YFnmRYr1dD9JrvZGQoHHYGPZ57k0QQG-SRjxELa1UIpZJA6XkrT~jDqzoDZ7rLMBzN3tj2XIsv-ddVKO4ydLuRSNM8m30SZog2ISGtKTqsXemZrzw7uoYbZxeNHFtohJbnficsNeWT7Tl83OX~KrC5FhnKU8Y5jIrHvQQ-Deo0bbJRXdJnx3qAqh4GEn4qpXfcEpy-PtPEVmOxC1Y8DWllddQSwpQSW98Qg11Ax7EMaBtewTwR0tgcQSZoV5mSaKQ6e-7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag261/article.html",
+    "pdf": "files/btag261/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag261/3/m_btag261f1.jpeg?Expires=1796457128&Signature=WFkMuWU7E-ndInApPb0yWO0l70lTIW1bHsBNrQypDZSsLygtHnqkBKBar5xDsWknTKQ5zKgwlU6PPm7tkuOTIOYJflMh2whE8DhItoTElnY7kMMQ-jeCo6YQJltqLrBA4XMg~IlbpmJB7wvI-LZwK1UP7JkzwwRj0S~O2JSb4i9D4mFgfJNw5u-fWRZNzFqsRs6NsGtWK0T0Jbt63LIsxP6d2Nq5LVOs2dri-5r7xNglrKSvIJIRbRj2SRhuRT1l4a5v4cdD0ISJ-UXVmUj5waoF~zvnX12dapjxB1AoVXgbktnb-sQZGdIvdbK7pLxSYqNte9gmhsiuAZuITftmXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag261/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag261/3/m_btag261f2.jpeg?Expires=1796457128&Signature=btmJ9QggMHfqo3PgiON8iTGtktLtwh5pfeBGLcDC4yW8Z9ZvIddqlAiNOV9FQTOrLuTQIk8I8ICun~Y4Mktew16UPL5ZnC7zUTIZ8wIqoFxhxouOIKkMOYFLs-R3U8TUUwY3lt3CToWz7BF5EbCPCGRImTHBcufZX3LckwicgJGs621b2koZ~G0sJhsIQbyVqFnFgcitX9AeDUU2qAev2lYC7Bh997lD8NF5v78kJCwX2JhbaBWIkDlLa68xGFiFpzzlCpqZkgyGzz-dKUmQSP418sTeffEaRuFR3miudyicq1RLF1meEhqSTzE7UNCGwuqYqEhCFazrjEIU-zOBeg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag261/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag261/3/m_btag261f3.jpeg?Expires=1796457128&Signature=Xv3Lp1FwTeolHtvt4DH3Sat1hv1hnelF5Kia9imgtDxmMlFSaEDQvzsPUmEWGm8jP4QtS0csjb0WASztKyn6mGL5LnPk1~2yL34GFc-yQCl~anVemmJ0C-aE5zjDJdKnDXu4O8r9VAzWbLjlRydw~4TlnxP3PBOXQ9kgH9XJWad3mgFbf1uGKQn0uh3KgGgcda34lx26dDqBzrUUS96ixze8Rv2O97C0~OETB-5OYwcodxUhhi2BUBV6FZ2kRLzopeVNdJwM4Qq0TnryBC1KhnpWQkVQhCmWDlJ59av8TO9T4UOuISEbrmXtmdnHTD1n9rAr5tg8Ipjh9FqpkCC2cg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag261/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

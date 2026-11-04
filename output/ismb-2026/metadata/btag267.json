@@ -1,0 +1,222 @@
+{
+  "paper_name": "ProMeta: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics",
+  "authors": [
+    "Li, Han",
+    "Gu, Haoteng",
+    "Hu, Lei",
+    "Zhang, Zimo",
+    "Lv, Yongji",
+    "Gao, Peng",
+    "Cooper-Knock, Johnathan",
+    "Min, Yaosen",
+    "Zeng, Jianyang",
+    "Zhang, Sai"
+  ],
+  "authors_detail": [
+    {
+      "name": "Han Li",
+      "affiliations": [
+        "School of Mathematical Sciences and LPMC, Nankai University, Tianjin, 300071, China",
+        "Academy for Advanced Interdisciplinary Studies, Nankai University, Tianjin, 300071, China",
+        "Sheffield Institute for Translational Neuroscience, University of Sheffield, Sheffield, S10 2HQ, United Kingdom"
+      ],
+      "country_hints": [
+        "China",
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Haoteng Gu",
+      "affiliations": [
+        "School of Computer Science, Beijing University of Technology, Beijing, 100124, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lei Hu",
+      "affiliations": [
+        "Department of Artificial Intelligence, School of Engineering, Westlake University, Hangzhou, 310030, China",
+        "School of Life Sciences, Westlake University, Hangzhou, 310030, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zimo Zhang",
+      "affiliations": [
+        "Department of Artificial Intelligence, School of Engineering, Westlake University, Hangzhou, 310030, China",
+        "Delta College, Westlake Residential College, Westlake University, Hangzhou, 310030, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yongji Lv",
+      "affiliations": [
+        "Department of Artificial Intelligence, School of Engineering, Westlake University, Hangzhou, 310030, China",
+        "Delta College, Westlake Residential College, Westlake University, Hangzhou, 310030, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peng Gao",
+      "affiliations": [
+        "Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Johnathan Cooper-Knock",
+      "affiliations": [
+        "Sheffield Institute for Translational Neuroscience, University of Sheffield, Sheffield, S10 2HQ, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yaosen Min",
+      "affiliations": [
+        "Zhongguancun Institute of Artificial Intelligence, Beijing, 100085, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jianyang Zeng",
+      "affiliations": [
+        "Department of Artificial Intelligence, School of Engineering, Westlake University, Hangzhou, 310030, China",
+        "School of Life Sciences, Westlake University, Hangzhou, 310030, China",
+        "Center for Interdisciplinary Studies, School of Science, Westlake University, Hangzhou, 310030, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sai Zhang",
+      "affiliations": [
+        "Department of Biomedical Informatics & Data Science, Yale School of Medicine, New Haven, CT, 06510, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Han Li",
+    "Haoteng Gu",
+    "Lei Hu"
+  ],
+  "joint_senior": [
+    "Sai Zhang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 10,
+    "R": 0,
+    "h_lead": 19,
+    "Y": 2026,
+    "L_lead": 4,
+    "C_lead": [
+      "China",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 4,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computer Science, Beijing University of Technology, Beijing, 100124, China",
+    "Department of Biomedical Informatics & Data Science, Yale School of Medicine, New Haven, CT, 06510, United States",
+    "Department of Artificial Intelligence, School of Engineering, Westlake University, Hangzhou, 310030, China",
+    "Academy for Advanced Interdisciplinary Studies, Nankai University, Tianjin, 300071, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sai Zhang",
+      "openalex_id": "https://openalex.org/A5100369648",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/lihan97/ProMeta",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag267",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag267/8726356",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag267/68709616/btag267.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lihan97/ProMeta"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag267/3/btag267_supplementary_data.pdf?Expires=1796410070&Signature=oVS7XLRI9PcizpZ23I1XU6WC2hfoCiNA8iF95BytnLmbR1GOPqZn~Dh01RGSGRsXQsqAoKnEGgP39DTGbxBOyer5db~o9Liy18tnC~HPjfBivx7sgv-cZgwoRcw2BzGNEoWC2HOesvgcw5QGW2WD2HHRTCqknQENRH94rwI8CdYYODtJonGKHjIn5nOV1cbSVCbpGPP32cQfJJINz7891KMydciVHeh~-O3fkIbK42y6rtcqF~5iM~IPgP~WpLJ2JaTgd0Qb0Km8HMMeHZBjf23FKE9YaKSR0xAyGDDNHG7zJZN~Vb~hfSqlzyOZNNe~bAfZgfk4t1NsNT6l9NJ3rg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag267/article.html",
+    "pdf": "files/btag267/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag267/3/m_btag267f1.jpeg?Expires=1796410070&Signature=yRsQqn289SC3K7Iov3GO5Rxe9jYNXmV5RnHo4ozURXkQnMfxYUdMxRVqq-Szn9Wable04T2bpgg3wlb4RK61H5oUru92SxbnTsIxiuaXp1~GEjjAn2zOC2QErJafypUtjKE0bgj4JLuOWZxH5M0ehHsYfJ23L8j9MT1j8gNhi89-tBkXgZ0gFVO9UBRYIJywpTR6I93H7MuxF7zMDeXtx050sPVuhjE03aAQkZA9mGmyE-R~aAf6Jy2cIksov3DtmHDW8I71GJKOPhH9DgAEKeG9851LX2Y8VhNjpqCo3~z4rTRtFA93exw3DCz-3N8rjuylCmCOYUppEq8xruRf8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag267/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag267/3/m_btag267f2.jpeg?Expires=1796410070&Signature=yYwMGb9ygFuT4K3IPVBcHJQsTmTmz1X-ovhTrUMVUg5a8Q7qOMqzRCSldgc~nxgyJnPxUj2pAa1h6rB8M1UVk1L4NxQQYsVS3Ua0stouOZGDZ3sPYjySZpODrUGgWiRE4KlSOsMZHC5ALsbBQIcn6JB~0FXIy8LqZVZuv~jAN7qbop-hdoyTu6hroyDhT8bGq6tfoBbXiOB16-Qrhpzontt6uCofPh4O3863ezz1RNtyUXdU~Nrk5KKZEEJzDsPD5sazbcDWJ2ZBd38MBJNhS9a1Ba5R1rLq2ynh1hjqyKNO-1BUFye~oaxeUpiXxYe3HVKw5cQ4Eja29F-bcwkhqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag267/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag267/3/m_btag267f3.jpeg?Expires=1796410070&Signature=nJBEwX2vxtS0qqTX1~yjOpxvek5S8V0UcYyrH4cEvgegktuLkrET0vT2NSu3xGJfB4AqOPtREA6L7tj0e50IZtJJFpdDJ3ggSKS17kqG5ZHmtOtV~92PFZze1bYeFQSnWdohabNQ7bYj1UVKcXVdqPt0TI~u-h1fDLHSh1sztu4YTUR1flKnaGOAjABIp3JARn-86oa0MlrzUmFCCx~mJUaUZ0TXnibcKjLLATjYJjMGyK9wZVGbiMppaVvwfUTP84PLponPSmiurcHB--n9a~ObKJv4kTrt2KKMKuDG4yosCZkqMd1lZbdnVxDuKH5hVmsDIexic12PwDsNXFTmsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag267/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag267/3/m_btag267f4.jpeg?Expires=1796410070&Signature=nM2CZNjEXnq7Aqu7M9-lb0vo9RyBnxHpu0Pj8gHSSxy101a6kQ9kgLmTMwfMJrffhk2gjhTPIW~PFvWxI6SB0pn96tjoyi81nIqG9d-koz4CMEXsXtnwT7S0IO34XVQxHILsLFSCEIQBKqmLHRvNUlQlxnbIrmE0v786jCK9KtNg5UhcVZYOVlwOhGUXWg9~Ji0urnFf9kqNoAkbE~8Y-pZv4jzvmB5i3YpytVU9-zLIdO7Wt-xEK0RyaKDCdtJJNQxJZAdeqWF7FA3Bd6pzd7zFS-~A6ZEcbW1QNaFchc7fTXeeYn0~If~IR-UbCfrMZJqBazjkiwNvJ0KtXqmQwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag267/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag267/3/m_btag267f5.jpeg?Expires=1796410070&Signature=i60SlK2UY8p0oIhPIp06F1tRvAdOiv-ikh2AYL~PIqXwxmYMPmwLadZUx12cfL1b-E8kRVe2Av5haOj0KOeSzUgQJLy7BSgqmjDJ~VMxEK-P44ybYcYIOWGAOboda0osEZGqWIZSPcT4W~XPkelGROhleAQ1cg9i1C1UExVX5cfwhWVzBmh9dkNGpYf7W63ZIRY4wNlW97nUXqPwtNQY7ne~e-6DKhD6-CpyJfRpILRlngMnarGI~3DkNw5ogpcCGtZw2QUpoVuZfZt9eThBH1JO570jFu~OiPCwXWIsgHimaFWDRKUbV8V86iS3cuooYpu~DtErwWxwSxHagNPbrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag267/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

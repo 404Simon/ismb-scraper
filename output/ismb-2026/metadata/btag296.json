@@ -1,0 +1,119 @@
+{
+  "paper_name": "seq2ribo: structure-aware integration of machine learning and simulation to predict ribosome location profiles from RNA sequences",
+  "authors": [
+    "Kaynar, Gün",
+    "Kingsford, Carl"
+  ],
+  "authors_detail": [
+    {
+      "name": "Gün Kaynar",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0006-6764-7716"
+    },
+    {
+      "name": "Carl Kingsford",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0118-5516"
+    }
+  ],
+  "joint_first": [
+    "Gün Kaynar"
+  ],
+  "joint_senior": [
+    "Carl Kingsford"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": 2,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 12,
+    "C": 43,
+    "I_open": 0,
+    "I_closed": 3
+  },
+  "lead_affiliations": [
+    "Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Carl Kingsford",
+      "openalex_id": "https://openalex.org/A5058132020",
+      "h_index": 2
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/Kingsford-Group/seq2ribo",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag296",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag296/8726312",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag296/68709319/btag296.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Kingsford-Group/seq2ribo"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag296/3/btag296_supplementary_data.pdf?Expires=1796410230&Signature=Asd7HyXr5epmqjJWLs-koypAgCTF9FHCOZqM9dXEAk-Rc1dwXquTFY20fZPrT0WT6nbYBcnmldgEz3j4WeBzmRj70XD7demIiitR8WUyCu8IFb1u~5rEQn0Ce3XvyrFIPH2f9VO6bI~aJ8vfA9djtNxENfBg3v3H2vrYuU~vxr6gWxNzArsbZSTtKOJlJiSwfhiQ0eYygIr~nKdv1dEP2bviKhkj0i0zT82HzEpsjMxXyrDWedyA-4nu4OZEF44Kl-sD6528OVdFs6oGq4UPHDJWJthHZ8zITTpnSS8uR40sVqssRSPjlJLEnGE1B-oIZ-5Tw0kHQkoxTUVeRm5pfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag296/3/btag296_supplementary_data.pdf?Expires=1796410231&Signature=Mv-BK8f3G7LDq4qOOUf8PpfN6aHlT0XxSdhnDWLMROY-6aD37e-DDrK1RpIQZnYFSB0hr1UVkOghFAsUb~n1bcnVoTmdB1lQefKgZY4O5BEuiQDAkDvvv3XIKmbeiuZhxR5vdExIDQeAyMI5oSv7d3PFdGRQmryvnEKHjV4c~kc23u3YCJfaW~sxR3pp1Dr0eLA2swOOGzWRcIbxcZiSyQQSxv4HvJEZIRC1ghs8KJIrCZCXHXUsFzCR-psjRjQRMbZ1hjkrRb05a928SUp~TE5gw0P8stH8iBIQNESkw4X0yXsC8Gb5GN4B5AkFXwHYLvXKzNOFEv2NTxbede7LQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://gwips.ucc.ie",
+      "https://www.gencodegenes.org"
+    ]
+  },
+  "files": {
+    "html": "files/btag296/article.html",
+    "pdf": "files/btag296/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag296/3/m_btag296f1.jpeg?Expires=1796410230&Signature=LfLO51HLZEHG34GcgpR-F2hxQKQ5L6OzcSgTCsERmT7r2Ik-4pYc7rKgr5Xlhg8M-NyuV1gmlmTx1G0ZE0yo8BH4KP9kPlWIv~j6hH1mKndo-oOxuCCCEYRHkpqJM65ZypJe2CyYwjryNBIYD1hM4sL0qpI-6bD4vb-bjd5LtZ~bIsQeb1LUhhVk5RUaPXuRWUrDBdSZws44Qqm3v-t16wLskf2nKpmsmdqRoNLuiRXhyEo6g3cg77FKIhDJ5HByf5MxHI6NJGJzbc8bAW0nXnPuGHCcXMoAG4tMOL6PC5YIMsUclf2QAo4iJdt5FKzC8yUNGK6q0TZpeNLaaESdJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag296/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag296/3/m_btag296f2.jpeg?Expires=1796410231&Signature=h~jkaaqrd~rFXcdW08OqLXSDS0fE38bHIgu58fdbRF~jimEchiDOZ5YV61hIrMWFyO1ZL7i4S7ruON7T71hNTTUGmG0R5rxU2C709Nz-~wk~y6ozjW5I1RJ4nRVZ5thQ7n8U5pIChDxtTyD~bU5F8yozQYFlakg9nAZL-qi20BnXpVlMXMXhxP-cinvzJrBYugs9ZFeQe~QZft3El~j0CsS5nY065R7NMt2Qxtm~SoeztWnkQy1uo4jNKWiqf6ga-nW5PV9oklU2wwVmUUvE-Oylth1NaHwLMYyeMaJFAUDXoh3lL-Koabvz4CitUn39xXXHs5WHrflManjRDD3T8A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag296/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag296/3/m_btag296f3.jpeg?Expires=1796410231&Signature=5OEpwRaOMNnGiGhMB7CBJKB4wPKuL2iRGGV3RqBY49z~HgjxHYr6lBgD~XjiRpNtDMKCW9U52tDY7ojatf1N0X4aY-KnLpq2WyJN8qMfI~NUh5QkglmmR8jfPPfFFIxATllcQ6Jo-EJ1Mk8Ha1zm~bqgCyjwPBCY~Vv8oUGxZUwI5Cf5mVSMG-N2k7oQoqHvzkzxsb2uKdLjpcbdGJ5iKBU3RhwBKo4cZJqDI10o8Wqs5HKP4lOn~EphxN8hAs24wjFhRNgKyEhNg5O-mFtucbIsz42HjA42ZdupwEZ2Xztw90kTo34MTKk0QPl20gD3lXcd-vsQBjfVDOVwHGd16Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag296/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag296/3/m_btag296f4.jpeg?Expires=1796410231&Signature=XiYS-wDwMtbOK-Vq7mAHfyfY43K-4mDQQRynn55GJw3WQniLpngXZsTw-U1GlggOfcc0mIH36qF4McSuqRNjEdcrpTiDacNqDcWouQJX4ALAf85FDldahXfuKhfFmTOKwvmuKZ4vbRqk1jnlXAoVuIOlEM8SFEYttv7PsrsO5rqjhw9iIRXyrK8WKYzkLEuXZHrfmXeplcW2CHuxZ6PeRQoFVQAVL1ZN9AAWY4ba4yy9N-MZdLPM~2pgNDw53eVgjds0F-rcukvCEdy60Y1Knj7HiDU~iWeJ1SGOLVlDtFNS6JOZ5LMetR0TYYxz1-lxg2o4gULk5PDhu6mvb16wEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag296/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

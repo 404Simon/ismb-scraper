@@ -1,0 +1,144 @@
+{
+  "paper_name": "MiRformer: a dual-transformer-encoder framework for predicting microRNA-mRNA interactions from paired sequences",
+  "authors": [
+    "Gu, Jiayao",
+    "Chen, Can",
+    "Li, Yue"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jiayao Gu",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montréal, QC, H3A 0G4, Canada",
+        "Mila—Quebéc AI Institute, Montréal, QC, H2S 3H1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Can Chen",
+      "affiliations": [
+        "Mila—Quebéc AI Institute, Montréal, QC, H2S 3H1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yue Li",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montréal, QC, H3A 0G4, Canada",
+        "Mila—Quebéc AI Institute, Montréal, QC, H2S 3H1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3844-4865"
+    }
+  ],
+  "joint_first": [
+    "Jiayao Gu"
+  ],
+  "joint_senior": [
+    "Yue Li"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 1,
+    "h_lead": 30,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 114,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Mila—Quebéc AI Institute, Montréal, QC, H2S 3H1, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yue Li",
+      "openalex_id": "https://openalex.org/A5100387763",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/li-lab-mcgill/miRformer",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag222",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag222/8726332",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag222/68709449/btag222.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/li-lab-mcgill/miRformer"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19343333"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://www.gencodegenes.org/human/release_19.html",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/btag222_supplementary_data.pdf?Expires=1796403962&Signature=SwwZXH-pEZODWvaMxlzqIVhnQyemVED5eyO~nswYoSL5cJMmp5UF6ZbRcfrii3leibp3qzXe77X~PJUd-vHOgdQZH7ihD5gK9WsnRjL49FkQz-xmxHYGVqY4rqaNwZtQaI9mtlT47Q~K0iHIc-0CCsdlaJ8E2ZMz-nqRkBJ7-QOe8Pjn0q1zyIdNovWwIDD4nmp3CPUwITttCm~zmMqtUrf5sGhY0WOS0eleeZestQhoEWL4ix3fq~qx6QabhskakOimAAbwZQCqP1QPtJUzOfnt9UguGTucjLtCG7NcHJwS1HZPQdgWuPjdvuK67MQiryAjF~~8uOHjm98ETAcJCQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag222/article.html",
+    "pdf": "files/btag222/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f1.jpeg?Expires=1796403962&Signature=GkM2K23RGI9RQNqKfX413zxY~5qdZkm24mVuHUGqRRBSJB3MHH5RXO73KaYeIiz5ATymWT3s6afiwixlWIKO168j1KIk6nfFlPNvRj7wMUP0DYrmvMQFT5Ol4Y0L1fWKltcTk24bpdN7dSWVoRHzaRKL5XiGOky2bUC5zNc6TcxDEODvptv6ltSKkqD-asvDwZPIx2oQlR3pdGjIbBLq8E3q70m7LfNaoxwJ3T9q8PqwkzS-vqLOk8bhoo5edUCzbZrKg-PvPuN9twThpUSR-3lQA2K4ZvByngRAD1mI6xCNNiaeSgJvp94Tp5lzL1U~by0mDGU0OYLDbl55wwT4Jg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f2.jpeg?Expires=1796403962&Signature=xQk5kNvtfPIRG20m4MFslI~xTZaXxaNwon0Hu-P3jAUbgqdke-OskmPX1iO7tWgT7Kk5Tsfkwh~rzoX6CpZGyNfJ7r1dNmVl46xUGwSIgYOymFPmdvpAn-MllK0Hxpviy2wzNANf0JFNDjJZmISm4~1MFJ64tPdRPtcQmP8hgn11-xdS8WkYhyO8pSp1NDZOh9t-ICxGF~Bu9n2QVMoVUmPyXcI0hHd2Flw~bGjNMyOR71oziACku5B2jif5KeDdEEfBDD4~gehOcnnKhl350zHi6P6ppVFlQjcbbvgIomLRjEy5s3HsJ19vLPOLIeJTk5fnxM0GXfPGZxVoZi-H9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f3.jpeg?Expires=1796403962&Signature=BORhKw5k57S8OO2T2nneaGr7JempP7ek3Wdz8QjrvVe6EC5c-MAFQkdTbESKoYmqm~MYQ7UQk3gVn3W38das~~68DqVDNw-SWNIJss6AYRT4eqVOwrxShkzE2jL-3sHBuiK27MM~RkoZaoOwdjhKANeYUcMaWH93jd~jHTuC5M36yg~SK3X1UpfLgei-Zjt-RTQzUTQ9WMMV0QNnRlqaYwlZ-QQ-8bwuEg8snFSnlTlgOpCb-p7JGcrLSjTrUe7b~EHt9nc~ZY37Bl40kSJFKlcZmIDzEvWCrVxVre4F63UOdyJTnZZqYlghXbUzugbk0VKC2pUSQUWLxrApoKh9Hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f4.jpeg?Expires=1796403962&Signature=AXaLmMLOAwcPLoM7vVsirEpUIN-XUWgTom30PqBFsQJot-s4w~BLbZ1Nmbxi3yt-ZLbRKTzjhhkBN70ZsAJi3cgglVTtRXsr~8i3QzLlN-ClFB0wikUmyGio0gvL98DcWwfl9RADQRd3JCkR~9i2WE7J5PinOu5p0NOo4QIsDzq7iUs9dkK0vm1blqGicSX04CLLxvE6dzSWZkUmRjr1fsSF29ZSAvI8-JJc2-9cfcfeviDUbZKYsGSqhGCQ6-tjmrc6ekQilu6YKea80mXcmZX6FFSl28ecbT9vG54cA0KTXJMf7GUA0Bmv0JKvJH8RcrihWKthZBF9IUTBDTOamw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f5.jpeg?Expires=1796403962&Signature=3hlArIAyWBXfM05rS0HwCpUSpxN-mlTnjrKXAR4Y8DeLgW40wRG8Pp7amDQpTOvdOgKfcIjlxtjwV09UffRMxjzKXlOC41-epPomhteoWN7YzIsKCDExZbrbdrwsr51wAZlpDYI56~4aPAOeP1RVkzzE0l1XoDpZHi51h3XGFvuiH7EMICT~B0nSZaRiBggKhMLzbIYPTtZKfA30Wz~fE9RFHpJtDO1Ql1n8vGZTGkHkSwypTuFJHkL0UY-OCjyQto3NKt1govlvsmw58jAtwczy~Nqk8NMfTZ6dBeGTJGggEfGvRgP8Kgy1ltbtJlYVS6JOcsyiI8HJ2PaDeBCJew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f6.jpeg?Expires=1796403962&Signature=nSaxGuzXgBYpD7gZNNykdEO9tUkLkSFfT4NkZhzGOptqEo0WNfKQxY81Cdn6SOCEBwXN37Y1gTf4q4lfXoI-5StuBHgm6msOS-9BZcfBtw1UCQv3Qsxbw4isz9MPok56o5qjjoD11aHJ~0vO732ekuV5l9n2IOiAiqhWS1DQrsjfl7qMsVanGgChKNcBy~ErlbhFfHFx7QBAknGM1FOsXc23gYQ2H5VxX7bcpqR55BIHLVCVkGZT5MZeacJK0q0rN5fUfVNkvJQxB~rW~~TvSdQxaik-kKTdJrlffxJMMm6dZdAshFUvbdZ1T3hvOEigV5fIRY4~GcgR2PHm7tYrxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag222/3/m_btag222f7.jpeg?Expires=1796403962&Signature=WoUbDI4XRcwF7Oeu75IHovDEwLT8dzcgLIkOMyfesb2dg3FrpD4l1ArkwemVsAJsSbAL18C3kjyxIsbEvtb4C3kfOIvzGMvp5p8Lma0r4SLjPzd515WhtMKfxo9slD5~TEhmC7e2HvtZZ0pXTFF9ko8afrE2QQf~JepPnn4-3sohjE6P0E37WivV9bcwNvSmzxCO3ddooQ8O58oK-oOJIhVhO29g9aOa9JrKNbojMcQ2t-SnoRq~8Ua~swH6hqi5mPPh1UVa6cLqYoX0aWO1DtY87wa4iR8T7UkVX3KKY-uY4GRqrdyPevjeS9wLC1unDeB8j6-zj8NiY95KgyP6Yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag222/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

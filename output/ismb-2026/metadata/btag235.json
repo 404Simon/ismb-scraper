@@ -1,0 +1,177 @@
+{
+  "paper_name": "Scalable computation of ultrabubbles in pangenomes by orienting bidirected graphs",
+  "authors": [
+    "Harviainen, Juha",
+    "Sena, Francisco",
+    "Moumard, Corentin",
+    "Politov, Aleksandr",
+    "Schmidt, Sebastian",
+    "Tomescu, Alexandru I"
+  ],
+  "authors_detail": [
+    {
+      "name": "Juha Harviainen",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4581-840X"
+    },
+    {
+      "name": "Francisco Sena",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Corentin Moumard",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland",
+        "Department of Computer Science, ENS de Lyon, Lyon, France"
+      ],
+      "country_hints": [
+        "Finland",
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aleksandr Politov",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sebastian Schmidt",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4878-2809"
+    },
+    {
+      "name": "Alexandru I Tomescu",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5747-8350"
+    }
+  ],
+  "joint_first": [
+    "Juha Harviainen",
+    "Francisco Sena",
+    "Corentin Moumard"
+  ],
+  "joint_senior": [
+    "Alexandru I Tomescu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 18,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Finland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 17,
+    "C": 149,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alexandru I Tomescu",
+      "openalex_id": "https://openalex.org/A5063897224",
+      "h_index": 18
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/algbio/BubbleFinder",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag235",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag235/8726301",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag235/68709236/btag235.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/algbio/BubbleFinder",
+      "https://github.com/Fabianexe/clsd",
+      "https://github.com/at-cg/billi",
+      "https://github.com/algbio/BubbleFinder-experiments"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19209715"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA730823"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag235/3/btag235_supplementary_data.pdf?Expires=1796444433&Signature=aPrOtEB9jc3e2ty9HULLbZ8ufEWDYa6b9h1llgiJa8fvSNVm~qJcOqe~CsOQQusEbDjhz14PZi2gY-YbdWJeZ9vM~ofeoAA9T36vAy7l3mYYihZTHYjW0jBEE-ziNlCQdQyxf6Nni~XaDUAlRW9Tmil~szE7ESRXnl5jcn9b3oqf5UmfrpEGQo70Le306bSTY39AgLc4fAcuG0VaJoOOlzVdf7zPTwNePTU1UPHiJOVZvdQvG0q7hCxC9KEpe1eVr3AbzZN2ly8wkCa1p2HhED5ZqCbzzXBSVP8GlcZNJqnToqpBiGY2vzXLOpZjtOVfmXvjkTMwCWmTPbz8rhK4tw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://data.humanpangenome.org/alignments",
+      "https://dx.doi.org/10.5281/zenodo.19209715"
+    ]
+  },
+  "files": {
+    "html": "files/btag235/article.html",
+    "pdf": "files/btag235/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag235/3/m_btag235f1.jpeg?Expires=1796444433&Signature=VgQAxy17~qr1~63CYO6BcWo0zd7HQoRilyccmQ7uibzOm8jD5dihfXm-zkvtcdC9Nd~jPM4VxAOK35BzYU4lzCOcw-UJpTm1jvg8pflBUWsgEmJM5Ya8vBtYcIOaXcHQRe~B7Ld4YX2WhR5xIPAd-L0pMLGKcrrJPNLd7vIdp4dKzYFqv~qTmMYVc-25skuz6CQT7pIoty8d7juauSTwdJDIedkhtcjMpzvQd6aceDJNX3uhjXTgrbam8bccLfvBvRODDqBTN4z6kwQMFvuu3BDpS75mrsVzqQWvxulQdxU8V6Q17evOnAK52H0frVYzuJ3AfY0WBltN5EraIhjW1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag235/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag235/3/m_btag235f2.jpeg?Expires=1796444433&Signature=juPl7o4xX~SO7lTRDU~6LYoisEPbDY-yI5aPqDmAizWlejOQZIIpm3xIx35S1XakNLRK9pdkYt2Rt9M7UokjMoVv~a4xqwTcfvYzgDFBcT1OBiVwUjenCU6zPscdojCb-3m5tNkksbL~Qk9Fbx4cYysRp0lAOovj3Y2fdNXGb4Rkl0d9GUVK5A3cyRf7szlPobnFWNu8V0VV1exnMIndalfF-oc4b7SGdPa5IoTzVJ-EzHVcqvuZ1EDrHIXYAgDdGDj6WhxwNAm2cKsrEoQjKrPFFyTg5R7jvDRJVUIwKT1zcUhJaCo3rEcQVtPeHFaZYYxI4YkuQ2Wwq7Am81Kaaw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag235/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag235/3/m_btag235f3.jpeg?Expires=1796444433&Signature=ujKItcpcTCADUudkiLgavAuLcU8~dtzwlKTY-Ee-Q5VS3G0rJDdUXKVFOI5S4C29xSAcosTYcEy-wLSOW2-OQDQfO70jcssbIbLwRxF-wCmhd4XL~W07b6LIibfii56zcgDBscLognuW0iaEQBwRTXS1v1yly4Ccnhc-ZWnT8MNn361n4lw0RreXyW44TV6NGuNldp1N7LsiOIqgrAwoAYiT2nVcKEpmjUZkVdeeLO5vjyHBkDRdwlOArnSqetp3MVVM252AbgIoOUAEQUrwKvtUNeC4s8mbKBERvj735vZE8RqMiPtTrKIvIz7P~cqSKWTATy4x~ElrO6R58S2FgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag235/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag235/3/m_btag235f4.jpeg?Expires=1796444433&Signature=sZuZiUl-CJTEGxjuKM90DTCkwveXof5duGlhTh34QDlKL4B6AvkGdHoc03i~z~99IlgL2lntwpLBj~oi9PqgB3Za4oQUYnAx0laqtlHn9D5DvVILdfMXnYqDzunIzR-4dp77n10hVKEu1~Jfslnh8JYQJdfX~86qINbTJNDzmEcyyY34GRzuPBZSbN-PHqbkGzHm3yNnU7o-vqKOio3jqeZUmG-s5Y050UuB9MEcp35tNMqov3JncrYJrC5Hf5FjcaMi7RTfydtIVPlTo2UBOokic1cER818HSCBQmxnNFKWVyk-LP02we6xr4dGmdXVu5Bmo-pzTnFtEl3qSPU4EQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag235/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag235/3/m_btag235f5.jpeg?Expires=1796444433&Signature=DwtTYGxKfFhksRfb3gNio7ZAco3DbjebCJt72J5LD2MfvRWoMq0SuPoy8LAzQXM4odjtWklacfaL4Q7HhU47Et2mid47~U30-ap6uqaM0RUvlE-vhrHk4viYxCV-UuUJYIYdR48kxtJrofn7CeRgMC2b8blF9PJXMjTtLQhV~VSMdlfJ8yA~fukE5X0FzVOAgtFMKKwo~YY2tg8gcpOHdNAc42Sr8LyEAsfjNP3zwe1FUjs6vyfei8ThjexmTV7w~t8DXmcgD4bc5RE6T-SCs3udj--HtX0SqjU9tQ29lEogrLc8ZlTzJgDSC03FPPUbqCyAoWgdWrzy68S6Zfv~Nw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag235/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "paper_name": "RLBWT-based LCP computation in compressed space for terabase-scale pangenome analysis",
+  "authors": [
+    "Sanaullah, Ahsan",
+    "Brown, Nathaniel K",
+    "Shakya, Pramesh",
+    "Deegutla, Arun",
+    "Naseri, Ardalan",
+    "Langmead, Ben",
+    "Zhi, Degui",
+    "Zhang, Shaojie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ahsan Sanaullah",
+      "affiliations": [
+        "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0002-5692-8767"
+    },
+    {
+      "name": "Nathaniel K Brown",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6201-2301"
+    },
+    {
+      "name": "Pramesh Shakya",
+      "affiliations": [
+        "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2708-9933"
+    },
+    {
+      "name": "Arun Deegutla",
+      "affiliations": [
+        "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ardalan Naseri",
+      "affiliations": [
+        "McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston, Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2747-2193"
+    },
+    {
+      "name": "Ben Langmead",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2437-1976"
+    },
+    {
+      "name": "Degui Zhi",
+      "affiliations": [
+        "McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston, Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7754-1890"
+    },
+    {
+      "name": "Shaojie Zhang",
+      "affiliations": [
+        "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4051-5549"
+    }
+  ],
+  "joint_first": [
+    "Ahsan Sanaullah"
+  ],
+  "joint_senior": [
+    "Shaojie Zhang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 0,
+    "h_lead": 37,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 258,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Shaojie Zhang",
+      "openalex_id": "https://openalex.org/A5100768909",
+      "h_index": 37
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/ucfcbb/TeraTools",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag268",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag268/8726346",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag268/68709549/btag268.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ucfcbb/TeraTools"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag268/3/btag268_supplementary_data.pdf?Expires=1796517268&Signature=3AEL6Og-8ASs7cmPZPYzZF34EWFRxm~-fO4EJEHuI~UVaQqPhxHvwHhEYWH4-YVjT~szd251LtYeaa79-7kZRf6veh4WOZUTHC5y96E-xUqAVzJFTnI0iTozng8cCvmDLCJnYgyaSg~IuXtBaS96Vc5utS4Yk0-pOEh-R4rVM4g9L27migbcQZCv87Tnyvl-LnXP2BFelNLBF3inpeZKUYqxnuPrQaUmx830pUi4~CSxKXMeui7oNBuOwDigmmCycAmnBfkende38OB82B1r-u--dHQ3JqP4tpLNXLCXbKcR7KEBeUCC6z5HvUoRwvo8ceudg8KbFbK9hsFPhEdInA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag268/article.html",
+    "pdf": "files/btag268/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag268/3/m_btag268f1.jpeg?Expires=1796517268&Signature=iV72BrlbhA7FCnxEy4gPUkKRdDAMuTHNan8rF4HPNk8SJFpZdl00gdFnSgaz08EJ7yqTAqXZ6lCBoiaYTB7RCahC2fRcFCi86FSsxq57ATACKxWEGaZLTNv7~FYDEvyk0r-6nJsMw0HK3ul2sHWwN~KslZEMnk47pBaMneS8JYFUCgbmpnzLy14QPy~VvXngXI2xAbCY00Wkv8SFURE8jikC8mZpYiphqz3k5qPEs~UkC~6G5DdDTnY8mtntx6gfqEqft0uWztLROTjKX4poMmxWNXEYvnhByn~JSAGCX-McZ6K1UFzm0F731vbfKX7yVQJPgKVz8Ag-xNWGOPK2Dw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag268/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag268/3/m_btag268f2.jpeg?Expires=1796517268&Signature=KcWKRKha1nvMyW5-RSf3WZcI9UbP0wZIjLwWFMu~nBPKPeNc4fPVRenUIAnPEwABqiaWNU50TDE5~~9VYMpiROUxz0jkuznPtHK5IjOCR8VAelCZ8U8qglYgURL8Rf3NYC2IrUbO0WONCX7JfBa~69NzYe0zfgUZ0A104y~XLeqCKlPi0mMziaUnqABZKsQ5dvAQTJ6RJBpHcrXW1KA7VMqurj-3ZAR1ZFcrgZUB4~Fnvq4CMFQfFL4uueDC5f54uvK-UYrdLtCffhejwI45EsiL93hT7DYCDegc4dLG53~7C9saUq9JVyKsWiNiW8C7mlbZj1QZLu3OUnpxefwySA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag268/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag268/3/m_btag268f3.jpeg?Expires=1796517268&Signature=Zzl1h1H~E2HgSfruhVNyQoqLBc6zh48QD~SfmyXc0h4ke2AWpFAI4fj7x1CjzkY3uqETSjh01vKSLrBT3V3ZfzR8ejzjQMvPQZLq5RThpAs0m3AAP8mU0nr4uheRW7wQgMHS2c6IuhC34ZdroVx3d1IV6BK1Pf4CdjXzywpcpVOBabEOTge9Z9~ud9HCa9tw8NzcQPz5aZsFR9riYlIim-mYXJZWxnnHebNpnOA0JcXUUgn1CWlwm~WsYYjIaIDAlAryxm2aJngjnKWXopct3VBApvWhxzAQ6rpYQjyLX~OpXEKbnyrc4CYdKxl8NbUCwSQEmgV2xGgNmv5vNvMrNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag268/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag268/3/m_btag268f4.jpeg?Expires=1796517268&Signature=Df7IPCScVr2HVnIIVbyZVCPU2Y7X-zJwJSbHsQXqEYJu7ax1LocB1qDsdetJYxQUm0oaAR8dxQwrozC5IouQoyrS9WRI2XLdnEqPinC61sMZ3KCMv4icBuA1pA5JLG14vh1slL5LgDIyp1xeugNnokeJogKUfNbvedFURC9SLSGwuEiBd1r4uEoM~zxxYTx8m1zQUiqTEFpwncbbf3hds8NgO-3DEm6iSB0UvNNNOhMGJv-zj8UgPFNAB34vBWsx5UMGStEbysHktGtwihWwDpOpg9INIFcrWonEt4TT8FYAdNFypPntRslF2dNg0KO4njqBQFuZ2ure23tVPiBq-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag268/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag268/3/m_btag268f5.jpeg?Expires=1796517268&Signature=Pm03g-CC5VSfTd8Gy7rl6E9RX-yr06RgoihA58ETcZPoBWZDITHLCKGMqijXx7oHbTAJCx5Ykqgj4SGKGNkATDZVxcz7QAmYz~pGsE5To4-AmhfXzcZWErpx5kaSk5CC1gkSFEhjsF-rhNmzlwsDgZkRKSd4evJSnUFx3WNeFVceJyb6pQ6HXrivT7mNiNkWJ1cmuWUbqaN6HAddKFW6weOmgxrbgpWM3NKIuY4Cz~N4OcsLRHF-EeNLucBjGIA4XsLb2D1FzsGV8s2ZIMbFi8EiVw1Usaiv-9mFEaezPJPZGJc6TA844k4LNPEJGatoWuwR2mQCt7IuR3~qEN7Q0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag268/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

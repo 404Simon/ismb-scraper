@@ -1,0 +1,118 @@
+{
+  "paper_name": "Bridging ancestry gaps in genomic risk prediction with tabular foundation models",
+  "authors": [
+    "Das, Anirban",
+    "Cui, Yan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Anirban Das",
+      "affiliations": [
+        "Department of Genetics, Genomics & Informatics, The University of Tennessee Health Science Center, Memphis, TN 38163, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yan Cui",
+      "affiliations": [
+        "Department of Genetics, Genomics & Informatics, The University of Tennessee Health Science Center, Memphis, TN 38163, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Anirban Das"
+  ],
+  "joint_senior": [
+    "Yan Cui"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 1,
+    "h_lead": 1,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 2,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Genetics, Genomics & Informatics, The University of Tennessee Health Science Center, Memphis, TN 38163, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yan Cui",
+      "openalex_id": "https://openalex.org/A5137652992",
+      "h_index": 1
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag217",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag217/8726311",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag217/68709312/btag217.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/18309187"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag217/3/btag217_supplementary_data.pdf?Expires=1796732820&Signature=3zjlUCodRXSJQrJlOArdl23SumYPKPFJ9~7XttLXe5dsqpRu018QPe69Td7xskY2946m-TpjXdVfDx-2NfmHFV~cVhIbN8mwPxtV68LHEYj-qSa3W2ScD-qLQGbO7DaIK8xTWY7DOeCorIptfR3bb-hxuBmEJt-LpTilysme6wYMcal~epAm8fdpn8lOnmhbHiV5ys45gsSYcbWzbkB69oWVDQj6aFpIXC~p2hmWtObDDKfIUaIq2TudlVy2FVCPWZf4jTzR2-OmRyfDEWZY5D0V7eN67pShC-GNwmwoQwDg-SqXRP6X0Z~q~eBERpDcu4~1OI1R4hX6nVGljEJmgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag217/article.html",
+    "pdf": "files/btag217/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag217/3/m_btag217f1.jpeg?Expires=1796732820&Signature=IvHaSJsXsxda9gvflrkWbpfiYs~9rhAwQk5eYiiUmaYR-D4ysrj4UqXzqMyVvUSHR9tpXqfs23CwMQBMpR3ZaUsLYcU0y7RsySgdybBaAPFh1LlKmmXm5pjLMS3HzvKKZ6e9BRXiBBZPlf7yVBp3eOzPtviwWzXXw8ckulFCndwk7kpTJKP7JSI9ALDVNF8n9aweQC4mbZz9VA7X5F87uWX-j4vu~MxBNUwgVpekOq9Pvzpyay5EBicCc4eb1sjP1u4TTS30svkyv0DuRrEyLQDbjEKBPK0ovbY42zwlbRuthRDsEYSovmjXTStefywOVBqSgpvFqg~IcSELELcTbg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag217/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag217/3/m_btag217f2.jpeg?Expires=1796732820&Signature=vshLF0lII664mf5jJY5X9CVe60iu34B9edrL3AIs~EjjmsKgo6ju3ZCMfqx5YK9~Aql-ACCMMR6e-C4RaPq42uOooN5s6qti39Q4joA0H-bV16fJG3PBMCehmYFgAW~aa7zMDUYKrO~ongbqglBCYfG4Znr9OCMyaSCKkTS3o5x7u82iBMGfSMNBN0qU2UQBpj8VfneaGYRO4IU5pTRcwNHceVcuR0lTAbBwTmte4SMUjmwnqwfnpfWlWS7myV1ofHJ~1oZF3ja0-uBeJi1RZAec8ljXGBV4kxyL1WiqpNDiB~xqTQKbHoq6s6VNZttKRcNNQ-2YL2ryvggwrW-O1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag217/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag217/3/m_btag217f3.jpeg?Expires=1796732820&Signature=fFiEVmYIJaOBNiFtq~8HJnBGouG9p385DapgiWWgBYIC9YIJUsCmL4WskXm-Hri345S~oeVSuSzJL4JFJMMUnfns83-H3a~ktr6XzWfMsU-VKslm8F70LLONgmNYF-UR1uusZtgz00bvRXF4DGQ68BzFB0gTR0Zzet3KIFIr-KjaxrTth8pGF8ULHUch0Yjb4AnWEo5bi2fGpqI6uHlEL3~y1At9SJay9FhQQFIi4wKDLUsHS8wRXZXe9yC-l4GH8CU4ZT9BugGkqyHeH-Jfqzo1oy1JQ0EgqfdVMhrdfSTB5LSyxPK3bCP9ijbVZZBUM9a8oGLjgFVEZQmH6iV9iQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag217/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag217/3/m_btag217f4.jpeg?Expires=1796732820&Signature=vtocb0oR9vngsOnKpal9CYnxAx6SpvB1WlniuWegHBW6f2ccbMpvJ2xZrzZwoDfpSHmf4N2IDDrkOELPL6yxqlnnrdKIYQrH3WGijXt4DyXPqPMiYIUjsCkTuu~0RqKOytiwuFcvOonuD1gW3V7PUPRsp~lNc1EU3yY99G5owYSzwDBv7OENRCV-sdOESvEpmbyGBSzT870fiLEculbT~wei-t1ThECPmfyk3EIw25gr7vwar4nQ9PnXftp8~eXcRmmVlOLSxJenioDWZkCZNz5-I9msTL5vth8wxKZusBctCpwFJi7qa3ZoYuczUQg0cOoBK1EjVpXsslellJTicg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag217/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "paper_name": "CPS: mapping physical coordinates to high-fidelity spatial transcriptomics via privileged multi-scale context distillation",
+  "authors": [
+    "Zhang, Lei",
+    "Cao, Kai",
+    "Zheng, Shuqiao",
+    "Liang, Shu",
+    "Wan, Lin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Lei Zhang",
+      "affiliations": [
+        "Department of Control Science and Engineering, Tongji University, Shanghai, 201804, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kai Cao",
+      "affiliations": [
+        "Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard, Cambridge, MA 02142, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shuqiao Zheng",
+      "affiliations": [
+        "Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China",
+        "School of Mathematical Sciences, University of Chinese Academy of Sciences, Beijing, 100049, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shu Liang",
+      "affiliations": [
+        "Department of Control Science and Engineering, Tongji University, Shanghai, 201804, China",
+        "Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University, Shanghai, 201210, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lin Wan",
+      "affiliations": [
+        "Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China",
+        "School of Mathematical Sciences, University of Chinese Academy of Sciences, Beijing, 100049, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3511-0512"
+    }
+  ],
+  "joint_first": [
+    "Lei Zhang"
+  ],
+  "joint_senior": [
+    "Lin Wan"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 19,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 25,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Control Science and Engineering, Tongji University, Shanghai, 201804, China",
+    "Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lin Wan",
+      "openalex_id": "https://openalex.org/A5009511375",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/tju-zl/CPS",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag218",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag218/8726342",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag218/68709525/btag218.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/tju-zl/CPS"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag218/3/btag218_supplementary_data.pdf?Expires=1796446612&Signature=mhy-ma1zVwQbLGwgiABw5ZUXZjQBYhcYl2~vff8O~WXHVUa5RF9EaNbHdVV8dh8jBG1AL7TiftrscHJeB-Rls5Yzwg8Q5OpvWRjYXXjwn8n7m9ThCY6qrdLVTmpP20sN5YxxAjg2OEDS-QKfGhRRVlj2nFNeAAHTQhGTN6ELw418BTUtlx6d0XTuGQInPfUHwoxrr0kGdxhR2p9gTnLvwhYpZXXcarScD1ATI6s0A3~JkH9eZjuKFzRTvUaTGFTLG3G-js08sOZWQHFledphcuMiNgMM8LYJ-I2ZOzKrKxZMoK8-U~~4tGYEIufZwmwKQO~pj-o9AmG8XpYeYVW-oQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://research.libd.org/spatialLIBD",
+      "https://www.10xgenomics.com/resources/datasets"
+    ]
+  },
+  "files": {
+    "html": "files/btag218/article.html",
+    "pdf": "files/btag218/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag218/3/m_btag218f1.jpeg?Expires=1796446612&Signature=zHMN7JQlxmlYGZllq4n-ZBLOITLcJorxcR44hf6kxP53Ycv0OJZLz-b9zzJAFk4a0JZSbUTHSdKsMpg3U27jD2O41J~hG45~dd45M2h7Y4RPH4ouZncGyOcuc-cX-CANYur6z5-iI8jOH7sApFrMW4oRRa0gF-iCxsiUH8xKSGAHxU2moE~pJmpnHKFlDtMxri7al6Wt4raGg7mn0V29mqRD8mAtnZc8WrI8YCoKQiqRROCk0mPD7sEoDn3G9vEN3tEmACL-aZxinR8isDI81gGlxMMIII8s~pvtkCoy4CLCfJfTbuk0PYcd~Q2iiFmkLxoNszYSy2VevgWC0YCQFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag218/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag218/3/m_btag218f2.jpeg?Expires=1796446612&Signature=lXu7Q7GoMzmDmXYyuD812po-1SVJ1trIFFizCmVSKOgNkpR371J9IFoNYwQnfOrmuFWIs2Z6OxyLSY8VkpdDb3qbJauIzSGsLNZFTMDYjUCpVFhpY63at11GWKGclCtKR5rSaE1YTH-BQ3ZzUZJxsA1hWAQMmZFXjyXWRmKijFSdRYglrHiD~9XJ0erR4lwxeURVBDtps4DCTUsBvLkQBAATwwq42GH9b5Sa02zx4MbVxLxDlSP2A6NvufdkakYB7zxEFeEgKmFF9gqEuqD9UVCmPdJ~rqPfoqpQVQvLbryUbr8moipSUChrFxAl1IRKy5hX73azDV-cF-G3kGcYvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag218/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag218/3/m_btag218f3.jpeg?Expires=1796446612&Signature=Fjm1Z4M7ipQwIxr1sz9sdanm4Azu4Dl1N-4veDpvDpvD3IyC6so1LJik1K4UPlnynO1RllYrfmhlqFi1Nj1B4GZcWYzX~m6MBfoAEY3yI5BszQJAf40uzihYpZHP1G9rHBl0mWpdqgYFjQ2v~Wd-x7mMOdiZfFMvLDAB2GZf4F-s35HURXWdtSx9r23BtdkKRoebi7Nl3FU0O78tdntCbeKhn5RRJ8BYkg~Z96njglyEhiE-vpmRUzKSpWRNGY77b7qtad1LpmUGNoCxdpE9uStnNBo~HPm4Pgis46evFk2bZmW3c69E9tkiTB6Im0IvPIVaz-VePMQxxlbbU1sBKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag218/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag218/3/m_btag218f4.jpeg?Expires=1796446612&Signature=4JGkE8zkCTIW0TMtS1bJRkvWp71W4niT8D6YI8KOMD~3Z0iivDSoBpKAsWTqabqUNtJgCPMC045d5enyYMYMkeFayGsDAAm1HERliRbQzv-e6NbGA5z-o0W9ylXtkjhJBFgjf8ILZDqjPIzLIW1UIObJrus3iiCGzvpzrNmq4nudw8hv14x5LmteP5FAMn-1jHtUkrnozvL~UjM0K5AHJycIdNPwUFf9ZY8RgtGfXcRC-BzqSlvr0892E7lAPjEYOTOZ8eHzCbq51BL7uyOt4XRKaha7bue4WxlvFh68E1EjtuV5bhKaZ10Z3tetMy--xr6zjg~301HWLcUqNlYTtg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag218/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

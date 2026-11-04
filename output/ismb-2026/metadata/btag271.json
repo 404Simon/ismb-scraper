@@ -1,0 +1,117 @@
+{
+  "paper_name": "VirBinn improves viral genome binning from metagenomic Hi-C through graph diffusion",
+  "authors": [
+    "Wang, Shiyuan",
+    "Du, Yuxuan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Shiyuan Wang",
+      "affiliations": [
+        "Department of Electrical Engineering, The University of Texas at San Antonio, One UTSA Circle, San Antonio, TX 78249, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yuxuan Du",
+      "affiliations": [
+        "Department of Electrical Engineering, The University of Texas at San Antonio, One UTSA Circle, San Antonio, TX 78249, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0568-3838"
+    }
+  ],
+  "joint_first": [
+    "Shiyuan Wang"
+  ],
+  "joint_senior": [
+    "Yuxuan Du"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 0,
+    "h_lead": 6,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 22,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Electrical Engineering, The University of Texas at San Antonio, One UTSA Circle, San Antonio, TX 78249, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yuxuan Du",
+      "openalex_id": "https://openalex.org/A5012969471",
+      "h_index": 6
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/dyxstat/VirBinn",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag271",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag271/8726339",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag271/68709508/btag271.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dyxstat/VirBinn",
+      "https://github.com/dyxstat/Reproduce_VirBinn"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.5228989"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "http://www.ncbi.nlm.nih.gov/sra"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag271/3/btag271_supplementary_data.pdf?Expires=1796419464&Signature=ECERdKnwLNCaAtQkMpTvKU~qH4c36a~eSwA5FK6aMlqDWGafmU5EMTw-5ll-EItqg6BMf0LnUMxWbW6v9Zdbb0IuvW~MBxQsCQy73nLdooohxKaa7XxN6oIsuaOSD0CcYV7Y3E0jOqj4WHLzPCvzTMSdrb51tW8IbMNsXApBLeQMGcwqiRLqlWNFXHdequvZ0DulYkmyN-ETdl9Sxts8xvsckn9~2jJkiFsLdkh2zAlNjw1XF2j-y2~LWu8RJ9l0BJmzsvgMhRwUw7nJFf9ghRdVlMXjnI4jqCkzuQHvDpeHgLwt2r3MlKSzM2pfdy4wVzX5SSW-TPh~HHXhhzwc8w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag271/article.html",
+    "pdf": "files/btag271/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag271/3/m_btag271f1.jpeg?Expires=1796419464&Signature=Cf4qXMWJ64TNT97-TfKIASGGonyeoGRl5a8s8L0n8JmVeh86TZhcXhbC2jhSnvDDIdl2GQczLP7CGXKTia975btC4jT0uPJdkzoeoxY4HEPHNu8NdbGcwcfDkRAfqqqirvc9N8y2~3pyoSv5WDNbMY5iWkInp-2HcMNtqGb~oHt6gBbzaTAVOsgsfWvczyS9EK1uHuXsjIfoA~ys1UvIuxVcoUAJOx6pMinYKaDTWnMmDPqegybSpNYTfQdX7CG25k2ls2WAOnB2L2~uXs19cvfHrrIwcDKR0-QIJYi~C3Pjj02LyDOzfnMjcf8VVNgWTi5DO1m5vLbD1JzZ4n~KNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag271/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag271/3/m_btag271f2.jpeg?Expires=1796419464&Signature=HPLfxIwWolkfOHuNXpRsgPGCIEOP4hUbSBtp4QECAH5~sk6B-puE-myGOS~eMSIeg8mUe8Uhl0ZdcUqmcQVKW~5oBmYWWnQLZ5e4BWKMfnzn4QcpCtO~2JtZ8bbzVhnDgbXKRHX9343nCF0K6w-jptOfDeEzMFUS3KbVgTQ9SEuNGSumW2eTcVsTX-GC9vC~F3wKuT4wvTpYRK1z3cirv67PgYyzXwW~3mAQsiGej8ciL~HS4IBz2BvEIa1euZ4ilVkyGHGnD-xSYu15JtildCGgK1AliAm75u69MboQMjQv5bMX7ucsdpT34DSboX53qmlVAWIUpMP1JWthuJ2LEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag271/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag271/3/m_btag271f3.jpeg?Expires=1796419464&Signature=lvvVG-0GbhVNN5jtIoFCrVfvweCemyqlc4ZtsUun16KfrpeCfIB9gXZXskKpegm2A1oOHetQPxAgPYI2PqT9TLKk3NNNd~-HVwuy39YJ7hzTTUJ73ybjI2Vi01weJRN7ET2HqidGTR1gFrz1TZfaNXZxyRam8-SqpBxl8HxslEh2Fuwd7SH4g-AregoFM-1QTTdrqIh14xPvAxs0Lc35yDhhNxEl3jEGB-noaUq10r8R6K~B1vq~O67bgqo3bwVAKEab691Mi7ukWl2ABVVs4-3-ftZrcQ2NID2VAGj7BuIAGEuemw6FYgZgnwxCTcodskdQXf-C4RKWDf1pFLMXyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag271/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

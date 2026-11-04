@@ -1,0 +1,152 @@
+{
+  "paper_name": "A dependency-aware deep generative model for inferring RNA velocity from spatial transcriptomics",
+  "authors": [
+    "Chen, Sishuo",
+    "Yu, Liyi",
+    "Jiang, Peng",
+    "Zhang, Lihua",
+    "Tian, Tian"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sishuo Chen",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, Hubei 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Liyi Yu",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, Hubei 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peng Jiang",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, Hubei 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lihua Zhang",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, Hubei 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7841-5562"
+    },
+    {
+      "name": "Tian Tian",
+      "affiliations": [
+        "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, Hubei 430072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6147-1082"
+    }
+  ],
+  "joint_first": [
+    "Sishuo Chen"
+  ],
+  "joint_senior": [
+    "Tian Tian"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 18,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 5,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Artificial Intelligence, School of Computer Science, Wuhan University, Wuhan, Hubei 430072, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Tian Tian",
+      "openalex_id": "https://openalex.org/A5004532673",
+      "h_index": 18
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/1062638515/spavelo",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag270",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag270/8726340",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag270/68709514/btag270.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/1062638515/spaVelo"
+    ],
+    "zenodo": [],
+    "figshare": [
+      "https://figshare.com/s/c91d16bf865855a7b5cd",
+      "https://figshare.com/articles/dataset/Spatial_transcriptomics_reveals_distinct_and_conserved_tumor_core_and_edge_architectures_that_predict_survival_and_targeted_therapy_response_/20304456/1"
+    ],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag270/3/btag270_supplementary_data.pdf?Expires=1796403250&Signature=ced4aBAt~Zj2UN8vT8o7QDe09O0CHKSSMKTtT-P8GlBzvQbFfCc3cEvTO7g6RCecxSTiyfT3-Q9SnbhLiDZZJXxj9aR5kCDBRmwOk1J72FgVQBpKvD-Nvjz9MW3A2I7aHSn0GnfZWCgXCS9QYPT2~eRJXl3YeTnj1ahAvvtBtbZddggMpoHTtWUwEXOL5mls2kRjYffC2oSDTTxKInEbOS5ltS6eN8dlvG1fzyYK0uL8crKVXYDxTd9TGniZa4oUmKanA4EID3hE1NFiHY3dm0cO2sah8hviNCg3dnZbaeyfvQD~bn3ek~IGcTYPlbHSQqg80aGcBTxQjNU3xHSEsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag270/article.html",
+    "pdf": "files/btag270/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag270/3/m_btag270f1.jpeg?Expires=1796403250&Signature=PBHue2awold~AsAcf0cQvi-SQRRQ25D1KPJSZLWuPsm-4fhJFcEqGAdJB~ZpA41yKgk4t4LeN3tBTm99CF6uGJ41McSUqgjKv5w75Fx-qm-bO7ZAjHoky9Kug7azc4urIqN9qR-8txiOv11CnUwbvQVyIaYRTDp8GYPyYbrowRAOTmDYAqfQ1jO3KcuxMqH38oG-AqE4JLGBM1vgwOJKAJQRRXMksAzEsKt0uyVXO~~iRb7q3lKBitfqBOtO2PXQIvxe7RdMcZ1qQ6NtcCmnJ5eVKfZnfiCX5MJRvMNteE1WZSzbgQtya34iDvWz-XUUsa6mKNrGptoEOybRt2PnEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag270/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag270/3/m_btag270f2.jpeg?Expires=1796403250&Signature=IrGZqZUDFjXFYcgYzaKckZTaVyjA50VBVUqyV0hW3nLpx1ssEUHduGqk67O-j1VIGr8Hu-6Qj0auyHg3UcCAQOnHMXd-yxJo7sTaNbHvwpmr-OKEHnODUSbQlwjPeerGxhgr8r4hQYFKqUIM04gbMKZnt6zqQ8JkrrQ--AoFsJvSRfZrcr536TEa1UmZeX7g9uNt1tjXAlJt7j4wxbzlLKmjCp4f2n13cta7Qc3gpnS5CwrWrues~CjxrYfy97J0~j5Uh0NdlbXbzncMa4JGs2zlLFg6WMNXyWxVGY-JOleS8Op~QDBWNdWD2FWH-r2z022LK8XFM6ySbLXIQR4WAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag270/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag270/3/m_btag270f3.jpeg?Expires=1796403250&Signature=tZ7IzOHsRTNND6e9saZYk~hCD0hKEl~HR7M4TVOrKL7cgT6W~xUnU3u86G-L88LYNwmULfDk0-s-QNKPlVL9OM0Xg2mFs3daBA71TqqlmN97zr8cNf6jWKnrud9ort9GWcWdQbwEOkt94ki8s35dwWMSk8Cf0HYnuEBEm~QrN-9OBGzExnaFyKJgcD~QWLbKyFN4RMjYDRXnvI4ixOYGXB-Vwh9Ct8ua7l7s3Ukas4sswFVH4e4CkSDiFOIRz-92ZATUckvSLuQtpyGC8T6c37AMHIGjTAmmumfHo2VXNh9HBooHwIKtAbffRsDGwI6qZc3WvbZxXZwbyXGyvzsbeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag270/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag270/3/m_btag270f4.jpeg?Expires=1796403250&Signature=t9dz2WOvmWwF2lJivOdfnTvjw-2jbnxqomWY2PzUeyWeQH~oo32J3~pPUkVSN2N5YqkEZHinYNhfUjZbZp-PUbeVkgLBYZdp7PLtY7CGPFwyddhvjsTY25SiUT5WXL155m1szvotlYVztm7ppeWANXfO-IBBcYW2UtnoJ-Vt-Ncwd1sLmcLj8DFbpXPoDxGki7FB3NCE8Df-MhuKjnKKrJn8gKjkvK4M8WDsBaG4B9ca7y3mvcsll6uWWfuz4EmVJxbdQu1J53w~cuNVGG9vMv0WBJp1AvHNr7G65wHeIPiahKn7AEKYPpsJ31EDkrkx7Kwryxqom3jTdFI57nWNog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag270/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

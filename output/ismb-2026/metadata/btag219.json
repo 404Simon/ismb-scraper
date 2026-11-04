@@ -1,0 +1,130 @@
+{
+  "paper_name": "LAML-Pro: joint maximum likelihood inference of cell genotypes and cell lineage trees",
+  "authors": [
+    "Chu, Gillian",
+    "Schmidt, Henri",
+    "Raphael, Benjamin J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Gillian Chu",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2205-730X"
+    },
+    {
+      "name": "Henri Schmidt",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Gillian Chu",
+    "Henri Schmidt"
+  ],
+  "joint_senior": [
+    "Benjamin J Raphael"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 1,
+    "h_lead": 79,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 172,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, Princeton, NJ 08540, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin J Raphael",
+      "openalex_id": "https://openalex.org/A5025899028",
+      "h_index": 79
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/raphael-group/LAML-Pro",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag219",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag219/8726299",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag219/68709224/btag219.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/raphael-group/LAML-Pro-experiments",
+      "https://github.com/raphael-group/LAML-Pro"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag219/8726299",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag219/3/btag219_supplementary_data.pdf?Expires=1796434883&Signature=RCrk2DALOQB9zuutp2pZr~fqavZNVOMahlCWcKy9c-ZHfVSpu4eRL3n-sacB2PjiDd9LrOGf4x0B9V7antXutfzRkeT6ojNM5GDyuE7P0hNrUmNA-NpI75OqCpm26ID3vzOp4RMRXGLqCARcdXTedK34Xtz98qBZuwcmR72IYj498svTRctZB3uAUQ0fwDTnSqaowlpdzIy4xNn6F2w8BVEb1bW0-MCaI2GKEckstyG-gUsAP-TuvysDxBi7txQhTMxmWb1OwBBdT6o-w~WusKp2EoY00o5u8tfrTBTKtd6nsoDW1Y0UOxkfu7ETXun4qe48ZLplYK-K1QU65U1oVg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag219/article.html",
+    "pdf": "files/btag219/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag219/3/m_btag219f1.jpeg?Expires=1796434883&Signature=FIBNfdp5L40dEv~aSfLK6YbPrPAs1Fo8FpnX3~ZCr3caMDCHw1D6Srl8iGtANbynqVCI3t6L8pmqflvXTiX~DW6TK4if19Yh2MhNU5qpbRj0c-QMGBm3n8KtpxdTd9BFer8eeYFXdkqueAQ3TlNRvqwoEqbqn5x9iZeHM97dF2p9eTFdBDLiBAdIyaG8OSHkMLCGuE0wadHb2nprxOkleabPbFlrgXcne9I507ZSiCFto~dFfC9BxcfbZjXmdeEbB0KZ6v9Y3z05lYuLsHWU1H5pE8ii81j~PhEBQpTxNrTaTlBguMoxGdCmpjR0gI4i0YSueXnVmY~K3T4Tn4-u6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag219/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag219/3/m_btag219f2.jpeg?Expires=1796434883&Signature=qiSbHBN54ehl~bPupW-r57n5P~tIjWospHVjIClGZcUDkJpseetf5cWkwP1ywHXRMKE5d61hvpaHvEutQKg~TJs88eIwYHMBhxdNTdgKu8CBLh2oJHZTmJZgU~HpELpC51VSagykv-H2n~0zF8Xj5ZbgAbcoG8llzioPSQHShcYT4KWyeAkRlJGsz~ojmoEDM9fNSQ0Yc5yEMvtU56lss6PleSO-jnk7Xi1tyDObwFqsW48mFtnhkvqDXdIFu8tb5M-Kiggyfycpn~09sRN7jhqpjw8k5U~BCRdglHpMYfzu352-IcyXck~2UpcWPhGm103Z-2d69uy1TKHLCuxKRA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag219/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag219/3/m_btag219f3.jpeg?Expires=1796434883&Signature=ctpx3FstNt~cm9Sei-0gkCJyitlxfzTrRF3FXWl47YB9Nno~WqH5~1nC0pS4KvQLde50pYImFuztJCef367McxoaqGtMxznZf6xxFx5MF2buXmUXExz2Ns58bgXEBQmWp~Ux6iSZw70cP8V40cIpC3YpDl9fQTXBXJ1uv5JosQcdj1KZG4xv1tp2DTorzgtZ~rDHKODrT1Smtqzil77sp36FwmuSjY96G8SnFlb00imtHdFgO6LWpd9sgiFWeXwjnTDz4g0ycCMWx0~dxuWWgt0qZ0DkbvttRcEFtozslFgsIJB8CktpNoinqb7dUePMgZxtjrtZM7-67HR7voEUkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag219/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag219/3/m_btag219f4.jpeg?Expires=1796434883&Signature=T-Z0j1iJaKpvEjOzJYBiGIkns~jAKiJMzzMr~GDGz2cvs0CXOG0QEnOWbebzsKgP4j916-SIKbZJQrT~XzzYVBA4pHOboroSylZT9rdVEwUOWSXM3Oh7lMd~yKqGGlYXKE-vQyMnT4pzAHsCfz51MsbDAHE8yRLiv4fffAvgy0JNCy0LWOCmLbZqp~5kFgIuny0GLSP2p9ReAEIr~CMVrp7OlPFQq4vorVtOgPaTttESADi-svh8Uv4jrBYtLcxuAMIidmbzIlHhCi736dZDNr6wU4LZ7fq7tZ6k1sWMpJmt9ADVpEuk-JjGXHpYgZHTDbJJ4HGqmeyzfDjv5QESmQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag219/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

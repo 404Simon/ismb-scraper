@@ -1,0 +1,154 @@
+{
+  "paper_name": "PU-GRAIL: residue-level graph learning for identifying protective bacterial antigens under positive-unlabeled supervision",
+  "authors": [
+    "Jeon, Jaemin",
+    "Jung, Sangwook",
+    "Jung, Inuk",
+    "Kim, Kwangsoo",
+    "Yeom, Jinki"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jaemin Jeon",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0006-7922-1034"
+    },
+    {
+      "name": "Sangwook Jung",
+      "affiliations": [
+        "Department of Medicine, Seoul National University, Seoul 03080, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Inuk Jung",
+      "affiliations": [
+        "School of Computer Science and Engineering, Kyungpook National University, Daegu 41566, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0675-4244"
+    },
+    {
+      "name": "Kwangsoo Kim",
+      "affiliations": [
+        "Department of Medicine, Seoul National University, Seoul 03080, Republic of Korea",
+        "Department of Transdisciplinary Medicine, Seoul National University Hospital, Seoul 03080, Republic of Korea",
+        "Center for Data Science, Healthcare AI Research Institute, Seoul National University Hospital, Seoul 03080, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4586-5062"
+    },
+    {
+      "name": "Jinki Yeom",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 08826, Republic of Korea",
+        "Department of Biomedical Science, College of Medicine, Seoul National University, Seoul 08826, Republic of Korea",
+        "Department of Microbiology and Immunology, Seoul National University, Seoul 08826, Republic of Korea",
+        "Cancer Research Institute, Seoul National University, Seoul 03080, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5332-2658"
+    }
+  ],
+  "joint_first": [
+    "Jaemin Jeon"
+  ],
+  "joint_senior": [
+    "Jinki Yeom"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 19,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 14,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 08826, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jinki Yeom",
+      "openalex_id": "https://openalex.org/A5078633080",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/jaeminjj/PU-GRAIL",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag263",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag263/8726352",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag263/68709591/btag263.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jaeminjj/PU-GRAIL"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag263/3/btag263_supplementary_data.pdf?Expires=1796414041&Signature=z-KjiFa39HjoyX5MtpI~t~K3Uf5NSOo2tttYIoDEjuuvuLGxlIiAXFJ1eVTbUdPu20XJ4llbUIHEsmX6REVGNPdKX0DIKcoVkq1mKVPX-Nfz0CALAENZ3U2Og1vhmLTUEvyZCi7uS1ZgGd9aeEkWOc5YNwoxHC2hMfgcRvV2HMcTHw460eLZED6~Qw4nR69JlVGIgnsBahMhcZy4MsRZTdFBkgevgNR8PQVmlixFNsE-31xwZINxKx8XZ2DenHn~DFgHeu3gz8jth4Y-Om~DBYmqtmSX31x5wgyBEKX-idHkDhIBafVtA4op8REVZvGn9nRLwLQ4iT-SqUzyuEPaAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag263/article.html",
+    "pdf": "files/btag263/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag263/3/m_btag263f1.jpeg?Expires=1796414041&Signature=2V6GsSowvQ~cdGrNSz2F8npBZes6YSMNgKy0uMSx98wC6d-NUTyJu4mpB8qhGcnE5TbT0z~qu7L~3UxOz8M1bgVVUhPbJqnzHfgEoktuUWsj4JBupvaB6Fp7F6535s1L4aCQJsF3G5UQ68LZu-GYx4jgDSLn75mECsGCK1cgz~r4FlP3DBYR4x9ZkbkAyvbSHyM19qg1EvX1~6S1CA02DtQ4SMzakpsBeJZduSMExF3bH6eaSO-YnFgMgqhTI0ZNm-3-ckG7Xyu~a~NMOkF9QlXM5Jt0cF3KKDpo~ifL2dxm0lUecIRTs9s1ohm5qLdXHGLXhbd3mhGln7TIRiS5bg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag263/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag263/3/m_btag263f2.jpeg?Expires=1796414041&Signature=vnQbAxPUIodCOXveTmNEvaOMlLB8~1D36bN~1tLCdn~1aZxtLe5klAfZ2~nANOUAROSWxI87mwAzzjbFPSMn1KdPuA3IQUCXHqJ1ReokP22R9mBjiG629GGdOYVm-jlg8Q2Lq63BY7TMDJ03xNETg1vm7fEf92K~VUj9NfThW5zyiqAGbYjUrweG84ECgY37mle8PkFaO5RGij7O6FjrjVJn80gcSM~Bm4njhn0WlxACW-ggKZlch0Yrl1DVZuv9LHp8S44c-CqHKxP6P74lFWJ~R1e2NKN-a7d-y3cJrPteuUhbyg4QSpndy6klGQjBTrdTEcGFL3RfoRn-84gLBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag263/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag263/3/m_btag263f3.jpeg?Expires=1796414041&Signature=0LhQLlaAg4wbrbNDvRFx0XGJkTIeFGjqjcC5yNy-WquyDSZhkVu3GRuUQ1ZfkIYpVDtVvZZjJXqoPGClb1dewLim01Nvjiu7Zg-Dj6JU6lJsdp~Ur9VXrCrbIWLmoW7of5vo0m8zduB-8fdmM8hkbUdAh-q0WL3AF2N4PGHdCt0SoxfX-PIoO-qS3vxQg1r74kBe78MWoaYSQd3KskXkVwD1iKK70NSDs~VXihBCNOotX5cceVRQsHwP3VFzHInpQRI4iNDvn0QcZYIivSQNZEMzS~54rPKfmzzpbrw9BEj2abOmofMff6A3P68nPu9ufDZMk~OSKmmkpyFPXF36mA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag263/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag263/3/m_btag263f4.jpeg?Expires=1796414041&Signature=KNPZQwm2QXGfy-amIB1HJC9W109MFKz8msxXyGO3j513OuA6lzHt5y4~EbGhU3SCzWur3wBi~Gx0Cmj5TTZ1i7eIGLROqplUWb6m6UDDf3IIS3yvxzU2aSHtcNrq5RUPbKDG70y1jLG9um4PjzDZ3f9T4xI8K0lFCm8JUopqQDaxS73iWjMxDTa0gjqjv2~IA2xYU-2~6SgvmKsJnSd5Btzo5hBXZVXYYjUcceBKn~FYp~TJ2ZQcbnYZrh6CL3jwHI0KHqdxeCOwXw40ddb3KdND0eGJm~dqxAQGhgaZgpdY5On~bQtirjbLVNSYXrl601SE0rMBSba~UqXcdKMWbg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag263/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

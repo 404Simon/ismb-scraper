@@ -1,0 +1,138 @@
+{
+  "paper_name": "R4ST: a reference-guided graph-generative model for robust reconstruction of spatial transcriptomic profiles",
+  "authors": [
+    "Wei, Mingyue",
+    "Li, Wenrui",
+    "Zhang, Wei",
+    "Liu, Zhi-Ping"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mingyue Wei",
+      "affiliations": [
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong 250061, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Wenrui Li",
+      "affiliations": [
+        "Department of Automation, Tsinghua University, Beijing 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Wei Zhang",
+      "affiliations": [
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong 250061, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4264-5758"
+    },
+    {
+      "name": "Zhi-Ping Liu",
+      "affiliations": [
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong 250061, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7742-9161"
+    }
+  ],
+  "joint_first": [
+    "Mingyue Wei"
+  ],
+  "joint_senior": [
+    "Zhi-Ping Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 0,
+    "h_lead": 25,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 48,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong 250061, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Zhi-Ping Liu",
+      "openalex_id": "https://openalex.org/A5001552700",
+      "h_index": 25
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/zpliulab/R4ST",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag228",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag228/8726327",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag228/68709412/btag228.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/zpliulab/R4ST"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag228/3/btag228_supplementary_data.pdf?Expires=1796445046&Signature=bq569WYWNXAEgmGt3ZIjB7KX6SXCV0krYsyoR9-Dp0P2vE64rALdO5LzWWZH0bSm3ZnoKUhzyQ3gc3erSVkwyGr3DG-OpPHl46nDcgBNfpA6ojbCGjSAo28jsCYpdn~keh~J4CnpZuja0pt5EwuI0fCn3yvoBjM6065Xqq2fxtAGqy0AgtoXE6vEUoKB-JTbyq2q7xBuEHKkAYwnsjLFjyo1ecufrtm5nYVYu2~ueDZQxxZVs1BiSrZSGgiOhGwT1Y89ObJjO0F-Mqq9P8qYHcTJVfF7sEkizec-BF9AsOd2V7aiVBa4Pucq7i9vaueegrgZOUhEoZtTi9Fko39WoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag228/article.html",
+    "pdf": "files/btag228/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag228/3/m_btag228f1.jpeg?Expires=1796445046&Signature=gITewXUGRLRPgpwKQAi3A~u~r9poY2d2is5vgccnFwdBMrjYGhsLB74I5ek805ruVj~AhgPQ-NmpGUh6DHlEyRDXBu618Axwr-TxnWyxwbuWvXa4-mGknP0yXDxmwECbQr~TYbBFxN2dBIsBUb-TjaSt7hdWp~PhAWtI2nL3kyWMP-APCwJwecUWYOWI9ynm1x1vSumzqeFRKEnVA9e3HgUp3wQqkyKdKt3NmqiUsXixGBEJRo~UUTRJYJKiULGB9tpo6mkLNTJuPNqJfoF7NErnRsd1tH3Sl0WSqYlIEy5Xnq7LR-q12k2haN8xLiesFN3FcoVNuvs9XtMZkLLsGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag228/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag228/3/m_btag228f2.jpeg?Expires=1796445046&Signature=GZ6pImSG5KCB8~WOSA~K0ifjfpHCNPLuI8fyg7V0-CP5WuakzOhXKD3lQzWosoD3w-DqKOjnWCCZWTdOykOTj4JaFqCmhkIMEO0t66eUtIp-CqqPOdAw~tZCEB-Nqw2M4GvCfF-YkUEL2k3o1shfQkh69-BswxMXzTTkHYAPBMeenovwCd~qUhUxw5wTjfnTgHzVmA1rdFU5NABeLzdgGBIoJKwT9NPvFJaD2l1ITGsgjmhAveTFFRLeKCyocqchdZfUym9nQv4QO6JUY~7rOuBp6kCDskU~SkOXU7vdYVNAYrI6eG4eHKpl22~samOLp7naz47zF-q9hQ5jwS5jcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag228/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag228/3/m_btag228f3.jpeg?Expires=1796445046&Signature=CT0kXMIzktkFMaHAbEugddqqL-6OpNIaf69dClalgf~tnkLwEFaI9sKoFrP0xHWrBLX3sd7Ksw77nvYldsuHXjeFiU2OTdUBTL5S7rwmQjrkgAVigAzLH1NcgaKCqJ1v4Jw5gWDS2yyZRjot8ju00x-m1cltaD0TXOIf2xy2mYxSdEIAjOjHM6j9YTqKhHrU8LRp670U3fIW5g26Yp-1W80Vs4lzkVovTJTtwHDbFdTa65AYhdaXAkdMU15Kfx7Eu-v5mLSGf8OvKKUib0UatxtfHJqk~WB5MxKD1ZvkYXuGQjmvyt9K~fJWuUSCgZGHDEvMeG91uWdNuz2hLAk-4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag228/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag228/3/m_btag228f4.jpeg?Expires=1796445046&Signature=UqYO9rPZg6UvdwyQiVuL8IZFzobYaa8LtYG3Mj9VtLeXH-JnJgo~8i7pkZuchLWPgp2RxgLa9k99bby9hS2s6Ruaxx1xQ~Ix7n60pPUNVCPyXBEFcwr8CTywbZM-rjrfPpZLS~Y~8OCN0PEmS7uiESUKiTy-PiarW4GHu1hJszBAYda86jmtiiyJS9ZmoZoGPyUGSsSbk8kW4i0vNO-DM2x~Qg5FurOmWPaFP4Xh89q6wgtJPIJAm4hbk3K8VHPDhF0kUP69UC6BXA6uLrpg72-mq6vXx7-FFvFYSHANlm6udOq8jTYHMRRWbw7DFWIpIvC2wJXu7XW~T~hHlFUDJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag228/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

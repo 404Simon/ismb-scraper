@@ -1,0 +1,247 @@
+{
+  "paper_name": "Knowledge-guided contextual gene set analysis with large language models",
+  "authors": [
+    "Wang, Zhizheng",
+    "Day, Chi-Ping",
+    "Wei, Chih-Hsuan",
+    "Jin, Qiao",
+    "Leaman, Robert",
+    "Yang, Yifan",
+    "Tian, Shubo",
+    "Qiu, Aodong",
+    "Fang, Yin",
+    "Zhu, Qingqing",
+    "Lu, Xinghua",
+    "Lu, Zhiyong"
+  ],
+  "authors_detail": [
+    {
+      "name": "Zhizheng Wang",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chi-Ping Day",
+      "affiliations": [
+        "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute (NCI), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chih-Hsuan Wei",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5094-7321"
+    },
+    {
+      "name": "Qiao Jin",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1268-7239"
+    },
+    {
+      "name": "Robert Leaman",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3296-5766"
+    },
+    {
+      "name": "Yifan Yang",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shubo Tian",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6415-1439"
+    },
+    {
+      "name": "Aodong Qiu",
+      "affiliations": [
+        "Department of Biomedical Informatics, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15206, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0008-4575-8364"
+    },
+    {
+      "name": "Yin Fang",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9538-848X"
+    },
+    {
+      "name": "Qingqing Zhu",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xinghua Lu",
+      "affiliations": [
+        "Department of Biomedical Informatics, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15206, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8599-2269"
+    },
+    {
+      "name": "Zhiyong Lu",
+      "affiliations": [
+        "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9998-916X"
+    }
+  ],
+  "joint_first": [
+    "Zhizheng Wang",
+    "Chi-Ping Day"
+  ],
+  "joint_senior": [
+    "Zhiyong Lu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 12,
+    "R": 0,
+    "h_lead": 83,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 18,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Division of Intramural Research (DIR), National Library of Medicine (NLM), National Institutes of Health (NIH), Bethesda, MD 20892, United States",
+    "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute (NCI), National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Zhiyong Lu",
+      "openalex_id": "https://openalex.org/A5083081872",
+      "h_index": 83
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/ncbi-nlp/cGSA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag214",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag214/8726338",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag214/68709497/btag214.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ncbi-nlp/cGSA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ebi.ac.uk/ols4/api-docs"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/cGSA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/btag214_supplementary_data.pdf?Expires=1796472296&Signature=m9N9tFeLLZq6cOriE3BAgBFBexL75KbJZ7hBL~lXq2VRnAQSlCSZcrLv543pVnw8qnl8uohRkHVJraH9nHFLQVUuvweuO-xxCqpH2wP-GaaoIk2GWq2ZgF~etAoc~pe9furKEUbUNVlEVxy8OnHcTPOpzByWlv3SM7Dyl0viUznLjkMCrglXVAb4oRBWSXalnSZtM3vbxOI2kCXqgddHWUqWgjDFTskGsbCDraW2Cq19rDWDRJ3kNgwBoTfBkGB4rI-UJCzdjx-tE5D~bFYu83O4OZbCaizBd1cha6byYvOcU~Eo39ka9uriWN-9ckfy7QcgJnT1NcocaWwXd3N~MA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag214/article.html",
+    "pdf": "files/btag214/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f1.jpeg?Expires=1796472296&Signature=sRlVHDeN0EhDu7pE~isZr~gQTzByGG6X30hEcidN6bVfq2nlfZDCSYRt18NSqNcaQ9fCVuMHGfI6uOc~W54bwWB~mhkmzjW6RSZxgf3fNY4axBCQBj4QWyB6vyZ032SA0yTC7kBcctKVPOxk76LyG1TN8YM-93BtAJLAkO4cr2un2jDqt58KHkc~0DZskm4ajcl4N~e3AXKAD7cqON5QAWUPImCjHWRlaIOcj1QWnCF273f2fRk4f4j0T-Fa5VfmhCrLGY9WzkIEenTSVo24uD0KdCGFtqAXowhy8X-nZuOm41001TM-bhC9MUc80kDhcLzcvIkle-1jk3ef4cW8GQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f2.jpeg?Expires=1796472296&Signature=arlgrHkwuA154VMWpzYKOma99qMkZEq-JpI6UMi8rUy9mdb9jV~Uxs6DDx3FZolLnqipmPClV67uIR-SX9OOTBWJKvrTd29ruIO-QCkniuljJ3qKdH4EXL2pk584Mk0YjafmNGJX92gWF1d0P8KF-GZibED5HRiH18--j1G3HgbCzYtELJRt4rY9dEZxTEpwnC4FTjXnHVsJrboJ6YNeq2FViszxXJpnA6Rq0ZZL8zn~QNmOyxldB5OjwqCtD04Rdr0TiuNvPXMq4RyezUNrmJ2kx6ojLz8mZUEx9KdeUKru7GftVjwHuYG845MtYeeJM7OaaMgcVUYqKqUGSaKLKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f3.jpeg?Expires=1796472296&Signature=XB30stadIblKkZt8~oY2gl2inaIAZ-SFcVm5eQ83bC1I-1nBIOVuSlfirtPyP9Cb4-a-AypncNHQY77Fk6bjZgKbhzMDkbyHMHg37x-rTvMH9tPpa4S5KOBq-xe2Qt17GBF5E95jFYMZpsFeCfIgKi1qZDFTrNBxLw7QUblC4Ai8UhRvCidbC9zgiWR-IKxrjYxw6JrDI7GtB5a60tF-ggnVWfk0i7a~1eh8gUkRJ-ZMfz2XV~uig8ppdHh4CnAP6u791jdQXPUXAnguz4GEqhTBiISWaWJzniD~0EELyNs5zsso5es9M~BUi76zpZT2IJE-qzePDwwJl0hIeRMRQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f4.jpeg?Expires=1796472296&Signature=FFbbwKZw17t9w4giU3Hy53ToPotqiSlC0mDolbQD2BurUV2Cu90rmqsk6i4gX9FXEfA6vU1dOrimNkuXdBhjvcOMyD7eA-~hUPfgEqtsuWqIw0ulZNF-EUdP81Szv1Lb4~cABi~YV5gA8LOkRRjPpkP0Po6F93JxrHoImwoVAwCfwxeiVlNXBE7XNOXp5TfyX0hL3qVmx4TZ3x--0f~bz5gqO6S5VTwciyUrnCPdYWUrEcfmfE8wD10PbnJwuH2LeSRnxBvA4ggXWFhgplwaEclMqPfbD1GWSUIWR3PtH3unYk~Dv5wLnXWkJ9vDuK4kmHYemaFsw8PBRgGo5S3yCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f5.jpeg?Expires=1796472296&Signature=c6X6dIKJtdqrvGS51~phHZi9-I2c44UV3CJ33oOCTvakI-lnorf98k3BsCCVWhJu4B9UFMAN3f8ZSwZD1HZlags1Yf7y17BPLcv9TO-Vtv6rAx2DXzz~vn38y-2QyDmuSOhNY59ZRyDPobx~m9o0~MsyHYGUkZZRCGXDypsu3Gn6O2WwJe4qxmU51Ot3BB2lkt9or~8FQyuigPconyC8frOyOHI8LtWBBAibJsnjzQLm9EbKz3QnkgK522-Tr3dN3wgUE9fhuVcMndtMIEm1fjMH4fiiVqFfl-Dc2Heh7uxSDsvmPso0cSxPDSP3XhUViuNuFswszJQNqV~vJHQY-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f6.jpeg?Expires=1796472296&Signature=z5e8Zz6f0Yq-wHSgUXDTOisJ1V~JswCacRpQ2qgkaqsB9x~fcgaO25L5KEfeWdvR~GADzhC-Wr4ePCVwrN43HAj7HbI4l4mzxtldwgNrRsbK3TSBq6yhy7NvuvJ1JIqTL-dV4t3UhWrnDbU-LLUb3Iq-xZYwGDVhFfAWZ7PDssnPW8f-cgiAtQDmmGWxOk-qA1MIcEWuu4FMb0tKVwuDoM5m4SSV5kXOkTKfmPTm1X9F0yElEn4UUxfRpaDQcYysd3VeHpUbPHovz~TTQuxCMubaRxFRUWhfG8jVxfwzgoFZk2Pgtsq2rOZE8sQlqqXFy9A2h-aOZVzcEzzuUPzTMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f7.jpeg?Expires=1796472296&Signature=sShsBDTQAG9fvZlTj~FD~FJCs7n0~bZujtGMCl-ulZlwmV-KpkuSuq3sj5neD38qSnJ2w3FMUhGgAABp6Q2EF7FjqcUCFfaLOEvoRsM62iLNOs1AGvp4uyS1aXwq-f0W-KeAzR0xsZw9PGv6bvGLGvuJ6QUaC~iMo9ud27mKVorap-5ShVKLjDgACRkl4uyC1UI8MXIhrC2~Qe0MXv11xnjyIdEXhYom9sbiLNFoh9VPcMCuJp0e6blArJpt6ljqhWijJWLzbTwP7oYBYWWe-NGUjPmQeJAklwhQDe2fMm9mONqBheOJsL2rWTNofa1XyeV~xaP3nwxmCYOzQShAPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag214/3/m_btag214f8.jpeg?Expires=1796472296&Signature=yZSvKz9rxMUpkib~-z2lqvcErS3vkmLbUWIirB~ZUO~T7ZYh58eyotHcrbHdD2IVf63b3JBPF139KSwMPdLZJvePj0FCC6gHKedAyFmUEH18~vAwZmikPO-zjjnxxkENXWob~SatJZHEJEtko7nvtbbD6II85XLw1MAkiS-aYvUXDwfJLLDErim3jCNkuwtrftvmZVvrqVGDH1Jpbfk90j3dVeDeY9CWB5iMYFntAarM5JOF4sN0sZJm~013ZZV3ME52l9CC47xp0EgKhM20lbzW5mKfvxUyx~vFXoBuEf939MZXQdnkQVWbZ-s0rTGp3rvZTI~6ZMDatlbsZpsojw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag214/figures/figure-008.jpg"
+      }
+    ]
+  }
+}

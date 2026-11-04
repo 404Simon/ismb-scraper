@@ -1,0 +1,123 @@
+{
+  "paper_name": "Optimizing sparse and skew hashing: faster k-mer dictionaries",
+  "authors": [
+    "Pibiri, Giulio Ermanno",
+    "Patro, Rob"
+  ],
+  "authors_detail": [
+    {
+      "name": "Giulio Ermanno Pibiri",
+      "affiliations": [
+        "DAIS, Ca’ Foscari University of Venice, Venice, Italy"
+      ],
+      "country_hints": [
+        "Italy"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rob Patro",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20440, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Giulio Ermanno Pibiri"
+  ],
+  "joint_senior": [
+    "Rob Patro"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 1,
+    "h_lead": 35,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "Italy",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 108,
+    "C": 634,
+    "I_open": 0,
+    "I_closed": 24
+  },
+  "lead_affiliations": [
+    "DAIS, Ca’ Foscari University of Venice, Venice, Italy",
+    "Department of Computer Science, University of Maryland, College Park, MD 20440, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rob Patro",
+      "openalex_id": "https://openalex.org/A5014584023",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/jermp/sshash",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag264",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag264/8726351",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag264/68709579/btag264.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jermp/sshash",
+      "https://github.com/jermp/kmer_sets_benchmark"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/17582116",
+      "https://zenodo.org/records/14854401"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag264/3/btag264_supplementary_data.pdf?Expires=1796454028&Signature=ghTnhl5nB5pHWCs7HKBoIwVHAc3dq6dzAVdVw1bvouON8CbvoSMOaQN0GjCrPctkEMo4oW-8GsJ1KPPteWUkq80RaEi6MkjnjAREwj1YDT5OQC5vb9cKurc7Iw2RYLCQ5ciSV-lvoC5ToMKVXO-wQEgPnZPeTgruu9CMfE~mY7stAu4zkwvNUNZQou5v6AHF42RfpZJK4j1-vfOSpkMe2Kgmeh6N4lvytBay03IolXacUqmdHUyn48Yljs~NQraPXVeqEU4FtcXY6xcgbLM4spRepgAwApcZdE~FI~bO8LtyHayh2Nru0W7faeytDaLK84rozFxFb~W3G8WkrWUyvQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag264/3/btag264_supplementary_data.pdf?Expires=1796454029&Signature=iIn3RUiOUKxiph7Wgr~IP9-IOZlYVzOphJu~luXWPTczKyBuS1RSBL4p5HSXMGouOOaqP-BWX5cpGRpw1NmQyxUny~-ruQc2X~-YupOs0kCrmVNSdLDPKxdpDQ0-U44NboBcsUe4Tbq6nrMo8Z3j6ZWquTt-eN60jsaO4TsQxk3WRyHs7FUaeOYuWMr6BbpkyK0meW4q4lwyWsuFttzwpM9crP3VylxoF3f8GKAiLs0Kw1C4Dr07RewZTSjw49fvA3NSFbJqX-15bs9ko7nk~tfA5n~qVANFJPfD5hJofVCOKvWDX6vRkM5-ZMm7EPdtq45tONN8RPPDW-J15oICEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag264/article.html",
+    "pdf": "files/btag264/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag264/3/m_btag264f1.jpeg?Expires=1796454028&Signature=BQHOB3qk9-r~a1qcBa4jVF2yq-8sgwhj9zH9W03KQteaGCoXavxsgiR6Yq5QVbHQWVEN8HPYIChYwgxUtwAUg7Ul-t2fZ~HPhdUPhj0st1wuUPB8r~~mC-u158hA~K~oeyzTTyrPqakRWdIerFo0seMr7x5XWrJpEWj2Bb4xkm2SMhAs7V6UXrCJzqUQEFsrfPMCiBwuzBtIKVaTHjH71iVl9de~GB-ijI4awpnsHZkLaOcc6JpNhvB7R1WIE9kiX4p2zoSfTmzypdgFiFY~stj9YIXq7cIpw23O18URe3WAzhQ7LWcVA2Ziis1dE0uadeIxfqXNPQmx159er-OFKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag264/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag264/3/m_btag264f2.jpeg?Expires=1796454028&Signature=chXa-xOfCFOsYZCEi4Hpod9uElnV7hH01Wd5Nu0kEblOren0EkQrfBj9A-c6-Wre98j8b9wanos8hn3pmIHPu-AfnoD~LASKjtwkzRCjDkrS2H5i7N3BHSJXKKM04-Pvn21imBhktl30JTQtEeyc7QgkN7L97Swre3oMRmQi5XnQB1~C6h0CzlOeYf9H9wZEonmYN6qiOj8mQD8VQrSbJz9SGokK9aN7SnB4Qdx48mpINvxAx5Ti5dZ0CxQAVaQ3FmtkzUyYiMWXvRGGkQMxrcySfqrv~Hca6dDiNrNMXWoNcRfpSieW6Q-mSaa6MY4KzH0i7xAR4dHgQOadXiS9Dw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag264/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag264/3/m_btag264f3.jpeg?Expires=1796454029&Signature=QWJKHXA7fs1IEtU~boe7Unfm7h~YV1guc5W1PfmANgjJmKqAFUDz2iPOG1BwUNUciV5FyAEFjaR47954LUkz-Wa3dcu~eAeEjPKPqC27Nl7GEsPIT3CVZegV43aQByDzBBXk1MU~2PJzzFXS1aeyVp8k~MxSL4-MvwSNLrFBSVHcq5TQk0zcevKfPF~v5zySGMsolyddqRGMZaN8dm1SsYyGCgD8uQ3XF8Z78ohcsCsXUFv4oWYna-NwlTrddxkpUFcgCPZWGV~wIQlcMFNvTB1pkk-w2fiJ90kspWOfTOkEsUOaVDUTEQhFHlZhHYw2TyPj~auLUFZEaMZdt5Md8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag264/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag264/3/m_btag264f4.jpeg?Expires=1796454029&Signature=gar7ch2~AAQUYW7~bQJ3GHL~vBwHNoqDmkNSjJLRcrJK~tg5o7tTAZ7mEvqaFLICPgwnyVSO6LYoMk0lErbBNtG6OUDy7c1exRNJLW1j~IJcPdorf5B8tQl4pSam3caTf0ZildbJ-~GOyY-ui36V6e3ddTlgAejhnOIaFz2SmUSvvs2pye05kSfSquXAkkg7B~POuW2p0rXrKI3qxBq9~mNUfR2ACbU2Fpx8zwva7M29PfarjsMAzD9o4Pe~W-p8VeBPKEsKjoCD8oxDs8jf~OTPMaCugVA3Dw0~esw6ug0fhuutbaKt163R3zG8eYXtuLG7JrdOs7-H8jcBcVU3qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag264/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

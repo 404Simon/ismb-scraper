@@ -1,0 +1,167 @@
+{
+  "paper_name": "MOCDT: multi-cancer detection and tissue-of-origin classification via cfDNA multi-modal integration",
+  "authors": [
+    "Kim, Gihyeon",
+    "Rhee, Seungyeon",
+    "Lee, Yumi",
+    "Jeong, Seongmun",
+    "Kim, Tae-You",
+    "Choi, Jang-Hwan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Gihyeon Kim",
+      "affiliations": [
+        "Department of Artificial Intelligence, Ewha Womans University, Seoul 03760, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8162-6088"
+    },
+    {
+      "name": "Seungyeon Rhee",
+      "affiliations": [
+        "Division of Artificial Intelligence & Software, Ewha Womans University, Seoul 03760, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0004-6180-101X"
+    },
+    {
+      "name": "Yumi Lee",
+      "affiliations": [
+        "Division of Artificial Intelligence & Software, Ewha Womans University, Seoul 03760, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0001-7552-0831"
+    },
+    {
+      "name": "Seongmun Jeong",
+      "affiliations": [
+        "IMBdx Inc., Seoul 08506, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tae-You Kim",
+      "affiliations": [
+        "IMBdx Inc., Seoul 08506, Republic of Korea",
+        "Cancer Research Institute, Seoul National University, Seoul 03080, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jang-Hwan Choi",
+      "affiliations": [
+        "Department of Artificial Intelligence, Ewha Womans University, Seoul 03760, Republic of Korea",
+        "Division of Artificial Intelligence & Software, Ewha Womans University, Seoul 03760, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9273-034X"
+    }
+  ],
+  "joint_first": [
+    "Gihyeon Kim"
+  ],
+  "joint_senior": [
+    "Jang-Hwan Choi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 19,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 83,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Artificial Intelligence, Ewha Womans University, Seoul 03760, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jang-Hwan Choi",
+      "openalex_id": "https://openalex.org/A5083618878",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/Ewha-AI/MOCDT",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag274",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag274/8726288",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag274/68709155/btag274.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Ewha-AI/MOCDT"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/btag274_supplementary_data.pdf?Expires=1796418012&Signature=TIeYE9tJQ-ybthmRU6feq9JU7OpV4ZrqyG29qCQZgneu17Qaqm5CXnyWR-FsOIbD7YUdzw4rWbGJwJrpanwoBn~KQ20~fYfkIQvx03MVrupRT8juUYe9oy5WVAIU9ncSWVZ5I5dAizPGFBz571vmUhhUGfmGmpMUTEVPg67WzBK6UWyDDZoxewnatV9pMvPMflJ7dNOa~UazCAPEErTxdxPVbW1ZBsPqUIvDe75Zx4Y7SJYrI2uJaXTsm3s2jpUkJVYLjubx2w3fJTg854S91Ximu-gJf0v9NK8S~Ov7NhsMJenrlxGQhmWy4iV0haey5R9nj2-dUctuTHhIcoAIBg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/btag274_supplementary_data.pdf?Expires=1796418013&Signature=PIio9-AvknzkbL5ODctnIUe5FSxJNA6J0GcosirWV0h4k7vSOt9kdDzUzkpRuNmPhl-RsRkXyhKlP9bkiVoZxyjXjNfiHfc7mpTuCD9GJZrIJvq~AJU4kAWw6SFeVkBdUkJCP-ptroh7aG-scvD-gFbCmFE4Jf95CxjCe-7~r-MQkP7L2efD~LQMhb-As2-YPdosXprpXz9kvbNVnhbyo~vJea445m6iOEOtiuXTyKpMvUZGtpuqdN5Ji9lV98VJNt0ogTKKnuZdtc64xSNhhTjjzC2C4a9T5ogpObRWCFFJuMuKD~A--Ce27HFlSIoGHGL7l8rxpc-2mPnsC-QHSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag274/article.html",
+    "pdf": "files/btag274/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/m_btag274f1.jpeg?Expires=1796418012&Signature=4oHLgxhiRmCUL8OCSy~E4FH-feQOLX0uPZk0YbQmchqpJ3bU4VFefDxmgBfKLJF6iTDWrY3Dm-mg9Q5D~r6dQlYglxQCdQHlL19wisJAT6EtX-cS50j3uCcnAXZVPBhsW3vYVcMdmrKnrE1FsE~TMM2s3E4THNXQWmkSzhaRpYnOGgVC4nRWdxH~dOaFy~bNLsR4ekWUfSKa4qIkvOdQRLraAGCdftQ5ywILopJ9tMXucy7IT0K6cFub4TWq2s~uhLzzcQPZQROCU4BPFwhQV7jCx2N7LEfjKL2AanyAEaSnFDrcu7rjiCDFXcO450zYKELw~32QuzG8aeJkU7PE2w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag274/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/m_btag274f2.jpeg?Expires=1796418013&Signature=jI3W6018Io-5ExQlEU0e2Xjv6~OTw2S~eM8gYMJQrk3l~Iv71u-eHK4M~3G6kz~YB5a030hpBDwcdoSOocYP0bB6MXeFbIicUFWaAxkUYsOtmxvdcS6tO5fPG4jwyn0wq3G0bhANebN4pKZUB2YdH0sKBNF-HLrXsoxL-gAvSZadHvJ1C9J-J0gP~LuxiU~w7ZG4Vk3vYEp9gnO-qsqOagKrcu3L0mmBiuBWli-pdW4~9I2T7qK0yFWHydKor9047Ab1g3YXuhvclo8UxcfilLsx-~c0-5Hhzht97MkHKx17DH3tqgFurKznVatsddZ1WIz505k20aBdykx95r5Sdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag274/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/m_btag274f3.jpeg?Expires=1796418013&Signature=Xp7MGrgM~wYh0jIL1TciZx-93uYaZuGwxmjfZisvIGn0baOzoTdoYqydIKaPsVoyGti56f-z1RgCkGWkRhoaP6fs2HeFdrKoT6YuPE58w98-AMga~2hNuV0iAomE0zH5DvrRqrih786d4Mp-aTj0i70Tyr40ATmbDoxCChtLNAun5nGu2w4BNI93AKtLeRaVR168GzvxlRM74GdpzN~WTBky87uUb95WyBf1DvM0afD9ReubgnDd3I6xNe339~qLfM8ZFV7Q6t9M8d9ZElJPCM1kXZ7gVTAnbsO6HmUxP-eZ0ZSy3e9UWokWmsXzxAz~~~b8kKpM0SN0DXOurs0h9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag274/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/m_btag274f4.jpeg?Expires=1796418013&Signature=2Oxaw1yZeiQW1kfArau1LlyDkjzzhVDFA~dvnjpXz4VqiXP1bw5KFzhhKQ6pIv8iGTWGIX2mAMI62FEIGiBNogH105dQLpu5Bw8g~enxWoXeFmrnMO2~j4UP6ixo~l7gIEv2l-SSgATfRLl32C8pPPqMe3zkXBG5vtKWf9ybWYmQ0e3GcRgdYWdX8p4cASnOqMM1jQlS6ukYgHk-PduylZOiek56RvLgdbj0M8iJeQJUg8BU5QEDnrLtZt92kx9mzqLIiuWirC6KBw5nRGB54gq47Np4YeOttSwpGhK7UbtDS34QV2fDtDtEDOxxk8KAe3HC-PwvXlLWDNsNC2Xbuw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag274/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag274/3/m_btag274f5.jpeg?Expires=1796418013&Signature=azSUhsIlKLMxE8YOiHH~Uu4sZlhy-wjuacj7S~3a-8UWsP6uBXKJYpWLm5qGAR25p881HDJREs0j3r4h0iXc7e1uhwZicxv1X0HZ0s3wGS6A-Dfi2YXH1J2DM38Syr9oq~4wotxamohrWhE99Mym93a~4OBh~jzjLv2si3dc8OhYxXMXU7qLfXc6nU7g8LF1CemAA-7~BbhMovzAhEtI6El1fXggynJrVXgLsjQ2BwjLA~afRAvajaby83CCQ6tT-QGO~9okuqglegXaMED5a-CnqekBirOPTyweHPb7p8KUmNYQVgFWsO-WhZD7vm~1PfCMN4~NC3F9AfqvgURu2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag274/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

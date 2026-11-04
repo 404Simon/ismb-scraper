@@ -1,0 +1,125 @@
+{
+  "paper_name": "OrgNet+: towards robust protein stability prediction with convolutional neural networks",
+  "authors": [
+    "Sarycheva, Anastasia",
+    "Shumilov, Aleksandr",
+    "Popov, Petr"
+  ],
+  "authors_detail": [
+    {
+      "name": "Anastasia Sarycheva",
+      "affiliations": [
+        "School of Science, Constructor University Bremen gGmbH, Bremen 28759, Germany",
+        "Constructor Labs, Bremen 28759, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aleksandr Shumilov",
+      "affiliations": [
+        "School of Science, Constructor University Bremen gGmbH, Bremen 28759, Germany",
+        "Constructor Labs, Bremen 28759, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Petr Popov",
+      "affiliations": [
+        "School of Science, Constructor University Bremen gGmbH, Bremen 28759, Germany",
+        "Constructor Labs, Bremen 28759, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3745-7154"
+    }
+  ],
+  "joint_first": [
+    "Anastasia Sarycheva"
+  ],
+  "joint_senior": [
+    "Petr Popov"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 24,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 31,
+    "I_open": 2,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Constructor Labs, Bremen 28759, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Petr Popov",
+      "openalex_id": "https://openalex.org/A5085541533",
+      "h_index": 24
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/i-Molecule/OrgNet",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag258",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag258/8726341",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag258/68709520/btag258.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/i-Molecule/OrgNet",
+      "https://github.com/KULL-Centre/_2022_ML-ddG-Blaabjerg"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19211983"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag258/3/btag258_supplementary_data.pdf?Expires=1796417964&Signature=a~R3k6WY74PoNhSN-jR~fR4Doe6xSajMXjOHzyHzEhiuK21xm~cOIq88Z55IkchXZxtHGtVm21sbDP8nqIDclsvcroAOL2fhWf0DY0oMNMhlQilBkxjzYuphDO2aAtHr8-oEIxjTPLs5QScfZF~HJFUgqKEakKzTQ-hp-3Okne-dyJC~i3ECNGjXqhEVL1gGgTESks171t~agnGhHNVlBu8oTeNarPwuKBuZ~jEmdDY7eaLQBLUEw-gtH1~ZSYBWB18-rVfmYy2~P-0XcRZXAIOJxd9p8573B7n6Lxb~aITVXnpYFTNxvAB6PnivjUPTJ8R-6ptIU1PP63GPMryBLA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag258/article.html",
+    "pdf": "files/btag258/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag258/3/m_btag258f1.jpeg?Expires=1796417964&Signature=zKaPxsYtmN4lXS0~4W8UmlF6YOxIk-Joa0-T9UXY4E4wQIpnTgq6mkeZE4YkiQ~d7zDHZVNKmnSjARZUX2TP4dpeYNtM8N7Q0volz1U1qNSbUCkIV1mT6N~V-dJdIc8su708XgCoDPXesWmYComLascZK6lyc75qmwZQ0OAW-SXYzWhdEPx1hZpiLeZsoGCFlAHQ7ohJOZ-kQuT0BKKYu4VcjtMCKIoH2tXSixOis2GR6GqKRWjXxtbRlx-2u7zceWxwhI5VS1b4XCP8tYuuvn5gBrlFB-UnO7fQ0zoEUb8NgGofh-f96W0vJsmibvQPbQQOuljmu811maHzD9eV0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag258/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag258/3/m_btag258f2.jpeg?Expires=1796417964&Signature=jMs91SmYSKL6X~Y7FQzWGrPvIR4RRpzenyBCY7bIzQAnYltlhyScZ1cl38716ds53Woy8vJeiL0eRAu35dmAjUuJIQJQPMWxEdd38Vn81DpfuiqPJusNcWjyZiJbCb~aKQDqUb0J-O~uxbggnaMS-H1roSQw-WYwet3NcguQiGoSTYiRZQ16XjVC3i~sicTIOq90aKXp9lcgXkDbGMwVAFNutrV-s3xp9Iqa-p7HDW9Tgd8~wInScgaxtmgHqeNpwnm0d9L2LbeHSzLlZF5ix~2hxK89Q7NCvByMZuFiKr805aH8QeI-8Djiui57NABYmzhDhiLoJN-gloWMn9mVbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag258/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

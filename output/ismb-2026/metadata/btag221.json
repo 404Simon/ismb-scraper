@@ -1,0 +1,120 @@
+{
+  "paper_name": "Likelihood-based optimization enables accurate copy number estimation for paralogous genes using exome data",
+  "authors": [
+    "Byun, Sang Yoon",
+    "Bansal, Vikas"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sang Yoon Byun",
+      "affiliations": [
+        "Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0009-1420-8105"
+    },
+    {
+      "name": "Vikas Bansal",
+      "affiliations": [
+        "Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States",
+        "School of Medicine, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6684-5335"
+    }
+  ],
+  "joint_first": [
+    "Sang Yoon Byun"
+  ],
+  "joint_senior": [
+    "Vikas Bansal"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 1,
+    "h_lead": 30,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 93,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Vikas Bansal",
+      "openalex_id": "https://openalex.org/A5040822940",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/vibansal-lab/edgecopy",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag221",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag221/8726319",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag221/68709363/btag221.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/vibansal-lab/edgecopy"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.19660291"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag221/3/btag221_supplementary_data.pdf?Expires=1796408731&Signature=kwJH4OxRasW1Q3qg-3l6-ewNrgJy-tocfK7BKC1LDaKiNk3l9svA5PlH0V3P41Bj8rXmcguXKyAiEcAj0ck0fvtIzhKjNqGhNEOhMjIluJaqtps~N9ZMfPbGZPzs1uC7l-jp7RHKd9bDEkt3yPN5PfEhIn0RdkIpnx8DlTafLaCVRWkGWAIJavmT143yP5VmDcVh9susiHOSzV4Fti0JTdpC4KmzpDrpPgsytNlqI9uwz74ptfH8TfDmCZnR0ZctKGuYEGotlEPg9wCs~sHZxoOpWLqx7XzB8UVsHgjCdmgq3G~GMbo4unLuF7syzwbXidtG94~7Lvqgz5vGKJO0KQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://ftp-trace.ncbi.nih.gov/1000genomes/ftp"
+    ]
+  },
+  "files": {
+    "html": "files/btag221/article.html",
+    "pdf": "files/btag221/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag221/3/m_btag221f1.jpeg?Expires=1796408731&Signature=jHxVYexzlkOjuNNGENs48pbemzzSrRPTaDhGs6xMicHcqp2Sg8ibXz-I9EAi9f6ay8I0LeiTKzGU53fLIqr32p10FQovTpzIA6JdtjGWRvQSBt5N0gYNSEAtvamIpJbclHJbXhLIhWfSDEo21q6zrL9S336nPhcjb9hzULyPoi4~NVphaQJsUJcBvW-iilNel65fQS7gvk4Ixliig8zSJkEMBfQ9Kz-7byIsZvzuC5~3WhYubEbsC8074iJY-XiScLCudxkImolcY3J4O~NrviIK24OqkzYeldZfh1b4LhqJplNsLUwM8uHY1yNCTitqSe532JdbJXQHoE0X304pzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag221/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag221/3/m_btag221f2.jpeg?Expires=1796408731&Signature=0Aclcfv1RYfZTYVmXLy9KY4zy4QzQXVZTlJIzkwmuRXi3PIS1uWpl9GZAPzb1oEZNlflgXkgj9mcx5kuv16wC6qKu3foNHrjQdD~MGUC1F9JOKQ8LZKz1gGROn7VswbQjpzNbD0QYwAVNzwejyLj-IlJctFBCcPKSbWev5dQAhrNEZVCoCVMcpodPS-okVDE1PcXjtUfAdXC7ViYh833YTKMCIyTJhOd-8OwwuGPA8NMtllQmeat1GTa~3QFW-TzB5Djj5MwZFTyuyc10Gq19Pn1q6CXeaCVCvVTNVnT0-YgKKyWM7vzZ3O8EaMrajIT66AWPDFWv9Vvm2rrYy7LvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag221/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag221/3/m_btag221f3.jpeg?Expires=1796408731&Signature=FbiOqifXx9rbIAoIxRj7plpGsXBGFlNZgJ8Lc60P5jD~vdumgAnjN095JGVOelvsj6WucJXzp97t8P~E7H65W98ZwMRWpPQBreQdaIs-kWRLcUsjlecCNsOFXnzV-gbdVGeJf6O5fPGgVAN~RDQYe3pf5fEAUB-VI3kwH5evWNXDvwbJV1jxYRnSRSP9YNxozewooEFqHaiWJOChrE6EnqunJ31LA6nRc6KrZzk3L~Yxr3JGzHeR167HQTDyKw-SGTJjUbh1oQquVlOG5COp0y8svQJUowjNfTS3OItFabFonwnvzRCdIPzZNOgrJ7y70c6dDE-zs-26ZJoGVjcaVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag221/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag221/3/m_btag221f4.jpeg?Expires=1796408731&Signature=r8paHL1BJHJw3e8F3Rr-RPvQ3JhgEIIzQaggqGTsYvPqvXZ1UdxyGsu3bR5CN~nxQvaNfg8Ws65gCNi7juNnluPbgg9voaPHAbJfs6k7s1-b6t8Rz2KqVhQxEYWvGUxeTLiDUEQAuDAUAXlkRrkSHH9BgeA0uQX94Pzw7z1unsdmytplRGPshWdtVg3dKnSPPr-eh0QDLcxIaEop7V3y19XwvBWRHduS6b9MmzS4uHC3-KT5P2RK8qB2RMPpEUCIx0sEoVMzGDHb61A3VRufjdNAUaEMLQDnFytqqDTkbHpo8RmHv88JZydIOOYwbieeFio8S-tHv2jhb~Xrp1jgSQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag221/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

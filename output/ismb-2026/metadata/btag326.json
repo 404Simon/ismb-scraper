@@ -1,0 +1,197 @@
+{
+  "paper_name": "VDJ-REMIX: REpertoire Module Identification and eXploration",
+  "authors": [
+    "Amin, Sakina",
+    "Overend, Lauren",
+    "Tucci, Felicia",
+    "Sun, Bo",
+    "Whalley, Justin",
+    "Dustin, Michael L",
+    "Knight, Julian C",
+    "Bashford-Rogers, Rachael"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sakina Amin",
+      "affiliations": [
+        "Department of Biochemistry, University of Oxford, Oxford OX1 3QU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lauren Overend",
+      "affiliations": [
+        "Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7BN, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Felicia Tucci",
+      "affiliations": [
+        "Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7BN, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bo Sun",
+      "affiliations": [
+        "Nuffield Department of Clinical Neuroscience, University of Oxford, Oxford OX3 9DU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5507-6657"
+    },
+    {
+      "name": "Justin Whalley",
+      "affiliations": [
+        "Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7BN, United Kingdom",
+        "Chicago Medical School, Rosalind Franklin University of Medicine and Science, North Chicago, IL 60064, United States"
+      ],
+      "country_hints": [
+        "United Kingdom",
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0403-3091"
+    },
+    {
+      "name": "Michael L Dustin",
+      "affiliations": [
+        "Kennedy Institute of Rheumatology, University of Oxford, Oxford OX3 7FY, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Julian C Knight",
+      "affiliations": [
+        "Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7BN, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0377-5536"
+    },
+    {
+      "name": "Rachael Bashford-Rogers",
+      "affiliations": [
+        "Department of Biochemistry, University of Oxford, Oxford OX1 3QU, United Kingdom",
+        "Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7BN, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6838-0711"
+    }
+  ],
+  "joint_first": [
+    "Sakina Amin",
+    "Lauren Overend"
+  ],
+  "joint_senior": [
+    "Rachael Bashford-Rogers"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 8,
+    "R": 0,
+    "h_lead": 29,
+    "Y": 2026,
+    "L_lead": 2,
+    "C_lead": [
+      "United Kingdom"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 27,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biochemistry, University of Oxford, Oxford OX1 3QU, United Kingdom",
+    "Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford OX3 7BN, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rachael Bashford-Rogers",
+      "openalex_id": "https://openalex.org/A5032852377",
+      "h_index": 29
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/Bashford-Rogers-lab/vdjremix",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag326",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag326/8726345",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag326/68709540/btag326.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Bashford-Rogers-lab/vdjremix",
+      "https://github.com/rbr1/Immune_receptor_NETWORK-GENERATION"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/btag326_supplementary_data.zip?Expires=1796412747&Signature=vCRj70a200nTwdaWHM7gTzHetvdk8Ij0jz9jR8nQ-ShqrmllJ0YP-ZyCNIByQUBA~JmO3HwytHAF7fZjwDb4-vTTlzRwQ-CMQGqytERZai0BEkYCSuXh7mWetfhDrldeyKN3zuZ-4elRIblHmD0043afKWgxh1qzgFQi~Luq-4lmPtB9uDp2lx6-m51W~H4LjtRr13NM1KdnatkG-OJL78q~hda0rk-7KXlFgQNVaxpdnv575SIGPmtA8RFZZBCKyLHF8eqwlOUiR04RRjRzsTq0LSVUrOBQ5FdgSRsXnPrlbaaCDVtY05SF4uLbpP0-iAAK6vX-Qor9bjqcJ7r2JA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/btag326_supplementary_data.zip?Expires=1796835172&Signature=m1LR7XRZeuEXSDBxMW5Lzf65AOwiNiO8wo8mbx691vBjmeyfWB-tieEfNq4UPjdEo-Y-VG5aKCGuGLgSOB-NgFS6z0JYiZBaFSA51~ynSYjM3nxi36sCDBuBzOLcDntfbqcTkNDPPtFW7iC~YVLclXIhX7WojBynb0N5RsBKKQWjh0E96n0q3HSfdwigayH~41tkjs7uZTJK-X5-TJu~HEewk7Ft1GBckP89pExXHvvPC4vR265zrSXLS10cXiflPuxwi2QQnUoSIeUzYGpNht15fu4sWkquftYjhdmbdOB~2GnL8Oqk4ZBqgclKygBx4GuFJ0DEzakI9-yU8dTQCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/btag326/article.html",
+    "pdf": "files/btag326/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/m_btag326f1.jpeg?Expires=1796412747&Signature=WEZNsAmvmXSBRjNpag0j48xejKINZ-zWzqLt6LyPBGmtb3p48t1dX07254oKGo1cfzvlDv2BE963AGTLqGaWX4gIRhbL~j6EVazLhEkX6lJ9ofBUlb3YQZDEtmhzw259mIrb3h4hYZQW-lV4WoFhuHhV04kBuh44pMMqNZeyJ~onp~iDZzdtHTjZe7-VGwM3YlAjCucru8w~bCTCtwJaoYNlb9fOKyG0FO2DhYRG~ipYu~rRPtNccecCMm7RVLbcz-WJIPc01hQvS0qToOKOov-VIGQ5bwbngobYFkgB9bfsFayy1OfzjmRMqdfM2Sn6ItcRCCa9J-sHz-mtPgIKUQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag326/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/m_btag326f2.jpeg?Expires=1796412747&Signature=incIVFi9S712tinGjhwOV2BVtd5dqUpkcM3Rpd5E-UKD8CvjOYYfn6hj7IXr2BVnoALaEDxmeFxaRjB4SFO2ijm5cQAhxVwQGzA7wuZQCQUXbYCSxnHEWJMzoxXIwccNyEKkuSClEmOguH5uVjtS44VHTacZ57tMmdGE~xJe0THR7e3telzcO5NU0iCtG7DLAznJJo8OUl1Ls3fFyzm0Csi3ndGxP888tsGvVh9jGfGmu02Crt8ncauqVcybTxb6eMtm~Be~ZBxsKdtoXSIl9mcBmMrnCWgOhFqgYgLCam0ISNTDeVmBuNpitKRXuXYyKfhXBunY8LEbGkodhwxQ-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag326/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/m_btag326f3.jpeg?Expires=1796412747&Signature=JmnQV55It~9mvQIjmnQ1UiIv3aTfmzH43F12HnGrCo-JAKT5hEhOixXvz8b0MAh23-aYVQaY~IsgRstb-Eahp1RWSEUNXcCi2eYikuqjzJE7JrtBvfltTzsEb7LBAMj4mMh4L4E2eKAAa1--kjSsxd2-PTxPBQdW-93594nWF7BU-roR3tnLMd6NfP8X1BGN5Ksy07dqBmwpcOmGn1spzSWqP6aYv51jmD28kRlhYIRerNyENM2K5j~NukrHmnLa3jvMmlK0uGlnf3T1dD4QywlJuauHr34Dq53nv-HG56EKDqhZtbFBKJW4FdNuO3S7VZZFXc-evYOxJPZ5rI5E1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag326/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/m_btag326f4.jpeg?Expires=1796412747&Signature=BzguMg5gz5ySlFH7JyDeA5pkLdDb5jJCqexNfribdanULC-4ddXlYIsIGn~jzsCJBIBxCxAQNYm5G6cRhxTecRY~XpmlmD0w0ws9GWANiTF9RqqOhkpujVQ06cJoNEf9iVyNM~oiFEibiFbFgSPQNETO5OJKL51WdxPu1qL4dKZEtZ2IuHe67w-O6QMbaZarNqf2d1vx01wyn3fpmsW7bOQBK5aC~5lA~0E5OfddxDY6hQ8TMSKK1Vlb-I6gCS9~j5f3JrEXj-57M0KL-HVnFVyEypy4g0nsx~9OxtQKtpeei0RC0tNVb6GUmoKCKXzf284YW~cx4ack~p3ef8eOaw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag326/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/m_btag326f5.jpeg?Expires=1796412747&Signature=4mAj9szHPxG6nbYmeLs4FhrUA9X0HcgWsmuQUcR1uPUG0MspOCeCDxUpElRmuCzf-zzL9iknMLaDrtQEny11I1E1TOE24BXM7lmk72S1Y0Wn2yAPiFgAFlJgMsMRXy9BqW-HFjU8lBcv~uuoOiKRPiwcoYFUBKwp7ox88ADoOj-5BO4YkQdJkz3fNizXchQu6FcBVo3zyHLPmKRhWsm1fIxXkOaItI0HGv~qZTTL0J3d8MHmMIQRxwig-fYdawE-fdT-oDzbzKl8~fo9~WHqdQnu-ALUXUYBVNQUmfGuFIyOsYDe9CfLz9qqSJ83ZFpvunk2S4FcsUKm~pND2ImQzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag326/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag326/3/m_btag326f6.jpeg?Expires=1796412747&Signature=HlL1lgFvSKgY7NjwM7pVtEcA6OZpjYp-ybWLXqa~9~jCv9GQMp6aHVrWNm5Sh17zJu~t~hTSrtu9pP57fm2SWcA9meXqDI~5xCHgyOGchZFFdSzrzaT1g0SrbyRJ7~UkhQXfHwAB-jfdU7mfHoabLkMZ3iM5tTNXyevQ2S8nGNmNbKtn7DjZE85krSxf1v-aG8-ZS8n3yDIoU2iUBB8BngAHrVxPC~hXtueLRzq~1i-uVZjYv-W8pb9fU-eXxrXxGYiuqThZ-ymli8W2lhmk2G3Kvtmo4sKEFmSTiURnCpM-k7oMJSXRC01RZbvItiH49UN5fIjPDih03rh~q~wtNg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag326/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

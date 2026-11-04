@@ -1,0 +1,163 @@
+{
+  "paper_name": "Advancing proteomic discovery through optimized multi-stage scoring and deep learning-enhanced open search",
+  "authors": [
+    "Qian, Chen",
+    "Wang, Kaifei",
+    "Mao, Pengzhi",
+    "Chen, Ranfei",
+    "Chi, Hao"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chen Qian",
+      "affiliations": [
+        "Institute of Computing Technology, Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Beijing, 100190, China",
+        "University of Chinese Academy of Sciences, Beijing, 100190, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kaifei Wang",
+      "affiliations": [
+        "Institute of Computing Technology, Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Beijing, 100190, China",
+        "University of Chinese Academy of Sciences, Beijing, 100190, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pengzhi Mao",
+      "affiliations": [
+        "Institute of Computing Technology, Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Beijing, 100190, China",
+        "University of Chinese Academy of Sciences, Beijing, 100190, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ranfei Chen",
+      "affiliations": [
+        "Institute of Computing Technology, Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Beijing, 100190, China",
+        "University of Chinese Academy of Sciences, Beijing, 100190, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hao Chi",
+      "affiliations": [
+        "Institute of Computing Technology, Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Beijing, 100190, China",
+        "University of Chinese Academy of Sciences, Beijing, 100190, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Chen Qian"
+  ],
+  "joint_senior": [
+    "Hao Chi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 0,
+    "h_lead": 28,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Institute of Computing Technology, Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Beijing, 100190, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Hao Chi",
+      "openalex_id": "https://openalex.org/A5054261613",
+      "h_index": 28
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag224",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag224/8726297",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag224/68709214/btag224.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/btag224_supplementary_data.pdf?Expires=1796405737&Signature=GjgykkO9FmcUdwsrk2g9EScMCTGlYWKAoOj70RxPG4LEDN6t~pPZqVrO6sbtR6Ljp9JAlAcW2rMSPZte5i2FDYE5R0XL0Et9KNZtBvJfhzJXPi-QX~xwVtW4GET6DPNUilgoD6OsvnGr72~2-sj1uNTcVtco-WbWnMpf2vC-lnDHtt0toVj9cTLXm4n7O68dwjXjOmNMY77lfXYqTy2WhW54oX2hOczzH9MWJ36HKDizo1h~FRzkGJeJQvAHmXrU~JIaDfM99Zo2koWQplPioq6DxFaDnieufeUN4zyjDQf-o65REvPS1FXm6o9PQK8sxXF5v4upLG8pCR~AqVtJCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/btag224_supplementary_data.pdf?Expires=1796405738&Signature=Asxg4zOWO-YftYB62l10afBFd98INcVTJQs1DctxzmZI5~KLTy5bdDbbZRMDF0t~ojMHE4ndyG3OuPDctnKzPEGuTZxXiu-5UZkRpYyWHA4MLIq6JeGCWYCx-vbsy1RiLi4beJ0YRtkvPV3CMX8jVTKTgPtrFumHOAJlXZXpbGnHifOyCpISNWOYmXchI4wv81oVEk4FajYnzL4TNT4EjXGLEouZ693Pl6b~tFjj14r2-6ree0bjzxIRik9TComm1HkYSxckO7iBrmB2CZ8EnB3r~Xk2KDC74ybOrhu6DtZERTKbJdwQ1hoyEqIuEorex7agVQ-YbNtq4CNEuTz-ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.proteomexchange.org",
+      "https://pfnd.ict.ac.cn/se/pFind_plus"
+    ]
+  },
+  "files": {
+    "html": "files/btag224/article.html",
+    "pdf": "files/btag224/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/m_btag224f1.jpeg?Expires=1796405737&Signature=xRSBjK~hl22zyBQGxlcGxKV4mDbcyYdkfZRiScNz5dRwutltDaOSNEiZA7mQ7C8hFD9LernKI~LcL5EKQkQ2NBxB4Z-we8yCimqxDreS6qyPqrzHFf3rDBZpWgOgLeyQBytsKA2BPz2VnSyhKvqMyCCYVLdZHEhg8Z8z5TaXFF~UpD8kN~OPIwY2klXZn1--dFXpkxkCn1Z0GEtP6HFtS8RxAUjyHnBCpb4J8zlfnfv4zmLwNTZClnMtEFT3P0lfjVKEgAHxohfFyfw63eTFEp4aUiy96DnvCwT3xitENgmpsLTLmT9s9SdUPF~DiAwGzH6UApICV9VvyFz9ZNRGeg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag224/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/m_btag224f2.jpeg?Expires=1796405737&Signature=ZtyPaWOD6T2aKgwK~CaSwaFkIeuFrbvHsFhgys5ViM1wcYq2uFQ-Dwn9n8yP5hcxtYhKqcxWMfNegM4sJhMe46~DhQVCHT0F7SDmZ-P0Q9BEPgc2L368pPrrdCiYOAnmLKKmdzzqgVHG-kaSP9chR6-nxrp552A-ykq5q9TUHGWSpO4Y1TTrScwvw6tjDpO6p~Jt-BAPI02Li0zV5kSqyncf-HfvGwj4S3aRFnj1w5eKXNVe9OUFc1Gf9LrgmlH7hu0~8NP2hoxDEd~luEf4ZV1a7soHuvvWTbE68QHsKwtysGwHQvQKHxb6jGRGhxoEJMtEbU0LH13992DJBow9bw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag224/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/m_btag224f3.jpeg?Expires=1796405738&Signature=fVVGIzUIi2L0TgftkRVhlRF0PJEO5fgLN4y6Rsliljs-BoGk1gI5w36y7qYRY0MNlRJ3zdmj6bM4IHAMOAMLsdkax4sjJeW7N3PUSIbxkG3H9vJm6mT6fVU~Kamb2gSE7D5VOKm5a6RCMPf0GoqX7Le-kS07lyvZ7CufENcpPQm9pb8BNSvBVQJVp~Qc6JovQin5YM9FKj6yx~dyw9Wx8fnyrTNX9HFRgq5ZQknN0UI9iSf8Pi0ke-J-37nauUJvDhxgAxleptz9GH2dskQ1IkOzXtCdz4lh8ka67fDwZbIBoVV38Q0QlmeWvWSFD2NPnxkD8Vgt1asOhrICaI68Ag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag224/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/m_btag224f4.jpeg?Expires=1796405738&Signature=VkrLe6Q2D~kYuEr82T-d-6V828nWLxZCSFuHp3xT02Alah7ocgTfDfO5afb~FYZFG2gIVT5k2Cvn5kBCgNhMPZ~2ceEnVVkHA0Rry6RL-GbfBzZIGC56k5IE7JpO2sqBOrGzd2UbOCVuKUOfNRHNO3FchPQ-aHNg4MfcadkDuFzqobisEUxJEs7XPoROBn3UgStS~utX96pjROJhkS~ddQMRg-W4jdoswTuF9PVvq5vEpMk9UYJjyKQP~MvJ-J2kYEie--P5uLP8aqGxyASjCQT~Tht7nL4NUuFSRnefEn400DpTmyMhZ3C-ToH~uninjZwsKBq3tTcllOaJH8hI2Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag224/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag224/3/m_btag224f5.jpeg?Expires=1796405738&Signature=I1WXn-ncqJyybzOMEnY~Dm2Xt~ket6cbeuXds63lDNGZhoJxeeGE~kqVWixH3QJN8zWOXeH3MB0tUtfB-g8ct8qtXnBzPYHY-ho3W3AmUwjpCUJ2BPpzVlUEyoTi1lrXs3Hv3uAURMdIkVsQy38uUoi3kqmve7PtFu8yHsYU1qr84253vZNWANSNO3A3cKJ2T1fjs~kDg7jupi0owKambOk1jrqf976Zb-PHcoutZ5XB8A1dCxR5rrYdzY5tE4CDg3eCY9wcUdTToM~RXGiRoLhRgQ3GCdekqvVTtGViLHKzzRNhqApbiODQKX1uP8WelNHLXhH7ydkOtmx2gzFROw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag224/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

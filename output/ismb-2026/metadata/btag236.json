@@ -1,0 +1,135 @@
+{
+  "paper_name": "ADAMIXTURE: adaptive first-order optimization for biobank-scale genetic clustering",
+  "authors": [
+    "Saurina-i-Ricos, Joan",
+    "Mas Montserrat, Daniel",
+    "Ioannidis, Alexander G"
+  ],
+  "authors_detail": [
+    {
+      "name": "Joan Saurina-i-Ricos",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Palo Alto, CA 94305, United States",
+        "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA 95060, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0008-5498-8639"
+    },
+    {
+      "name": "Daniel Mas Montserrat",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Palo Alto, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexander G Ioannidis",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Palo Alto, CA 94305, United States",
+        "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA 95060, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Joan Saurina-i-Ricos"
+  ],
+  "joint_senior": [
+    "Alexander G Ioannidis"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 2,
+    "h_lead": 19,
+    "Y": 2026,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 38,
+    "C": 157,
+    "I_open": 0,
+    "I_closed": 6
+  },
+  "lead_affiliations": [
+    "Department of Biomedical Data Science, Stanford University, Palo Alto, CA 94305, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alexander G Ioannidis",
+      "openalex_id": "https://openalex.org/A5019032304",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-04",
+    "github_repository": "https://github.com/AI-sandbox/ADAMIXTURE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btag236",
+  "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag236/8726296",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/42/Supplement_1/btag236/68709207/btag236.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/AI-sandbox/ADAMIXTURE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90441",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83160",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70454",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96736"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag236/3/btag236_supplementary_data.pdf?Expires=1796417872&Signature=VSu2IxCcnepmGd9evyndyYhLgX7Dwbfg6LUFmjws6KL0GPalivybKFBg7gpYDBcCDuudLUaIcZmeydMNQNDJf3D1ROkmsaqD9~Gw62JTW~6WHWDbcJLSmhZMb5vMllR9Td5xcAtx35adQylxtzpCy2ch8KQvJWSq9HUk3~GEFyjgLA-Gar6g0FRc8tWpco8mCJmiq8MmqbFQTAjQAergG~3wWsPYBUnztkwQcevrXiLZjuVUcNIak9tvonv28GokS7PzJJLkb0Es48qFb-eAoYRAIUDDLOIQeKBXMjcOhITssu1LQ5b9phnmY0VRsnGpP-lE8FDrvQDban2idWwZwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag236/8726296"
+    ]
+  },
+  "files": {
+    "html": "files/btag236/article.html",
+    "pdf": "files/btag236/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag236/3/m_btag236f1.jpeg?Expires=1796417872&Signature=HzOBs0tQyHzG4-V9sy35XwR7fzxb0Asq-PcDsK2td~FrkHedHnR4sSYeLtJfMa45d1TGZIKqEEoqf9ARLlFMnOXG8IZYqjUMKhd4DQ4PjsTe55mtD2xFqPHOqAd8wI47Loj10thPbOHjRTcvCbaRm0TxgjJ1PLCZB6zrKMc0RdbMgBTYRRP3QJ6-aCSOWa8JPqmo-EnChUcO6AMJr8dAsxrTxELYkqRRtz3IEShwAlNx-b2gW2vDK53XthOZ~j6qi~GDe8WZmQm0gY78pniHu0bSgpCUSWYo53zX28kgGFLa6lV-0NGovnO7KMGtc8avtsN0nlgUSpIae7yk3YNOFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag236/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag236/3/m_btag236f2.jpeg?Expires=1796417872&Signature=fq4i80we1xcTxQ0iiAIDPTV0kpw5JrfGO74YBoqTeg2APTCZ--5cjL6YaIfdq2JmhNr1dB-u-dry4PTTBKUdxLDEAW~33tIKwYo0dKU6SOQik~pH1~a68rCLWLqBLJnUVkj5HvlfXfFrfBBuOHVZfAcs2Da6aiR3k5m0uCGj3RrdS~3zkUwvwcyLmk7Ux3FZYbTss5sahuxSmWt555iCBYd-5wSRSyjvx9O4Q7aoPotefBBTnRg7dnDLkbpgzejv6Dp~RjeKWACgj5CXKd3NOphLvStGlBzYntoO2jNk7WUoGEEZ3sajz1zsE3SPnsuTm7AkWP5oEg-9Bh0yIfILpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag236/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag236/3/m_btag236f3.jpeg?Expires=1796417872&Signature=lsBGM3wG8pjcEb5Wf6-poJD734DVZ6ixEeMIqVg4jxDafIvXqJtn6x6V9qUBnPNv4NzT3yUz~xOG1iJ~4w5Ncb5RzXRPobolt7jycjJ2ZlO8VSSP39D4SDmh7EO78Didtt4J5UeLfVnyemQuQDvWHIz0TxQV7aIJCbY1G4sXRH7MlBynVsJNyO8XQRDQGEuIptUpYrvvs8ofGSMBnpHihuDOUVGJp6uiXlp6dHli7pjyZOJzSON21doGOEyGgb9boW1l5M6ajawdIIzjFCCoMioCjlvTTozO4EFvsIblfCwerjtWIbsVdVdQMD90gpoXSkHkpaQVRbduoadrn-vrUA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag236/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/42/Supplement_1/10.1093_bioinformatics_btag236/3/m_btag236f4.jpeg?Expires=1796417872&Signature=xt9Qz02APaib58gAP-PyFcuhzBJIE6hAf999IBqJQAtW4mylRc7cGvTP7sYBz2C8MbBFX2mRkIGo7UQdXAMZlFqBu7RsQa2HP6g7Fe52L6WYoyT9V-cOD9A-ssjfr~~zf-5xpl-ExwjthFtNIMrU1ivd9m1gB9RFzl5JHsNxA5z6jyxFYFrWucB8udSKO5XFm654wYe-pIrA37Sr1TrTQQ4GFFZngIVYjkZpuIP1zY-9o-2o9X98gQbYVlRPBNc-VUKEVBo8oRDLDwRKwIqma~C9oknmthoRn94NUbJbP4UrMl3hTvn7G8PtvrxuQz-dvJjrieUFT3wbLD4xOjsdFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/btag236/figures/figure-004.jpg"
+      }
+    ]
+  }
+}
