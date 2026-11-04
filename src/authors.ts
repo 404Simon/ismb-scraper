@@ -299,7 +299,7 @@ function normalizeNote(value: string): string {
     .trim();
 }
 
-function nameKey(value: string): string {
+export function nameKey(value: string): string {
   return normalizeWhitespace(value)
     .normalize("NFD")
     .replace(/\p{M}/gu, "")

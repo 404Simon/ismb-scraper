@@ -9,6 +9,12 @@ import {
   type AuthorDetail,
   type AuthorMetrics
 } from "./authors";
+import {
+  collectOpenAlexMetrics,
+  mergePaperMetrics,
+  normalizeDoi,
+  type OpenAlexResult
+} from "./openalex";
 import { pageStateScript, readReadyPage } from "./page-readiness";
 
 interface IssueArticle {
@@ -60,6 +66,16 @@ interface PaperFiles {
   figures: SavedFigure[];
 }
 
+interface PaperMetrics extends AuthorMetrics {
+  R: number | null;
+  h_lead: number | null;
+}
+
+interface MetricsMeta {
+  snapshot_date: string;
+  missing: string[];
+}
+
 interface PaperRecord {
   paper_name: string;
   authors: string[];
@@ -68,7 +84,8 @@ interface PaperRecord {
   joint_first: string[];
   joint_senior: string[];
   has_group_author: boolean;
-  metrics: AuthorMetrics;
+  metrics: PaperMetrics;
+  metrics_meta: MetricsMeta;
   doi: string;
   abstract: string;
   article_url: string;
@@ -275,6 +292,7 @@ console.log(
 );
 
 const failures: Failure[] = [];
+const snapshotDate = new Date().toISOString().slice(0, 10);
 const results = await mapLimit(issueArticles, concurrency, async (article, index) => {
   const prefix = `[${index + 1}/${issueArticles.length}]`;
   const paperId = articleIdFromUrl(article.url);
@@ -285,16 +303,19 @@ const results = await mapLimit(issueArticles, concurrency, async (article, index
 
   if (resume && (await Bun.file(metadataPath).exists())) {
     try {
-      const record = (await Bun.file(metadataPath).json()) as PaperRecord;
-      console.log(`${prefix} resumed from ${relativePath(outDir, metadataPath)}`);
-      return record;
-    } catch (error) {
+      const record: unknown = await Bun.file(metadataPath).json();
+      if (isResumableRecord(record)) {
+        console.log(`${prefix} resumed from ${relativePath(outDir, metadataPath)}`);
+        return record;
+      }
+      console.warn(`${prefix} resume metadata is missing current metric fields; scraping again.`);
+    } catch {
       console.warn(`${prefix} resume metadata unreadable; scraping again.`);
     }
   }
 
   try {
-    const result = await scrapeArticle(article, paperDir, outDir);
+    const result = await scrapeArticle(article, paperDir, outDir, snapshotDate);
     failures.push(...result.warnings);
     const artifactCount = ARTIFACT_KEYS.reduce(
       (sum, key) => sum + result.record.artifacts[key].length,
@@ -338,7 +359,8 @@ if (failures.length > 0) {
 async function scrapeArticle(
   article: IssueArticle,
   paperDir: string,
-  archiveRoot: string
+  archiveRoot: string,
+  snapshotDate: string
 ): Promise<ScrapeResult> {
   const view = new Bun.WebView({
     backend: chromeBackend,
@@ -365,6 +387,16 @@ async function scrapeArticle(
       { authors: data.authorsDetail, notes: data.authorNotes },
       data.authors
     );
+    const doi = normalizeDoi(data.doi);
+    const openAlex = await openAlexMetricsFor(
+      paperName,
+      doi,
+      authorMetadata.joint_senior,
+      authorMetadata.authors_detail,
+      article.url,
+      warnings
+    );
+    const mergedMetrics = mergePaperMetrics(authorMetadata.metrics, openAlex);
 
     const files: PaperFiles = {
       html: null,
@@ -446,7 +478,9 @@ async function scrapeArticle(
       paper_name: paperName,
       authors: unique(data.authors.map(normalizeWhitespace).filter(Boolean)),
       ...authorMetadata,
-      doi: normalizeDoi(data.doi),
+      metrics: mergedMetrics.metrics,
+      metrics_meta: { snapshot_date: snapshotDate, missing: mergedMetrics.missing },
+      doi,
       abstract: normalizeWhitespace(data.abstract),
       article_url: article.url,
       link_to_pdf: data.pdfUrl || "",
@@ -459,6 +493,29 @@ async function scrapeArticle(
     return { record, pdfSaved, figuresSaved, warnings };
   } finally {
     view.close();
+  }
+}
+
+async function openAlexMetricsFor(
+  title: string,
+  doi: string,
+  jointSenior: string[],
+  authorsDetail: AuthorDetail[],
+  articleUrl: string,
+  warnings: Failure[]
+): Promise<OpenAlexResult> {
+  try {
+    return await collectOpenAlexMetrics({ doi, jointSenior, authorsDetail });
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.warn(`[openalex] ${title}: ${message}`);
+    warnings.push({
+      title,
+      url: doi ? `https://doi.org/${doi}` : articleUrl,
+      stage: "openalex",
+      error: message
+    });
+    return { metrics: { R: null, h_lead: null }, missing: ["R", "h_lead"] };
   }
 }
 
@@ -1444,11 +1501,20 @@ function isNonResearchSection(section: string): boolean {
   return /^(editorial|awards? papers?|corrections?|errata|preface)$/i.test(section.trim());
 }
 
-function normalizeDoi(value: string): string {
-  return value
-    .trim()
-    .replace(/^https?:\/\/(?:dx\.)?doi\.org\//i, "")
-    .replace(/^doi:\s*/i, "");
+function isResumableRecord(value: unknown): value is PaperRecord {
+  if (value === null || typeof value !== "object") return false;
+  const record = value as Record<string, unknown>;
+  const metrics = record.metrics;
+  const meta = record.metrics_meta;
+  if (metrics === null || typeof metrics !== "object") return false;
+  if (meta === null || typeof meta !== "object") return false;
+
+  const metricValues = metrics as Record<string, unknown>;
+  const requiredMetrics = ["A_first", "A_senior", "A_lead", "A_total", "R", "h_lead"];
+  return (
+    requiredMetrics.every((key) => key in metricValues) &&
+    Array.isArray((meta as Record<string, unknown>).missing)
+  );
 }
 
 function normalizeWhitespace(value: string): string {
@@ -1510,6 +1576,8 @@ function toCsv(rows: PaperRecord[]): string {
     "A_senior",
     "A_lead",
     "A_total",
+    "R",
+    "h_lead",
     "doi",
     "abstract",
     "article_url",
@@ -1532,6 +1600,8 @@ function toCsv(rows: PaperRecord[]): string {
     A_senior: String(row.metrics?.A_senior ?? ""),
     A_lead: String(row.metrics?.A_lead ?? ""),
     A_total: String(row.metrics?.A_total ?? ""),
+    R: String(row.metrics?.R ?? ""),
+    h_lead: String(row.metrics?.h_lead ?? ""),
     doi: row.doi,
     abstract: row.abstract,
     article_url: row.article_url,
