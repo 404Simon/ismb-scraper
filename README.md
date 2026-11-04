@@ -64,7 +64,7 @@ output/
     └── figures/
 ```
 
-Each record in `papers.json` and `papers/<id>/metadata.json` contains the thirteen metrics and their provenance:
+Each record in `papers.json` and `papers/<id>/metadata.json` contains the fifteen metrics and their provenance:
 
 ```json
 "metrics": {
@@ -77,6 +77,8 @@ Each record in `papers.json` and `papers/<id>/metadata.json` contains the thirte
   "C_lead": ["United States", "United Kingdom"],
   "R": 2,
   "h_lead": 41.33,
+  "M": true,
+  "T": "Protein structure prediction",
   "S": 12,
   "C": 37,
   "I_open": 1,
@@ -89,7 +91,7 @@ Each record in `papers.json` and `papers/<id>/metadata.json` contains the thirte
 }
 ```
 
-A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the thirteen metric columns `Y`, `A_first`, `A_senior`, `A_lead`, `A_total`, `L_lead`, `C_lead`, `R`, `h_lead`, `S`, `C`, `I_open`, `I_closed`; null values render as empty cells and `C_lead` renders as a JSON array. Author details stay in JSON only.
+A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the fifteen metric columns `Y`, `A_first`, `A_senior`, `A_lead`, `A_total`, `L_lead`, `C_lead`, `R`, `h_lead`, `M`, `T`, `S`, `C`, `I_open`, `I_closed`; null values render as empty cells and `C_lead` renders as a JSON array. Author details stay in JSON only.
 
 ## Semantic labels
 
@@ -105,11 +107,15 @@ Embeddings run on one A100 through `hpc/embed.slurm`. The script only embeds and
 uv run --project semantic ismb-semantic embed --reuse
 uv run --project semantic ismb-semantic cluster --clusters 2-20
 uv run --project semantic ismb-semantic label --clusters 2-20
+uv run --project semantic ismb-semantic classify
+uv run --project semantic ismb-semantic export --k 12
 ```
 
-Through Bun, the same commands are `bun run semantic -- cluster --clusters 2-20`. The default `--clusters 2-20` range is easily changed: use `4,6,8,12` or `12` for a subset.
+Through Bun, the same commands are `bun run semantic -- cluster --clusters 2-20`. The default `--clusters 2-20` range is easily changed: use `4,6,8,12` or `12` for a subset. `export --k` selects the one cluster count used for `T`; use the `k` chosen for the analysis.
 
 `cluster` checks that `papers.jsonl` and `embedding_meta.json` describe the same papers before writing anything. It writes per-run artifacts under the ignored `output/semantic/k-XX/` and fails if it cannot find a partition with exactly the requested number of clusters; no directory is written for a wrong count. `label` makes exactly one headless `opencode run` call per unlabeled cluster through `.opencode/agents/semantic-labeler.md`, using `opencode-go/deepseek-v4.1-flash` via OpenCode Go. There is no automatic retry: a failed or duplicate label is recorded and the command exits non-zero, leaving other clusters labeled. Rerun the same command to retry only the missing clusters. Labels are reused only when `labels/k-XX.meta.json` matches the hashes of the current cluster data, model, agent file (`.opencode/agents/<agent>.md`), and prompt; otherwise stale labels are ignored with a warning and relabeled. Add `--force` to relabel everything. Outputs are `results/semantic/labels/k-XX.json`, `results/semantic/categories/k-XX.csv`, `results/semantic/categories.csv` (`k,category,year,paper_id,title,doi`), and `results/semantic/summary.csv`.
+
+`classify` labels every paper with `M` (true for a new method, algorithm, or model; false for evaluation-focused work). `export --k` joins `M` with the cluster labels for that `k` and writes `results/semantic/papers.json` as `doi -> {M, T}`. The scraper reads that file by default and attaches `M` and `T` to each record by DOI. All semantic LLM calls use `opencode-go/deepseek-v4.1-flash`; there is no model override.
 
 Run the Python tests with `uv run --project semantic python -m unittest discover -s semantic/tests`.
 
@@ -123,6 +129,7 @@ Run the Python tests with `uv run --project semantic python -m unittest discover
     --skip-pdfs              Skip PDFs
     --skip-html              Skip standalone article HTML
     --skip-figures           Skip figures
+    --semantic <file>        DOI -> {M,T} annotations (default: results/semantic/papers.json)
     --resume                 Reuse papers/<id>/metadata.json only if it matches the current metric schema
     --chrome-debug-port <n>  Attach to Chromium on this port
     --challenge-timeout <s>  Wait for verified content (default: 180)
@@ -138,6 +145,7 @@ Keep concurrency at `1`: it is friendlier to the publisher and makes manual veri
 - `Y` is parsed from the article's `citation_publication_date`/`citation_date` metadata, with JSON-LD `datePublished` as a fallback. If no date is present, `Y` is `null` and listed in `metrics_meta.missing`.
 - `L_lead` is the size of an exact minimum hitting set over the affiliation sets of the joint first and joint senior authors. Lead authors with no extracted affiliation are ignored; if no lead author has an affiliation, `L_lead` is `null` and listed in `metrics_meta.missing`.
 - `C_lead` is the sorted set of countries parsed from the affiliations in the `L_lead` hitting set. If any selected affiliation has no parseable country, `C_lead` is `null` and listed in `metrics_meta.missing`.
+- `M` and `T` are optional semantic annotations loaded from `--semantic`. `M` is true for a new method/algorithm/model and false for evaluation-focused work. `T` is the cluster label at the `k` selected during export. Missing annotations are `null` and listed in `metrics_meta.missing`.
 - `R` and `h_lead` come from OpenAlex. `h_lead` is the mean OpenAlex h-index over the joint senior authors.
 - An equal-contribution note that names authors is assigned by position: a matching prefix becomes joint first authors, a matching suffix joint senior authors. An unnamed note (for example `Equal contribution.`) is not guessed; the default single first/senior author is kept.
 - `S`, `C`, `I_open`, and `I_closed` come from one primary `github.com` repository in the paper's artifacts, through `gh api`. The primary repository is chosen by preferring links in code/implementation availability sections, then a repository whose name matches the article title, then the first repository in article order. `C` is the number of commits on the default branch. Renamed repositories are canonicalized from `repos/<owner>/<repo>` before the issue searches. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.

@@ -44,7 +44,7 @@ _PLACEHOLDER_LABELS = {
 }
 
 
-def _clean_text(text: str) -> str:
+def clean_text(text: str) -> str:
     text = _THINK_BLOCK.sub("", text)
     return _THINK_TAG.sub("", _FENCE.sub("", text)).strip()
 
@@ -72,7 +72,7 @@ def _valid(label: str | None) -> bool:
 
 def parse_label_text(text: str) -> str | None:
     """Return the last valid ``{"label": "..."}`` object in *text*."""
-    text = _clean_text(text)
+    text = clean_text(text)
     decoder = json.JSONDecoder()
     labels: list[str] = []
     index = 0
@@ -102,8 +102,8 @@ def _label_from(value) -> str | None:
     return label if _valid(label) else None
 
 
-def parse_opencode_output(stdout: str) -> str | None:
-    """Read a ``--format json`` event stream and extract text from top-level text events."""
+def parse_opencode_text(stdout: str) -> str:
+    """Read a ``--format json`` event stream and concatenate top-level text events."""
     parts: list[str] = []
     for line in stdout.splitlines():
         line = line.strip()
@@ -118,7 +118,11 @@ def parse_opencode_output(stdout: str) -> str | None:
         part = event.get("part")
         if isinstance(part, dict) and part.get("type") == "text" and isinstance(part.get("text"), str):
             parts.append(part["text"])
-    return parse_label_text("".join(parts))
+    return "".join(parts)
+
+
+def parse_opencode_output(stdout: str) -> str | None:
+    return parse_label_text(parse_opencode_text(stdout))
 
 
 def build_prompt(template: str, cluster: dict, existing: list[str]) -> str:
@@ -131,7 +135,7 @@ def build_prompt(template: str, cluster: dict, existing: list[str]) -> str:
     )
 
 
-def _agent_hash(agent: str) -> str:
+def agent_hash(agent: str) -> str:
     path = AGENT_DIR / f"{agent}.md"
     content = path.read_text(encoding="utf-8") if path.is_file() else ""
     return hashlib.sha256(content.encode("utf-8")).hexdigest()
@@ -143,7 +147,7 @@ def build_fingerprint(clusters: list[dict], model: str, agent: str, template: st
         "label_input_hash": hashlib.sha256(payload.encode("utf-8")).hexdigest(),
         "model": model,
         "agent": agent,
-        "agent_hash": _agent_hash(agent),
+        "agent_hash": agent_hash(agent),
         "prompt_hash": hashlib.sha256(template.encode("utf-8")).hexdigest(),
     }
 
@@ -158,7 +162,7 @@ def load_fingerprint(path: Path) -> dict | None:
     return value if isinstance(value, dict) else None
 
 
-def request_label(prompt: str, model: str, agent: str, timeout: int) -> str | None:
+def run_opencode(prompt: str, model: str, agent: str, timeout: int) -> str:
     result = subprocess.run(
         ["opencode", "run", "-m", model, "--agent", agent, "--format", "json", prompt],
         cwd=PROJECT_ROOT,
@@ -170,7 +174,11 @@ def request_label(prompt: str, model: str, agent: str, timeout: int) -> str | No
         detail = (result.stderr or result.stdout).strip().splitlines()
         message = detail[-1] if detail else "no output"
         raise RuntimeError(f"opencode exited {result.returncode}: {message}")
-    return parse_opencode_output(result.stdout)
+    return result.stdout
+
+
+def request_label(prompt: str, model: str, agent: str, timeout: int) -> str | None:
+    return parse_opencode_output(run_opencode(prompt, model, agent, timeout))
 
 
 def label_one(prompt: str, model: str, agent: str, timeout: int) -> tuple[str | None, str | None]:

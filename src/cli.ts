@@ -26,6 +26,11 @@ import {
 } from "./openalex";
 import { pageStateScript, readReadyPage } from "./page-readiness";
 import { parsePublicationYear } from "./publication";
+import {
+  loadSemanticAnnotations,
+  semanticKey,
+  type SemanticAnnotation
+} from "./semantic";
 
 interface IssueArticle {
   title: string;
@@ -83,6 +88,8 @@ interface PaperMetrics extends AuthorMetrics, GitHubMetrics {
   C_lead: string[] | null;
   R: number | null;
   h_lead: number | null;
+  M: boolean | null;
+  T: string | null;
 }
 
 interface MetricsMeta {
@@ -147,6 +154,8 @@ const METRIC_NAMES = [
   "C_lead",
   "R",
   "h_lead",
+  "M",
+  "T",
   "S",
   "C",
   "I_open",
@@ -182,6 +191,7 @@ const { values, positionals } = parseArgs({
     "skip-pdfs": { type: "boolean", default: false },
     "skip-html": { type: "boolean", default: false },
     "skip-figures": { type: "boolean", default: false },
+    semantic: { type: "string", default: "results/semantic/papers.json" },
     resume: { type: "boolean", default: false },
     "chrome-debug-port": { type: "string" },
     "challenge-timeout": { type: "string", default: "180" },
@@ -211,6 +221,7 @@ Options:
       --skip-pdfs              Do not download publisher PDFs
       --skip-html              Do not save standalone article HTML
       --skip-figures           Do not download article figures
+      --semantic <file>        DOI -> {M,T} annotations (default: results/semantic/papers.json)
       --resume                 Reuse papers/<id>/metadata.json when it matches the current metric schema
       --chrome-debug-port <n> Attach to visible Chrome with remote debugging
       --challenge-timeout <s> Seconds to wait for verified, ready content (default: 180)
@@ -288,6 +299,9 @@ const chromeBackend = chromeUrl
   ? { type: "chrome" as const, url: chromeUrl }
   : "chrome";
 const interactiveChrome = chromeDebugPort !== null;
+const semanticAnnotations = await loadSemanticAnnotations(
+  resolve(String(values.semantic))
+);
 
 await mkdir(papersDir, { recursive: true });
 
@@ -359,7 +373,13 @@ const results = await mapLimit(issueArticles, concurrency, async (article, index
   }
 
   try {
-    const result = await scrapeArticle(article, paperDir, outDir, snapshotDate);
+    const result = await scrapeArticle(
+      article,
+      paperDir,
+      outDir,
+      snapshotDate,
+      semanticAnnotations
+    );
     failures.push(...result.warnings);
     const artifactCount = ARTIFACT_KEYS.reduce(
       (sum, key) => sum + result.record.artifacts[key].length,
@@ -404,7 +424,8 @@ async function scrapeArticle(
   article: IssueArticle,
   paperDir: string,
   archiveRoot: string,
-  snapshotDate: string
+  snapshotDate: string,
+  semanticAnnotations: Map<string, SemanticAnnotation>
 ): Promise<ScrapeResult> {
   const view = new Bun.WebView({
     backend: chromeBackend,
@@ -459,6 +480,7 @@ async function scrapeArticle(
       data.authors
     );
     const doi = normalizeDoi(data.doi);
+    const annotation = semanticAnnotations.get(semanticKey(doi));
     const openAlex = await openAlexMetricsFor(
       paperName,
       doi,
@@ -478,13 +500,17 @@ async function scrapeArticle(
       ...mergedMetrics.metrics,
       Y: publicationYear,
       L_lead: leadLabs.count,
-      C_lead: leadLabs.countries
+      C_lead: leadLabs.countries,
+      M: annotation?.M ?? null,
+      T: annotation?.T ?? null
     };
     const derivedMissing = unique([
       ...mergedMetrics.missing,
       ...(publicationYear === null ? ["Y"] : []),
       ...(leadLabs.count === null ? ["L_lead"] : []),
-      ...(leadLabs.countries === null ? ["C_lead"] : [])
+      ...(leadLabs.countries === null ? ["C_lead"] : []),
+      ...(annotation?.M == null ? ["M"] : []),
+      ...(annotation?.T == null ? ["T"] : [])
     ]);
     const primaryRepository = selectPrimaryGitHubRepository(
       data.artifactCandidates,
@@ -1672,6 +1698,8 @@ function isValidMetric(name: MetricName, value: unknown): boolean {
   if (name === "h_lead") {
     return typeof value === "number" && Number.isFinite(value) && value >= 0;
   }
+  if (name === "M") return typeof value === "boolean";
+  if (name === "T") return typeof value === "string";
   return typeof value === "number" && Number.isInteger(value) && value >= 0;
 }
 

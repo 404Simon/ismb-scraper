@@ -5,10 +5,12 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import sys
 from pathlib import Path
 
 import numpy as np
 
+from .annotations import write_paper_annotations
 from .clustering import (
     DEFAULT_NEIGHBORS,
     DEFAULT_SEED,
@@ -19,6 +21,7 @@ from .clustering import (
 )
 from .embedding import cached_embeddings, embed, validate_embedding_meta, write_meta
 from .labeling import LABEL_MODEL, run_labeling
+from .methods import METHODS_MODEL, run_classification
 from .papers import load_papers, load_papers_jsonl
 
 
@@ -50,6 +53,23 @@ def _parser() -> argparse.ArgumentParser:
         "--force", action="store_true", help="Relabel clusters that already have labels."
     )
     label_parser.add_argument("--timeout", type=int, default=300, help="Seconds per OpenCode call.")
+
+    method_parser = sub.add_parser("classify", help="Classify each paper as method-focused or not.")
+    method_parser.add_argument("--input", type=Path, default=Path("output/semantic"))
+    method_parser.add_argument("--results", type=Path, default=Path("results/semantic"))
+    method_parser.add_argument("--agent", default="semantic-classifier")
+    method_parser.add_argument(
+        "--force", action="store_true", help="Reclassify papers that already have M."
+    )
+    method_parser.add_argument("--timeout", type=int, default=300, help="Seconds per OpenCode call.")
+
+    export_parser = sub.add_parser("export", help="Write per-paper M/T annotations.")
+    export_parser.add_argument("--input", type=Path, default=Path("output/semantic"))
+    export_parser.add_argument("--results", type=Path, default=Path("results/semantic"))
+    export_parser.add_argument("--k", type=int, required=True, help="Cluster count used for T.")
+    export_parser.add_argument(
+        "--output", type=Path, default=Path("results/semantic/papers.json")
+    )
     return parser
 
 
@@ -207,6 +227,33 @@ def _run_label(args: argparse.Namespace) -> None:
         raise SystemExit(f"{failures} cluster(s) failed; rerun to resume.")
 
 
+def _run_classify(args: argparse.Namespace) -> None:
+    failures = run_classification(
+        input_dir=args.input,
+        results_dir=args.results,
+        model=METHODS_MODEL,
+        agent=args.agent,
+        force=args.force,
+        timeout=args.timeout,
+    )
+    if failures:
+        raise SystemExit(f"{failures} paper(s) failed; rerun to resume.")
+
+
+def _run_export(args: argparse.Namespace) -> None:
+    missing = write_paper_annotations(
+        input_dir=args.input,
+        results_dir=args.results,
+        output_path=args.output,
+        k=args.k,
+    )
+    if missing:
+        print(
+            f"warning: {missing} paper(s) have no M; run classify first",
+            file=sys.stderr,
+        )
+
+
 def main(argv: list[str] | None = None) -> None:
     parser = _parser()
     args = parser.parse_args(argv)
@@ -215,8 +262,12 @@ def main(argv: list[str] | None = None) -> None:
             _run_embed(args)
         elif args.command == "cluster":
             _run_cluster(args)
-        else:
+        elif args.command == "label":
             _run_label(args)
+        elif args.command == "classify":
+            _run_classify(args)
+        else:
+            _run_export(args)
     except ValueError as error:
         parser.error(str(error))
 
