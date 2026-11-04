@@ -14,6 +14,7 @@ import {
   assertGitHubCliAuthenticated,
   collectGitHubMetrics,
   mergeGitHubMetrics,
+  selectPrimaryGitHubRepository,
   type GitHubMetrics
 } from "./github";
 import {
@@ -50,6 +51,7 @@ interface ArtifactCandidate {
   url: string;
   text: string;
   context: string;
+  section: string;
 }
 
 interface FigureCandidate {
@@ -137,6 +139,7 @@ const METRIC_NAMES = [
   "R",
   "h_lead",
   "S",
+  "C",
   "I_open",
   "I_closed"
 ] as const;
@@ -456,7 +459,13 @@ async function scrapeArticle(
       warnings
     );
     const mergedMetrics = mergePaperMetrics(authorMetadata.metrics, openAlex);
-    const github = await collectGitHubMetrics(artifacts.repositories);
+    const primaryRepository = selectPrimaryGitHubRepository(
+      data.artifactCandidates,
+      paperName
+    );
+    const github = await collectGitHubMetrics(
+      primaryRepository ? [primaryRepository.url] : []
+    );
     for (const failure of github.failures) {
       console.warn(`[github] ${paperName}: ${failure.error}`);
       warnings.push({
@@ -699,13 +708,22 @@ function articleExtractorScript(url: string): string {
     return context;
   }
 
+  function candidateSection(el) {
+    for (let node = el; node; node = node.parentElement) {
+      if (!node.matches || !node.matches("div.sec, div.section, section")) continue;
+      const heading = node.querySelector("h1,h2,h3,h4,h5,h6");
+      if (heading) return text(heading);
+    }
+    return "";
+  }
+
   function extractArtifactCandidates() {
     const copy = articleRoot().cloneNode(true);
     removeReferences(copy);
 
     const candidates = [];
     const seen = new Set();
-    const add = (url, label, context) => {
+    const add = (url, label, context, section) => {
       url = String(url || "").trim();
       if (!url) return;
       const key = url + "\n" + String(context || "").slice(0, 200);
@@ -714,7 +732,8 @@ function articleExtractorScript(url: string): string {
       candidates.push({
         url,
         text: normalizeText(label).slice(0, 500),
-        context: normalizeText(context).slice(0, 900)
+        context: normalizeText(context).slice(0, 900),
+        section: normalizeText(section).slice(0, 300)
       });
     };
 
@@ -722,7 +741,7 @@ function articleExtractorScript(url: string): string {
       const raw = a.getAttribute("href") || "";
       if (/^(?:javascript|mailto|tel):/i.test(raw)) continue;
       try {
-        add(new URL(raw, location.href).href, text(a), candidateContext(a));
+        add(new URL(raw, location.href).href, text(a), candidateContext(a), candidateSection(a));
       } catch {}
     }
 
@@ -734,10 +753,15 @@ function articleExtractorScript(url: string): string {
       const rawText = node.nodeValue || "";
       const parent = node.parentElement;
       const context = candidateContext(parent);
-      for (const match of rawText.matchAll(urlRe)) add(match[0], match[0], context);
+      for (const match of rawText.matchAll(urlRe)) add(match[0], match[0], context, candidateSection(parent));
       for (const match of rawText.matchAll(nakedKnownRe)) {
         const raw = match[1];
-        add(/^https?:\/\//i.test(raw) ? raw : "https://" + raw.replace(/^www\./i, ""), raw, context);
+        add(
+          /^https?:\/\//i.test(raw) ? raw : "https://" + raw.replace(/^www\./i, ""),
+          raw,
+          context,
+          candidateSection(parent)
+        );
       }
     }
 
@@ -1667,6 +1691,7 @@ function toCsv(rows: PaperRecord[]): string {
     "R",
     "h_lead",
     "S",
+    "C",
     "I_open",
     "I_closed",
     "doi",
@@ -1694,6 +1719,7 @@ function toCsv(rows: PaperRecord[]): string {
     R: String(row.metrics?.R ?? ""),
     h_lead: String(row.metrics?.h_lead ?? ""),
     S: String(row.metrics?.S ?? ""),
+    C: String(row.metrics?.C ?? ""),
     I_open: String(row.metrics?.I_open ?? ""),
     I_closed: String(row.metrics?.I_closed ?? ""),
     doi: row.doi,

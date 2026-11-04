@@ -2,11 +2,15 @@ import { describe, expect, test } from "bun:test";
 import {
   assertGitHubCliAuthenticated,
   collectGitHubMetrics,
+  fetchCommitCount,
   fetchIssueCount,
   mergeGitHubMetrics,
+  parseCommitCount,
   parseGitHubRepository,
   parseGitHubUrl,
   SearchThrottle,
+  selectPrimaryGitHubRepository,
+  type GitHubRepositoryCandidate,
   type GitHubResult
 } from "./github";
 
@@ -47,7 +51,7 @@ describe("live GitHub metrics", () => {
     await expect(requireGh()).resolves.toBeUndefined();
   }, LIVE_TIMEOUT_MS);
 
-  test("a real corpus repository yields stars and issue counts", async () => {
+  test("a real corpus repository yields stars, commits, and issue counts", async () => {
     await requireGh();
 
     const result = await collectGitHubMetrics([
@@ -60,12 +64,14 @@ describe("live GitHub metrics", () => {
 
     for (const value of [
       result.metrics.S,
+      result.metrics.C,
       result.metrics.I_open,
       result.metrics.I_closed
     ]) {
       expect(Number.isInteger(value)).toBe(true);
       expect(value as number).toBeGreaterThanOrEqual(0);
     }
+    expect(result.metrics.C as number).toBeGreaterThan(0);
   }, LIVE_TIMEOUT_MS);
 
   test("a renamed repository alias resolves to its canonical name", async () => {
@@ -82,14 +88,25 @@ describe("live GitHub metrics", () => {
 
     for (const value of [
       result.metrics.S,
+      result.metrics.C,
       result.metrics.I_open,
       result.metrics.I_closed
     ]) {
       expect(Number.isInteger(value)).toBe(true);
       expect(value as number).toBeGreaterThanOrEqual(0);
     }
+    expect(result.metrics.C as number).toBeGreaterThan(0);
     expect(result.metrics.I_open).toBeGreaterThanOrEqual(0);
     expect(result.metrics.I_closed).toBeGreaterThanOrEqual(0);
+  }, LIVE_TIMEOUT_MS);
+
+  test("a real repository exposes a positive commit count", async () => {
+    await requireGh();
+
+    const count = await fetchCommitCount("lubianat/compbio-on-wiki");
+
+    expect(Number.isInteger(count)).toBe(true);
+    expect(count).toBeGreaterThan(0);
   }, LIVE_TIMEOUT_MS);
 
   test("issue counts exclude pull requests on cli/cli", async () => {
@@ -126,9 +143,15 @@ describe("live GitHub metrics", () => {
     ]);
 
     expect(result.repository?.fullName).toBe(FAKE_REPOSITORY);
-    expect(result.metrics).toEqual({ S: null, I_open: null, I_closed: null });
-    expect(result.missing).toEqual(["S", "I_open", "I_closed"]);
+    expect(result.metrics).toEqual({
+      S: null,
+      C: null,
+      I_open: null,
+      I_closed: null
+    });
+    expect(result.missing).toEqual(["S", "C", "I_open", "I_closed"]);
     expect(result.failures.map((failure) => failure.metric).sort()).toEqual([
+      "C",
       "I_closed",
       "I_open",
       "S"
@@ -137,6 +160,42 @@ describe("live GitHub metrics", () => {
       result.failures.every((failure) => failure.repository === FAKE_REPOSITORY)
     ).toBe(true);
   }, LIVE_TIMEOUT_MS);
+});
+
+describe("commit count parsing", () => {
+  test("reads the last page from the Link header", () => {
+    const output = [
+      "HTTP/2.0 200 OK",
+      'link: <https://api.github.com/repositories/1/commits?per_page=1&page=2>; rel="next", <https://api.github.com/repositories/1/commits?per_page=1&page=57>; rel="last"',
+      "",
+      '[{"sha":"abc"}]'
+    ].join("\r\n");
+
+    expect(parseCommitCount(output, "owner/repo")).toBe(57);
+  });
+
+  test("counts the single commit when there is no Link header", () => {
+    const output = [
+      "HTTP/2.0 200 OK",
+      "content-type: application/json",
+      "",
+      '[{"sha":"abc"}]'
+    ].join("\n");
+
+    expect(parseCommitCount(output)).toBe(1);
+  });
+
+  test("returns zero for an empty commit list", () => {
+    const output = ["HTTP/2.0 200 OK", "", "[]"].join("\n");
+
+    expect(parseCommitCount(output)).toBe(0);
+  });
+
+  test("rejects an unexpected response", () => {
+    expect(() => parseCommitCount("not a gh response", "owner/repo")).toThrow(
+      "Unexpected commit response"
+    );
+  });
 });
 
 describe("search throttling", () => {
@@ -286,6 +345,21 @@ describe("repository URL parsing", () => {
     });
   });
 
+  test("strips trailing punctuation from plain-text URLs", () => {
+    expect(parseGitHubUrl("https://github.com/owner/repo.")).toEqual({
+      owner: "owner",
+      repo: "repo",
+      fullName: "owner/repo",
+      url: "https://github.com/owner/repo"
+    });
+    expect(parseGitHubUrl("(https://github.com/owner/repo),")).toEqual({
+      owner: "owner",
+      repo: "repo",
+      fullName: "owner/repo",
+      url: "https://github.com/owner/repo"
+    });
+  });
+
   test("accepts www.github.com and http URLs", () => {
     expect(parseGitHubRepository(["http://www.github.com/owner/repo"])?.fullName).toBe(
       "owner/repo"
@@ -337,6 +411,115 @@ describe("repository URL parsing", () => {
   });
 });
 
+describe("primary repository selection", () => {
+  function candidate(
+    url: string,
+    overrides: Partial<GitHubRepositoryCandidate> = {}
+  ): GitHubRepositoryCandidate {
+    return { url, text: url, context: "", section: "", ...overrides };
+  }
+
+  test("prefers a code availability link over an earlier data repository", () => {
+    const selected = selectPrimaryGitHubRepository(
+      [
+        candidate("https://github.com/org/data", {
+          section: "Data availability",
+          context: "Data are available at https://github.com/org/data"
+        }),
+        candidate("https://github.com/org/code", {
+          section: "Code availability",
+          context: "Code is available at https://github.com/org/code"
+        })
+      ],
+      "A method for something"
+    );
+
+    expect(selected?.fullName).toBe("org/code");
+  });
+
+  test("treats data and code availability as a code signal", () => {
+    const selected = selectPrimaryGitHubRepository(
+      [
+        candidate("https://github.com/org/early", {
+          section: "Methods",
+          context: "We compare against https://github.com/org/early"
+        }),
+        candidate("https://github.com/org/code", {
+          section: "Data and code availability",
+          context: "Data and code are available at https://github.com/org/code"
+        })
+      ],
+      "A method for something"
+    );
+
+    expect(selected?.fullName).toBe("org/code");
+  });
+
+  test("prefers a title-matching repository over an earlier data repository", () => {
+    const selected = selectPrimaryGitHubRepository(
+      [
+        candidate("https://github.com/org/fastppm-data", {
+          section: "Data availability"
+        }),
+        candidate("https://github.com/org/fastppm", {
+          section: "Availability"
+        })
+      ],
+      "FastPPM: fast probabilistic phylogenetic placement"
+    );
+
+    expect(selected?.fullName).toBe("org/fastppm");
+  });
+
+  test("prefers a title-matching repository over an earlier shared/experiment repo", () => {
+    const selected = selectPrimaryGitHubRepository(
+      [
+        candidate("https://github.com/bo1929/shared.phlag", {
+          section: "Availability"
+        }),
+        candidate("https://github.com/bo1929/phlag", {
+          section: "Availability"
+        })
+      ],
+      "Phlag: scalable phylogenetic placement"
+    );
+
+    expect(selected?.fullName).toBe("bo1929/phlag");
+  });
+
+  test("keeps the strongest occurrence when a repository is linked twice", () => {
+    const selected = selectPrimaryGitHubRepository(
+      [
+        candidate("https://github.com/bo1929/phlag"),
+        candidate("https://github.com/bo1929/shared.phlag", {
+          section: "Availability and implementation",
+          context: "All results and scripts can be found at shared.phlag"
+        }),
+        candidate("https://github.com/bo1929/phlag", {
+          section: "Availability and implementation",
+          context: "Phlag is available at github.com/bo1929/phlag"
+        })
+      ],
+      "Phlag: scalable detection of genomic regions"
+    );
+
+    expect(selected?.fullName).toBe("bo1929/phlag");
+  });
+
+  test("falls back to the first parseable GitHub repository", () => {
+    const selected = selectPrimaryGitHubRepository(
+      [
+        candidate("https://gitlab.com/org/repo"),
+        candidate("https://github.com/org/first"),
+        candidate("https://github.com/org/second")
+      ],
+      "A method with no matching repository name"
+    );
+
+    expect(selected?.fullName).toBe("org/first");
+  });
+});
+
 describe("GitHub metric merging", () => {
   const existingMetrics = {
     A_first: 2,
@@ -354,17 +537,18 @@ describe("GitHub metric merging", () => {
       fullName: "owner/repo",
       url: "https://github.com/owner/repo"
     },
-    metrics: { S: 12, I_open: 1, I_closed: 4 },
+    metrics: { S: 12, C: 37, I_open: 1, I_closed: 4 },
     missing: [],
     failures: []
   };
 
-  test("preserves A_*, R, and h_lead while adding S, I_open, and I_closed", () => {
+  test("preserves A_*, R, and h_lead while adding S, C, I_open, and I_closed", () => {
     const merged = mergeGitHubMetrics(existingMetrics, github);
 
     expect(merged.metrics).toEqual({
       ...existingMetrics,
       S: 12,
+      C: 37,
       I_open: 1,
       I_closed: 4
     });
@@ -376,24 +560,24 @@ describe("GitHub metric merging", () => {
       existingMetrics,
       {
         ...github,
-        metrics: { S: null, I_open: null, I_closed: null },
-        missing: ["S", "I_open", "I_closed"]
+        metrics: { S: null, C: null, I_open: null, I_closed: null },
+        missing: ["S", "C", "I_open", "I_closed"]
       },
       ["S", "h_lead"]
     );
 
     expect(merged.metrics.S).toBeNull();
     expect(merged.metrics.A_total).toBe(14);
-    expect(merged.missing).toEqual(["S", "h_lead", "I_open", "I_closed"]);
+    expect(merged.missing).toEqual(["S", "h_lead", "C", "I_open", "I_closed"]);
   });
 
-  test("a paper without a GitHub repository gets three missing keys", async () => {
+  test("a paper without a GitHub repository gets four missing keys", async () => {
     const result = await collectGitHubMetrics(["https://gitlab.com/owner/repo"]);
 
     expect(result).toEqual({
       repository: null,
-      metrics: { S: null, I_open: null, I_closed: null },
-      missing: ["S", "I_open", "I_closed"],
+      metrics: { S: null, C: null, I_open: null, I_closed: null },
+      missing: ["S", "C", "I_open", "I_closed"],
       failures: []
     });
   });

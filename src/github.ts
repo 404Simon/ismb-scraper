@@ -1,5 +1,6 @@
 export interface GitHubMetrics {
   S: number | null;
+  C: number | null;
   I_open: number | null;
   I_closed: number | null;
 }
@@ -10,6 +11,13 @@ export interface GitHubRepository {
   /** `owner/repo` */
   fullName: string;
   url: string;
+}
+
+export interface GitHubRepositoryCandidate {
+  url: string;
+  text?: string;
+  context?: string;
+  section?: string;
 }
 
 export interface GitHubFailure {
@@ -25,7 +33,7 @@ export interface GitHubResult {
   failures: GitHubFailure[];
 }
 
-const METRIC_KEYS: (keyof GitHubMetrics)[] = ["S", "I_open", "I_closed"];
+const METRIC_KEYS: (keyof GitHubMetrics)[] = ["S", "C", "I_open", "I_closed"];
 const GH_TIMEOUT_MS = 30_000;
 
 /** `search/issues` allows 30 requests per minute; 2.1 s keeps us safely below. */
@@ -139,10 +147,195 @@ export function parseGitHubRepository(repositoryUrls: string[]): GitHubRepositor
   return null;
 }
 
+/**
+ * Choose the most likely main repository. Preference order:
+ * code/implementation availability link, repository name matching the paper
+ * title, and finally the first repository in article order.
+ */
+export function selectPrimaryGitHubRepository(
+  candidates: GitHubRepositoryCandidate[],
+  paperTitle = ""
+): GitHubRepository | null {
+  const titleKey = normalizeKey(paperTitle);
+  const byRepository = new Map<string, { repository: GitHubRepository; score: number }>();
+
+  for (const candidate of candidates) {
+    const repository = parseGitHubUrl(candidate.url);
+    if (!repository) continue;
+
+    // The same repository can appear as an anchor in the introduction and as
+    // plain text in the availability section. Keep its strongest evidence.
+    const score = scoreRepositoryCandidate(repository, candidate, titleKey);
+    const key = repository.fullName.toLowerCase();
+    const current = byRepository.get(key);
+    if (current === undefined || score > current.score) {
+      byRepository.set(key, { repository, score });
+    }
+  }
+
+  let best: { repository: GitHubRepository; score: number } | null = null;
+  for (const entry of byRepository.values()) {
+    if (best === null || entry.score > best.score) best = entry;
+  }
+  return best?.repository ?? null;
+}
+
+const CODE_WORDS = /\b(?:code|software|implementation|script|scripts|source)\b/;
+const DATA_WORDS = /\b(?:data|dataset|datasets)\b/;
+const AVAILABILITY_WORDS = /\b(?:availability|available)\b/;
+
+const REPOSITORY_NOISE_WORDS = new Set([
+  "data",
+  "dataset",
+  "datasets",
+  "database",
+  "experiment",
+  "experiments",
+  "experimental",
+  "test",
+  "tests",
+  "testing",
+  "run",
+  "runs",
+  "running",
+  "workflow",
+  "workflows",
+  "script",
+  "scripts",
+  "analysis",
+  "analyses",
+  "benchmark",
+  "benchmarks",
+  "benchmarking",
+  "reproducibility",
+  "reproduce",
+  "reproduction",
+  "paper",
+  "supplementary",
+  "supplement",
+  "supp",
+  "shared",
+  "example",
+  "examples",
+  "demo",
+  "tutorial",
+  "old",
+  "archive",
+  "archived",
+  "fork",
+  "main",
+  "master",
+  "src",
+  "source",
+  "code",
+  "software",
+  "github",
+  "repo",
+  "repository",
+  "project",
+  "tool",
+  "tools",
+  "the",
+  "and",
+  "for",
+  "with",
+  "from",
+  "into",
+  "using",
+  "based"
+]);
+
+const REPOSITORY_PENALTY_WORDS = new Set([
+  "data",
+  "dataset",
+  "datasets",
+  "database",
+  "experiment",
+  "experiments",
+  "test",
+  "tests",
+  "run",
+  "runs",
+  "workflow",
+  "workflows",
+  "script",
+  "scripts",
+  "analysis",
+  "analyses",
+  "benchmark",
+  "benchmarks",
+  "reproducibility",
+  "reproduce",
+  "paper",
+  "supplementary",
+  "supp",
+  "shared",
+  "example",
+  "demo",
+  "tutorial",
+  "old",
+  "archive",
+  "fork"
+]);
+
+function scoreRepositoryCandidate(
+  repository: GitHubRepository,
+  candidate: GitHubRepositoryCandidate,
+  titleKey: string
+): number {
+  const section = normalizeKey(candidate.section ?? "");
+  const context = normalizeKey(candidate.context ?? "");
+  let score = 0;
+
+  const sectionHasCode = CODE_WORDS.test(section);
+  const sectionHasData = DATA_WORDS.test(section);
+  const sectionHasAvailability = AVAILABILITY_WORDS.test(section);
+
+  if (sectionHasCode) score += 40;
+  if (sectionHasAvailability) score += 8;
+  if (sectionHasData && !sectionHasCode) score -= 25;
+
+  const contextHasCode = CODE_WORDS.test(context);
+  const contextHasData = DATA_WORDS.test(context);
+  if (contextHasCode) score += 12;
+  if (contextHasData && !contextHasCode) score -= 10;
+
+  const words = repository.repo.toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+  const repositoryKey = normalizeKey(repository.repo);
+  if (repositoryKey.length >= 4 && titleKey.includes(repositoryKey)) {
+    score += 35;
+  } else {
+    const matches = words.filter(
+      (word) =>
+        word.length >= 4 &&
+        !REPOSITORY_NOISE_WORDS.has(word) &&
+        titleKey.includes(word)
+    );
+    score += Math.min(matches.length, 3) * 10;
+  }
+
+  for (const word of words) {
+    if (REPOSITORY_PENALTY_WORDS.has(word)) score -= 15;
+  }
+  const meaningfulWords = words.filter((word) => !REPOSITORY_NOISE_WORDS.has(word));
+  score -= Math.max(0, meaningfulWords.length - 1) * 3;
+
+  return score;
+}
+
+function normalizeKey(value: string): string {
+  return String(value ?? "")
+    .normalize("NFD")
+    .replace(/\p{M}/gu, "")
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .trim();
+}
+
 export function parseGitHubUrl(raw: string): GitHubRepository | null {
   let url: URL;
   try {
-    url = new URL(raw);
+    url = new URL(cleanRepositoryUrl(raw));
   } catch {
     return null;
   }
@@ -222,7 +415,32 @@ export async function fetchIssueCount(
 }
 
 /**
- * Fetch S, I_open, and I_closed for the primary repository. Individual `gh`
+ * Commit count via the commits endpoint. With `per_page=1`, the page number in
+ * the last `Link` header is the total number of commits; a single-page repo has
+ * no `Link` header, so the one-item body is counted instead.
+ */
+export async function fetchCommitCount(fullName: string): Promise<number> {
+  let output: string;
+  try {
+    output = await runGitHubCli([
+      "api",
+      "-X",
+      "GET",
+      `repos/${fullName}/commits`,
+      "-f",
+      "per_page=1",
+      "--include"
+    ]);
+  } catch (error) {
+    // GitHub returns 409 for a repository with no commits at all.
+    if (/Git Repository is empty/i.test(message(error))) return 0;
+    throw error;
+  }
+  return parseCommitCount(output, fullName);
+}
+
+/**
+ * Fetch S, C, I_open, and I_closed for the primary repository. Individual `gh`
  * failures are recorded in `failures` and null the affected metric; they never
  * throw, so a paper is never discarded because GitHub failed.
  */
@@ -233,13 +451,13 @@ export async function collectGitHubMetrics(
   if (!parsed) {
     return {
       repository: null,
-      metrics: { S: null, I_open: null, I_closed: null },
+      metrics: { S: null, C: null, I_open: null, I_closed: null },
       missing: [...METRIC_KEYS],
       failures: []
     };
   }
 
-  const metrics: GitHubMetrics = { S: null, I_open: null, I_closed: null };
+  const metrics: GitHubMetrics = { S: null, C: null, I_open: null, I_closed: null };
   const failed = new Set<keyof GitHubMetrics>();
   const failures: GitHubFailure[] = [];
   let repository = parsed;
@@ -260,12 +478,15 @@ export async function collectGitHubMetrics(
   }
 
   await Promise.all(
-    (["I_open", "I_closed"] as const).map(async (key) => {
+    (["C", "I_open", "I_closed"] as const).map(async (key) => {
       try {
-        metrics[key] = await fetchIssueCount(
-          repository.fullName,
-          key === "I_open" ? "open" : "closed"
-        );
+        metrics[key] =
+          key === "C"
+            ? await fetchCommitCount(repository.fullName)
+            : await fetchIssueCount(
+                repository.fullName,
+                key === "I_open" ? "open" : "closed"
+              );
       } catch (error) {
         failed.add(key);
         failures.push({
@@ -344,6 +565,31 @@ function parseCount(output: string, label: string, fullName: string): number {
   return value;
 }
 
+/** Parse a `gh api --include` commits response into the commit count. */
+export function parseCommitCount(output: string, fullName = "repository"): number {
+  const [headers, ...bodyParts] = output.split(/\r?\n\r?\n/);
+  const link = headers
+    .split(/\r?\n/)
+    .reverse()
+    .find((line) => /^link:/i.test(line));
+
+  if (link) {
+    const lastPage = link.match(/[?&]page=(\d+)>;\s*rel="last"/i);
+    if (lastPage) return parseCount(lastPage[1], "commit count", fullName);
+  }
+
+  const body = bodyParts.join("\n\n").trim();
+
+  try {
+    const value = JSON.parse(body);
+    if (Array.isArray(value)) return value.length;
+  } catch {}
+
+  throw new Error(
+    `Unexpected commit response for ${fullName}: ${JSON.stringify(output.slice(0, 300))}`
+  );
+}
+
 /** `gh` reports rate limits in stderr; only search calls are retried. */
 function isRateLimitError(error: unknown): boolean {
   return /rate limit|secondary rate|too many requests|abuse detection|HTTP 429/i.test(
@@ -368,6 +614,13 @@ function retryDelayMs(
   }
 
   return fallbackMs;
+}
+
+function cleanRepositoryUrl(value: string): string {
+  return String(value ?? "")
+    .trim()
+    .replace(/^[<(\[{'\"]+/, "")
+    .replace(/[)>\]}\"'\.,;:]+$/g, "");
 }
 
 function isValidOwner(value: string): boolean {

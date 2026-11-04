@@ -64,7 +64,7 @@ output/
     └── figures/
 ```
 
-Each record in `papers.json` and `papers/<id>/metadata.json` contains the nine metrics and their provenance:
+Each record in `papers.json` and `papers/<id>/metadata.json` contains the ten metrics and their provenance:
 
 ```json
 "metrics": {
@@ -75,6 +75,7 @@ Each record in `papers.json` and `papers/<id>/metadata.json` contains the nine m
   "R": 2,
   "h_lead": 41.33,
   "S": 12,
+  "C": 37,
   "I_open": 1,
   "I_closed": 4
 },
@@ -85,7 +86,7 @@ Each record in `papers.json` and `papers/<id>/metadata.json` contains the nine m
 }
 ```
 
-A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the nine metric columns `A_first`, `A_senior`, `A_lead`, `A_total`, `R`, `h_lead`, `S`, `I_open`, `I_closed`; null values render as empty cells. Author details stay in JSON only.
+A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the ten metric columns `A_first`, `A_senior`, `A_lead`, `A_total`, `R`, `h_lead`, `S`, `C`, `I_open`, `I_closed`; null values render as empty cells. Author details stay in JSON only.
 
 ## Semantic labels
 
@@ -133,7 +134,7 @@ Keep concurrency at `1`: it is friendlier to the publisher and makes manual veri
 - Artifact extraction runs on the full article body, excluding references, and prefers recall over precision.
 - `R` and `h_lead` come from OpenAlex. `h_lead` is the mean OpenAlex h-index over the joint senior authors.
 - An equal-contribution note that names authors is assigned by position: a matching prefix becomes joint first authors, a matching suffix joint senior authors. An unnamed note (for example `Equal contribution.`) is not guessed; the default single first/senior author is kept.
-- `S`, `I_open`, and `I_closed` come from the first `github.com` repository in the paper's artifacts, through `gh api`. Renamed repositories are canonicalized from `repos/<owner>/<repo>` before the issue searches. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.
+- `S`, `C`, `I_open`, and `I_closed` come from one primary `github.com` repository in the paper's artifacts, through `gh api`. The primary repository is chosen by preferring links in code/implementation availability sections, then a repository whose name matches the article title, then the first repository in article order. `C` is the number of commits on the default branch. Renamed repositories are canonicalized from `repos/<owner>/<repo>` before the issue searches. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.
 - If no articles are found, browser diagnostics are written to `<out>/issue-debug.{json,html,png}`.
 
 ## Tests
