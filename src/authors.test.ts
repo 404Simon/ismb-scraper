@@ -5,12 +5,14 @@ import {
   type AuthorMetadata,
   type RawAuthorData
 } from "./authors";
+import { startChromeTabProxy } from "./chrome";
 import { readReadyPage } from "./page-readiness";
 
 const CHROME_VERSION_URL = "http://127.0.0.1:9222/json/version";
 const LIVE_TIMEOUT_MS = 180_000;
 
 let webSocketUrl: Promise<string> | null = null;
+let tabProxyUrl: string | null = null;
 
 function chromeWebSocketUrl(): Promise<string> {
   webSocketUrl ??= (async () => {
@@ -36,9 +38,14 @@ function chromeWebSocketUrl(): Promise<string> {
   return webSocketUrl;
 }
 
+async function chromeTabProxyUrl(): Promise<string> {
+  tabProxyUrl ??= startChromeTabProxy(await chromeWebSocketUrl());
+  return tabProxyUrl;
+}
+
 async function liveAuthorMetadata(url: string): Promise<AuthorMetadata> {
   const view = new Bun.WebView({
-    backend: { type: "chrome", url: await chromeWebSocketUrl() },
+    backend: { type: "chrome", url: await chromeTabProxyUrl() },
     width: 1440,
     height: 1200
   });

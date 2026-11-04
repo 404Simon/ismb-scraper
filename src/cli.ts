@@ -9,6 +9,7 @@ import {
   type AuthorDetail,
   type AuthorMetrics
 } from "./authors";
+import { startChromeTabProxy } from "./chrome";
 import {
   assertGitHubCliAuthenticated,
   collectGitHubMetrics,
@@ -268,8 +269,11 @@ const pageRetries = nonNegativeInt(String(values["page-retries"]), "--page-retri
 const chromeDebugPort = values["chrome-debug-port"]
   ? positiveInt(String(values["chrome-debug-port"]), "--chrome-debug-port")
   : null;
-const chromeBackend = chromeDebugPort
-  ? { type: "chrome" as const, url: await getChromeWebSocketUrl(chromeDebugPort) }
+const chromeUrl = chromeDebugPort
+  ? startChromeTabProxy(await getChromeWebSocketUrl(chromeDebugPort))
+  : null;
+const chromeBackend = chromeUrl
+  ? { type: "chrome" as const, url: chromeUrl }
   : "chrome";
 const interactiveChrome = chromeDebugPort !== null;
 
