@@ -1,0 +1,15 @@
+{
+  "0": "Drug-target interaction prediction",
+  "1": "Drug discovery & protein prediction",
+  "2": "Spatial transcriptomics",
+  "3": "Molecular representation & multimodal learning",
+  "4": "Genetic perturbation modeling",
+  "5": "Protein function & stability prediction",
+  "6": "Genomic sequence algorithms",
+  "7": "Biomedical large language models",
+  "8": "Single-cell genomics & epigenomics",
+  "9": "Mass spectrometry proteomics",
+  "10": "Phylogenetics & sequence algorithms",
+  "11": "Viral taxonomy classification",
+  "12": "Protein-nucleic acid interactions"
+}

@@ -1,0 +1,14 @@
+{
+  "0": "Single-cell & spatial omics",
+  "1": "Sequence analysis & phylogenetics",
+  "2": "Protein function & stability prediction",
+  "3": "Drug-target interaction & discovery",
+  "4": "Drug response & perturbation prediction",
+  "5": "Long-read sequencing analysis",
+  "6": "Single-cell transcriptomics & epigenomics",
+  "7": "Biological interaction & network prediction",
+  "8": "Diffusion models for biomolecular design",
+  "9": "Network medicine & biomarker discovery",
+  "10": "Biological sequence embedding & metric learning",
+  "11": "Phylogenetic networks & fitness inference"
+}

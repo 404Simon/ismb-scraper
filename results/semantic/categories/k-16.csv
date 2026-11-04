@@ -1,0 +1,189 @@
+k,category,year,paper_id,title,doi
+16,Biomedical large language models,2024,i410,A learned score function improves the power of mass spectrometry database search,10.1093/bioinformatics/btae218
+16,Biomedical large language models,2024,i307,Accurate assembly of multiple RNA-seq samples with Aletsch,10.1093/bioinformatics/btae215
+16,Biomedical large language models,2024,i11,Closing the computational biology ‘knowledge gap’: Spanish Wikipedia as a case study,10.1093/bioinformatics/btae247
+16,Biomedical large language models,2024,i48,"Conway–Bromage–Lyndon (CBL): an exact, dynamic representation of k-mer sets",10.1093/bioinformatics/btae217
+16,Biomedical large language models,2024,i119,Improving medical reasoning through retrieval and self-reflection with retrieval-augmented large language models,10.1093/bioinformatics/btae238
+16,Biomedical large language models,2024,i169,TA-RNN: an attention-based time-aware recurrent neural network architecture for electronic health records,10.1093/bioinformatics/btae264
+16,Biomedical large language models,2024,i20,Teaching bioinformatics through the analysis of SARS-CoV-2: project-based training for computer science students,10.1093/bioinformatics/btae208
+16,Biomedical large language models,2024,i130,Transfer learning of condition-specific perturbation in gene interactions improves drug response prediction,10.1093/bioinformatics/btae249
+16,Biomedical large language models,2025,i352,ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness prediction,10.1093/bioinformatics/btaf259
+16,Biomedical large language models,2025,i77,FACT: Feature Aggregation and Convolution with Transformers for predicting drug classification code,10.1093/bioinformatics/btaf184
+16,Biomedical large language models,2025,i275,GreedyMini: generating low-density DNA minimizers,10.1093/bioinformatics/btaf251
+16,Biomedical large language models,2025,i40,Leveraging large language models to predict antibiotic resistance in Mycobacterium tuberculosis,10.1093/bioinformatics/btaf232
+16,Biomedical large language models,2026,btag250,Agentomics: an agentic system that autonomously develops novel state-of-the-art solutions for biomedical machine learning tasks,10.1093/bioinformatics/btag250
+16,Biomedical large language models,2026,btag214,Knowledge-guided contextual gene set analysis with large language models,10.1093/bioinformatics/btag214
+16,Cellular perturbation response modeling,2024,i110,Approximating facial expression effects on diagnostic accuracy via generative AI in medical genetics,10.1093/bioinformatics/btae239
+16,Cellular perturbation response modeling,2024,i453,AttentionPert: accurately modeling multiplexed genetic perturbations with multi-scale effects,10.1093/bioinformatics/btae244
+16,Cellular perturbation response modeling,2024,i501,Biomarker identification by interpretable maximum mean discrepancy,10.1093/bioinformatics/btae251
+16,Cellular perturbation response modeling,2024,i91,CODEX: COunterfactual Deep learning for the in silico EXploration of cancer cell line perturbations,10.1093/bioinformatics/btae261
+16,Cellular perturbation response modeling,2024,i529,Deciphering high-order structures in spatial transcriptomes with graph-guided Tucker decomposition,10.1093/bioinformatics/btae245
+16,Cellular perturbation response modeling,2024,i558,Efficient parameter estimation for ODE models of cellular processes using semi-quantitative data,10.1093/bioinformatics/btae210
+16,Cellular perturbation response modeling,2024,i199,Epidemiological topology data analysis links severe COVID-19 to RAAS and hyperlipidemia associated metabolic syndrome conditions,10.1093/bioinformatics/btae235
+16,Cellular perturbation response modeling,2024,i548,GraphCompass: spatial metrics for differential analyses of cell organization across conditions,10.1093/bioinformatics/btae242
+16,Cellular perturbation response modeling,2024,i511,Identifying new cancer genes based on the integration of annotated gene sets via hypergraph neural networks,10.1093/bioinformatics/btae257
+16,Cellular perturbation response modeling,2024,i180,Oncotree2vec — a method for embedding and clustering of tumor mutation trees,10.1093/bioinformatics/btae214
+16,Cellular perturbation response modeling,2024,i462,Predicting single-cell cellular responses to perturbations using cycle consistency learning,10.1093/bioinformatics/btae248
+16,Cellular perturbation response modeling,2024,i68,Towards more accurate microbial source tracking via non-negative matrix factorization (NMF),10.1093/bioinformatics/btae227
+16,Cellular perturbation response modeling,2024,i381,Unveil cis-acting combinatorial mRNA motifs by interpreting deep neural network,10.1093/bioinformatics/btae262
+16,Cellular perturbation response modeling,2025,i493,Anomaly detection in spatial transcriptomics via spatially localized density comparison,10.1093/bioinformatics/btaf242
+16,Cellular perturbation response modeling,2025,i189,"ARTEMIS integrates autoencoders and Schrödinger Bridges to predict continuous dynamics of gene expression, cell population, and perturbation from time-series single-cell data",10.1093/bioinformatics/btaf218
+16,Cellular perturbation response modeling,2025,i265,Exploiting uniqueness: seed-chain-extend alignment on elastic founder graphs,10.1093/bioinformatics/btaf225
+16,Cellular perturbation response modeling,2025,i150,Fair molecular feature selection unveils universally tumor lineage-informative methylation sites in colorectal cancer,10.1093/bioinformatics/btaf237
+16,Cellular perturbation response modeling,2025,i484,Generating synthetic genotypes using diffusion models,10.1093/bioinformatics/btaf209
+16,Cellular perturbation response modeling,2026,btag297,Foundation model enables interpretable open and error-tolerant searching for mass spectrometry-based proteomics,10.1093/bioinformatics/btag297
+16,Drug-target interaction & docking,2024,i539,Enhancing generalizability and performance in drug–target interaction identification by integrating pharmacophore and pre-trained models,10.1093/bioinformatics/btae240
+16,Drug-target interaction & docking,2025,i342,Accurate PROTAC-targeted degradation prediction with DegradeMaster,10.1093/bioinformatics/btaf191
+16,Drug-target interaction & docking,2025,i362,CATH-ddG: towards robust mutation effect prediction on protein–protein interactions out of CATH homologous superfamily,10.1093/bioinformatics/btaf228
+16,Drug-target interaction & docking,2025,i198,FlowDock: Geometric flow matching for generative protein–ligand docking and affinity prediction,10.1093/bioinformatics/btaf187
+16,Drug-target interaction & docking,2025,i599,GPO-VAE: modeling explainable gene perturbation responses utilizing GRN-aligned parameter optimization,10.1093/bioinformatics/btaf256
+16,Drug-target interaction & docking,2025,i439,LoRA-DR-suite: adapted embeddings predict intrinsic and soft disorder from protein sequences,10.1093/bioinformatics/btaf185
+16,Drug-target interaction & docking,2025,i466,Precise prediction of hotspot residues in protein–RNA complexes using graph attention networks and pretrained protein language models,10.1093/bioinformatics/btaf197
+16,Drug-target interaction & docking,2025,i115,Predicting fine-grained cell types from histology images through cross-modal learning in spatial transcriptomics,10.1093/bioinformatics/btaf201
+16,Drug-target interaction & docking,2025,i561,RVINN: a flexible modeling for inferring dynamic transcriptional and post-transcriptional regulation using physics-informed neural networks,10.1093/bioinformatics/btaf180
+16,Drug-target interaction & docking,2025,i125,TCR-epiDiff: solving dual challenges of TCR generation and binding prediction,10.1093/bioinformatics/btaf202
+16,Drug-target interaction & docking,2025,i133,Top-DTI: integrating topological deep learning and large language models for drug–target interaction prediction,10.1093/bioinformatics/btaf183
+16,Drug-target interaction & docking,2026,btag270,A dependency-aware deep generative model for inferring RNA velocity from spatial transcriptomics,10.1093/bioinformatics/btag270
+16,Drug-target interaction & docking,2026,btag210,CROP: a feature-independent context-aware method for CRISPR-Cas9 frameshift prediction,10.1093/bioinformatics/btag210
+16,Drug-target interaction & docking,2026,btag228,R4ST: a reference-guided graph-generative model for robust reconstruction of spatial transcriptomic profiles,10.1093/bioinformatics/btag228
+16,Drug-target interaction & docking,2026,btag247,SIVA: diagonal integration of spatial multi-omics data via spatially informed variational autoencoders and anchor guidance,10.1093/bioinformatics/btag247
+16,Generative models for biomolecular design,2024,i418,DDAffinity: predicting the changes in binding affinity of multiple point mutations using protein 3D structure,10.1093/bioinformatics/btae232
+16,Generative models for biomolecular design,2024,i471,Enhancing Hi-C contact matrices for loop detection with Capricorn: a multiview diffusion model,10.1093/bioinformatics/btae211
+16,Generative models for biomolecular design,2024,i347,RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models,10.1093/bioinformatics/btae259
+16,Generative models for biomolecular design,2025,i382,DivPro: diverse protein sequence design with direct structure recovery guidance,10.1093/bioinformatics/btaf258
+16,Generative models for biomolecular design,2025,i170,Fast tumor phylogeny regression via tree-structured dual dynamic programming,10.1093/bioinformatics/btaf235
+16,Generative models for biomolecular design,2025,i401,From high-throughput evaluation to wet-lab studies: advancing mutation effect prediction with a retrieval-enhanced model,10.1093/bioinformatics/btaf189
+16,Generative models for biomolecular design,2025,i105,MixingDTA: improved drug–target affinity prediction by extending mixup with guilt-by-association,10.1093/bioinformatics/btaf238
+16,Generative models for biomolecular design,2025,i227,Trustworthy causal biomarker discovery: a multiomics brain imaging genetics-based approach,10.1093/bioinformatics/btaf257
+16,Generative models for biomolecular design,2026,btag259,Diffusion-based representation integration for foundation models improves spatial transcriptomics analysis,10.1093/bioinformatics/btag259
+16,Generative models for biomolecular design,2026,btag219,LAML-Pro: joint maximum likelihood inference of cell genotypes and cell lineage trees,10.1093/bioinformatics/btag219
+16,Generative models for biomolecular design,2026,btag239,NoisyFlow: differentially private optimal transport using neural networks for secure biomedical data sharing across multiple institutions,10.1093/bioinformatics/btag239
+16,Generative models for biomolecular design,2026,btag238,PIMO: pathway-based interpretable multiomics interactions for multiomics integration,10.1093/bioinformatics/btag238
+16,Genomic risk prediction & fairness,2024,i567,REUNION: transcription factor binding prediction and regulatory association inference from single-cell multi-omics data,10.1093/bioinformatics/btae234
+16,Genomic risk prediction & fairness,2026,btag217,Bridging ancestry gaps in genomic risk prediction with tabular foundation models,10.1093/bioinformatics/btag217
+16,Genomic risk prediction & fairness,2026,btag237,Fairness-aware supervised hierarchical contrastive semantic learning for sexual dimorphism analysis,10.1093/bioinformatics/btag237
+16,Genomic sequence analysis,2024,i100,Adaptive digital tissue deconvolution,10.1093/bioinformatics/btae263
+16,Genomic sequence analysis,2024,i328,Fast multiple sequence alignment via multi-armed bandits,10.1093/bioinformatics/btae225
+16,Genomic sequence analysis,2024,i30,Floria: fast and accurate strain haplotyping in metagenomes,10.1093/bioinformatics/btae252
+16,Genomic sequence analysis,2024,i151,Integrating patients in time series clinical transcriptomics data,10.1093/bioinformatics/btae241
+16,Genomic sequence analysis,2024,i237,Median and small parsimony problems on RNA trees,10.1093/bioinformatics/btae229
+16,Genomic sequence analysis,2025,i246,CREMSA: compressed indexing of (ultra) large multiple sequence alignments,10.1093/bioinformatics/btaf211
+16,Genomic sequence analysis,2025,i304,Oarfish: enhanced probabilistic modeling leads to improved accuracy in long read transcriptome quantification,10.1093/bioinformatics/btaf240
+16,Genomic sequence analysis,2026,btag225,Detecting and reconstructing breakage-fusion-bridge cycles from long-read sequencing using BFBArchitect,10.1093/bioinformatics/btag225
+16,Genomic sequence analysis,2026,btag266,DNA-aware evaluation and debiasing of sequence-to-function models,10.1093/bioinformatics/btag266
+16,Genomic sequence analysis,2026,btag222,MiRformer: a dual-transformer-encoder framework for predicting microRNA-mRNA interactions from paired sequences,10.1093/bioinformatics/btag222
+16,Genomic sequence analysis,2026,btag226,Optimizing protein tokenization: reduced amino acid alphabets for efficient and accurate protein language models,10.1093/bioinformatics/btag226
+16,Genomic sequence analysis,2026,btag273,Phlag: scalable detection of genomics regions with unexplained phylogenetic heterogeneity,10.1093/bioinformatics/btag273
+16,Genomic sequence analysis,2026,btag246,Probabilistic RNA designability via interpretable ensemble approximation and dynamic decomposition,10.1093/bioinformatics/btag246
+16,Genomic sequence analysis,2026,btag220,Riemannian metric learning for alignment of spatial multiomics,10.1093/bioinformatics/btag220
+16,Genomic sequence analysis,2026,btag261,Seqwin: ultrafast identification of signature sequences in microbial genomes,10.1093/bioinformatics/btag261
+16,Genomic sequence analysis,2026,btag234,The gift of novelty: repeat-robust k-mer-based estimators of mutation rates,10.1093/bioinformatics/btag234
+16,Graph-based biomedical prediction,2025,i21,Automated assignment grading with large language models: insights from a bioinformatics course,10.1093/bioinformatics/btaf196
+16,Graph-based biomedical prediction,2025,i30,GiantHunter: accurate detection of giant virus in metagenomic data using reinforcement-learning and Monte Carlo tree search,10.1093/bioinformatics/btaf239
+16,Graph-based biomedical prediction,2025,i294,MutBERT: probabilistic genome representation improves genomics foundation models,10.1093/bioinformatics/btaf229
+16,Graph-based biomedical prediction,2026,btag224,Advancing proteomic discovery through optimized multi-stage scoring and deep learning-enhanced open search,10.1093/bioinformatics/btag224
+16,Graph-based biomedical prediction,2026,btag292,Amaranth: enhanced single-cell transcript assembly via discriminative modelling of UMI reads and internal reads,10.1093/bioinformatics/btag292
+16,Graph-based biomedical prediction,2026,btag304,AutoPCR: automated phenotype concept recognition by prompting,10.1093/bioinformatics/btag304
+16,Graph-based biomedical prediction,2026,btag227,Benchmarking AI scientists for omics data–driven biological discovery,10.1093/bioinformatics/btag227
+16,Graph-based biomedical prediction,2026,btag243,BiMba: using Vision Mamba to predict protein sites that bind other proteins,10.1093/bioinformatics/btag243
+16,Graph-based biomedical prediction,2026,btag218,CPS: mapping physical coordinates to high-fidelity spatial transcriptomics via privileged multi-scale context distillation,10.1093/bioinformatics/btag218
+16,Graph-based biomedical prediction,2026,btag272,DiSPA: differential substructure-pathway attention for drug response prediction,10.1093/bioinformatics/btag272
+16,Graph-based biomedical prediction,2026,btag216,eGoT: enhanced graph-of-thoughts for multi-hop knowledge retrieval and hypothesis generation in biomedicine,10.1093/bioinformatics/btag216
+16,Graph-based biomedical prediction,2026,btag229,EPIC: Event Prototyping via Information Constrained graph learning for personalized cancer driver gene prediction,10.1093/bioinformatics/btag229
+16,Graph-based biomedical prediction,2026,btag233,GATSBI: improving context-aware protein embeddings through biologically motivated data splits,10.1093/bioinformatics/btag233
+16,Graph-based biomedical prediction,2026,btag302,Improving hit discovery by integrating activity cliff sensitivity into active learning,10.1093/bioinformatics/btag302
+16,Graph-based biomedical prediction,2026,btag311,Is a Win–Win possible? Achieving pareto-optimal privacy-utility balance in fine-tuned genome language model embeddings against embedding reconstruction attacks,10.1093/bioinformatics/btag311
+16,Graph-based biomedical prediction,2026,btag262,PhageMind: generalized strain-level phage host range prediction via meta-learning,10.1093/bioinformatics/btag262
+16,Graph-based biomedical prediction,2026,btag265,PUFFIN: protein unit discovery with functional supervision,10.1093/bioinformatics/btag265
+16,Graph-based biomedical prediction,2026,btag303,RAmpSim: a thermodynamic simulator for hybridization capture in metagenomic sequencing,10.1093/bioinformatics/btag303
+16,Graph-based biomedical prediction,2026,btag268,RLBWT-based LCP computation in compressed space for terabase-scale pangenome analysis,10.1093/bioinformatics/btag268
+16,Graph-based biomedical prediction,2026,btag296,seq2ribo: structure-aware integration of machine learning and simulation to predict ribosome location profiles from RNA sequences,10.1093/bioinformatics/btag296
+16,Graph-based biomedical prediction,2026,btag306,Striping artifact removal in VisiumHD data through nuclear counts modeling,10.1093/bioinformatics/btag306
+16,Graph-based biomedical prediction,2026,btag271,VirBinn improves viral genome binning from metagenomic Hi-C through graph diffusion,10.1093/bioinformatics/btag271
+16,Molecular generation & optimization,2026,btag242,Bridging the phenotype-target gap for molecular generation via multi-objective reinforcement learning,10.1093/bioinformatics/btag242
+16,Nucleic acid-protein binding prediction,2026,btag232,NPBIP: predicting binding preferences of uncharacterized nucleic-acid-binding proteins,10.1093/bioinformatics/btag232
+16,Phylogenetics & sequence indexing,2025,i160,Bayesian inference of fitness landscapes via tree-structured branching processes,10.1093/bioinformatics/btaf193
+16,Phylogenetics & sequence indexing,2025,i513,Fast and scalable Wasserstein-1 neural optimal transport solver for single-cell perturbation prediction,10.1093/bioinformatics/btaf253
+16,Phylogenetics & sequence indexing,2026,btag245,CAMUS: scalable phylogenetic network estimation,10.1093/bioinformatics/btag245
+16,Phylogenetics & sequence indexing,2026,btag312,Incorporating indel channels into average-case analysis of seed-chain-extend,10.1093/bioinformatics/btag312
+16,Phylogenetics & sequence indexing,2026,btag264,Optimizing sparse and skew hashing: faster k-mer dictionaries,10.1093/bioinformatics/btag264
+16,Protein & RNA sequence modeling,2024,i297,Forseti: a mechanistic and predictive model of the splicing status of scRNA-seq reads,10.1093/bioinformatics/btae207
+16,Protein & RNA sequence modeling,2024,i257,SpecEncoder: deep metric learning for accurate peptide identification in proteomics,10.1093/bioinformatics/btae220
+16,Protein & RNA sequence modeling,2025,i12,An educator framework for organizing Wikipedia editathons for computational biology,10.1093/bioinformatics/btaf216
+16,Protein & RNA sequence modeling,2025,i420,Harnessing deep learning for proteome-scale detection of amyloid signaling motifs,10.1093/bioinformatics/btaf200
+16,Protein & RNA sequence modeling,2025,i207,HIDE: hierarchical cell-type deconvolution,10.1093/bioinformatics/btaf179
+16,Protein & RNA sequence modeling,2025,i542,miRBench: novel benchmark datasets for microRNA binding site prediction that mitigate against prevalent microRNA frequency class bias,10.1093/bioinformatics/btaf233
+16,Protein & RNA sequence modeling,2025,i449,NEAR: neural embeddings for amino acid relationships,10.1093/bioinformatics/btaf198
+16,Protein & RNA sequence modeling,2026,btag223,Inferring and evaluating network medicine-based disease modules with nextflow,10.1093/bioinformatics/btag223
+16,Protein function & stability prediction,2024,i247,An empirical study on KDIGO-defined acute kidney injury prediction in the intensive care unit,10.1093/bioinformatics/btae212
+16,Protein function & stability prediction,2024,i140,Modeling metastatic progression from cross-sectional cancer genomics data,10.1093/bioinformatics/btae250
+16,Protein function & stability prediction,2024,i287,Sigmoni: classification of nanopore signal with a compressed pangenome index,10.1093/bioinformatics/btae213
+16,Protein function & stability prediction,2025,i68,Enhancing biomedical relation extraction with directionality,10.1093/bioinformatics/btaf226
+16,Protein function & stability prediction,2025,i429,Iterative attack-and-defend framework for improving TCR-epitope binding prediction models,10.1093/bioinformatics/btaf224
+16,Protein function & stability prediction,2025,i285,LYCEUM: learning to call copy number variants on low-coverage ancient genomes,10.1093/bioinformatics/btaf244
+16,Protein function & stability prediction,2025,i458,OrgNet: orientation-gnostic protein stability assessment using convolutional neural networks,10.1093/bioinformatics/btaf252
+16,Protein function & stability prediction,2025,i552,Refinement strategies for Tangram for reliable single-cell to spatial mapping,10.1093/bioinformatics/btaf194
+16,Protein function & stability prediction,2025,i314,Spatial transcriptomics deconvolution methods generalize well to spatial chromatin accessibility data,10.1093/bioinformatics/btaf268
+16,Protein function & stability prediction,2025,i475,Unicorn: enhancing single-cell Hi-C data with blind super-resolution for 3D genome structure reconstruction,10.1093/bioinformatics/btaf177
+16,Protein function & stability prediction,2026,btag269,A disentangled transformer-based transfer learning framework to predict patient drug response from tumor single-cell transcriptomics,10.1093/bioinformatics/btag269
+16,Protein function & stability prediction,2026,btag236,ADAMIXTURE: adaptive first-order optimization for biobank-scale genetic clustering,10.1093/bioinformatics/btag236
+16,Protein function & stability prediction,2026,btag215,How not to be seen: predicting unseen enzyme functions using contrastive learning,10.1093/bioinformatics/btag215
+16,Protein function & stability prediction,2026,btag320,KLaR: fusing knowledge graphs and language models for biomedical target discovery,10.1093/bioinformatics/btag320
+16,Protein function & stability prediction,2026,btag221,Likelihood-based optimization enables accurate copy number estimation for paralogous genes using exome data,10.1093/bioinformatics/btag221
+16,Protein function & stability prediction,2026,btag274,MOCDT: multi-cancer detection and tissue-of-origin classification via cfDNA multi-modal integration,10.1093/bioinformatics/btag274
+16,Protein function & stability prediction,2026,btag258,OrgNet+: towards robust protein stability prediction with convolutional neural networks,10.1093/bioinformatics/btag258
+16,Protein function & stability prediction,2026,btag307,PertAdapt: unlocking single-cell foundation models for genetic perturbation prediction via condition-sensitive adaptation,10.1093/bioinformatics/btag307
+16,Protein function & stability prediction,2026,btag267,ProMeta: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics,10.1093/bioinformatics/btag267
+16,Protein function & stability prediction,2026,btag263,PU-GRAIL: residue-level graph learning for identifying protective bacterial antigens under positive-unlabeled supervision,10.1093/bioinformatics/btag263
+16,Protein function & stability prediction,2026,btag235,Scalable computation of ultrabubbles in pangenomes by orienting bidirected graphs,10.1093/bioinformatics/btag235
+16,Protein function & stability prediction,2026,btag249,USP-ddG: a unified structural paradigm with data efficacy and mixture-of-experts for predicting mutational effects on protein–protein interactions,10.1093/bioinformatics/btag249
+16,Protein function & stability prediction,2026,btag326,VDJ-REMIX: REpertoire Module Identification and eXploration,10.1093/bioinformatics/btag326
+16,Sequence alignment & phylogenetics,2024,i208,A machine-learning-based alternative to phylogenetic bootstrap,10.1093/bioinformatics/btae255
+16,Sequence alignment & phylogenetics,2024,i266,BioCoder: a benchmark for bioinformatics code generation with large language models,10.1093/bioinformatics/btae230
+16,Sequence alignment & phylogenetics,2024,i390,Integration of background knowledge for automatic detection of inconsistencies in gene ontology annotation,10.1093/bioinformatics/btae246
+16,Sequence alignment & phylogenetics,2024,i337,Label-guided seed-chain-extend alignment on annotated De Bruijn graphs,10.1093/bioinformatics/btae226
+16,Sequence alignment & phylogenetics,2024,i318,Learning locality-sensitive bucketing functions,10.1093/bioinformatics/btae228
+16,Sequence alignment & phylogenetics,2024,i357,MolLM: a unified language model for integrating biomedical text with 2D and 3D molecular representations,10.1093/bioinformatics/btae260
+16,Sequence alignment & phylogenetics,2024,i369,"MolPLA: a molecular pretraining framework for learning cores, R-groups and their linker joints",10.1093/bioinformatics/btae256
+16,Sequence alignment & phylogenetics,2024,i277,Optimal phylogenetic reconstruction of insertion and deletion events,10.1093/bioinformatics/btae254
+16,Sequence alignment & phylogenetics,2024,i437,Partial RNA design,10.1093/bioinformatics/btae222
+16,Sequence alignment & phylogenetics,2024,i160,Representing mutations for predicting cancer drug response,10.1093/bioinformatics/btae209
+16,Sequence alignment & phylogenetics,2024,i39,Scalable de novo classification of antibiotic resistance of Mycobacterium tuberculosis,10.1093/bioinformatics/btae243
+16,Sequence alignment & phylogenetics,2024,i490,scGrapHiC: deep learning-based graph deconvolution for Hi-C using single cell gene expression,10.1093/bioinformatics/btae223
+16,Sequence alignment & phylogenetics,2025,i410,GOAnnotator: accurate protein function annotation using automatically retrieved literature,10.1093/bioinformatics/btaf199
+16,Sequence alignment & phylogenetics,2025,i86,HIG-Syn: a hypergraph and interaction-aware multigranularity network for predicting synergistic drug combinations,10.1093/bioinformatics/btaf215
+16,Sequence alignment & phylogenetics,2025,i180,Recomb-Mix: fast and accurate local ancestry inference,10.1093/bioinformatics/btaf227
+16,Sequence alignment & phylogenetics,2025,i628,Recovering time-varying networks from single-cell data,10.1093/bioinformatics/btaf210
+16,Sequence alignment & phylogenetics,2025,i373,Semi-supervised data-integrated feature importance enhances performance and interpretability of biological classification tasks,10.1093/bioinformatics/btaf190
+16,Sequence alignment & phylogenetics,2025,i332,Ultrafast and ultralarge multiple sequence alignments using TWILIGHT,10.1093/bioinformatics/btaf212
+16,Single-cell genomics & epigenomics,2024,i428,An algorithm for decoy-free false discovery rate estimation in XL-MS/MS proteomics,10.1093/bioinformatics/btae233
+16,Single-cell genomics & epigenomics,2024,i218,Joint inference of cell lineage and mitochondrial evolution from single-cell sequencing data,10.1093/bioinformatics/btae231
+16,Single-cell genomics & epigenomics,2024,i79,PhiHER2: phenotype-informed weakly supervised model for HER2 status prediction from pathological images,10.1093/bioinformatics/btae236
+16,Single-cell genomics & epigenomics,2025,i237,Alevin-fry-atac enables rapid and memory frugal mapping of single-cell ATAC-seq data using virtual colors for accurate genomic pseudoalignment,10.1093/bioinformatics/btaf234
+16,Single-cell genomics & epigenomics,2025,i502,Detection of cell-type-specific differentially methylated regions in epigenome-wide association studies,10.1093/bioinformatics/btaf243
+16,Single-cell genomics & epigenomics,2025,i58,Efficient 3D kernels for molecular property prediction,10.1093/bioinformatics/btaf208
+16,Single-cell genomics & epigenomics,2025,i391,EnsembleDesign: messenger RNA design minimizing ensemble free energy via probabilistic lattice parsing,10.1093/bioinformatics/btaf245
+16,Single-cell genomics & epigenomics,2025,i609,GRACKLE: an interpretable matrix factorization approach for biomedical representation learning,10.1093/bioinformatics/btaf213
+16,Single-cell genomics & epigenomics,2025,i619,Prediction of gene regulatory connections with joint single-cell foundation models and graph-based learning,10.1093/bioinformatics/btaf217
+16,Single-cell genomics & epigenomics,2025,i571,ScGOclust: leveraging gene ontology to find functionally analogous cell types between distant species,10.1093/bioinformatics/btaf195
+16,Single-cell genomics & epigenomics,2025,i580,Soffritto: a deep learning model for predicting high-resolution replication timing,10.1093/bioinformatics/btaf231
+16,Single-cell genomics & epigenomics,2025,i323,Transcriptome assembly at single-cell resolution with Beaver,10.1093/bioinformatics/btaf236
+16,Spatial transcriptomics methods,2024,i481,A count-based model for delineating cell–cell interactions in spatial transcriptomics data,10.1093/bioinformatics/btae219
+16,Spatial transcriptomics methods,2024,i228,Maximum likelihood phylogeographic inference of cell motility and cell division from spatial lineage tracing data,10.1093/bioinformatics/btae221
+16,Spatial transcriptomics methods,2024,i446,Optimal sequencing budget allocation for trajectory reconstruction of single cells,10.1093/bioinformatics/btae258
+16,Spatial transcriptomics methods,2024,i401,Predicting protein functions using positive-unlabeled ranking with ontology-based priors,10.1093/bioinformatics/btae237
+16,Spatial transcriptomics methods,2024,i189,Probabilistic pathway-based multimodal factor analysis,10.1093/bioinformatics/btae216
+16,Spatial transcriptomics methods,2024,i58,Reference-free structural variant detection in microbiomes via long-read co-assembly graphs,10.1093/bioinformatics/btae224
+16,Spatial transcriptomics methods,2024,i521,SPRITE: improving spatial gene expression imputation with gene and cell networks,10.1093/bioinformatics/btae253
+16,Spatial transcriptomics methods,2025,i590,Deep learning models for unbiased sequence-based PPI prediction plateau at an accuracy of 0.65,10.1093/bioinformatics/btaf192
+16,Spatial transcriptomics methods,2025,i255,DNABERT-S: pioneering species differentiation with species-aware DNA embeddings,10.1093/bioinformatics/btaf188
+16,Spatial transcriptomics methods,2025,i523,GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts,10.1093/bioinformatics/btaf254
+16,Spatial transcriptomics methods,2025,i96,Incorporating hierarchical information into multiple instance learning for patient phenotype prediction with single-cell RNA-sequencing data,10.1093/bioinformatics/btaf241
+16,Spatial transcriptomics methods,2025,i533,Leveraging transcription factor physical proximity for enhancing gene regulation inference,10.1093/bioinformatics/btaf186
+16,Spatial transcriptomics methods,2025,i217,Locality-aware pooling enhances protein language model performance across varied applications,10.1093/bioinformatics/btaf178
+16,Spatial transcriptomics methods,2025,i49,Predicting coarse-grained representations of biogeochemical cycles from metabarcoding data,10.1093/bioinformatics/btaf230
+16,Spatial transcriptomics methods,2025,i142,Understanding the sources of performance in deep drug response models reveals insights and improvements,10.1093/bioinformatics/btaf255
+16,Spatial transcriptomics methods,2026,btag314,ATTNSOM: learning cross-isoform attention for cytochrome P450 site-of-metabolism prediction,10.1093/bioinformatics/btag314
+16,Spatial transcriptomics methods,2026,btag248,Deciphering key factors of active learning performance in biomolecular design,10.1093/bioinformatics/btag248
+16,Spatial transcriptomics methods,2026,btag278,Quantifying domain-specific relevance of computational biology Wikipedia articles using TF-IDF and cosine similarity,10.1093/bioinformatics/btag278
+16,Viral taxonomy classification,2026,btag291,A novel transformer model of protein domains for viral taxonomy classification,10.1093/bioinformatics/btag291

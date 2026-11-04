@@ -1,0 +1,19 @@
+{
+  "0": "Protein function & stability prediction",
+  "1": "Cellular perturbation response prediction",
+  "2": "Spatial transcriptomics",
+  "3": "Sequence alignment & phylogenetics",
+  "4": "Biomolecular interaction prediction",
+  "5": "Biomedical large language models",
+  "6": "Genomic sequence analysis",
+  "7": "Protein bioinformatics & proteomics",
+  "8": "Generative modeling of biomolecules",
+  "9": "Graph-based biomedical prediction",
+  "10": "Single-cell genomics & transcriptomics",
+  "11": "Clinical & genomic risk prediction",
+  "12": "Single-cell multi-omics modeling",
+  "13": "Deep learning for proteomics",
+  "14": "Transformer-based sequence modeling",
+  "15": "Phenotype-target molecular generation",
+  "16": "Protein-nucleic acid binding"
+}

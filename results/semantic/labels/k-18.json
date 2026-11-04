@@ -1,0 +1,20 @@
+{
+  "0": "Single-cell & protein modeling",
+  "1": "Sequence alignment & phylogenetics",
+  "2": "Single-cell perturbation prediction",
+  "3": "Spatial transcriptomics",
+  "4": "Molecular interaction prediction",
+  "5": "Genomic sequence analysis",
+  "6": "Drug response & molecular property prediction",
+  "7": "Graph-based biomedical prediction",
+  "8": "Single-cell transcriptomics & epigenomics",
+  "9": "Protein mutation & design",
+  "10": "Compressed sequence indexing",
+  "11": "Disease module & biomarker discovery",
+  "12": "Sequence representation & assembly",
+  "13": "Protein and peptide deep learning",
+  "14": "Biomedical NLP & LLMs",
+  "15": "Single-cell multi-omics modeling",
+  "16": "Viral taxonomy classification",
+  "17": "Nucleic-acid-binding protein prediction"
+}

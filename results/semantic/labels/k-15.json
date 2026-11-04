@@ -1,0 +1,17 @@
+{
+  "0": "Biomedical predictive modeling",
+  "1": "Single-cell and spatial omics",
+  "2": "Sequence analysis & alignment",
+  "3": "Protein function & stability prediction",
+  "4": "Molecular and genomic prediction",
+  "5": "Cellular perturbation modeling",
+  "6": "Long-read & nanopore genomics",
+  "7": "Biomolecular interaction & docking prediction",
+  "8": "Biomedical language models & agents",
+  "9": "Single-cell epigenomics & lineage inference",
+  "10": "Phylogenetics & sequence algorithms",
+  "11": "Genomic risk prediction & disease modules",
+  "12": "Proteomics & peptide identification",
+  "13": "Nucleic-acid–protein binding prediction",
+  "14": "Viral taxonomy classification"
+}

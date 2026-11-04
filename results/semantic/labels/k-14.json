@@ -1,0 +1,16 @@
+{
+  "0": "Protein–drug interaction prediction",
+  "1": "Drug discovery & response prediction",
+  "2": "Single-cell perturbation modeling",
+  "3": "Spatial transcriptomics",
+  "4": "Long-read & genomic sequence analysis",
+  "5": "LLM-based biomedical prediction",
+  "6": "Molecular & genomic prediction",
+  "7": "Protein function & variant effects",
+  "8": "Single-cell multi-omics & gene regulation",
+  "9": "Fairness, privacy & trustworthy ML",
+  "10": "Generative diffusion models for omics",
+  "11": "Phylogenetics & sequence algorithms",
+  "12": "Molecular embeddings & deconvolution",
+  "13": "Viral taxonomy classification"
+}

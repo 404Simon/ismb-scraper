@@ -1,0 +1,22 @@
+{
+  "0": "Protein variant effect prediction",
+  "1": "Sequence alignment & indexing algorithms",
+  "2": "Single-cell perturbation & spatial transcriptomics",
+  "3": "Genomic sequence analysis algorithms",
+  "4": "Drug response & molecular property prediction",
+  "5": "Protein function & interaction prediction",
+  "6": "Single-cell multi-omics analysis",
+  "7": "Metagenomics & viral genomics",
+  "8": "Protein interactions & molecular docking",
+  "9": "Protein & RNA structure design",
+  "10": "Pangenomics & compressed indexing",
+  "11": "Omics embedding & feature selection",
+  "12": "Genomic representation & risk prediction",
+  "13": "Protein sequence representation learning",
+  "14": "AI & LLM benchmarking",
+  "15": "Single-cell lineage & regulatory inference",
+  "16": "Probabilistic inference of biological dynamics",
+  "17": "Viral taxonomy & protein domains",
+  "18": "Molecular generation & drug design",
+  "19": "Nucleic acid binding prediction"
+}
