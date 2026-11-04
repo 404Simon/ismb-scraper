@@ -2,7 +2,7 @@
 
 Archive an Oxford Academic *Bioinformatics* proceedings issue (for example, ISMB) into a paper-centric dataset: metadata, authors, DOI, abstract, PDF, cleaned article HTML, figures, and reproducibility artifacts.
 
-Requires [Bun](https://bun.sh) 1.4+ and Chromium.
+Requires [Bun](https://bun.sh) 1.4+, Chromium, and the [GitHub CLI](https://cli.github.com/) (`gh`) signed in with `gh auth login --hostname github.com`. The scraper checks `gh auth status --hostname github.com` before every run and exits if it is not signed in; there is no token fallback.
 
 ## Usage
 
@@ -19,6 +19,7 @@ chromium \
 Complete any Cloudflare verification in the visible window, then run:
 
 ```bash
+gh auth login   # once per machine; verify with `gh auth status`
 bun run scrape -- \
   https://academic.oup.com/bioinformatics/issue/42/Supplement_1 \
   --chrome-debug-port 9222
@@ -62,6 +63,7 @@ Keep concurrency at `1`: it is friendlier to the publisher and makes manual veri
 
 - Verification is manual; the scraper does not bypass CAPTCHAs or paywalls.
 - Artifact extraction runs on the full article body, excluding references, and prefers recall over precision.
+- `S`, `I_open`, and `I_closed` come from the first `github.com` repository in the paper's artifacts, through `gh api`. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.
 - If no articles are found, browser diagnostics are written to `output/issue-debug.{json,html,png}`.
 
 ## Tests

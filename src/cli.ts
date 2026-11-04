@@ -10,6 +10,12 @@ import {
   type AuthorMetrics
 } from "./authors";
 import {
+  assertGitHubCliAuthenticated,
+  collectGitHubMetrics,
+  mergeGitHubMetrics,
+  type GitHubMetrics
+} from "./github";
+import {
   collectOpenAlexMetrics,
   mergePaperMetrics,
   normalizeDoi,
@@ -66,13 +72,14 @@ interface PaperFiles {
   figures: SavedFigure[];
 }
 
-interface PaperMetrics extends AuthorMetrics {
+interface PaperMetrics extends AuthorMetrics, GitHubMetrics {
   R: number | null;
   h_lead: number | null;
 }
 
 interface MetricsMeta {
   snapshot_date: string;
+  github_repository: string | null;
   missing: string[];
 }
 
@@ -221,6 +228,13 @@ if (!issueMatch) {
     "Expected an OUP Bioinformatics issue URL such as " +
       "https://academic.oup.com/bioinformatics/issue/42/Supplement_1"
   );
+  process.exit(1);
+}
+
+try {
+  await assertGitHubCliAuthenticated();
+} catch (error) {
+  console.error(error instanceof Error ? error.message : String(error));
   process.exit(1);
 }
 
@@ -397,6 +411,23 @@ async function scrapeArticle(
       warnings
     );
     const mergedMetrics = mergePaperMetrics(authorMetadata.metrics, openAlex);
+    const github = await collectGitHubMetrics(artifacts.repositories);
+    for (const failure of github.failures) {
+      console.warn(`[github] ${paperName}: ${failure.error}`);
+      warnings.push({
+        title: paperName,
+        url: failure.repository
+          ? `https://github.com/${failure.repository}`
+          : article.url,
+        stage: "github",
+        error: failure.error
+      });
+    }
+    const finalMetrics = mergeGitHubMetrics(
+      mergedMetrics.metrics,
+      github,
+      mergedMetrics.missing
+    );
 
     const files: PaperFiles = {
       html: null,
@@ -478,8 +509,12 @@ async function scrapeArticle(
       paper_name: paperName,
       authors: unique(data.authors.map(normalizeWhitespace).filter(Boolean)),
       ...authorMetadata,
-      metrics: mergedMetrics.metrics,
-      metrics_meta: { snapshot_date: snapshotDate, missing: mergedMetrics.missing },
+      metrics: finalMetrics.metrics,
+      metrics_meta: {
+        snapshot_date: snapshotDate,
+        github_repository: github.repository?.url ?? null,
+        missing: finalMetrics.missing
+      },
       doi,
       abstract: normalizeWhitespace(data.abstract),
       article_url: article.url,
@@ -1510,9 +1545,20 @@ function isResumableRecord(value: unknown): value is PaperRecord {
   if (meta === null || typeof meta !== "object") return false;
 
   const metricValues = metrics as Record<string, unknown>;
-  const requiredMetrics = ["A_first", "A_senior", "A_lead", "A_total", "R", "h_lead"];
+  const requiredMetrics = [
+    "A_first",
+    "A_senior",
+    "A_lead",
+    "A_total",
+    "R",
+    "h_lead",
+    "S",
+    "I_open",
+    "I_closed"
+  ];
   return (
     requiredMetrics.every((key) => key in metricValues) &&
+    "github_repository" in (meta as Record<string, unknown>) &&
     Array.isArray((meta as Record<string, unknown>).missing)
   );
 }
@@ -1578,6 +1624,9 @@ function toCsv(rows: PaperRecord[]): string {
     "A_total",
     "R",
     "h_lead",
+    "S",
+    "I_open",
+    "I_closed",
     "doi",
     "abstract",
     "article_url",
@@ -1602,6 +1651,9 @@ function toCsv(rows: PaperRecord[]): string {
     A_total: String(row.metrics?.A_total ?? ""),
     R: String(row.metrics?.R ?? ""),
     h_lead: String(row.metrics?.h_lead ?? ""),
+    S: String(row.metrics?.S ?? ""),
+    I_open: String(row.metrics?.I_open ?? ""),
+    I_closed: String(row.metrics?.I_closed ?? ""),
     doi: row.doi,
     abstract: row.abstract,
     article_url: row.article_url,
