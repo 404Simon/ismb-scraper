@@ -3,6 +3,12 @@
 import { parseArgs } from "node:util";
 import { mkdir } from "node:fs/promises";
 import { join, relative, resolve, sep } from "node:path";
+import {
+  authorExtractionScript,
+  buildAuthorMetadata,
+  type AuthorDetail,
+  type AuthorMetrics
+} from "./authors";
 import { pageStateScript, readReadyPage } from "./page-readiness";
 
 interface IssueArticle {
@@ -57,6 +63,12 @@ interface PaperFiles {
 interface PaperRecord {
   paper_name: string;
   authors: string[];
+  authors_detail: AuthorDetail[];
+  author_notes: string[];
+  joint_first: string[];
+  joint_senior: string[];
+  has_group_author: boolean;
+  metrics: AuthorMetrics;
   doi: string;
   abstract: string;
   article_url: string;
@@ -68,6 +80,8 @@ interface PaperRecord {
 interface BrowserArticleData {
   title: string;
   authors: string[];
+  authorsDetail: AuthorDetail[];
+  authorNotes: string[];
   doi: string;
   abstract: string;
   pdfUrl: string;
@@ -339,13 +353,18 @@ async function scrapeArticle(
     const data = await readReadyPage(view, article.url, "article", async () => {
       const extracted = (await view.evaluate(articleExtractorScript(article.url))) as BrowserArticleData;
       if (!extracted?.title?.trim() || !extracted.articleHtml?.trim() ||
-          !Array.isArray(extracted.artifactCandidates) || !Array.isArray(extracted.figures)) {
+          !Array.isArray(extracted.artifactCandidates) || !Array.isArray(extracted.figures) ||
+          !Array.isArray(extracted.authorsDetail) || !Array.isArray(extracted.authorNotes)) {
         throw new Error("Article extraction returned incomplete content; waiting for the page to finish loading");
       }
       return extracted;
     }, { interactive: interactiveChrome, timeoutMs: challengeTimeoutMs, retries: pageRetries });
     const paperName = data.title || article.title;
     const artifacts = classifyArtifacts(data.artifactCandidates, article.url);
+    const authorMetadata = buildAuthorMetadata(
+      { authors: data.authorsDetail, notes: data.authorNotes },
+      data.authors
+    );
 
     const files: PaperFiles = {
       html: null,
@@ -426,6 +445,7 @@ async function scrapeArticle(
     const record: PaperRecord = {
       paper_name: paperName,
       authors: unique(data.authors.map(normalizeWhitespace).filter(Boolean)),
+      ...authorMetadata,
       doi: normalizeDoi(data.doi),
       abstract: normalizeWhitespace(data.abstract),
       article_url: article.url,
@@ -787,10 +807,13 @@ function articleExtractorScript(url: string): string {
   }
 
   const archived = extractArticleHtml();
+  const authorData = ${authorExtractionScript()};
 
   return {
     title,
     authors,
+    authorsDetail: authorData.authors,
+    authorNotes: authorData.notes,
     doi,
     abstract: extractAbstract(),
     pdfUrl: findPdfUrl(),
@@ -1483,6 +1506,10 @@ function toCsv(rows: PaperRecord[]): string {
   const columns = [
     "paper_name",
     "authors",
+    "A_first",
+    "A_senior",
+    "A_lead",
+    "A_total",
     "doi",
     "abstract",
     "article_url",
@@ -1501,6 +1528,10 @@ function toCsv(rows: PaperRecord[]): string {
   const valuesFor = (row: PaperRecord): Record<string, string> => ({
     paper_name: row.paper_name,
     authors: JSON.stringify(row.authors),
+    A_first: String(row.metrics?.A_first ?? ""),
+    A_senior: String(row.metrics?.A_senior ?? ""),
+    A_lead: String(row.metrics?.A_lead ?? ""),
+    A_total: String(row.metrics?.A_total ?? ""),
     doi: row.doi,
     abstract: row.abstract,
     article_url: row.article_url,

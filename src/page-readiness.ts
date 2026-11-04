@@ -52,7 +52,11 @@ export function pageStateScript(kind: PageKind, url: string): string {
     const challenge = challengeTitle || (!contentReady && (challengeText || challengeDom));
     const actualPath = location.pathname.replace("/article-abstract/", "/article/").replace(/\\/$/, "");
     const expectedPath = expected.pathname.replace("/article-abstract/", "/article/").replace(/\\/$/, "");
-    const correctUrl = location.hostname === expected.hostname && actualPath === expectedPath;
+    // OUP sometimes redirects an article to a canonical numeric id while keeping the slug.
+    const actualArticle = actualPath.replace(/\\/\\d+$/, "");
+    const expectedArticle = expectedPath.replace(/\\/\\d+$/, "");
+    const correctUrl = location.hostname === expected.hostname &&
+      (${JSON.stringify(kind)} === "article" ? actualArticle === expectedArticle : actualPath === expectedPath);
     const content = ${JSON.stringify(kind)} === "article"
       ? articleText + "|" + root?.querySelectorAll("a,img,figure").length
       : links.map(a => a.href + "|" + a.textContent).join("\\n");

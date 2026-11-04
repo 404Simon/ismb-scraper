@@ -158,6 +158,11 @@ describe("browser content probe", () => {
     expect(probe({ title: "Just a moment..." }).challenge).toBe(true);
   });
 
+  test("canonical article redirects with the same slug remain ready", () => {
+    expect(probe({ location: url.replace(/\/\d+$/, "/7700890") }).ready).toBe(true);
+    expect(probe({ location: url.replace("/42/", "/41/") }).ready).toBe(false);
+  });
+
   test("challenge DOM and security text are detected before content appears", () => {
     expect(probe({ rootText: "", citation: "", challengeDom: true }).challenge).toBe(true);
     expect(probe({ rootText: "", body: "Verifying you are human" }).challenge).toBe(true);
