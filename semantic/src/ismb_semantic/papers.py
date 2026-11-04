@@ -52,15 +52,23 @@ def extract_text(html: str) -> str:
     return re.sub(r"\s+", " ", root.get_text(" ", strip=True)).strip()
 
 
+AGGREGATE_METADATA = {"papers.json", "errors.json"}
+
+
 def load_papers(source_root: Path, years: list[int]) -> list[Paper]:
     papers = []
     for year in years:
-        papers_dir = source_root / f"ismb-{year}" / "papers"
-        if not papers_dir.is_dir():
-            raise FileNotFoundError(f"No scraped papers for {year}: {papers_dir}")
+        issue_root = source_root / f"ismb-{year}"
+        metadata_dir = issue_root / "metadata"
+        if not metadata_dir.is_dir():
+            raise FileNotFoundError(f"No scraped metadata for {year}: {metadata_dir}")
 
-        for metadata_path in sorted(papers_dir.glob("*/metadata.json")):
-            html_path = metadata_path.with_name("article.html")
+        for metadata_path in sorted(metadata_dir.glob("*.json")):
+            if metadata_path.name in AGGREGATE_METADATA:
+                continue
+
+            paper_id = metadata_path.stem
+            html_path = issue_root / "files" / paper_id / "article.html"
             if not html_path.is_file():
                 continue
 
@@ -72,7 +80,7 @@ def load_papers(source_root: Path, years: list[int]) -> list[Paper]:
             papers.append(
                 Paper(
                     year=year,
-                    paper_id=metadata_path.parent.name,
+                    paper_id=paper_id,
                     title=metadata.get("paper_name", ""),
                     doi=metadata.get("doi", ""),
                     text=text,

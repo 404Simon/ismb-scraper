@@ -4,6 +4,8 @@ import { countryFromAffiliation } from "./countries";
 export interface LeadLabResult {
   count: number | null;
   countries: string[] | null;
+  /** Affiliations selected by the minimum hitting set behind `count`. */
+  affiliations: string[] | null;
 }
 
 /**
@@ -33,7 +35,7 @@ export function computeLeadLabs(
   }
 
   if (sets.length === 0) {
-    return { count: null, countries: null };
+    return { count: null, countries: null, affiliations: null };
   }
 
   const hittingSet = minimumHittingSet(sets);
@@ -41,13 +43,20 @@ export function computeLeadLabs(
 
   for (const affiliation of hittingSet) {
     const country = countryFromAffiliation(affiliation);
-    if (!country) return { count: hittingSet.length, countries: null };
+    if (!country) {
+      return {
+        count: hittingSet.length,
+        countries: null,
+        affiliations: hittingSet
+      };
+    }
     countries.add(country);
   }
 
   return {
     count: hittingSet.length,
-    countries: [...countries].sort()
+    countries: [...countries].sort(),
+    affiliations: hittingSet
   };
 }
 

@@ -53,18 +53,23 @@ Results default to `output/`.
 ## Output
 
 ```text
-output/
-├── papers.json          # canonical dataset
-├── papers.csv           # flat table; array cells contain JSON
-├── errors.json          # only when a page or resource fails
-└── papers/<id>/
-    ├── metadata.json
-    ├── article.html
-    ├── paper.pdf
-    └── figures/
+output/ismb-2024/
+├── metadata/            # tracked in git
+│   ├── papers.json      # canonical dataset
+│   ├── papers.csv       # flat table; array cells contain JSON
+│   ├── errors.json      # only when a page or resource fails
+│   └── <id>.json        # per-paper metadata
+└── files/               # ignored by git
+    └── <id>/
+        ├── article.html
+        ├── paper.pdf
+        ├── private-metadata.json
+        └── figures/
 ```
 
-Each record in `papers.json` and `papers/<id>/metadata.json` contains the fifteen metrics and their provenance:
+`private-metadata.json` holds the copied article text that is not committed: the abstract, author notes, and figure captions/alt text. It stays under the ignored `files/` tree; the tracked `metadata/` tree contains factual metadata only.
+
+Each record in `metadata/papers.json` and `metadata/<id>.json` contains the fifteen metrics, their provenance, and the values behind the author-derived metrics:
 
 ```json
 "metrics": {
@@ -88,10 +93,20 @@ Each record in `papers.json` and `papers/<id>/metadata.json` contains the fiftee
   "snapshot_date": "2026-11-04",
   "github_repository": "https://github.com/owner/repo",
   "missing": []
-}
+},
+"joint_first": ["Ada Lovelace", "Grace Hopper"],
+"joint_senior": ["Barbara Liskov"],
+"lead_affiliations": ["Lab A, Zurich, Switzerland", "Lab B, Boston, MA, USA"],
+"openalex_senior_authors": [
+  {
+    "name": "Barbara Liskov",
+    "openalex_id": "https://openalex.org/A123",
+    "h_index": 41
+  }
+]
 ```
 
-A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the fifteen metric columns `Y`, `A_first`, `A_senior`, `A_lead`, `A_total`, `L_lead`, `C_lead`, `R`, `h_lead`, `M`, `T`, `S`, `C`, `I_open`, `I_closed`; null values render as empty cells and `C_lead` renders as a JSON array. Author details stay in JSON only.
+A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the fifteen metric columns plus `joint_first`, `joint_senior`, `lead_affiliations`, and `openalex_senior_authors`; null values render as empty cells and array/object values render as JSON. Author details and per-author affiliation/ORCID data stay in JSON only.
 
 ## Semantic labels
 
@@ -130,7 +145,7 @@ Run the Python tests with `uv run --project semantic python -m unittest discover
     --skip-html              Skip standalone article HTML
     --skip-figures           Skip figures
     --semantic <file>        DOI -> {M,T} annotations (default: results/semantic/papers.json)
-    --resume                 Reuse papers/<id>/metadata.json only if it matches the current metric schema
+    --resume                 Reuse metadata/<id>.json only if it matches the current metric schema
     --chrome-debug-port <n>  Attach to Chromium on this port
     --challenge-timeout <s>  Wait for verified content (default: 180)
     --page-retries <n>       Extra page load attempts (default: 2)
@@ -143,10 +158,10 @@ Keep concurrency at `1`: it is friendlier to the publisher and makes manual veri
 - Verification is manual; the scraper does not bypass CAPTCHAs or paywalls.
 - Artifact extraction runs on the full article body, excluding references, and prefers recall over precision.
 - `Y` is parsed from the article's `citation_publication_date`/`citation_date` metadata, with JSON-LD `datePublished` as a fallback. If no date is present, `Y` is `null` and listed in `metrics_meta.missing`.
-- `L_lead` is the size of an exact minimum hitting set over the affiliation sets of the joint first and joint senior authors. Lead authors with no extracted affiliation are ignored; if no lead author has an affiliation, `L_lead` is `null` and listed in `metrics_meta.missing`.
+- `L_lead` is the size of an exact minimum hitting set over the affiliation sets of the joint first and joint senior authors. The selected affiliations are stored in `lead_affiliations`. Lead authors with no extracted affiliation are ignored; if no lead author has an affiliation, `L_lead` and `lead_affiliations` are `null` and `L_lead` is listed in `metrics_meta.missing`.
 - `C_lead` is the sorted set of countries parsed from the affiliations in the `L_lead` hitting set. If any selected affiliation has no parseable country, `C_lead` is `null` and listed in `metrics_meta.missing`.
 - `M` and `T` are optional semantic annotations loaded from `--semantic`. `M` is true for a new method/algorithm/model and false for evaluation-focused work. `T` is the cluster label at the `k` selected during export. Missing annotations are `null` and listed in `metrics_meta.missing`.
-- `R` and `h_lead` come from OpenAlex. `h_lead` is the mean OpenAlex h-index over the joint senior authors.
+- `R` and `h_lead` come from OpenAlex. `h_lead` is the mean OpenAlex h-index over the joint senior authors. `openalex_senior_authors` stores each resolved author's name, OpenAlex author id, and h-index; unresolved ids or unavailable h-indexes are `null`.
 - An equal-contribution note that names authors is assigned by position: a matching prefix becomes joint first authors, a matching suffix joint senior authors. An unnamed note (for example `Equal contribution.`) is not guessed; the default single first/senior author is kept.
 - `S`, `C`, `I_open`, and `I_closed` come from one primary `github.com` repository in the paper's artifacts, through `gh api`. The primary repository is chosen by preferring links in code/implementation availability sections, then a repository whose name matches the article title, then the first repository in article order. `C` is the number of commits on the default branch. Renamed repositories are canonicalized from `repos/<owner>/<repo>` before the issue searches. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.
 - If no articles are found, browser diagnostics are written to `<out>/issue-debug.{json,html,png}`.

@@ -39,6 +39,9 @@ describe("live OpenAlex metrics", () => {
     expect(result.metrics.h_lead as number).toBeGreaterThan(0);
     expect(result.missing).not.toContain("h_lead");
     expect(result.missing).not.toContain("R");
+    expect(result.senior_authors).toHaveLength(3);
+    expect(result.senior_authors.every((author) => typeof author.openalex_id === "string")).toBe(true);
+    expect(result.senior_authors.every((author) => typeof author.h_index === "number")).toBe(true);
   }, LIVE_TIMEOUT_MS);
 
   test("btae247 resolves all three real joint senior authors", async () => {
@@ -81,6 +84,13 @@ describe("live OpenAlex metrics", () => {
 
     expect(result.metrics.h_lead as number).toBeGreaterThan(0);
     expect(result.missing).not.toContain("h_lead");
+    expect(result.senior_authors).toEqual([
+      {
+        name: "Farzana Rahman",
+        openalex_id: expect.any(String),
+        h_index: expect.any(Number)
+      }
+    ]);
   }, LIVE_TIMEOUT_MS);
 
   test("a mixed resolution refuses to compute a partial mean", async () => {
@@ -93,6 +103,14 @@ describe("live OpenAlex metrics", () => {
     expect(result.metrics.R as number).toBeGreaterThanOrEqual(0);
     expect(result.metrics.h_lead).toBeNull();
     expect(result.missing).toContain("h_lead");
+    expect(result.senior_authors).toEqual([
+      {
+        name: "Farzana Rahman",
+        openalex_id: expect.any(String),
+        h_index: expect.any(Number)
+      },
+      { name: "Not An Author On This Paper", openalex_id: null, h_index: null }
+    ]);
   }, LIVE_TIMEOUT_MS);
 
   test("an unmatched senior name nulls h_lead and records it as missing", async () => {
@@ -196,7 +214,8 @@ describe("metric merging", () => {
   test("keeps the author counts when OpenAlex values are present", () => {
     const merged = mergePaperMetrics(authorMetrics, {
       metrics: { R: 2, h_lead: 17 },
-      missing: []
+      missing: [],
+      senior_authors: []
     });
 
     expect(merged.metrics).toEqual({ ...authorMetrics, R: 2, h_lead: 17 });
@@ -206,7 +225,8 @@ describe("metric merging", () => {
   test("keeps the author counts when OpenAlex values are missing", () => {
     const merged = mergePaperMetrics(authorMetrics, {
       metrics: { R: null, h_lead: null },
-      missing: ["R", "h_lead"]
+      missing: ["R", "h_lead"],
+      senior_authors: []
     });
 
     expect(merged.metrics).toEqual({ ...authorMetrics, R: null, h_lead: null });
@@ -216,7 +236,7 @@ describe("metric merging", () => {
   test("merges and deduplicates missing values from earlier metrics", () => {
     const merged = mergePaperMetrics(
       authorMetrics,
-      { metrics: { R: null, h_lead: null }, missing: ["R", "h_lead"] },
+      { metrics: { R: null, h_lead: null }, missing: ["R", "h_lead"], senior_authors: [] },
       ["S", "h_lead"]
     );
 
@@ -232,7 +252,8 @@ describe("metric merging", () => {
 
     expect(result).toEqual({
       metrics: { R: null, h_lead: null },
-      missing: ["R", "h_lead"]
+      missing: ["R", "h_lead"],
+      senior_authors: []
     });
   });
 });

@@ -1,4 +1,9 @@
-output/
+# Track metadata JSON/CSV, ignore downloaded PDFs, HTML, and figures.
+/output/*
+!/output/*/
+/output/*/*
+!/output/*/metadata/
+!/output/*/metadata/**
 .chrome-profile/
 node_modules/
 .DS_Store

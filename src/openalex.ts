@@ -23,9 +23,20 @@ export interface OpenAlexMetrics {
   h_lead: number | null;
 }
 
+export interface OpenAlexSeniorAuthor {
+  /** Name as printed on the paper. */
+  name: string;
+  /** Resolved OpenAlex author id, or null when the name/ORCID did not resolve uniquely. */
+  openalex_id: string | null;
+  /** OpenAlex h-index for this author, or null when it was unavailable. */
+  h_index: number | null;
+}
+
 export interface OpenAlexResult {
   metrics: OpenAlexMetrics;
   missing: string[];
+  /** Per joint-senior-author resolution behind `h_lead`. */
+  senior_authors: OpenAlexSeniorAuthor[];
 }
 
 export interface OpenAlexRequest {
@@ -87,35 +98,40 @@ export function resolveSeniorAuthorIds(
   const unresolved: string[] = [];
 
   for (const name of seniorNames) {
-    const key = nameKey(name);
-    const nameMatches = unique(
-      work.authorships
-        .filter((authorship) =>
-          nameKey(authorship.name) === key ||
-          nameKey(authorship.displayName) === key
-        )
-        .map((authorship) => authorship.authorId)
-    );
-
-    let matched = nameMatches;
-    if (matched.length !== 1) {
-      const orcid = orcidForName(name, authorsDetail);
-      if (orcid) {
-        matched = unique(
-          work.authorships
-            .filter((authorship) => normalizeOrcid(authorship.orcid) === orcid)
-            .map((authorship) => authorship.authorId)
-        );
-      } else {
-        matched = [];
-      }
-    }
-
-    if (matched.length === 1) authorIds.push(matched[0]);
+    const authorId = resolveSeniorAuthorId(name, work, authorsDetail);
+    if (authorId) authorIds.push(authorId);
     else unresolved.push(name);
   }
 
   return { authorIds: unique(authorIds), unresolved };
+}
+
+function resolveSeniorAuthorId(
+  name: string,
+  work: OpenAlexWork,
+  authorsDetail: AuthorDetail[]
+): string | null {
+  const key = nameKey(name);
+  const nameMatches = unique(
+    work.authorships
+      .filter((authorship) =>
+        nameKey(authorship.name) === key ||
+        nameKey(authorship.displayName) === key
+      )
+      .map((authorship) => authorship.authorId)
+  );
+
+  if (nameMatches.length === 1) return nameMatches[0];
+
+  const orcid = orcidForName(name, authorsDetail);
+  if (!orcid) return null;
+
+  const orcidMatches = unique(
+    work.authorships
+      .filter((authorship) => normalizeOrcid(authorship.orcid) === orcid)
+      .map((authorship) => authorship.authorId)
+  );
+  return orcidMatches.length === 1 ? orcidMatches[0] : null;
 }
 
 /** Fetch R and h_lead. Work fetch failures throw; missing values are reported in `missing`. */
@@ -128,41 +144,42 @@ export async function collectOpenAlexMetrics(
   const missing: string[] = [];
   if (!Number.isInteger(work.citedByCount) || work.citedByCount < 0) missing.push("R");
 
-  const { authorIds, unresolved } = resolveSeniorAuthorIds(
-    request.jointSenior,
-    work,
-    request.authorsDetail
+  const seniorAuthors = request.jointSenior.map((name) => ({
+    name,
+    openalex_id: resolveSeniorAuthorId(name, work, request.authorsDetail)
+  }));
+  const authorIds = unique(
+    seniorAuthors
+      .map((author) => author.openalex_id)
+      .filter((id): id is string => id !== null)
   );
-  if (unresolved.length > 0 || authorIds.length === 0) {
-    missing.push("h_lead");
-    return {
-      metrics: { R: missing.includes("R") ? null : work.citedByCount, h_lead: null },
-      missing
-    };
-  }
+  const unresolved = seniorAuthors
+    .filter((author) => author.openalex_id === null)
+    .map((author) => author.name);
 
-  const hIndexes = await fetchAuthorHIndexes(authorIds).catch(() => null);
-  if (hIndexes === null) {
-    return {
-      metrics: { R: missing.includes("R") ? null : work.citedByCount, h_lead: null },
-      missing: [...missing, "h_lead"]
-    };
-  }
+  const hIndexes = authorIds.length
+    ? await fetchAuthorHIndexes(authorIds).catch(() => null)
+    : new Map<string, number>();
+  const resolvedAuthors = seniorAuthors.map((author) => ({
+    ...author,
+    h_index: author.openalex_id ? hIndexes?.get(author.openalex_id) ?? null : null
+  }));
 
-  const values = authorIds.map((id) => hIndexes.get(id));
-  if (values.some((value) => value === undefined)) {
-    return {
-      metrics: { R: missing.includes("R") ? null : work.citedByCount, h_lead: null },
-      missing: [...missing, "h_lead"]
-    };
-  }
+  const values = authorIds.map((id) => hIndexes?.get(id));
+  const complete =
+    unresolved.length === 0 &&
+    authorIds.length > 0 &&
+    hIndexes !== null &&
+    values.every((value) => value !== undefined);
+  if (!complete) missing.push("h_lead");
 
   return {
     metrics: {
       R: missing.includes("R") ? null : work.citedByCount,
-      h_lead: mean(values as number[])
+      h_lead: complete ? mean(values as number[]) : null
     },
-    missing
+    missing,
+    senior_authors: resolvedAuthors
   };
 }
 
@@ -179,7 +196,11 @@ export function mergePaperMetrics(
 }
 
 function missingBoth(): OpenAlexResult {
-  return { metrics: { R: null, h_lead: null }, missing: ["R", "h_lead"] };
+  return {
+    metrics: { R: null, h_lead: null },
+    missing: ["R", "h_lead"],
+    senior_authors: []
+  };
 }
 
 function mean(values: number[]): number {

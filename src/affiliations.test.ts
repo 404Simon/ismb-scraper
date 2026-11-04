@@ -67,7 +67,8 @@ describe("lead labs", () => {
 
     expect(result).toEqual({
       count: 1,
-      countries: ["Switzerland"]
+      countries: ["Switzerland"],
+      affiliations: ["Lab B, Basel, Switzerland"]
     });
   });
 
@@ -83,7 +84,8 @@ describe("lead labs", () => {
 
     expect(result).toEqual({
       count: 2,
-      countries: ["Switzerland", "United States"]
+      countries: ["Switzerland", "United States"],
+      affiliations: ["Lab A, Zurich, Switzerland", "Lab B, Boston, MA, USA"]
     });
   });
 
@@ -99,7 +101,8 @@ describe("lead labs", () => {
 
     expect(result).toEqual({
       count: 1,
-      countries: ["Switzerland"]
+      countries: ["Switzerland"],
+      affiliations: ["Lab A, Zurich, Switzerland"]
     });
   });
 
@@ -110,7 +113,7 @@ describe("lead labs", () => {
       ["Senior Author"]
     );
 
-    expect(result).toEqual({ count: null, countries: null });
+    expect(result).toEqual({ count: null, countries: null, affiliations: null });
   });
 
   test("returns null countries when a selected affiliation has no country", () => {
@@ -120,6 +123,10 @@ describe("lead labs", () => {
       ["Senior Author"]
     );
 
-    expect(result).toEqual({ count: 2, countries: null });
+    expect(result).toEqual({
+      count: 2,
+      countries: null,
+      affiliations: ["Lab A", "Lab B"]
+    });
   });
 });

@@ -22,7 +22,8 @@ import {
   collectOpenAlexMetrics,
   mergePaperMetrics,
   normalizeDoi,
-  type OpenAlexResult
+  type OpenAlexResult,
+  type OpenAlexSeniorAuthor
 } from "./openalex";
 import { pageStateScript, readReadyPage } from "./page-readiness";
 import { parsePublicationYear } from "./publication";
@@ -72,9 +73,22 @@ interface FigureCandidate {
 interface SavedFigure {
   source_url: string;
   path: string | null;
+}
+
+interface PrivateFigure extends SavedFigure {
   alt: string;
   caption: string;
 }
+
+interface PrivateMetadata {
+  paper_name: string;
+  doi: string;
+  abstract: string;
+  author_notes: string[];
+  figures: PrivateFigure[];
+}
+
+const PRIVATE_METADATA_FILENAME = "private-metadata.json";
 
 interface PaperFiles {
   html: string | null;
@@ -102,14 +116,14 @@ interface PaperRecord {
   paper_name: string;
   authors: string[];
   authors_detail: AuthorDetail[];
-  author_notes: string[];
   joint_first: string[];
   joint_senior: string[];
+  lead_affiliations: string[] | null;
+  openalex_senior_authors: OpenAlexSeniorAuthor[];
   has_group_author: boolean;
   metrics: PaperMetrics;
   metrics_meta: MetricsMeta;
   doi: string;
-  abstract: string;
   article_url: string;
   link_to_pdf: string;
   artifacts: Artifacts;
@@ -222,20 +236,21 @@ Options:
       --skip-html              Do not save standalone article HTML
       --skip-figures           Do not download article figures
       --semantic <file>        DOI -> {M,T} annotations (default: results/semantic/papers.json)
-      --resume                 Reuse papers/<id>/metadata.json when it matches the current metric schema
+      --resume                 Reuse metadata/<id>.json when it matches the current metric schema
       --chrome-debug-port <n> Attach to visible Chrome with remote debugging
       --challenge-timeout <s> Seconds to wait for verified, ready content (default: 180)
       --page-retries <n>      Extra attempts for pages that fail to load (default: 2)
   -h, --help                   Show this help
 
 Output:
-  <out>/papers.json            Canonical structured index
-  <out>/papers.csv             Flat convenience table; array cells contain JSON arrays
-  <out>/papers/<id>/metadata.json
-  <out>/papers/<id>/article.html
-  <out>/papers/<id>/paper.pdf
-  <out>/papers/<id>/figures/*
-  <out>/errors.json            Only when a page/resource fails
+  <out>/metadata/papers.json   Canonical structured index
+  <out>/metadata/papers.csv    Flat convenience table; array cells contain JSON arrays
+  <out>/metadata/<id>.json     Per-paper metadata
+  <out>/metadata/errors.json   Only when a page/resource fails
+  <out>/files/<id>/article.html
+  <out>/files/<id>/paper.pdf
+  <out>/files/<id>/figures/*
+  <out>/files/<id>/private-metadata.json
 `;
   console.log(text.trim());
   process.exit(exitCode);
@@ -278,7 +293,8 @@ try {
 
 const [, volume, issue] = issueMatch;
 const outDir = resolve(String(values.out));
-const papersDir = join(outDir, "papers");
+const metadataDir = join(outDir, "metadata");
+const filesDir = join(outDir, "files");
 const concurrency = positiveInt(String(values.concurrency), "--concurrency");
 const delayMs = nonNegativeInt(String(values["delay-ms"]), "--delay-ms");
 const includeNonResearch = Boolean(values["include-non-research"]);
@@ -303,7 +319,8 @@ const semanticAnnotations = await loadSemanticAnnotations(
   resolve(String(values.semantic))
 );
 
-await mkdir(papersDir, { recursive: true });
+await mkdir(metadataDir, { recursive: true });
+await mkdir(filesDir, { recursive: true });
 
 console.log(`Issue: ${parsedIssue.href}`);
 console.log(`Output: ${outDir}`);
@@ -354,12 +371,17 @@ const snapshotDate = new Date().toISOString().slice(0, 10);
 const results = await mapLimit(issueArticles, concurrency, async (article, index) => {
   const prefix = `[${index + 1}/${issueArticles.length}]`;
   const paperId = articleIdFromUrl(article.url);
-  const paperDir = join(papersDir, paperId);
-  const metadataPath = join(paperDir, "metadata.json");
+  const paperFilesDir = join(filesDir, paperId);
+  const metadataPath = join(metadataDir, `${paperId}.json`);
+  const privateMetadataPath = join(paperFilesDir, PRIVATE_METADATA_FILENAME);
 
   console.log(`${prefix} ${article.title}`);
 
-  if (resume && (await Bun.file(metadataPath).exists())) {
+  if (
+    resume &&
+    (await Bun.file(metadataPath).exists()) &&
+    (await Bun.file(privateMetadataPath).exists())
+  ) {
     try {
       const record: unknown = await Bun.file(metadataPath).json();
       if (isResumableRecord(record)) {
@@ -375,7 +397,8 @@ const results = await mapLimit(issueArticles, concurrency, async (article, index
   try {
     const result = await scrapeArticle(
       article,
-      paperDir,
+      paperFilesDir,
+      metadataPath,
       outDir,
       snapshotDate,
       semanticAnnotations
@@ -403,26 +426,27 @@ const results = await mapLimit(issueArticles, concurrency, async (article, index
 });
 
 const successfulRecords = results.filter((row): row is PaperRecord => row !== null);
-await Bun.write(join(outDir, "papers.json"), JSON.stringify(successfulRecords, null, 2) + "\n");
-await Bun.write(join(outDir, "papers.csv"), toCsv(successfulRecords));
+await Bun.write(join(metadataDir, "papers.json"), JSON.stringify(successfulRecords, null, 2) + "\n");
+await Bun.write(join(metadataDir, "papers.csv"), toCsv(successfulRecords));
 
 if (failures.length > 0) {
-  await Bun.write(join(outDir, "errors.json"), JSON.stringify(failures, null, 2) + "\n");
-} else if (await Bun.file(join(outDir, "errors.json")).exists()) {
-  await Bun.write(join(outDir, "errors.json"), "[]\n");
+  await Bun.write(join(metadataDir, "errors.json"), JSON.stringify(failures, null, 2) + "\n");
+} else if (await Bun.file(join(metadataDir, "errors.json")).exists()) {
+  await Bun.write(join(metadataDir, "errors.json"), "[]\n");
 }
 
 console.log("");
-console.log(`Wrote ${successfulRecords.length} paper(s) to ${join(outDir, "papers.json")}`);
-console.log(`Paper archive: ${papersDir}`);
+console.log(`Wrote ${successfulRecords.length} paper(s) to ${join(metadataDir, "papers.json")}`);
+console.log(`Paper files: ${filesDir}`);
 if (failures.length > 0) {
-  console.log(`Warnings/failures: ${failures.length} (see ${join(outDir, "errors.json")})`);
+  console.log(`Warnings/failures: ${failures.length} (see ${join(metadataDir, "errors.json")})`);
   process.exitCode = 3;
 }
 
 async function scrapeArticle(
   article: IssueArticle,
-  paperDir: string,
+  paperFilesDir: string,
+  metadataPath: string,
   archiveRoot: string,
   snapshotDate: string,
   semanticAnnotations: Map<string, SemanticAnnotation>
@@ -436,7 +460,7 @@ async function scrapeArticle(
   const warnings: Failure[] = [];
 
   try {
-    await mkdir(paperDir, { recursive: true });
+    await mkdir(paperFilesDir, { recursive: true });
     const data = await readReadyPage(view, article.url, "article", async () => {
       const extracted = (await view.evaluate(articleExtractorScript(article.url))) as BrowserArticleData;
       if (!extracted?.title?.trim() || !extracted.articleHtml?.trim() ||
@@ -457,7 +481,7 @@ async function scrapeArticle(
 
     let pdfSaved = false;
     if (downloadPdfs && data.pdfUrl) {
-      const pdfPath = join(paperDir, "paper.pdf");
+      const pdfPath = join(paperFilesDir, "paper.pdf");
       try {
         const resource = await downloadBrowserResource(view, data.pdfUrl);
         validatePdf(resource.bytes, data.pdfUrl);
@@ -479,6 +503,7 @@ async function scrapeArticle(
       { authors: data.authorsDetail, notes: data.authorNotes },
       data.authors
     );
+    const { author_notes: authorNotes, ...authorFields } = authorMetadata;
     const doi = normalizeDoi(data.doi);
     const annotation = semanticAnnotations.get(semanticKey(doi));
     const openAlex = await openAlexMetricsFor(
@@ -538,8 +563,9 @@ async function scrapeArticle(
 
     let html = buildStandaloneHtml(paperName, article.url, data.articleHtml);
     let figuresSaved = 0;
+    const privateFigures: PrivateFigure[] = [];
 
-    const figureDir = join(paperDir, "figures");
+    const figureDir = join(paperFilesDir, "figures");
     if (downloadFigures && data.figures.length > 0) {
       await mkdir(figureDir, { recursive: true });
     }
@@ -572,16 +598,20 @@ async function scrapeArticle(
       }
 
       html = html.replaceAll(figure.token, escapeHtmlAttribute(replacementUrl));
-      files.figures.push({
+      const savedFigure: SavedFigure = {
         source_url: figure.url,
-        path: savedPath,
+        path: savedPath
+      };
+      files.figures.push(savedFigure);
+      privateFigures.push({
+        ...savedFigure,
         alt: normalizeWhitespace(figure.alt),
         caption: normalizeWhitespace(figure.caption)
       });
     }
 
     if (saveHtml) {
-      const htmlPath = join(paperDir, "article.html");
+      const htmlPath = join(paperFilesDir, "article.html");
       await Bun.write(htmlPath, html);
       files.html = relativePath(archiveRoot, htmlPath);
     }
@@ -589,7 +619,9 @@ async function scrapeArticle(
     const record: PaperRecord = {
       paper_name: paperName,
       authors: unique(data.authors.map(normalizeWhitespace).filter(Boolean)),
-      ...authorMetadata,
+      ...authorFields,
+      lead_affiliations: leadLabs.affiliations,
+      openalex_senior_authors: openAlex.senior_authors,
       metrics: finalMetrics.metrics,
       metrics_meta: {
         snapshot_date: snapshotDate,
@@ -597,14 +629,25 @@ async function scrapeArticle(
         missing: finalMetrics.missing
       },
       doi,
-      abstract: normalizeWhitespace(data.abstract),
       article_url: article.url,
       link_to_pdf: data.pdfUrl || "",
       artifacts,
       files
     };
 
-    await Bun.write(join(paperDir, "metadata.json"), JSON.stringify(record, null, 2) + "\n");
+    const privateMetadata: PrivateMetadata = {
+      paper_name: paperName,
+      doi,
+      abstract: normalizeWhitespace(data.abstract),
+      author_notes: authorNotes,
+      figures: privateFigures
+    };
+
+    await Bun.write(
+      join(paperFilesDir, PRIVATE_METADATA_FILENAME),
+      JSON.stringify(privateMetadata, null, 2) + "\n"
+    );
+    await Bun.write(metadataPath, JSON.stringify(record, null, 2) + "\n");
 
     return { record, pdfSaved, figuresSaved, warnings };
   } finally {
@@ -1650,8 +1693,9 @@ function isNonResearchSection(section: string): boolean {
 
 /**
  * A resumed record must match the current schema: every metric present and
- * either a number or null, with every null metric listed in `metrics_meta.missing`.
- * Records written before the metric extraction steps are rejected and re-scraped.
+ * either a number or null, every null metric listed in `metrics_meta.missing`,
+ * and the stored metric values (lead affiliations and OpenAlex senior authors)
+ * present and consistent. Older records are rejected and re-scraped.
  */
 function isResumableRecord(value: unknown): value is PaperRecord {
   if (value === null || typeof value !== "object") return false;
@@ -1680,11 +1724,41 @@ function isResumableRecord(value: unknown): value is PaperRecord {
     return false;
   }
 
+  if (!("lead_affiliations" in record)) return false;
+  const leadAffiliations = record.lead_affiliations;
+  if (
+    leadAffiliations !== null &&
+    (!Array.isArray(leadAffiliations) ||
+      !leadAffiliations.every((value): value is string => typeof value === "string"))
+  ) {
+    return false;
+  }
+  if (leadAffiliations === null) {
+    if (metricValues.L_lead !== null) return false;
+  } else if (metricValues.L_lead !== leadAffiliations.length) {
+    return false;
+  }
+
+  if (!("openalex_senior_authors" in record)) return false;
+  if (!Array.isArray(record.openalex_senior_authors)) return false;
+  if (!record.openalex_senior_authors.every(isOpenAlexSeniorAuthor)) return false;
+
   const missingSet = new Set(missing);
   const missingIsAccurate =
     nullMetrics.every((name) => missingSet.has(name)) &&
     missing.every((name) => isMetricName(name) && metricValues[name] === null);
   return missingIsAccurate;
+}
+
+function isOpenAlexSeniorAuthor(value: unknown): value is OpenAlexSeniorAuthor {
+  if (value === null || typeof value !== "object") return false;
+  const author = value as Record<string, unknown>;
+  return (
+    typeof author.name === "string" &&
+    (author.openalex_id === null || typeof author.openalex_id === "string") &&
+    (author.h_index === null ||
+      (typeof author.h_index === "number" && Number.isFinite(author.h_index) && author.h_index >= 0))
+  );
 }
 
 function isValidMetric(name: MetricName, value: unknown): boolean {
@@ -1767,9 +1841,12 @@ function toCsv(rows: PaperRecord[]): string {
   const columns = [
     "paper_name",
     "authors",
+    "joint_first",
+    "joint_senior",
+    "lead_affiliations",
+    "openalex_senior_authors",
     ...METRIC_NAMES,
     "doi",
-    "abstract",
     "article_url",
     "link_to_pdf",
     ...ARTIFACT_KEYS,
@@ -1786,11 +1863,14 @@ function toCsv(rows: PaperRecord[]): string {
   const valuesFor = (row: PaperRecord): Record<string, string> => ({
     paper_name: row.paper_name,
     authors: JSON.stringify(row.authors),
+    joint_first: JSON.stringify(row.joint_first),
+    joint_senior: JSON.stringify(row.joint_senior),
+    lead_affiliations: metricCell(row.lead_affiliations),
+    openalex_senior_authors: JSON.stringify(row.openalex_senior_authors),
     ...Object.fromEntries(
       METRIC_NAMES.map((name) => [name, metricCell(row.metrics?.[name])])
     ),
     doi: row.doi,
-    abstract: row.abstract,
     article_url: row.article_url,
     link_to_pdf: row.link_to_pdf,
     repositories: JSON.stringify(row.artifacts.repositories),
