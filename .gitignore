@@ -2,3 +2,11 @@ output/
 .chrome-profile/
 node_modules/
 .DS_Store
+
+__pycache__/
+*.py[oc]
+semantic/.venv/
+.ruff_cache/
+
+ismb-embed-*.out
+ismb-embed-*.err

@@ -16,6 +16,7 @@ One command archives each paper and extracts all metadata in the same run. There
 
   The scraper checks `gh auth status --hostname github.com` at startup and exits if it is not signed in. There is no token fallback.
 - Optional: [Poppler](https://poppler.freedesktop.org/) `pdftotext` for resolving unnamed equal-contribution notes from the PDF first page.
+- For semantic labels: [uv](https://docs.astral.sh/uv/) and [OpenCode](https://opencode.ai/) with a configured model provider.
 
 ## Usage
 
@@ -86,6 +87,28 @@ Each record in `papers.json` and `papers/<id>/metadata.json` contains the nine m
 ```
 
 A metric that cannot be resolved is `null` and its name is listed (once) in `metrics_meta.missing`. `papers.csv` includes the nine metric columns `A_first`, `A_senior`, `A_lead`, `A_total`, `R`, `h_lead`, `S`, `I_open`, `I_closed`; null values render as empty cells. Author details stay in JSON only.
+
+## Semantic labels
+
+Embeddings, Leiden clusters, and OpenCode-assigned category labels live in the `semantic/` Python subproject. Scraping stays one command; semantic work runs on the HPC or at annotation time. Semantic labeling needs `uv` and `opencode` (`opencode run`) locally.
+
+```bash
+uv sync --project semantic
+```
+
+Embeddings run on one A100 through `hpc/embed.slurm`. The script only embeds and writes `output/semantic/{papers.jsonl,embeddings.npy,embedding_meta.json}`. Run `uv sync` and download the model on the HPC login/submit host; the venv is not rsynced. The script header lists the exact `rsync` and `sbatch` sequence. Local commands reuse those embeddings:
+
+```bash
+uv run --project semantic ismb-semantic embed --reuse
+uv run --project semantic ismb-semantic cluster --clusters 2-20
+uv run --project semantic ismb-semantic label --clusters 2-20
+```
+
+Through Bun, the same commands are `bun run semantic -- cluster --clusters 2-20`. The default `--clusters 2-20` range is easily changed: use `4,6,8,12` or `12` for a subset.
+
+`cluster` checks that `papers.jsonl` and `embedding_meta.json` describe the same papers before writing anything. It writes per-run artifacts under the ignored `output/semantic/k-XX/` and fails if it cannot find a partition with exactly the requested number of clusters; no directory is written for a wrong count. `label` makes exactly one headless `opencode run` call per unlabeled cluster through `.opencode/agents/semantic-labeler.md`. There is no automatic retry: a failed or duplicate label is recorded and the command exits non-zero, leaving other clusters labeled. Rerun the same command to retry only the missing clusters. Labels are reused only when `labels/k-XX.meta.json` matches the hashes of the current cluster data, model, agent file (`.opencode/agents/<agent>.md`), and prompt; otherwise stale labels are ignored with a warning and relabeled. Add `--force` to relabel everything. Outputs are `results/semantic/labels/k-XX.json`, `results/semantic/categories/k-XX.csv`, `results/semantic/categories.csv` (`k,category,year,paper_id,title,doi`), and `results/semantic/summary.csv`.
+
+Run the Python tests with `uv run --project semantic python -m unittest discover -s semantic/tests`.
 
 ## Options
 
