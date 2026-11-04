@@ -22,6 +22,7 @@ import {
   type OpenAlexResult
 } from "./openalex";
 import { pageStateScript, readReadyPage } from "./page-readiness";
+import { extractPdfFirstPageText } from "./pdf";
 
 interface IssueArticle {
   title: string;
@@ -90,6 +91,7 @@ interface PaperRecord {
   author_notes: string[];
   joint_first: string[];
   joint_senior: string[];
+  joint_source?: "pdf" | null;
   has_group_author: boolean;
   metrics: PaperMetrics;
   metrics_meta: MetricsMeta;
@@ -127,6 +129,20 @@ interface ScrapeResult {
   figuresSaved: number;
   warnings: Failure[];
 }
+
+const METRIC_NAMES = [
+  "A_first",
+  "A_senior",
+  "A_lead",
+  "A_total",
+  "R",
+  "h_lead",
+  "S",
+  "I_open",
+  "I_closed"
+] as const;
+
+type MetricName = (typeof METRIC_NAMES)[number];
 
 const ARTIFACT_KEYS: ArtifactKey[] = [
   "repositories",
@@ -184,7 +200,7 @@ Options:
       --skip-pdfs              Do not download publisher PDFs
       --skip-html              Do not save standalone article HTML
       --skip-figures           Do not download article figures
-      --resume                 Reuse papers/<id>/metadata.json when present
+      --resume                 Reuse papers/<id>/metadata.json when it matches the current metric schema
       --chrome-debug-port <n> Attach to visible Chrome with remote debugging
       --challenge-timeout <s> Seconds to wait for verified, ready content (default: 180)
       --page-retries <n>      Extra attempts for pages that fail to load (default: 2)
@@ -397,9 +413,39 @@ async function scrapeArticle(
     }, { interactive: interactiveChrome, timeoutMs: challengeTimeoutMs, retries: pageRetries });
     const paperName = data.title || article.title;
     const artifacts = classifyArtifacts(data.artifactCandidates, article.url);
-    const authorMetadata = buildAuthorMetadata(
+
+    const files: PaperFiles = {
+      html: null,
+      pdf: null,
+      figures: []
+    };
+
+    let pdfSaved = false;
+    if (downloadPdfs && data.pdfUrl) {
+      const pdfPath = join(paperDir, "paper.pdf");
+      try {
+        const resource = await downloadBrowserResource(view, data.pdfUrl);
+        validatePdf(resource.bytes, data.pdfUrl);
+        await Bun.write(pdfPath, resource.bytes);
+        files.pdf = relativePath(archiveRoot, pdfPath);
+        pdfSaved = true;
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        warnings.push({
+          title: paperName,
+          url: data.pdfUrl,
+          stage: "pdf",
+          error: message
+        });
+      }
+    }
+
+    const authorMetadata = await buildAuthorMetadata(
       { authors: data.authorsDetail, notes: data.authorNotes },
-      data.authors
+      data.authors,
+      files.pdf
+        ? { firstPageText: () => extractPdfFirstPageText(join(paperDir, "paper.pdf")) }
+        : {}
     );
     const doi = normalizeDoi(data.doi);
     const openAlex = await openAlexMetricsFor(
@@ -428,12 +474,6 @@ async function scrapeArticle(
       github,
       mergedMetrics.missing
     );
-
-    const files: PaperFiles = {
-      html: null,
-      pdf: null,
-      figures: []
-    };
 
     let html = buildStandaloneHtml(paperName, article.url, data.articleHtml);
     let figuresSaved = 0;
@@ -483,26 +523,6 @@ async function scrapeArticle(
       const htmlPath = join(paperDir, "article.html");
       await Bun.write(htmlPath, html);
       files.html = relativePath(archiveRoot, htmlPath);
-    }
-
-    let pdfSaved = false;
-    if (downloadPdfs && data.pdfUrl) {
-      const pdfPath = join(paperDir, "paper.pdf");
-      try {
-        const resource = await downloadBrowserResource(view, data.pdfUrl);
-        validatePdf(resource.bytes, data.pdfUrl);
-        await Bun.write(pdfPath, resource.bytes);
-        files.pdf = relativePath(archiveRoot, pdfPath);
-        pdfSaved = true;
-      } catch (error) {
-        const message = error instanceof Error ? error.message : String(error);
-        warnings.push({
-          title: paperName,
-          url: data.pdfUrl,
-          stage: "pdf",
-          error: message
-        });
-      }
     }
 
     const record: PaperRecord = {
@@ -1536,6 +1556,11 @@ function isNonResearchSection(section: string): boolean {
   return /^(editorial|awards? papers?|corrections?|errata|preface)$/i.test(section.trim());
 }
 
+/**
+ * A resumed record must match the current schema: every metric present and
+ * either a number or null, with every null metric listed in `metrics_meta.missing`.
+ * Records written before the metric extraction steps are rejected and re-scraped.
+ */
 function isResumableRecord(value: unknown): value is PaperRecord {
   if (value === null || typeof value !== "object") return false;
   const record = value as Record<string, unknown>;
@@ -1545,22 +1570,40 @@ function isResumableRecord(value: unknown): value is PaperRecord {
   if (meta === null || typeof meta !== "object") return false;
 
   const metricValues = metrics as Record<string, unknown>;
-  const requiredMetrics = [
-    "A_first",
-    "A_senior",
-    "A_lead",
-    "A_total",
-    "R",
-    "h_lead",
-    "S",
-    "I_open",
-    "I_closed"
-  ];
-  return (
-    requiredMetrics.every((key) => key in metricValues) &&
-    "github_repository" in (meta as Record<string, unknown>) &&
-    Array.isArray((meta as Record<string, unknown>).missing)
-  );
+  const metaValues = meta as Record<string, unknown>;
+  if (typeof metaValues.snapshot_date !== "string") return false;
+  if (!("github_repository" in metaValues)) return false;
+  if (!Array.isArray(metaValues.missing)) return false;
+
+  const missing = metaValues.missing;
+  if (!missing.every((name): name is string => typeof name === "string")) return false;
+  if (new Set(missing).size !== missing.length) return false;
+
+  const nullMetrics = METRIC_NAMES.filter((name) => {
+    const metric = metricValues[name];
+    return metric === null;
+  });
+
+  const hasAllMetrics = METRIC_NAMES.every((name) => {
+    const metric = metricValues[name];
+    if (name === "h_lead") {
+      return metric === null ||
+        (typeof metric === "number" && Number.isFinite(metric) && metric >= 0);
+    }
+    return metric === null ||
+      (typeof metric === "number" && Number.isInteger(metric) && metric >= 0);
+  });
+  if (!hasAllMetrics) return false;
+
+  const missingSet = new Set(missing);
+  const missingIsAccurate =
+    nullMetrics.every((name) => missingSet.has(name)) &&
+    missing.every((name) => isMetricName(name) && metricValues[name] === null);
+  return missingIsAccurate;
+}
+
+function isMetricName(value: string): value is MetricName {
+  return (METRIC_NAMES as readonly string[]).includes(value);
 }
 
 function normalizeWhitespace(value: string): string {

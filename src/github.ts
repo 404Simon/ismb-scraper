@@ -171,15 +171,34 @@ export function parseGitHubUrl(raw: string): GitHubRepository | null {
   };
 }
 
-/** `gh api repos/<owner>/<repo> --jq .stargazers_count` */
-export async function fetchRepositoryStars(fullName: string): Promise<number> {
+/**
+ * `gh api repos/<owner>/<repo>` follows repository renames. Read the canonical
+ * `full_name` in the same call so the issue searches below use the new name.
+ */
+export async function fetchRepositoryDetails(
+  fullName: string
+): Promise<{ repository: GitHubRepository; stars: number }> {
   const output = await runGitHubCli([
     "api",
     `repos/${fullName}`,
     "--jq",
-    ".stargazers_count"
+    "[.full_name, .stargazers_count] | @tsv"
   ]);
-  return parseCount(output, "stargazers_count", fullName);
+  const tab = output.indexOf("\t");
+  if (tab <= 0) {
+    throw new Error(`Unexpected repository details for ${fullName}: ${JSON.stringify(output)}`);
+  }
+
+  const canonicalName = output.slice(0, tab).trim();
+  const repository = parseGitHubUrl(`https://github.com/${canonicalName}`);
+  if (!repository) {
+    throw new Error(`Unexpected canonical repository for ${fullName}: ${JSON.stringify(canonicalName)}`);
+  }
+
+  return {
+    repository,
+    stars: parseCount(output.slice(tab + 1), "stargazers_count", fullName)
+  };
 }
 
 /** Issue count via search, excluding pull requests. `type:issue` is mandatory. */
@@ -210,8 +229,8 @@ export async function fetchIssueCount(
 export async function collectGitHubMetrics(
   repositoryUrls: string[]
 ): Promise<GitHubResult> {
-  const repository = parseGitHubRepository(repositoryUrls);
-  if (!repository) {
+  const parsed = parseGitHubRepository(repositoryUrls);
+  if (!parsed) {
     return {
       repository: null,
       metrics: { S: null, I_open: null, I_closed: null },
@@ -223,17 +242,30 @@ export async function collectGitHubMetrics(
   const metrics: GitHubMetrics = { S: null, I_open: null, I_closed: null };
   const failed = new Set<keyof GitHubMetrics>();
   const failures: GitHubFailure[] = [];
+  let repository = parsed;
 
-  const loaders: Record<keyof GitHubMetrics, () => Promise<number>> = {
-    S: () => fetchRepositoryStars(repository.fullName),
-    I_open: () => fetchIssueCount(repository.fullName, "open"),
-    I_closed: () => fetchIssueCount(repository.fullName, "closed")
-  };
+  // Resolve stars and the canonical name together: a renamed repository still
+  // answers `repos/<old-name>`, but `search/issues` only accepts the new name.
+  try {
+    const details = await fetchRepositoryDetails(parsed.fullName);
+    repository = details.repository;
+    metrics.S = details.stars;
+  } catch (error) {
+    failed.add("S");
+    failures.push({
+      repository: parsed.fullName,
+      metric: "S",
+      error: message(error)
+    });
+  }
 
   await Promise.all(
-    METRIC_KEYS.map(async (key) => {
+    (["I_open", "I_closed"] as const).map(async (key) => {
       try {
-        metrics[key] = await loaders[key]();
+        metrics[key] = await fetchIssueCount(
+          repository.fullName,
+          key === "I_open" ? "open" : "closed"
+        );
       } catch (error) {
         failed.add(key);
         failures.push({

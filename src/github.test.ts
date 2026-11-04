@@ -68,6 +68,30 @@ describe("live GitHub metrics", () => {
     }
   }, LIVE_TIMEOUT_MS);
 
+  test("a renamed repository alias resolves to its canonical name", async () => {
+    await requireGh();
+
+    const result = await collectGitHubMetrics([
+      "https://github.com/vshiv18/sigmoni"
+    ]);
+
+    expect(result.repository?.fullName).toBe("vikshiv/sigmoni");
+    expect(result.repository?.url).toBe("https://github.com/vikshiv/sigmoni");
+    expect(result.missing).toEqual([]);
+    expect(result.failures).toEqual([]);
+
+    for (const value of [
+      result.metrics.S,
+      result.metrics.I_open,
+      result.metrics.I_closed
+    ]) {
+      expect(Number.isInteger(value)).toBe(true);
+      expect(value as number).toBeGreaterThanOrEqual(0);
+    }
+    expect(result.metrics.I_open).toBeGreaterThanOrEqual(0);
+    expect(result.metrics.I_closed).toBeGreaterThanOrEqual(0);
+  }, LIVE_TIMEOUT_MS);
+
   test("issue counts exclude pull requests on cli/cli", async () => {
     await requireGh();
 
