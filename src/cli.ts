@@ -22,7 +22,6 @@ import {
   type OpenAlexResult
 } from "./openalex";
 import { pageStateScript, readReadyPage } from "./page-readiness";
-import { extractPdfFirstPageText } from "./pdf";
 
 interface IssueArticle {
   title: string;
@@ -91,7 +90,6 @@ interface PaperRecord {
   author_notes: string[];
   joint_first: string[];
   joint_senior: string[];
-  joint_source?: "pdf" | null;
   has_group_author: boolean;
   metrics: PaperMetrics;
   metrics_meta: MetricsMeta;
@@ -440,12 +438,9 @@ async function scrapeArticle(
       }
     }
 
-    const authorMetadata = await buildAuthorMetadata(
+    const authorMetadata = buildAuthorMetadata(
       { authors: data.authorsDetail, notes: data.authorNotes },
-      data.authors,
-      files.pdf
-        ? { firstPageText: () => extractPdfFirstPageText(join(paperDir, "paper.pdf")) }
-        : {}
+      data.authors
     );
     const doi = normalizeDoi(data.doi);
     const openAlex = await openAlexMetricsFor(

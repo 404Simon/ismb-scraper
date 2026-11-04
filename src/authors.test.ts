@@ -1,7 +1,4 @@
 import { describe, expect, test } from "bun:test";
-import { rm } from "node:fs/promises";
-import { tmpdir } from "node:os";
-import { join } from "node:path";
 import {
   authorExtractionScript,
   buildAuthorMetadata,
@@ -9,7 +6,6 @@ import {
   type RawAuthorData
 } from "./authors";
 import { readReadyPage } from "./page-readiness";
-import { extractPdfFirstPageText } from "./pdf";
 
 const CHROME_VERSION_URL = "http://127.0.0.1:9222/json/version";
 const LIVE_TIMEOUT_MS = 180_000;
@@ -40,10 +36,7 @@ function chromeWebSocketUrl(): Promise<string> {
   return webSocketUrl;
 }
 
-async function liveAuthorMetadata(
-  url: string,
-  options: { withPdf?: boolean } = {}
-): Promise<AuthorMetadata> {
+async function liveAuthorMetadata(url: string): Promise<AuthorMetadata> {
   const view = new Bun.WebView({
     backend: { type: "chrome", url: await chromeWebSocketUrl() },
     width: 1440,
@@ -64,68 +57,9 @@ async function liveAuthorMetadata(
       stableMs: 2000
     });
 
-    const firstPageText = options.withPdf
-      ? await pdfFirstPageTextFromView(view, url)
-      : null;
-
-    return buildAuthorMetadata(
-      raw,
-      [],
-      firstPageText ? { firstPageText: async () => firstPageText } : {}
-    );
+    return buildAuthorMetadata(raw, []);
   } finally {
     view.close();
-  }
-}
-
-async function pdfFirstPageTextFromView(
-  view: Bun.WebView,
-  articleUrl: string
-): Promise<string> {
-  const pdfUrl = String(await view.evaluate(
-    `document.querySelector('meta[name="citation_pdf_url" i]')?.getAttribute("content") || ""`
-  ));
-  if (!pdfUrl) throw new Error(`No citation_pdf_url on ${articleUrl}`);
-
-  const frameTree = (await view.cdp("Page.getFrameTree")) as any;
-  const frameId = frameTree?.frameTree?.frame?.id;
-  if (!frameId) throw new Error(`Could not determine Chrome frame id for ${articleUrl}`);
-
-  const loaded = (await view.cdp("Network.loadNetworkResource", {
-    frameId,
-    url: pdfUrl,
-    options: { disableCache: false, includeCredentials: true }
-  })) as any;
-  const resource = loaded?.resource;
-  if (!resource?.success || !resource?.stream) {
-    throw new Error(
-      `Could not download ${pdfUrl} (HTTP ${resource?.httpStatusCode ?? "?"})`
-    );
-  }
-
-  const chunks: Uint8Array[] = [];
-  while (true) {
-    const part = (await view.cdp("IO.read", {
-      handle: resource.stream,
-      size: 1024 * 1024
-    })) as any;
-    chunks.push(part?.base64Encoded
-      ? Buffer.from(part.data || "", "base64")
-      : Buffer.from(part?.data || "", "utf8"));
-    if (part?.eof) break;
-  }
-  try {
-    await view.cdp("IO.close", { handle: resource.stream });
-  } catch {}
-
-  const path = join(tmpdir(), `ismb-pdf-${crypto.randomUUID()}.pdf`);
-  await Bun.write(path, Buffer.concat(chunks));
-  try {
-    const text = await extractPdfFirstPageText(path);
-    if (!text) throw new Error(`pdftotext could not read ${pdfUrl}`);
-    return text;
-  } finally {
-    await rm(path, { force: true });
   }
 }
 
@@ -228,29 +162,34 @@ describe("live OUP author metadata", () => {
     expect(meta.metrics.A_total).toBe(12);
   }, LIVE_TIMEOUT_MS);
 
-  test("btae227 resolves an unnamed equal-contribution note from the PDF", async () => {
+  test("btae227 keeps defaults for an unnamed equal-contribution note", async () => {
     const meta = await liveAuthorMetadata(
-      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i68/7700851",
-      { withPdf: true }
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i68/7700851"
     );
 
     expect(meta.author_notes).toEqual(["Equal contribution."]);
-    expect(meta.joint_first).toEqual(["Ziyi Huang", "Dehan Cai"]);
+    expect(meta.joint_first).toEqual(["Ziyi Huang"]);
     expect(meta.joint_senior).toEqual(["Yanni Sun"]);
-    expect(meta.joint_source).toBe("pdf");
-    expect(meta.metrics).toEqual({ A_first: 2, A_senior: 1, A_lead: 3, A_total: 3 });
+    expect(meta.metrics).toEqual({ A_first: 1, A_senior: 1, A_lead: 2, A_total: 3 });
   }, LIVE_TIMEOUT_MS);
 
-  test("btag274 resolves an unnamed equal-contribution note from the PDF", async () => {
+  test("i48 assigns a trailing equal-contribution note to senior authors", async () => {
     const meta = await liveAuthorMetadata(
-      "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag274/8726288",
-      { withPdf: true }
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i48/7700845"
     );
 
-    expect(meta.author_notes).toEqual(["equal contribution."]);
-    expect(meta.joint_first).toEqual(["Gihyeon Kim", "Seungyeon Rhee", "Yumi Lee"]);
-    expect(meta.joint_senior).toEqual(["Jang-Hwan Choi"]);
-    expect(meta.joint_source).toBe("pdf");
-    expect(meta.metrics).toEqual({ A_first: 3, A_senior: 1, A_lead: 4, A_total: 6 });
+    expect(meta.joint_first).toEqual(["Igor Martayan"]);
+    expect(meta.joint_senior).toEqual(["Antoine Limasset", "Camille Marchet"]);
+    expect(meta.metrics).toEqual({ A_first: 1, A_senior: 2, A_lead: 3, A_total: 4 });
+  }, LIVE_TIMEOUT_MS);
+
+  test("i590 assigns a trailing equal-contribution note to senior authors", async () => {
+    const meta = await liveAuthorMetadata(
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i590/8199378"
+    );
+
+    expect(meta.joint_first).toEqual(["Timo Reim"]);
+    expect(meta.joint_senior).toEqual(["Judith Bernett", "Markus List"]);
+    expect(meta.metrics).toEqual({ A_first: 1, A_senior: 2, A_lead: 3, A_total: 5 });
   }, LIVE_TIMEOUT_MS);
 });

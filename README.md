@@ -15,7 +15,6 @@ One command archives each paper and extracts all metadata in the same run. There
   ```
 
   The scraper checks `gh auth status --hostname github.com` at startup and exits if it is not signed in. There is no token fallback.
-- Optional: [Poppler](https://poppler.freedesktop.org/) `pdftotext` for resolving unnamed equal-contribution notes from the PDF first page.
 - For semantic labels: [uv](https://docs.astral.sh/uv/) and [OpenCode](https://opencode.ai/) with a configured model provider.
 
 ## Usage
@@ -133,7 +132,7 @@ Keep concurrency at `1`: it is friendlier to the publisher and makes manual veri
 - Verification is manual; the scraper does not bypass CAPTCHAs or paywalls.
 - Artifact extraction runs on the full article body, excluding references, and prefers recall over precision.
 - `R` and `h_lead` come from OpenAlex. `h_lead` is the mean OpenAlex h-index over the joint senior authors.
-- An unnamed equal-contribution or joint-author note (for example `Equal contribution.`) is resolved by reading the PDF first page with `pdftotext` and matching the footnote marker (for example `†`) to author names. When this succeeds, `joint_source` is `"pdf"`. The fallback is optional: if `pdftotext`, the PDF, or an unambiguous marker is unavailable, the default single first/senior author is kept and `joint_source` is `null`.
+- An equal-contribution note that names authors is assigned by position: a matching prefix becomes joint first authors, a matching suffix joint senior authors. An unnamed note (for example `Equal contribution.`) is not guessed; the default single first/senior author is kept.
 - `S`, `I_open`, and `I_closed` come from the first `github.com` repository in the paper's artifacts, through `gh api`. Renamed repositories are canonicalized from `repos/<owner>/<repo>` before the issue searches. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.
 - If no articles are found, browser diagnostics are written to `<out>/issue-debug.{json,html,png}`.
 

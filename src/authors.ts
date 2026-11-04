@@ -22,15 +22,8 @@ export interface AuthorMetadata {
   author_notes: string[];
   joint_first: string[];
   joint_senior: string[];
-  /** Set when author markers on the PDF first page resolved a joint note. */
-  joint_source?: "pdf" | null;
   has_group_author: boolean;
   metrics: AuthorMetrics;
-}
-
-export interface AuthorMetadataOptions {
-  /** Lazily read the first PDF page only when an unnamed joint note needs it. */
-  firstPageText?: () => Promise<string | null>;
 }
 
 /**
@@ -71,11 +64,10 @@ export function authorExtractionScript(): string {
 `;
 }
 
-export async function buildAuthorMetadata(
+export function buildAuthorMetadata(
   raw: RawAuthorData | null | undefined,
-  fallbackAuthors: string[],
-  options: AuthorMetadataOptions = {}
-): Promise<AuthorMetadata> {
+  fallbackAuthors: string[]
+): AuthorMetadata {
   const extracted = dedupeAuthors(raw?.authors ?? []);
   const hasOupAuthors = extracted.length > 0;
   const authors = hasOupAuthors
@@ -92,35 +84,15 @@ export async function buildAuthorMetadata(
   // meta-author list, so keep the conservative single-first/single-senior defaults.
   const parsed = hasOupAuthors
     ? parseJointNotes(notes, authors)
-    : { first: [], senior: [], unresolved: [] };
+    : { first: [], senior: [] };
   const total = authors.length;
-
-  const needsPdfFirst = parsed.first.length === 0 &&
-    parsed.unresolved.some((note) => note.first);
-  const needsPdfSenior = parsed.senior.length === 0 &&
-    parsed.unresolved.some((note) => note.senior);
-  const pdf = options.firstPageText && (needsPdfFirst || needsPdfSenior)
-    ? resolvePdfJointAuthors(
-        parsed.unresolved,
-        authors,
-        await options.firstPageText()
-      )
-    : null;
 
   const jointFirst = parsed.first.length
     ? parsed.first
-    : pdf?.first.length
-      ? pdf.first
-      : total ? [authors[0].name] : [];
+    : total ? [authors[0].name] : [];
   const jointSenior = parsed.senior.length
     ? parsed.senior
-    : pdf?.senior.length
-      ? pdf.senior
-      : total > 1 ? [authors[total - 1].name] : [];
-  const jointSource = pdf && (
-    (needsPdfFirst && pdf.first.length > 0) ||
-    (needsPdfSenior && pdf.senior.length > 0)
-  ) ? "pdf" : null;
+    : total > 1 ? [authors[total - 1].name] : [];
   const lead = new Set([...jointFirst, ...jointSenior]);
 
   return {
@@ -128,7 +100,6 @@ export async function buildAuthorMetadata(
     author_notes: notes,
     joint_first: jointFirst,
     joint_senior: jointSenior,
-    joint_source: jointSource,
     has_group_author: authors.some((author) => isGroupAuthor(author.name)),
     metrics: {
       A_first: jointFirst.length,
@@ -145,79 +116,128 @@ interface NamedMatch {
   end: number;
 }
 
-interface UnresolvedJointNote {
+interface NoteSignals {
+  /** Explicit "joint first", "co-first", "joint lead", etc. */
   first: boolean;
+  /** Explicit "joint senior", "jointly supervised", "joint last", etc. */
   senior: boolean;
+  /** Bare equal-contribution wording whose author role must be inferred from position. */
+  equal: boolean;
+  /** "Corresponding author" wording; only used as a senior fallback. */
+  corresponding: boolean;
 }
 
 function parseJointNotes(
   notes: string[],
   authors: AuthorDetail[]
-): { first: string[]; senior: string[]; unresolved: UnresolvedJointNote[] } {
-  const first = new Set<string>();
-  const senior = new Set<string>();
-  const unresolved: UnresolvedJointNote[] = [];
+): { first: string[]; senior: string[] } {
+  const firstCandidates = new Set<string>();
+  const seniorCandidates = new Set<string>();
+  const correspondingCandidates = new Set<string>();
 
   for (const note of notes) {
-    const { first: isFirst, senior: isSenior } = jointKinds(note);
-    if (!isFirst && !isSenior) continue;
+    const signals = noteSignals(note);
+    if (!signals.first && !signals.senior && !signals.equal && !signals.corresponding) {
+      continue;
+    }
 
     const named = matchNamedAuthors(note, authors);
     if (named === null) continue;
 
     if (named.length) {
-      if (isFirst) for (const name of named) first.add(name);
-      if (isSenior) for (const name of named) senior.add(name);
+      if (signals.first) {
+        for (const name of named) firstCandidates.add(name);
+      }
+      if (signals.senior) {
+        for (const name of named) seniorCandidates.add(name);
+      }
+      // Equal-contribution notes without an explicit role are assigned by
+      // position: prefix authors are joint first, suffix authors joint senior.
+      if (signals.equal && !signals.first && !signals.senior) {
+        for (const name of longestPrefix(authors, new Set(named))) firstCandidates.add(name);
+        for (const name of longestSuffix(authors, new Set(named))) seniorCandidates.add(name);
+      }
+      // Corresponding authors are only a fallback, and only when they form a suffix.
+      if (signals.corresponding) {
+        for (const name of longestSuffix(authors, new Set(named))) {
+          correspondingCandidates.add(name);
+        }
+      }
       continue;
     }
 
-    const firstCount = isFirst ? ordinalCount(note, "first") : 0;
+    const firstCount = signals.first || signals.equal ? ordinalCount(note, "first") : 0;
     if (firstCount > 0) {
-      for (const author of authors.slice(0, firstCount)) first.add(author.name);
+      for (const author of authors.slice(0, firstCount)) firstCandidates.add(author.name);
     }
 
-    const seniorCount = isSenior ? ordinalCount(note, "senior") : 0;
+    const seniorCount =
+      signals.senior || (signals.equal && !signals.first)
+        ? ordinalCount(note, "senior")
+        : 0;
     if (seniorCount > 0) {
-      for (const author of authors.slice(-seniorCount)) senior.add(author.name);
-    }
-
-    const firstUnresolved = isFirst && firstCount === 0;
-    const seniorUnresolved = isSenior && seniorCount === 0;
-    if (firstUnresolved || seniorUnresolved) {
-      unresolved.push({ first: firstUnresolved, senior: seniorUnresolved });
+      for (const author of authors.slice(-seniorCount)) seniorCandidates.add(author.name);
     }
   }
 
+  const first = longestPrefix(authors, firstCandidates);
+  const senior = longestSuffix(authors, seniorCandidates);
   return {
-    first: authors.filter((author) => first.has(author.name)).map((author) => author.name),
-    senior: authors.filter((author) => senior.has(author.name)).map((author) => author.name),
-    unresolved
+    first,
+    senior: senior.length ? senior : longestSuffix(authors, correspondingCandidates)
   };
 }
 
-function jointKinds(note: string): { first: boolean; senior: boolean } {
+function longestPrefix(authors: AuthorDetail[], candidates: Set<string>): string[] {
+  const names: string[] = [];
+  for (const author of authors) {
+    if (!candidates.has(author.name)) break;
+    names.push(author.name);
+  }
+  return names;
+}
+
+function longestSuffix(authors: AuthorDetail[], candidates: Set<string>): string[] {
+  const names: string[] = [];
+  for (let index = authors.length - 1; index >= 0; index--) {
+    const author = authors[index];
+    if (!candidates.has(author.name)) break;
+    names.unshift(author.name);
+  }
+  return names;
+}
+
+function noteSignals(note: string): NoteSignals {
   const text = note.toLowerCase();
-  const firstSignal =
+  const explicitFirst =
     /\bjoint(?:ly)?\s+(?:first|lead)\b/.test(text) ||
     /\bco-?first\b/.test(text) ||
-    /\bequal(?:ly)?\s+contribut/.test(text) ||
-    /\bcontributed\s+equally\b/.test(text) ||
-    /\bequal\s+contribution\b/.test(text);
-  const seniorSignal =
+    /\bfirst\s+author\s+designation\b/.test(text) ||
+    /\bas\s+first\s+authors?\b/.test(text);
+  const explicitSenior =
     /\bjoint(?:ly)?\s+senior\b/.test(text) ||
     /\bco-?senior\b/.test(text) ||
     /\bjoint(?:ly)?\s+supervis/.test(text) ||
     /\bjoint\s+supervision\b/.test(text) ||
     /\bjoint(?:ly)?\s+(?:last|final)\b/.test(text) ||
     /\bsenior\s+author\s+designation\b/.test(text);
+  const equal =
+    /\bequal(?:ly)?\s+contribut/.test(text) ||
+    /\bcontributed\s+equally\b/.test(text) ||
+    /\bequal\s+contribution\b/.test(text) ||
+    /\bshared\s+co-first\s+author\b/.test(text);
+  const corresponding = /\bcorresponding\s+authors?\b/.test(text);
 
   // "Equal contribution as second authors" is not a first-author claim.
   const secondAuthors = /\bas\s+(?:second|third|fourth|fifth|middle)\s+authors?\b/.test(text);
   const firstAuthors = /\bas\s+first\s+authors?\b/.test(text);
+  const blocked = secondAuthors && !firstAuthors;
 
   return {
-    first: firstSignal && (!secondAuthors || firstAuthors),
-    senior: seniorSignal
+    first: explicitFirst,
+    senior: explicitSenior,
+    equal: equal && !blocked,
+    corresponding
   };
 }
 
@@ -248,165 +268,6 @@ const NUMBER_WORDS: Record<string, number> = {
   nine: 9,
   ten: 10
 };
-
-const NOTE_MARKERS = new Set(["*", "†", "‡", "§", "¶", "#"]);
-
-/**
- * Resolve an unnamed equal-contribution/joint-author note from the PDF first
- * page. The marker can sit on the note line (`†Equal contribution.`) or on the
- * line immediately before it (`†` then `equal contribution.`). If the marker or
- * the author names are ambiguous, return null so the caller keeps the defaults.
- */
-function resolvePdfJointAuthors(
-  unresolved: UnresolvedJointNote[],
-  authors: AuthorDetail[],
-  text: string | null
-): { first: string[]; senior: string[] } | null {
-  if (!text) return null;
-
-  const abstractIndex = text.search(/^\s*abstract\s*$/im);
-  const scope = abstractIndex > 0 ? text.slice(0, abstractIndex) : text;
-  const markers = new Map<"first" | "senior", string | null>();
-  const first = new Set<string>();
-  const senior = new Set<string>();
-  let resolved = false;
-
-  for (const note of unresolved) {
-    for (const kind of ["first", "senior"] as const) {
-      if (!note[kind]) continue;
-      if (!markers.has(kind)) markers.set(kind, pdfNoteMarker(scope, kind));
-      const marker = markers.get(kind);
-      if (!marker) continue;
-
-      const names = markedAuthors(authors, scope, marker);
-      if (!names) continue;
-
-      for (const name of names) {
-        if (kind === "first") first.add(name);
-        else senior.add(name);
-      }
-      if (names.length) resolved = true;
-    }
-  }
-
-  if (!resolved) return null;
-  return {
-    first: authors.filter((author) => first.has(author.name)).map((author) => author.name),
-    senior: authors.filter((author) => senior.has(author.name)).map((author) => author.name)
-  };
-}
-
-function pdfNoteMarker(text: string, kind: "first" | "senior"): string | null {
-  const lines = text.split(/\r?\n/);
-
-  for (let index = 0; index < lines.length; index++) {
-    const line = lines[index].trim();
-    if (!line || !jointKinds(line)[kind]) continue;
-
-    const prefix = line.match(/^[^\p{L}\p{N}]*/u)?.[0] ?? "";
-    const direct = [...prefix].filter((char) => NOTE_MARKERS.has(char)).join("");
-    if (direct) return direct;
-
-    for (let previous = index - 1; previous >= Math.max(0, index - 3); previous--) {
-      const candidate = lines[previous].trim();
-      if (!candidate) continue;
-      if ([...candidate].every((char) => NOTE_MARKERS.has(char))) return candidate;
-      break;
-    }
-  }
-
-  return null;
-}
-
-function markedAuthors(
-  authors: AuthorDetail[],
-  text: string,
-  markers: string
-): string[] | null {
-  const positions: { author: AuthorDetail; start: number; end: number }[] = [];
-
-  for (const author of authors) {
-    const occurrence = findNameOccurrence(text, author.name);
-    if (!occurrence) return null;
-    positions.push({ author, ...occurrence });
-  }
-
-  positions.sort((a, b) => a.start - b.start);
-  for (let index = 1; index < positions.length; index++) {
-    if (positions[index].start < positions[index - 1].end) return null;
-  }
-
-  const marked = new Set<string>();
-  for (let index = 0; index < positions.length; index++) {
-    const position = positions[index];
-    const newline = text.indexOf("\n", position.end);
-    const lineEnd = newline < 0 ? text.length : newline;
-    const next = positions[index + 1];
-    // Stop at the next author on the same line, otherwise at the line end, so
-    // a later footnote marker cannot be attributed to the last author.
-    const end = next && next.start < lineEnd ? next.start : lineEnd;
-    const segment = text.slice(position.end, end);
-    if ([...segment].some((char) => markers.includes(char))) {
-      marked.add(position.author.name);
-    }
-  }
-
-  return authors.filter((author) => marked.has(author.name)).map((author) => author.name);
-}
-
-function findNameOccurrence(
-  text: string,
-  name: string
-): { start: number; end: number } | null {
-  const key = nameKey(name);
-  if (!key) return null;
-
-  const { normalized, map } = searchableText(text);
-  let from = 0;
-
-  while (true) {
-    const at = normalized.indexOf(key, from);
-    if (at < 0) return null;
-    const startsWord = at === 0 || normalized[at - 1] === " ";
-    // Superscript affiliation numbers attach directly to the name in pdftotext.
-    const after = normalized[at + key.length];
-    const endsWord = after === undefined || after === " " || /\d/.test(after);
-    if (startsWord && endsWord) {
-      return {
-        start: map[at],
-        end: map[at + key.length - 1] + 1
-      };
-    }
-    from = at + 1;
-  }
-}
-
-function searchableText(text: string): { normalized: string; map: number[] } {
-  let normalized = "";
-  const map: number[] = [];
-  let pendingSpace = false;
-
-  for (let index = 0; index < text.length; index++) {
-    const folded = text[index].normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
-    let hasCharacter = false;
-
-    for (const char of folded) {
-      if (!/[\p{L}\p{N}]/u.test(char)) continue;
-      if (pendingSpace && normalized.length) {
-        normalized += " ";
-        map.push(index);
-      }
-      pendingSpace = false;
-      normalized += char;
-      map.push(index);
-      hasCharacter = true;
-    }
-
-    if (!hasCharacter && normalized.length) pendingSpace = true;
-  }
-
-  return { normalized, map };
-}
 
 function matchNamedAuthors(note: string, authors: AuthorDetail[]): string[] | null {
   const text = ` ${nameKey(note)} `;
