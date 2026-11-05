@@ -1,0 +1,136 @@
+{
+  "paper_name": "Supervised biological network alignment with graph neural networks",
+  "authors": [
+    "Ding, Kerr",
+    "Wang, Sheng",
+    "Luo, Yunan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Kerr Ding",
+      "affiliations": [
+        "School of Computational Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sheng Wang",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yunan Luo",
+      "affiliations": [
+        "School of Computational Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Kerr Ding"
+  ],
+  "joint_senior": [
+    "Yunan Luo"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 8,
+    "h_lead": 20,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 4,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computational Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yunan Luo",
+      "openalex_id": "https://openalex.org/A5040139742",
+      "h_index": 20
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/luo-group/GraNA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad241",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i465/7210461",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i465/50837181/btad241.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/luo-group/GraNA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad241/2/btad241_supplementary_data.pdf?Expires=1796493759&Signature=n82fBu9f38LZlDAiNaY6iI0lwB3mUmJRUGV1oHBj5fnwtCgHMP3RKcZjuxpwGjheE9lB94qQ6~uAJWdUkGJq4QCBczHpZsUzmcjUdAqZp1JUBDeTDs8z5dRlvTlPbxG6-1oyaPtB1fVPHwu6JaY0t8Iy7qVuzqDTampHcgX-EDydmc2AgeHqXe-K0ZsEDaJFE3pWOavxObmjeLKe761K0SdV1H5Vzm377d87zY4yizZK9VORl9Vxv9dJSYqfrFJCtp5w7b2YvOdiipWo0vzEKAt1FjyOlgHKc~3~7ZyfQ7bEMjH5Yuz55aZKTlQY7OkWImWxNNcBEGpq0ctLI-sP0w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.flaticon.com",
+      "https://thebiogrid.org",
+      "https://orthomcl.org/orthomcl/app",
+      "https://www.uniprot.org",
+      "http://geneontology.org"
+    ]
+  },
+  "files": {
+    "html": "files/i465/article.html",
+    "pdf": "files/i465/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad241/2/m_btad241f1.jpeg?Expires=1796493759&Signature=Ye56vWWLmxWyEmXj1IbeOE-IccNMG3LGBjys583NTcByHVDBBfWhftZlIloKQfHoX6tybfAuzonXb~OeWbtgA61J0W5xq3uwnvVUfqIyASWddAL2VvlJfddT-jNZ-YO7lS74yPpT4Dmz8PN69DWxbmk8OVNOSj7ezsVCqYqgTzb9y6BwKg8dj082WLyYWtVtWX6-7NDWj5hhc~mdixVS5jKvLsT9Q73LUe9GRP9UrYNb0RCGbW9Vj5X3lR7jzZq9S4q8Ssxl1A210rczgxof0XTOvIss2s-RUGRLjincX2v1OLmIFR2A8W-snMsOYmHt8aNEddpNHTbVshHK237K9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i465/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad241/2/m_btad241f2.jpeg?Expires=1796493759&Signature=aosXAkzitaJyVKsadd3J0TMgiBae4a6yXWs3YjPSHpvK5n56CM1kz3RpSzAXYdPRvaOm0~fzLU5VqEDOqd8bHixSrvCrN4PNnuefSGBQPqQAMstjGivZJgKWTu6CNImSGqdZxGmg6xwHVXoANlNCM1SsZJKbdANqo8IomtuFSDxrFGN8B7WrSMQXW5e5rHzjvU5FFzQbJCUp39v0y4fFslxAlANddYCioE0-B6~Kge0LZ9ScAEB5jbgMHtcNkHKlBS2jPhkRqpjQWnLVDhAlud2lX~Bkl1F2WcZ6gEU79tqm8jLCicU3C2GsfDzE1wuZ3GfScPWqYfURGPuaesIhaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i465/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad241/2/m_btad241f3.jpeg?Expires=1796493759&Signature=ojk6AG~JkHqGXEYbzQNpHWVyC5EzvbxsruaVfy7xK3mg2U3lCwuNWpmxzHzaF2FJPmc9BSNK~Kl9QL2ei0wz4HhK8ZXT9K~6vX-7fOCiUo2SIirVNdkgYc-OAWz4nV6Lt3AuADl0~YayfPlPuXhd1xL3~UPeaiwAl06aCpgF-KM~SyRfeRmrlS5MLOLa14yjr8CpOZ7hboIJM6VujqaY0UKf2Jl5ZaG05tyUEgB3JOHNt0SpNQPE5UMu~Sk6tFQMlibCKZgTK4RuxGPz9a-nvSlwVsIZS8ueUPID9e8fdYwCyT3SBubEy8gCjFCt8Kn0FRsS-LxyBWp9ahAomDiTqw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i465/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad241/2/m_btad241f4.jpeg?Expires=1796493759&Signature=SicQoE57xLXOCvle-2LwiirShSjynNDckQQMOhXCJdHebqXY4GBF0W2M2bbFnYLloKOp3TtZmJ03k4RwcjdppRxmYm6qfOhOET~XfJ~useLlpqw-f7sgebQFRVSYgDJJgnzfG1GX489o5pzJfgvDPfuoet6FNTemYm1WBtNgIDYBtIcLn0tRmN5YRlRPuJAwWmLDcoekXtorXcD3IGCEEbtxLrT6QQ1jEl-dDIUeRF7gWz2mrqrz6MS~K2b2prVv3MTWCGrZO0ZPj7cK5MOuUej7eH7tAMIcoUodjZsGWlLaPeElbC8t1Jj5QE8VCuvFI6Wwhj8imQevHsyvyvZf1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i465/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad241/2/m_btad241f5.jpeg?Expires=1796493759&Signature=Li51KNNN24NJOT9l4awjAF6TL-kOgNgyG2NS6uHeqVCtla1q5ke1HiL3dnPixQhxy-Ixda-wsyM2aQbqjH64j47HgwvC4Vo-DkRf0LOeIqCrQGNCMr0p7ftUJ4u3B9lKrUA-uIqEIrpk5lX40-7soHoaiTwZreeslOxWXtLLwMFU5JTfAQIBwC8DaTjsPildW5iqNiIQ3pcMqt3vSFVl~i~rPiKeq1WfL-otwZWcYs0JqJDfFimMmcGLgjClExKd1Q8D0RUtZaCChmgAzCP7zKZnn~FZT92JfO3tjCaKAXXw9zxPoYDpAIQqGYx98X5dAOIrPkk9sldKnRH1J8SI8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i465/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "paper_name": "EnsembleDesign: messenger RNA design minimizing ensemble free energy via probabilistic lattice parsing",
+  "authors": [
+    "Dai, Ning",
+    "Zhou, Tianshuo",
+    "Tang, Wei Yu",
+    "Mathews, David H",
+    "Huang, Liang"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ning Dai",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR 97330, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0000-9925-7874"
+    },
+    {
+      "name": "Tianshuo Zhou",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR 97330, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0008-4804-0825"
+    },
+    {
+      "name": "Wei Yu Tang",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR 97330, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0008-1141-9479"
+    },
+    {
+      "name": "David H Mathews",
+      "affiliations": [
+        "Department of Biochemistry and Biophysics, University of Rochester Medical Center, Rochester, NY 14642, United States",
+        "Center for RNA Biology, University of Rochester Medical Center, Rochester, NY 14642, United States",
+        "Department of Biostatistics and Computational Biology, University of Rochester Medical Center, Rochester, NY 14642, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2907-6557"
+    },
+    {
+      "name": "Liang Huang",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR 97330, United States",
+        "Department of Biochemistry and Biophysics, Oregon State University, Corvallis, OR 97330, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6444-7045"
+    }
+  ],
+  "joint_first": [
+    "Ning Dai"
+  ],
+  "joint_senior": [
+    "Liang Huang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 4,
+    "h_lead": 27,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR 97330, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Liang Huang",
+      "openalex_id": "https://openalex.org/A5006404928",
+      "h_index": 27
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/LinearFold/EnsembleDesign",
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf245",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i391/8199398",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i391/63745640/btaf245.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/LinearFold/EnsembleDesign"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/btaf245_supplementary_data.pdf?Expires=1796441351&Signature=r6C3PnkPDOnq7MK9InjrnNl86Q2S6oVlHjWuT~SOOa7xhD3L6Y9NiFVnFjRIDg3diq11kDG7SyEA-2AdsBqwbKfSONB521djali54~s2AJ5iOd8RfBOLBeV4QAG~NGFmjHrk8CfsgJV4T8kjNFznJsCZsieUZ6m2ZAAZ77zYZvJJmAM4Bj02EwDCux7qYPPpXMYdVa65B1d0c42Umrs7mrtiSfXI50OMsWoXGpdHozafEA1bXgfUIgNlhkYXDLkDoXpioipRS72Ffkf8mUmcgvwPe6QPGZooJ1TusW-Imb7~aDLyixzxDmCKYYKpDwUew6MDCPcFTvhgCfqONzXFWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i391/article.html",
+    "pdf": "files/i391/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f1.jpeg?Expires=1796441351&Signature=3ON3mtnfcxUbSvduHC7AnjbRQR6xa9Y0RJZZ9ZPQ-ahEWHmZZ7Ppm1zZvtmUqPNBRUiW6CNX6zhwZ3SLBvuYtxBxJI0AdUWuHM-tXG53MfQ0yNs9dfYX3aeOuEkShFKi5v6H8oeQTwSIhqNdoHCW9H7LTqPS19W~yQnN3LbESk8owm5h8boIv6jdy6RYU-5DsmWABaiHTvQDXGM-GHySyOamTJx~dA6fbWlMFEiGvteW4F6TldX1FbnWZIFrJsn8OyXHupO-YK1JsH94842~oeoWMldLZ8NAlsp-xo9goRkChGVrIsDygPAocKyxhfpZVFUY9~iLkguUXeABZOPziA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f2.jpeg?Expires=1796441351&Signature=y8lL45wghxwdD0zwUKBrErFxhlu330UOuhBACLbLtWnjcOqXtlPjH4ytvwNjupZs9jl5l9EOE4kGNg~3B1Z3pCFUHwziCvfkn0iyjT5pElEXPZbwLOTufNjZJxheiomjxI2czS95Co3HoOjxfqFa1Ll4EeSCai5CBOgBdfSKdqj6JB38yxapCFvZ307b1BqWAhuV30Nz02HRrJbh~SQeCtzzwbfFul0ykeulDeIHR5XNMJeAi4KIPm3SGfc81ReU6BaAAfteox8SfmhrkSK9ZtAt5QIYM4C53~wm1rA3RspstZpa4b0MfswqZYBWiLh43Aun0RaIG5GhcQcHlo5l3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f3.jpeg?Expires=1796441351&Signature=Z6hCZsO71kjUwC5BETwStvehn6DyR4ALIEZM19wYyp9gf7UF~4tIGHSWe81bCWdqlwL~kkqCUobA-AQtgqLkShzyGUdF9mjcgogpifHgbdAbtPJn9Hhv8rLYawAF2OWKCeuL-vig63yCxkNyNKuznHbC4OMOt0a-rz9ckYUbzjzEFY64NvLMSeXhkCHIqlBp6PP43KxIEr3~QZndUB5pHX74Kzb-wjBh8hxyR1Y7VFtaeikTh-BbYK2p7r9kWz39xla9xKEwzqpKR6q3WnSrrYlUcCoeK-RLqV3P6OBwLQHMOFlPa6XknXOZpNDHCKpjefIZp3UNQRKb8pElXqsvJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f4.jpeg?Expires=1796441351&Signature=FQttc3md6WPBil2r602mueHN2NGBPYfrKJ1bIhWkiM2z400IwM~GnPUiXQRL0rCnV~Q8wfoFOlQBghey7CewOruWUx3TOWPutMDZtQ9itNnq0XR~v2zIMRNBP~1~rlTuRlKmeTG~FDMvAJxeJ31sGG-Lh7kGvFaEosJawfSzHkNSuK6CDD~wRLND8qy9sQ590eJS~klBjriet1apFfMEu97Pp7aEVu-jJdOmL0MscgzxWwryr~0nw-T6DI3Qf~iJyRQ2p7E~SY8ic4qpoH8oO3Xa5KNrAY689lashhgN0tINf59A2bGXAy8FJ9JhQpD3fZpLxAOiyXDWNl0diUo2Aw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f5.jpeg?Expires=1796441351&Signature=XNcJKCCSC7Hc9tj40fdyD2inCawX-M5eokVuJ3hhJP1ngahzD4Dca2Apa9X2vCJRL5c6A2WW3biBGIVf4WO~g8ZZUBjO3XCz8tqnQkRs7Wg1YVEyr0lja6VbFjzqlKJzaBnvIS16bt~fb84KRDRgLOwqKWrgevXqkdUOdmrAORuVvev7f3vgVi9nRe1yPbEdRcysp3uKifG2j1oCOtQN9aOS9Tf965PQgzb7Ckgl0VvPFiBS5OcQocni2xihvZ3YKGlWcrvyJSzZJSV5xOztvVczo47he9b-Yp3jxsX1Wm7tEl-N5C-EweIrf1fwKPG8xnEQAN1oBeIEIeioQeZbbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f6.jpeg?Expires=1796441351&Signature=CsKBLt3fokwX4xncG9ES5aN7GPw~Di49s-y~BKiCoRF4b8JGI68D6gx8SvI4EMpbs1HbEsUU6uofh9RZ7DgOlZLThK2sk23sKJuHVjNHN2BqhcpFS68~BOHMEvY8uPu-66r5XCafV8R3j5AiOIrAlksT36R9hCdJhCqg9vah6KxBqyZSpJUE7JtlwblXPZgy8gyV849kk~lhQaizxQ1ehlxy6g~V4YUhRCR3nUn7aDDFRijcJe~Do6NC5WWV3M76etRpXyB3RvkvOiUumyKDxT7CqULcEwsHSnYIOySxUTUu35-KOrOymlnc045i-hFAYPsVau4Y-kuJ0KwlpvgLZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f7.jpeg?Expires=1796441351&Signature=DKNRSUpzj8fddzuCLMa9ZsfjUf5d8SPGWLocXbLcdroF4H6Oct9HxW3HwrL1ujXlRVdZWvIXU4mcnsODZzRpWARemt6-ok~NPUGldLugUH4olOEN1TjbBkp5w18nikpGq6AIZuNF2sD5IYTl1yU2kWxT9WqBDnBWBAoZZiM3X5z7ntcuucW8f35pd4itfbshp6CkU9~ZzVi0XdwzP4uQuI~F95KHmxX-SZ0nBpatgIaxAkiEpKMuhyQsukgl41rb~KPxs6aMauELuBc6hzX~I~Yob3jUFbGCBjLwiDqP6BU-1jI5uh5sqia~V26JvuWGOwCa3xenAMAxpnrLwNJaiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f8.jpeg?Expires=1796441351&Signature=vaxca38JdcSGvfxdkvXEGQ8QvJKPWx7-c4JWKE593nmewG9wdaxGj9LgP4tI0xV85Fy-doynS-5LSDxX6Ka25P5YPCP~Sa1U8urFW-lPLaNeCB-25l4bake9--WOdswdKOru-PytH41ogvYJNy~9YLdBXnJkaL91Vd88LblryyvSuwONmEj6kEfdBzszjbhRtOXN~4U796dOsSJJJHYpmWQvmUDL7u1vdKRMdCd1t9k~zNdKaYLL0oFBkj0zEVOE2DLFzu9bomEpmlHuVFUNHzTQxmi4Tg5yZppvZOf0Fosk4RaxKWVDOOa5-Szoh-M-t21bR~XLuHP36mGGb1Tryg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-008.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf245/1/m_btaf245f9.jpeg?Expires=1796441351&Signature=06YdpuDxsRmiWWAEGqGxZKMfDyx7-grvlze1x~ZEpGA--Y2OpBnYymAjek0L~2~-16FZIBfcTHkGJ3XapV4yGdR5eGsjBkdLhR3so3z-2wDKph0Cq-P5pmINnylSrLadM2XP-asiIsJ3JHGwOIfm3VUTX9q3KijwsZhz2VAtCs4iGi1MYhO3O-9xx0tXXgwXImScNn0ghgdQVCTa6UDBl62Jcy~i9gdNBgvMTP8D0PnWjO1ZxHrTEukP7DmcNUYrDVbwygsOxLovSDVs6KvA5Mxu5X5ARlgA-7GkEhrhhCjGccAVIVxI0jMkyZgl-xyfElNtycVyZLpDeLliAhQZlw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i391/figures/figure-009.jpg"
+      }
+    ]
+  }
+}

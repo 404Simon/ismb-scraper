@@ -1,0 +1,181 @@
+{
+  "paper_name": "MLGL-MP: a Multi-Label Graph Learning framework enhanced by pathway interdependence for Metabolic Pathway prediction",
+  "authors": [
+    "Du, Bing-Xue",
+    "Zhao, Peng-Cheng",
+    "Zhu, Bei",
+    "Yiu, Siu-Ming",
+    "Nyamabo, Arnold K",
+    "Yu, Hui",
+    "Shi, Jian-Yu"
+  ],
+  "authors_detail": [
+    {
+      "name": "Bing-Xue Du",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peng-Cheng Zhao",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bei Zhu",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Siu-Ming Yiu",
+      "affiliations": [
+        "Department of Computer Science, The University of Hong Kong, Hong Kong 999077, China"
+      ],
+      "country_hints": [
+        "Hong Kong 999077",
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arnold K Nyamabo",
+      "affiliations": [
+        "School of Computer Science, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hui Yu",
+      "affiliations": [
+        "School of Computer Science, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian-Yu Shi",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2303-273X"
+    }
+  ],
+  "joint_first": [
+    "Bing-Xue Du"
+  ],
+  "joint_senior": [
+    "Jian-Yu Shi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 20,
+    "h_lead": 27,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 62,
+    "I_open": 2,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jian-Yu Shi",
+      "openalex_id": "https://openalex.org/A5000609872",
+      "h_index": 27
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dubingxue/MLGL-MP",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac222",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i325/6617514",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i325/49887068/btac222.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dubingxue/MLGL-MP"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://nlp.stanford.edu/projects/glove",
+      "https://www.genome.jp/kegg/pathway.html"
+    ]
+  },
+  "files": {
+    "html": "files/i325/article.html",
+    "pdf": "files/i325/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac222/4/m_btac222f1.jpeg?Expires=1796546832&Signature=RsWpCxNKLj7bmNKHKt6Ao~eU8~CnY~lt-v2NBfaqNldHOyY6gpz4jGnMhb1DP9acO2oGriSXq0xDpb0qU5NPRDvkks2ulNUvhB0NFGF8CJRzEkiJAoIfQp8D6c7V9hUD0-6wD-VpF6Rp4kxB~A8y09pQu-YlsEhBmk69XBPXrEjB3Zij7k4QHdwdk5Ly~bdoUmNVnNXYWD~OvdWDuzHmD3seU3BG8c5WGauR-fDHvC7bzWQqgex1itWSsdSXXjLlzXaDyQ0VJez2qll2ytl-SMV1Wlz3H-jtTiauiWUPr9QlsBuJcSHRMtfQtIt6GtRaguvzEEGAMVif4Ou1AK8YiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i325/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac222/4/m_btac222f2.jpeg?Expires=1796546832&Signature=T1PtucxlY4bg0wKTBxrD-C-I~-50Rr4qPDhS1bEej-Q1zlqp2-AfCQXTKz1MbDs7QtsgHWokMs~ceRlxndmliVt~zGIVDsngVCyH8pIfpjjJhe~Sdnwiir47iyhXV8KXaV8ObHznedM24NSyX8QRgPAG3F07evxY-fPn4pquYdB3S4jLg80jhVo02LiB31BCxUdhBofu7a8tEy~Z0ODzFrfrUCIlssRnmmOW4F6GncGdXSyhTWRkdtSwRSaiXbmJ73kKER611Hjq7g0HraVnlJbJUqfVBR5qa29CbJ81xJHyI8kqBhiOZ2J1tUxsFPHjcxYS9GYjoW4UUoAPYswQag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i325/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac222/4/m_btac222f3.jpeg?Expires=1796546832&Signature=hXJrZeB0sP9XmqlkVJRs69CMYblBGq-FBriRgHLfSi955Z-ftp11L9JrM1hHCUudVKvTo89pjszwqx0RMOvzPv6E7ixGBu2XZymZgJ9UradkFv6EiF2HJF7HrBIetQOrvbPmvlzcRW4HDOpPEu7qud~xC4PZBXvI4k6kEDWvjNxQfYpuwxiKQ5wShjV-DytKnpMqK3h7DC8fsPvxo2qO3A0f5SclllDrm7dkvHChO7LaR-UEjntj-s80kOX6OOyo4OrAyIqphKHPQUAsqmgT-NH7o8vcK~fd-ECQ4PdWfvXOqk65BIaeT-LHMDlqMlZ2g~K2LrVGlH5hoZpmBPeGxw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i325/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac222/4/m_btac222f4.jpeg?Expires=1796546832&Signature=LBwAwLRahzOQP5EhdzaiuLn9eCzpKAUgXPZHnEQBatlL3JMuD8cOB3zuwD66EZQkP63mcYnpc1HsmnvjDTrXzxVnG3Lo80DUHpu8rdx9PP9jsWUWoHLh792wdqUtFxXy1zuEyiQ7PmaiVvpOdvplN6QI4rI-DU97CzeEa2UBiX2CIjIxA2ZlLMLbEIqZgRA2vIo0ZRLg2GSbwVul0Q7KriPvS3J5sVvtwO9w8wweLJfSRtUk15OhprIrH4eaJvm1Zx93isGNYDWi6MwBj6exM~u8BT5BV6zpu9HxnST9Iv9Q5Jm9Of6Nvj-bWbJkmjh5EVg7FvgCie7O89LIRRa~SQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i325/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac222/4/m_btac222f5.jpeg?Expires=1796546832&Signature=AvVC3~uu3NmpWF5ifrBE6QJYZNfqgITbG4ZYBLeW~JZfHLu2J6nqe4aa6y6WMY8TCrxEKIIIOTOfZNZxAjYdUbMxt4nPIFr15VGaNccrRwxqydRvz9an-pioIUIJDdkqzfq8SYDoCy0wQM9H0Q~knB~q1PEyf2SpBqgposbczh1NGLBbUpst-eyu1yj2tnQhnnqkBhHotmM5EBK-teb1BJj1D~Md9C8SE1g5n7PjsCACN2H8UzqGnH2YytXGg2fpMCPmoevXyPDQwyGcWMhzkArK9uvwe~oO-rjvMWGn3K84RTA~cMylQw7aJTmw-6zlkmg2ClXYkzcVu-7sbxTnQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i325/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac222/4/m_btac222f6.jpeg?Expires=1796546832&Signature=RNiyOI7rlo5ulP2N8U~2vcTMbwjRrpiNyy2DcwqhC97rn-tCS8XfVyXkmSmb2Oiutc7F1SztfbyrP2Z8CJ5s74YqLlIoGwKXKgLc~Wwcqtbb9ItCtUx~cP9sRH8XWzWBqvfs7Qdaz5nPS1INTqQ8yRiBDGm34pjH52TZngx0EFx5KQTZp6uYV917A7xIDZuyyyv6p-4jJdT4bjzvzG~i96F1N6o9FSV-pyeKyr6o~tZEEQkEYM85f9Ez7UZ-J79o5wwEqNY0fABgPttum7~CJXTL8DYoRPx-OkvOn~jVrj~zLv9k0BN0opwJlDMJXm0iGRPBon-u-xOVC4B1GVPgbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i325/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "paper_name": "Phylovar: toward scalable phylogeny-aware inference of single-nucleotide variations from single-cell DNA sequencing data",
+  "authors": [
+    "Edrisi, Mohammadamin",
+    "Valecha, Monica V",
+    "Chowdary, Sunkara B V",
+    "Robledo, Sergio",
+    "Ogilvie, Huw A",
+    "Posada, David",
+    "Zafar, Hamim",
+    "Nakhleh, Luay"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mohammadamin Edrisi",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Monica V Valecha",
+      "affiliations": [
+        "CINBIO, Universidade de Vigo, Vigo 36310, Spain"
+      ],
+      "country_hints": [
+        "Spain"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sunkara B V Chowdary",
+      "affiliations": [
+        "Department of Computer Science & Engineering, Indian Institute of Technology Kanpur, Kanpur 208016, India"
+      ],
+      "country_hints": [
+        "India"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sergio Robledo",
+      "affiliations": [
+        "University of Houston, Houston, TX 77204, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Huw A Ogilvie",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Posada",
+      "affiliations": [
+        "CINBIO, Universidade de Vigo, Vigo 36310, Spain",
+        "Galicia Sur Health Research Institute (IIS Galicia Sur), SERGAS-UVIGO, Vigo, Spain",
+        "Department of Biochemistry, Genetics, and Immunology, Universidade de Vigo, Vigo 36310, Spain"
+      ],
+      "country_hints": [
+        "Spain"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hamim Zafar",
+      "affiliations": [
+        "Department of Computer Science & Engineering, Indian Institute of Technology Kanpur, Kanpur 208016, India",
+        "Department of Biological Sciences & Bioengineering, Institute of Technology Kanpur, Kanpur 208016, India",
+        "Mehta Family Centre for Engineering in Medicine, Indian Institute of Technology Kanpur, Kanpur 208016, India"
+      ],
+      "country_hints": [
+        "India"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luay Nakhleh",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Mohammadamin Edrisi"
+  ],
+  "joint_senior": [
+    "Luay Nakhleh"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 12,
+    "h_lead": 50,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 192,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Rice University, Houston, TX 77005, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Luay Nakhleh",
+      "openalex_id": "https://openalex.org/A5080534085",
+      "h_index": 50
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/NakhlehLab/Phylovar",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac254",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i195/6617481",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i195/49887284/btac254.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/NakhlehLab/Phylovar"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i195/article.html",
+    "pdf": "files/i195/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/3/m_btac254f1.jpeg?Expires=1796407367&Signature=oyaoa0a1yQlNW9pJDBkd-wv-0b~qNik-Ntsciv~8KoguISih5Fn5uRwYe22sHVcpcsx~E~jt9xWNSlMVoJ7CcmHTQMi2-8hSqEi-iWwBL6GB091FfxJivd~cNbaHEWYcj-yb-ozN-DNrFqk6GvDj2E8z91F883yBh4MoYMTgqQPB1C-pxuI2qtrSA8GXJTXeE5nU4ces3gDJ3AofzAfDDKrj6no~-MAA~-RRBRbXcLOYiA3K67cTW4Yq1bSuvwGLtAB2T6hvLBlviDxi7rtUtrNcnI8uJLOiSQFSNrRakNRrNd7ZEUhLK1YlI9AqUWY9PBaCPPZn5ZIVfdmGQht0gQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i195/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/3/m_btac254f2.jpeg?Expires=1796407367&Signature=xwxpThhvi9caJqaK5pw2CKkqGvHg19rec5Kil5JzVluGGSgaWI2-q4Rd5ViWaB~htscFmRrpFTN7n~XuciiPae9DYEqTmAfws6R28n5iD4K5uqpCLdam-nSxXJOnyX6vKaXGtUYFpssDIcGi1ZOEQooZEKtcYBBnFuZ1fqHKH8DhzaRzM9Thb7apG76Sfxj3K7HGvstDEl5F5gRuqaQ7Xp23twSW3twuAtwVwBM7mVlpU9KecDX2G1PhOsf3Av1iJyX468iLXiN7wvY28MAsY0DldTq7DI8C2CNHlI1tTHo6m2OYsnNnIkau4wGprhbtrMY0qQ~pI~A~drrr06JPWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i195/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/3/m_btac254f3.jpeg?Expires=1796407367&Signature=NSzozYZxQ9MDlC~kIHbiASMXh4iPiCfjDXjqsxeKkx~IFZhrOO2kwPT02a0zUXRyj6~Nul8hZkZRyzzm8JWt7SndWrA8Qe0SxSDtwM4Vrgr5twb58aj7I~2QfbRzrRnlNQGtn~S~o21tEaRRpXyov9y-NzzGd3AyazCYz59swK1t9OoBbdfWAHj6B~KDcGQ1mXrnn63ILxOA42-vyoGI9oYTllnb5gTyGcq3hRaW6yCMU8dUts5Q7YonMY2G-w2zzovQTNuSgaEWK5W6kktCvjBKrQQgxTNAZuIzYuWbrYoMqEVP~QLzpaTYFQOg3VDdh5GdziwSQQJkpzI9uANVTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i195/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/3/m_btac254f4.jpeg?Expires=1796407367&Signature=rqJD3xyeFRbbdCt5M28w9uh~fUEmjx7Qco00wWxTKzhfH9DByxBsRrxZoxXQkiztvmM8~KHcSL3xNA46S~jQzT3hRvRiv8TW5115G02Y3PV9XSWHEr9QGTBc0Py1MO~NuFAZNjFsHig5SmijNlQRIbUVZWW3ZHigxGgga-q6Ht~nosAHwaM~HI5g3WHndhAeUeSZ~7bDQLCXJoEU65EdUNx2pOhx3rNONXWj1aKgWXtl~hM1UY34VK-EJYJ7z2bHhibJ8UpjnVG4S4wtY3EGGcbahNWCYLHhggM0KS87mQEQGXvOvUBouOwBDmC1YaPvlkVwoBuhjJyWjd7kUpVeGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i195/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/3/m_btac254f5.jpeg?Expires=1796407367&Signature=25YXmwAcfgPVRSo1ovON03l4Fmf~C5NuWGealhnwk0j~yNawBPoiUggHp0QNxlrq906jwlSCX70WpCggT6SBUBJn9t0CYSa10DxzeRwJZh3n3OyKPeE0FGHKYQ6zpd3zLhklIQyHHJYF9ccLdIDtXwL7QucoHUJ55rEjvoJg79XxTHem~Rk4AkQmY5T1PqTRz6dTe6~6SptOEI5-dlZLuaEtVj0PFqBH2L6nuxt1Q797DhQOk4JwvGEvpNmGP9Xg7gWLvr8XrCEVznAjiX4zubF1TcskiBpLZXR6axz9bHFKuJDeZOyhFAy53-J8k0nnRObFDqPZq20OwFJVa2XZdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i195/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac254/3/m_btac254f6.jpeg?Expires=1796407367&Signature=5InLLcRcl7QX7PdKvfPnRTnoPLwdWLQyWtvPEGsfybT6-V4DpspWfj-hO0t2RjAispS-qjgMHinMGNrh4ssT8N9WM0fwRjzvrBVgUYKdLJ3YMz~0w1C3jyqpD7qzRIvSTvrm7Q9ILXUGi-QHk1hagf54A64RQ0lc9rZsT12Ns4BBDnIWayBKuwfX~RObbWBk8EaNh~XLMtK3SeaasM~x0xAGiyRh74iUQsappqucb-Ua~C6uspPTBBDoAgdyCAbftBXuznI5q-5EZd-XSXdY-tB8IBI9qeGSfz-52bJh5LLqtnIPHWvEuyNlvX675jaRYO7kd-lRt316gl3zaQtVXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i195/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "paper_name": "Predicting fine-grained cell types from histology images through cross-modal learning in spatial transcriptomics",
+  "authors": [
+    "Yan, Chaoyang",
+    "Ruan, Zhihan",
+    "Chen, Songkang",
+    "Pan, Yichen",
+    "Han, Xue",
+    "Li, Yuanyu",
+    "Liu, Jian"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chaoyang Yan",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300350, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2061-6040"
+    },
+    {
+      "name": "Zhihan Ruan",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300350, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Songkang Chen",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300350, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yichen Pan",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300350, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xue Han",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300350, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yuanyu Li",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300350, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian Liu",
+      "affiliations": [
+        "State Key Laboratory of Medicinal Chemical Biology, College of Computer Science, Nankai University, Tianjin 300350, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5516-0157"
+    }
+  ],
+  "joint_first": [
+    "Chaoyang Yan"
+  ],
+  "joint_senior": [
+    "Jian Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 1,
+    "h_lead": 16,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 13,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "State Key Laboratory of Medicinal Chemical Biology, College of Computer Science, Nankai University, Tianjin 300350, China",
+    "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300350, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jian Liu",
+      "openalex_id": "https://openalex.org/A5100414608",
+      "h_index": 16
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/lyotvincent/CUCA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf201",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i115/8199364",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i115/63745384/btaf201.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lyotvincent/CUCA"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.4751624",
+      "https://doi.org/10.5281/zenodo.15087256"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/btaf201_supplementary_data.zip?Expires=1796476427&Signature=ub5FgtrW08f9U~1tR1RzLB0gHPm9zl88Q42VhGAwMTVrqh~iGSZXYSAigTKytS7AR~qPbju0UTj9CTkzja1-h-303G7GW1pPviON~KyXueNFwF2iJQuOPpk1JYkCyHb3tYMtthiCm58IN40d7ngaLkeqgb0lS9yPtlazldfrh4GnoiZkwdC98m-VLtQGZ5lilBKd79LMhyA4wBKmOTi3bQvCTegyN5pRNy7MMVsZRSUer0wDRMNK2PRlj1E0gpWl73RdxeU4pnJm0M3il8R7Ri8eVPjTXdkqDvk5pWg0e1fh4Uy~rjbpF0BTuJwXD955w0sMytdV3tGzhuU-0VAZcQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://5locationslung.cellgeni.sanger.ac.uk",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/btaf201_supplementary_data.zip?Expires=1796898800&Signature=2Pqcr~aUgBBWM7qfVh7s8xx~YK7Rrfnjst9VVhdntNaFYCEpE~8kPyiJSEAeZZ2CdzOHULOS8giVpcQlIa0~O3~ARQag~CEyqM2RVC8HAmXo9L28BqPTyz5UtokGVALKHVv1DKdoklI61oDXATixYBlCTkwZQLgtkqf9T85uge16YDuIoeuFBryHlsjvIyVVUaqmux60vNypS-UcwcXmFX~9w-VCgKOOGt9N6b2iENRk4IH9rF-4R5BABf0Qy7VyrCnB6JHldA1Ve8~jVBMqHg-aEWRXNfZlgdrWoIKwFYCCoVt0hz36dVilA~syMvwZgniZ~I9~DVu19NbO0FLyLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://data"
+    ]
+  },
+  "files": {
+    "html": "files/i115/article.html",
+    "pdf": "files/i115/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/m_btaf201f1.jpeg?Expires=1796476427&Signature=IoUSl120EeyCwVTxgZac4sOlbLOZAYk2GwEmqRWEq5L0YdxqURa7KuT~Rjscy9jFcecbZ7krTh~oDNxzqzoU9lRcxqnFSXRF9vCM9-MJWjSXGdtJdCOGl2f~a38RAMZ-271iDNCyHjYfsSEZ2nZ4q5-eO8A6letEu40N-rvG3rJP~beT3Ibpu8biHAyfMOfcF3Gx3D8x7F-88qCu1lGnxC5cJ0A6lrViw3r4fozJgXTPFW8u8~iPX0Moy6POBDHXaicQZmtIDUcFbtDjfFdG87eQrp-i~OVbqyf5Jio7PWrlP~yq~TG6epGanHAqjPmH12MUda5O3w7SZcc1e1uEpQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i115/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/m_btaf201f2.jpeg?Expires=1796476427&Signature=wpyisxc8Ux2jZsbuZYZQP6MaHBBUBai96DNoB~gvMV2cIwjBSYo-t8GPzBTzSqDF3Qk2noOGaVyua~SESsg-kiM-C~vtCOBb9av1od--osTBL~90VxFiRly9PIeFtwu4y0UinB5~sF0d7uKFYtH4-of14M0fhq2UdjqCwDlvd7-cTcBGjWgjhMwnhITZ3ycBcZPTlH4ZNaBLPjb-pRWthkmBGLc4Z7bAMhf3wZsqOdXRcNv6HzVOsiIl3uCQDCCMJHPlfS-R2jONGNAV4UMNXsl12hffLReCFgfxhvo-DXKXIxtae8Erxr1PHrM72uEpIhJJToH84rC~4oI6R0Rl2w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i115/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/m_btaf201f3.jpeg?Expires=1796476427&Signature=JDrGlvqMqZvoCOH7s6JWJw0WLbRLesYdVYAGFJ3yVjDGTLGfkDhkxD-RBusARhKV7UPriWyEHN8-D~S9jA8MBbz5vy56c3MxwOd9e5jiyXUsPc5q4cpftzH6hMrll75s564TqFTzemx8woXh3ufh2-ib1goZm5HzvfoLsHpy~YuNyBpPtevj~UHFB--7BjLx7QAamqPHYV79pBlDQjk6lJAnEEDkVQ1~E-plmYv3zx9G70Wf3PiCGy0H3sLvGLeFFj9YSzVg4oTWSNt7a3gMhYMqWqxkCkCk35nFC5qH-i3bjqVAZGKK8jhxShi2U3FsPsZQqNYyXA6vezVVzVO2OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i115/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/m_btaf201f4.jpeg?Expires=1796476427&Signature=x7LVbht~MOG1z~detIhSanISxi3s7rc5bXIQCBjNH7RsQu-wQz3UUIdBhEUWFHt2v~mBI2NGEj4aRH8oUKzI-VfjKEK1V8Mh60DPCVKfoz-ZJ10-o5a07bUkgY6QEpYs9iIPRl1FUrA4M17tC1rxH-3TDGeKNAbDi9RqhOrtc~eNazzWF3iVlIz10QByxG7Pyd6JyGZZ~H7f6NlG53crgjpbmMdELSZ9Ruy~nWirvGE1XD-vnQxPd~rhGOwW5ZI-11npJ8creYaB9hVUGLSH6TN98lWlIgtBKApTYOvNXcG8pywBdQyWDJ30hBiQpqJ3ck0kGfl6mcRrVg3e476rEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i115/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/m_btaf201f5.jpeg?Expires=1796476427&Signature=YMppbjXzogOzyACa3ws40mar-HbU5~hICJgL4K~-0eXlN1CB8e9Ltnihr60MqVRgtjz-1BENBeiQjo9WGBrBM91R7cf7Sfya8Sw8jfETuULNYLEPWaEfbEbs1C1JLOBYR5zTNEUpk3Mk2mgmHSCzXGHun~Tc~KnCB3JeRGDLxtw0iREYvabhNbqSGUA-z3lLelaLs6Hy3vLsjGIPVkdQDTx5zRdxQVCVmICAILe-QsQiM5wVxndT1QUPfKVQb1KBDbHTFtqN72VHSkU8iY1AF3Nfte7w4Oany8bGOok1jTs40j5GRnEEQax4d2l-ZKh0GN9h3RWTojoXtYWfC4ZhqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i115/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf201/1/m_btaf201f6.jpeg?Expires=1796476427&Signature=pZg5X2E5y2Qgsedm2SypJ76ZMyVPTq6XUGg1FhKNgJulJigRKuz4sYacQKc4oKWcGsgP2oALGVqDqtAMLKT6zQKxnBbfUfwtZHM5GXAl68Sj1TLv4SOBpMBx7u-bb1StHD6uPUBWfZM2q6Z0vDPZGYHkPREiigTV3ioCKNmr~uw~fGdUhVOjy~Vn-mEuKOZOD5KZQjPajwhAZl6UKkhaZTdK-2jE1XrxrsnOHjkmoUu3SMcZjZrpGtNylXty1ucb7nTC7q7BsP5qxFn7zTEA0ae0tILSCRSe6etqYyG8gFDPCCqnvOsqQGbdvSmR1bLQQmZtF2tSYYkoN8R0zYzMiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i115/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

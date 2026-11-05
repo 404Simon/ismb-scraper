@@ -1,0 +1,175 @@
+{
+  "paper_name": "MixingDTA: improved drug–target affinity prediction by extending mixup with guilt-by-association",
+  "authors": [
+    "Kim, Youngoh",
+    "Bang, Dongmin",
+    "Koo, Bonil",
+    "Yi, Jungseob",
+    "Cho, Changyun",
+    "Choi, Jeonguk",
+    "Kim, Sun"
+  ],
+  "authors_detail": [
+    {
+      "name": "Youngoh Kim",
+      "affiliations": [
+        "Bio-MAX Institute, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0005-0456-4385"
+    },
+    {
+      "name": "Dongmin Bang",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9217-8380"
+    },
+    {
+      "name": "Bonil Koo",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4357-1850"
+    },
+    {
+      "name": "Jungseob Yi",
+      "affiliations": [
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5127-7224"
+    },
+    {
+      "name": "Changyun Cho",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8585-4026"
+    },
+    {
+      "name": "Jeonguk Choi",
+      "affiliations": [
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sun Kim",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea",
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea",
+        "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5385-9546"
+    }
+  ],
+  "joint_first": [
+    "Youngoh Kim",
+    "Dongmin Bang"
+  ],
+  "joint_senior": [
+    "Sun Kim"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 7,
+    "R": 5,
+    "h_lead": 36,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Bio-MAX Institute, Seoul National University, Seoul, 08826, Republic of Korea",
+    "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sun Kim",
+      "openalex_id": "https://openalex.org/A5100460439",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/rokieplayer20/MixingDTA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf238",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i105/8199404",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i105/63745679/btaf238.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/rokieplayer20/MixingDTA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf238/1/btaf238_supplementary_data.pdf?Expires=1796411116&Signature=Eo-VEYfkIxJOfi~i~zWdU35wIAyU5Bnet95Q96ZLn7n8gtNF1m4rKHWcfoa5qAAWdfqQNvYQON3Xszai4R1lm47zQ6RidmQ0mr35vEJxkHGdmW9g1raZkxYKjY6UjG9Fdc2CdInaNFRHHEV79uJaGCacQouylXi08nW65~bCnIVX0bQRuCbuWcI0tw6xO9ehx2z~JRAGtbFZh4PyFEy~hDUrj8bFIfR6-E~uWlFCsG~udEwSZ4ktmawSQJUAryvo6Xe9Z7YwTxLVIYHN~jwZHQmovYdGmGipf4jlbqrQKLjm0EIRPEa5NXf14tjVQylLKbIeDVB2G8fBM4lW61HJCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i105/article.html",
+    "pdf": "files/i105/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf238/1/m_btaf238f1.jpeg?Expires=1796411116&Signature=jidyoimGHVrIqCDh0YV7AWTWVImc36Rx6q-I4FVvXc38gMbv0ZjKnJMM11iKo~nxqu~IopxQASMulFPvfYM43LerTXypmyfemTe86szw9Yd9eZiBOjbXRrqfiOa7SHEXQig7eaj2VgQMXBWl3vLcXbhQZ5LSkWzHzy6wfwAYO3zhJRc4ZHHlJJj7AwYWFaEIG0Pv~lIVpNil5bkj6b-UPnTcztTmmpKN7aXEI7-qyoRXQikhr7BsWQakXk-XrLclYfwlBb8farh09XXGhGbxLQvayXycue9PTIK~eqdv4Y7aK0F-zdsclww1eSDvAkdON9seA9ksxsiXasP3yhSjNg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i105/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf238/1/m_btaf238f2.jpeg?Expires=1796411116&Signature=yrwUrTE785h1VQOLK0LIV1BJePouJUQHjXpTRN61ioLWr5gup~5mbB9NhCSQ2L7kpJj9bXALymQx7bAM369l6EsEWmu3FEbLaZNJ4juIKNX9bXMyQVRwXdqwLpIcajK0DjYf4cY-Oh0oLeQBYbJ3BIBE-MHMoVU-YmjmZ8nOQnAvfV~gzY~5BfVR~nK43eRmBOnptrPZL~g~lM1PFGlyx5Rw1WlRM4E3ojyxcP1dSlalyuwyjuI63oWfQpCtwJGyx0c9jtbsNGb-jH9bebeYuIaSjeyMTXwr12Ou8R4KZjRsOjfyJAxtLbrKogLqYhBhBVUJ3OK6xrc6Pwb0p95dEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i105/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf238/1/m_btaf238f3.jpeg?Expires=1796411116&Signature=RzeyN1o5eJe8GSEVqOyiHXixGOu4r1e2ZwqdI8kwT9meZ3gtmk5iA-D38j6x90JhngIWHmex~YDt2LP52aq-FM5-HkPhPqp~jXuSCGxwSe5EukejvnmxNns3P3DKTziHtJA9FEAHdHqd2UTm6eaZLoN9qf9W2-d~-J5Xk-zd5Xm8~x7V9e1CnZYnkgI3ZeZjEGH197smGTH3wn-YUxEAZ2Kg2BKCmljNiVUwZXkNoxNXS0rPcMNW-fATsTk6uLdCQTs~ShpYRXOPAEJ3-2IK4Cyfujn-pkunWeyeirZRyzuonuwPbEBYnEi67GpaQuH-0ramOe89J4pVnayE6zIAZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i105/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "paper_name": "Prediction of gene regulatory connections with joint single-cell foundation models and graph-based learning",
+  "authors": [
+    "Kommu, Sindhura",
+    "Wang, Yizhi",
+    "Wang, Yue",
+    "Wang, Xuan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sindhura Kommu",
+      "affiliations": [
+        "Department of Computer Science, Virginia Tech, Blacksburg, VA 24060, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yizhi Wang",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, Virginia Tech, Arlington, VA 22203, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9456-0743"
+    },
+    {
+      "name": "Yue Wang",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, Virginia Tech, Arlington, VA 22203, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1788-1102"
+    },
+    {
+      "name": "Xuan Wang",
+      "affiliations": [
+        "Department of Computer Science, Virginia Tech, Blacksburg, VA 24060, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1381-8958"
+    }
+  ],
+  "joint_first": [
+    "Sindhura Kommu"
+  ],
+  "joint_senior": [
+    "Xuan Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 5,
+    "h_lead": 24,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 10,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Virginia Tech, Blacksburg, VA 24060, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Xuan Wang",
+      "openalex_id": "https://openalex.org/A5100328989",
+      "h_index": 24
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/sindhura-cs/scRegNet",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf217",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i619/8199393",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i619/63745599/btaf217.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/sindhura-cs/scRegNet"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81252",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75748",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98664",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48968",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81682"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf217/1/btaf217_supplementary_data.pdf?Expires=1796410013&Signature=mQpLvDTBDNB8RAinY5GS3H5wBpx8YsyW4CTOEaO1yCt1QC2QOkuc-oU-QXg4aklwvch1L0TPogLTjBXMjYaOCrpCBf-zySlD1lHRQkR3rW9LOpMRTqupOGFvFZ3WzTP4ouoZD6qLEFc~PV6FA9ugk~n9lfdaRlPsg8thOGDdzRv7fLe89XyMqO5hL0BzmqcMsHC5JYV2sC0VxofKHGD6uQFdsA1H8vCA-zml11D-MadHqgwEq7xN9OPckAqkXBSzwYkh9PPGkFr87z60q8zWMVPzH1ftsR4y1N8kBRIVucaoW9ZJPMeQpXVgFMJBEg7-IdOIXlwvQJu1jYliNIQZXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i619/article.html",
+    "pdf": "files/i619/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf217/1/m_btaf217f1.jpeg?Expires=1796410013&Signature=bH0VGNk8Lx1T7vivYK6V-m72~toFjIexbsoBCS0Eaoe2cQx0a9tIA0gCq7oNBhZuIGHRbR3v9BoJmWXdsukz4vu2Rj8xYNJ3kbzTTN821L26dBN0RoEsai0t1fwVN4Y2W4qWrFjMi3YH~8IwNb9Mg3nk3viAfl7lc0noY8RWVg9RuPH1ZZZxD4G6V6nKo3HDZAOHazWt356AaXqNr0kARouja4~Sr4ULnXbdeh-nfuR8y8bErMZeGxNq3PhmojZm~WKFE9ZNuuVBU9HNpY5N-5Tngg2RcATXM5eR3xKArSBC710BDZpYY75OmTERWdjHr7cXvu3mFlJ1EAfNpxI6UQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i619/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf217/1/m_btaf217f2.jpeg?Expires=1796410013&Signature=n9xZGX1zB6XwPZx0lWOrETiWVczc5iug1-rJ9YusV1vC9w61LSM1jTqy697sHhNwimjWoo-CNAt~gQ62IBvVtzHQNTv2KyF28cJP3rI6hygygF7neXPBSNmHvLNTx0JCZjOtW4GK7QZELCHJvPnRx7pJdT9~ZS0yN7LsF0BEpEyX8D9K98nl80UeO1sK2iIGCXkIz8trq9QP05T7Blt1EemQ7ZxO~YbZgNhP7qb9SFwtegbYLbG2qpGTxe8MZ5Ze5lEBdQdR8Do~DtX~Yu-Lr0zbWgU8NeDUA2D2RZS8fhrAZMbCr~9lTKC3A1EQGsC4006bUb4ZSHk~qXNy593MQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i619/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf217/1/m_btaf217f3.jpeg?Expires=1796410013&Signature=i5JD-VbxAz-qHp2hHlBPV6TDefc4eS1537a9-SlD2X9uIEGt-sTH~ogs8VELb6~CyjDVLinAVTkzBY3vg3LUNWzLtnz6BXkV6shVZlCJN5rs6~Z349HrYWko7joYNtaEvVU~6CnZSc5ZvOLZo5KsuTqYRJigE-re-EICCv1bRC9V~ZUdY8n92d978MxyBsNtSqkQM4U2UiCORJEr1PN-SSmernrJqqGgo2ZwtC3P2pQ07Y8HN2gNb3nK0aRNZHJbgXQJLln868ISpDmSvp8ShKqmZzt0cYUsZ7cz8hBTkfRx4JaWUAq4cmSp8YnFNr43a8VU0Z473b1SeuH6vm5p8w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i619/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

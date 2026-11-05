@@ -1,0 +1,161 @@
+{
+  "paper_name": "Getting ‘ϕψχal’ with proteins: minimum message length inference of joint distributions of backbone and sidechain dihedral angles",
+  "authors": [
+    "Amarasinghe, Piyumi R",
+    "Allison, Lloyd",
+    "Stuckey, Peter J",
+    "Garcia de la Banda, Maria",
+    "Lesk, Arthur M",
+    "Konagurthu, Arun S"
+  ],
+  "authors_detail": [
+    {
+      "name": "Piyumi R Amarasinghe",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lloyd Allison",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peter J Stuckey",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia",
+        "OPTIMA ARC Industrial Training and Transformation Centre, Carlton, VIC 3053, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Maria Garcia de la Banda",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia",
+        "OPTIMA ARC Industrial Training and Transformation Centre, Carlton, VIC 3053, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arthur M Lesk",
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, PA 16802, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arun S Konagurthu",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Piyumi R Amarasinghe"
+  ],
+  "joint_senior": [
+    "Arun S Konagurthu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 3,
+    "h_lead": 12,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Arun S Konagurthu",
+      "openalex_id": "https://openalex.org/A5081792355",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad251",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i357/7210516",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i357/50741942/btad251.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad251/1/btad251_supplementary_data.pdf?Expires=1796410239&Signature=GzV-cMnwXjlHnoFzaCheDv8FlMVYTAYtMHbcZ0GAfVHLW5itfhxGMQFTeVH4HEICizKWlFCRfmilAkQNyyA1g57oyymza4lOPcJ6PbbYNnwPnidM1iIMyQl~L3SvIPPwVloFPmiGi1ezekC1AtinfvXdQB0-KmJq3V~Ry1BSh9j7HxZZ6lDncLGUq01U7qU6zi31XWnaN6CuN0IBZzZUp1ydW60vW58oRwC-WzzKNU7z0UyxtTHiZRYMx8VrPbhmVwf8MBsUs5GBWzbKKmCiTawf~x8Yq9PYyMpUitu4y0sKjvoCC8yLUCwE1Ruw06chvCDySfHov3WY23lkdcFMgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://lcb.infotech.monash.edu.au/phisical"
+    ]
+  },
+  "files": {
+    "html": "files/i357/article.html",
+    "pdf": "files/i357/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad251/1/m_btad251f1.jpeg?Expires=1796410239&Signature=xP8EXg0jJ3xDZEu7ONyD16Ekj56VqoWBLlFDPs5DTQGnjzF4~8u4ZRP-tSynvHm57QjCVHId7kHCmAfX5Kl4n3sy~uqI4hDRB6MuKAsRMI-VIrWfQpFeSX27X79TP3nHcH3XERQMRjCTHYb8Uw66gOOQnOqhoDAi4XWW0NYtWcyLTRQmqd6FJ9cYsUvYsuRLYEfpsccXmcrgoKJbd3E4-PWHbjHRXTV9RtnJhQxSEg6rOz3fzKIsvrN7qZHSGqpzcBUmHzrY7eJf~pQ3Lfz2Yc13Zj5KrYRcCgQGz84uhUYnUHkgtI-98Ot2IFqkoYe4eawU5W0~tJzHASDjg8YVbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i357/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad251/1/m_btad251f2.jpeg?Expires=1796410239&Signature=KjFrXnqpA8qdeRK4cFLC2wRLZOE0o8AEl0I3~N8A9AZpnM46qWIrRSnZUpB~2Hc6y3AfVEOjNDNTH-7JsEvtV47QR7riQd1c8cg~9NmdGkwdsOsZqV3CdwY4EFY~-7ajgqyRC8ubYMc3BhdQcWVHe5rbgBevUH4wDfChsT0HwDlD8pLAtWnyaLdhbEtFzj9D73PK7S7P8gbLrjijFzUUqCTkT5GP2iWB4lcK6~XJQBOVXYrG-huqd2wFUZ3qZNDSv5KPGcBlEWcBwW66sx9bya7f3v8vQgiYYqFRJFxrDpt7YFVvYsBdaunr1Y~8wX9Jj-h8v0BjXjqQmAIYm8iDYQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i357/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad251/1/m_btad251f3.jpeg?Expires=1796410239&Signature=KI73cdEY8VAiaNtTFA8egb-xOWo3MwiYtKpdZsS~Bs1Q8p-Dp9l856GZ9m4DrmXszzLmamS-klK9E3tK5Vw-YvEprq42f8iamOnJ5z5LNvTW7YhpLN9Xr8fAly5-bu5fl2mYMJiTPkwlczOIRe1IrHyrNRW2CrBFBgl2Xwo6i61AH7fygV5XRQXoFUyeSIn-61knQrh9olb~83oehjzvH6D4gjWkgv4e6y5t0krC27GkbLZbeQ2V6CGYalE5zXRtPqn~7DnqYzHb2xyddbdYNg8et-bjktMiFcjoMNzKHA-29mPYbfbHO3OpdfdoXdyKWAZBVR~v8Z7aRGPqo5oldQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i357/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

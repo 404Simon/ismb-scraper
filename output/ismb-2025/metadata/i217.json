@@ -1,0 +1,125 @@
+{
+  "paper_name": "Locality-aware pooling enhances protein language model performance across varied applications",
+  "authors": [
+    "Hoang, Minh",
+    "Singh, Mona"
+  ],
+  "authors_detail": [
+    {
+      "name": "Minh Hoang",
+      "affiliations": [
+        "Lewis-Sigler Institute of Integrative Genomics, Princeton University, Princeton, NJ 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1053-6744"
+    },
+    {
+      "name": "Mona Singh",
+      "affiliations": [
+        "Lewis-Sigler Institute of Integrative Genomics, Princeton University, Princeton, NJ 08540, United States",
+        "Department of Computer Science, Princeton University, Princeton, NJ 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8271-6026"
+    }
+  ],
+  "joint_first": [
+    "Minh Hoang"
+  ],
+  "joint_senior": [
+    "Mona Singh"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 10,
+    "h_lead": 33,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 4,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Lewis-Sigler Institute of Integrative Genomics, Princeton University, Princeton, NJ 08540, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mona Singh",
+      "openalex_id": "https://openalex.org/A5110049309",
+      "h_index": 33
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Singh-Lab/bom-pooling",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf178",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i217/8199370",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i217/63745434/btaf178.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Singh-Lab/bom-pooling",
+      "https://github.com/jiaqingxie/DeepProtein"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://scop.berkeley.edu",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/btaf178_supplementary_data.zip?Expires=1796410074&Signature=EZ3ilHw95odGUccFahihMvN2nBRUnwDmDVh~rBzOipptR0Pe0Ta4~CVqkuntoOqbk4WqU3dKNNs0PT~LaJusz3l4~tdLBJpwbdfhKjofvBqSBd7Ebt-rTgI-ZjXzYxP--z-yjEiPZOZtS4EWVNvIv~iHahjPj~dEYudvcQsQBMNZaggiaVD1nm1c3tbEzNVhPYqvPRCvarku1zqSTVLeaWawzHQBcbhuLriOC9X~IC8-tkZfS7FqI3oIBFRIOdQPWrxcQEJWDOvXgiZ1qaVt2uMtWRE0B0~uMRWO3NthYqguasIeWoMQup-nenDIkBT2BNf8LmnFZQkeAn2ZtUciDA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://proteinpeptide.io",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/btaf178_supplementary_data.zip?Expires=1796898935&Signature=16GaQ5jOj5LmqdZdo1biz2f5rRP1-E23U2Jx7T2H2Qboy4quJwOmrsreYZuqA-sIDoxhMsjB~Z09UQl6MAcNwnohuEFyYmFg~GjKVerm59GrSGnKtM7~M7cNadWVXO1thso9Aa3VA6kzVYWwUVcSMzLmYl5C799Rn3ivq6jDX7ObXMs1kyjwV9J28jtPDBBYUsBC2FW6dsXZEZFwDJQHWoIMzPXlXR1FYGD11uxM0krIGsl7pxNYX2133Zt3ljh7j~DhBXYw3GBiDAaoj4ZkK3HMH-o9N7xKSL3qOGhkwyJrvH2mYX9K7VMz54apzABtcW4CW1T977VdlRpuzJW7QA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i217/article.html",
+    "pdf": "files/i217/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/m_btaf178f1.jpeg?Expires=1796410074&Signature=vvM2RLqfAYuO73kFI~iZrCAEISTZoqPTUnPHaNED9jjSF~eSFff7SdGk0YnvKGoZpRYaXc5IsUiLdo3PghfMTntHHV5fBHWZJBDG5pKr~I5F6qw-W4vdi2J0WvYIVTbkX3z0mDUKedWxnOi0G5~zmSzjt2GgHMJBm7IiCw7ap7UT5FZ~FEH57EDej~9GETgsb5jv3JfJa~SE-nvHOzaJZl7X9CL-PeR~u8ulSwHBg5Bg7LkaKQARVHNisq0yXNPji2mBzvDTsLjWQUGMWvKXV-YMOlOP-gLim5dHG7mxp-~BY98b7hI2t1QNIccTGAvsvtyWPdP3w0gt4K8LxLmyWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i217/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/m_btaf178f2.jpeg?Expires=1796410074&Signature=YH0YQEJdFsFHDixxFpiQvBuoAMIY3oQWYFweTWa2HDJm7afB0EkuQC-Y2AJ5mInyk~ILCFBMOwIsc5nqE4Zy9aUBJUrjBpHo7wgPFfYHQLijk-~zgWKeW82pcY9JzwBSycBbtA~B1xWZZ~i9dI85zGDhaRvOw7rGqKydO5Xt-BjCP6hSuy9kn9q~oedxRSc6rhNI-SHEgsppl8TJMhv-w9B5vjUbUlcXpnhn5ezQr5oVkgaVIuPXDd-CafB--xvWxLapud5hLJ705TZhYGlRNNzHXoNeH2cZpdrdmIvalpVmVyCXzwKazO~OL2G5u6wxDH0XBccyULDfIzsYnbvPog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i217/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/m_btaf178f3.jpeg?Expires=1796410074&Signature=Ji6N-12y8jairFCVtpd5IKPoY7Cza8UlPPEl6U1MwU67rehhTXdC8u1Qv9zxO9qO0fmj-6wa-8pmEwYZkJ~G1IWjgffXrAP8rDvHsQYLwOPo4LpTeGXNk9uH5IgpE3ADpsZ7zlEgnKzk50hkfKUTzfgt6WNVh8VMlMf8-JPFwvuYNyEW1dpawgwquv2f30nz48A2733Y5gIrRxGjo7i~xGKhLqxWEeVUzbTdPcvvaavnITMq7w5m7jD-U6JUo5mSyfQGvhDLp6l2Hg-Pe8yf0R5NElGsWO8l9FqPhP5ZNOy1d8SzKrmMf6QYa7GcRWpAQCkenvlAaNDYUputqECfzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i217/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/m_btaf178f4.jpeg?Expires=1796410074&Signature=wVT6hkSX2TIruoCGFArK4naan4se9eD6mKBtkaexSPuDRFJYT9UERvrqe5~v6Z17XNRrqsWgfOOC4~2qA~93pykA~QSrEFTKPC~6EH~FPSBeW7~vi-AaQ0EFr2lwoMn17DSM~z7b0BEADKQBHNwiCiRQiby-wL~Ipf-hp3HAb2FaIdpdlb2f79n3V-eIE9psk3kumK7UMXLZbDSbjcpPk9DqXu7528~rlRdYQCh6kPmq9Plls~r-oe47EAfRswCQxxyLFZODM89nM5P3n~owNptl6P~o5JJcgyiVHW1JjSH3fDvnszO5zVwEBfU2SRqO1B4KdIVKZU~gEAx8iCktNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i217/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf178/1/m_btaf178f5.jpeg?Expires=1796410074&Signature=LdSPthHmKRwOCxgMzrxqw9ffnFH0A7uY2KF9p4p2hkpglM4LLF~XWIc4BW9lpxSmH6JH2dlL3guKBiyw9iThbb0wR1AlEq4kFPhMmBcVQcFBjUBO0oom6RlbeTwiIYO9kgwUmipF8WZLwQX~ID6aZLYGSSA9vD~AGeD2riILDBFHIKghjpSZD1ZqI7Js29ZOMpEkwg3JpAGlkr1zJ2YkDzCN2qLB5Nn3oMtIUEY8Aqvxu7utI3ZeJMGtxCZsW93B3dFTWGGXsJ2F9-X0O0bFPcQRn5MpRqIlyUYbLDIpOq3BbrKW5OUJDVcsqFVE~T6-PNZyMSATnPbeRquOU5UhDQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i217/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

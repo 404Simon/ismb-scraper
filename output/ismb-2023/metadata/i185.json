@@ -1,0 +1,139 @@
+{
+  "paper_name": "Phylogenomic branch length estimation using quartets",
+  "authors": [
+    "Tabatabaee, Yasamin",
+    "Zhang, Chao",
+    "Warnow, Tandy",
+    "Mirarab, Siavash"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yasamin Tabatabaee",
+      "affiliations": [
+        "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chao Zhang",
+      "affiliations": [
+        "Department of Integrative Biology, University of California at Berkeley, Berkeley, CA 94720, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tandy Warnow",
+      "affiliations": [
+        "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Siavash Mirarab",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, University of California, San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5410-1518"
+    }
+  ],
+  "joint_first": [
+    "Yasamin Tabatabaee"
+  ],
+  "joint_senior": [
+    "Siavash Mirarab"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 41,
+    "h_lead": 56,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 134,
+    "I_open": 0,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, United States",
+    "Department of Electrical and Computer Engineering, University of California, San Diego, La Jolla, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Siavash Mirarab",
+      "openalex_id": "https://openalex.org/A5087959579",
+      "h_index": 56
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ytabatabaee/CASTLES",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad221",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i185/7210452",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i185/50741530/btad221.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ytabatabaee/CASTLES"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad221/1/btad221_supplementary_data.pdf?Expires=1796430408&Signature=LZMEni7~kzZToLLQkzxW7M1sK9AkJlkYZkHOhzKSjGRmO5697LU3bCug3MhU5vl-BavfM1D-eYW27kpqXwosn~Hu~4t4~9ZIECCuucBxdgZk3NOM2ZkVK03XYt3HmqRs1Ko2mqZV2Hn4vWt6bxZPL0BNDwhlzoHE3T06vGIJL8v71~URBsnzt5j1gvjfP1ncB2qmh340FrSByB4Neyg5RF7CMKAJQQYV~49prLvyGIEBzQIjOstIMMeFS5t8HJ3VmdGTvi1IrS02XzYJfnmXfgeBFakSv81jWcE4ywaVbIfNIos0EdwaKjTp3~MlX9Zvu~dEz8b0J-kKWHPQrctlnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i185/article.html",
+    "pdf": "files/i185/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad221/1/m_btad221f1.jpeg?Expires=1796430408&Signature=fUXdAmkerJelJ5qGJNSCB98~BZWJXf8rkVFhOHarn8dDaRTBmiuCrdcZ8Rnpp0EQ2~xagopPKzoIW7PoRRnh3Dhss3JMAs53damNP~TPwgdbAMZFzoWpqXSywRiZq8Ycp4xh4w1SGkiupKqGNADuHZN46-KyhDUhucgRN5b8HiTdFz0pjfSJfk~gMiimTCXcqoKvRV53GLWr~QbuZVjQOedjjyqWymA76de6PFJ9GNlXmfvH5okwhsc1XfB9c7Rir~Kbj~WGDF1yeFv-Gb1UEgS2m2yKZIC701qPR~3FThvOmIDhmEOkxu-EBz2JZfNfqcVtIe6RcMctA~D8PNWPQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i185/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad221/1/m_btad221f2.jpeg?Expires=1796430408&Signature=j3qN3wSYV4BWzOqPAHpaMsDlcUTtnepdeTpu0SupI4wpLsLASNeox2A2zsJpu65TfbdokrYv8a-iqbf4pqIzhRwAtoBVzjm1ItxYwjGKHDHrWDB4Ga-CLlR~eYxCooqWqPVTBRzX-~t19~79Swr4OYO6YL~SFlPpQmF~x6i5CwkYOHiQ8ThqxLt-Pj~0y0xI1WLwRw947kv24nldbhXPH9UlpuFLp64B7SqZDU9nCMPoPTbQ0WZs4vqHrV5J0aVrIHY661M3T2L~XiSyrgT1YuePNlyt~Bvhti4AWr-lVpQDPHRADjBnh0QCUhC~dcv386gFjWogCn978o7H6Y55lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i185/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad221/1/m_btad221f3.jpeg?Expires=1796430408&Signature=pgIdIsRtLAOBbGtCJuDuoRTYhmCgWjo2tAKbCtBJGFT0B-v4R6sANSjFg4sy3t9SFC2QxzY5E4ZxDftEK5eEUbmpNwhsc4XlUCn1TCX5rTp-pVHz6Zfft7UTHbxIyjJ6dfrptsUo7TmRTJxGYWij2MfMpgQL7EvKOIGV3Ve5Zx2OP-qR7feXfF-5Pzvg9nkFNImI3izMI2qSopW63K042PIIjq3u7TTsV~OUf9dQ1sPWDTIdIwilD1Dm5CXFgPYz38W230HuhAZAPpyZKiG7V3ESfUWg4kb9vcvVsve0J66bx8ho7J-liMOEcgG-tpT-V~HMsidSU-gwxQ-LaaDPIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i185/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad221/1/m_btad221f4.jpeg?Expires=1796430408&Signature=EW1X-f-9VfO96kLUhDM2VEXleHqGs2KGrKhOxsKmRJ6dalqMKnfCA9ez9IqL0cb9dbFygCKRgO4cPtD6dcKh1HcV-gCQDhVapvbLial49cO9h0MdwVGCusszTxfzwKpvDiy9cXaij01UydWfYPkOsFYD39XY33aUtJWI2Ko~5y6pa9gviddsU2jKXsKV60q3HRKuUN-j~jisJN85ljTHX41WMl2RIaAqT7Nl-ur6BZ9RUoh0blG50slRvqK7tg9L8Dfmub3GAU8mp8EuT-t0Ootr-UxJavGA1REiTG3S8xDoGVq2uWq3q4ddGjuSihhagLHpRYflu4OlMbwpeTNTkg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i185/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

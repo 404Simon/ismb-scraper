@@ -1,0 +1,222 @@
+{
+  "paper_name": "Adaptive digital tissue deconvolution",
+  "authors": [
+    "Görtler, Franziska",
+    "Mensching-Buhr, Malte",
+    "Skaar, Ørjan",
+    "Schrod, Stefan",
+    "Sterr, Thomas",
+    "Schäfer, Andreas",
+    "Beißbarth, Tim",
+    "Joshi, Anagha",
+    "Zacharias, Helena U",
+    "Grellscheid, Sushma Nagaraja",
+    "Altenbuchinger, Michael"
+  ],
+  "authors_detail": [
+    {
+      "name": "Franziska Görtler",
+      "affiliations": [
+        "Computational Biology Unit, Department of Biological Sciences, University of Bergen, N-5008 Bergen, Norway",
+        "Department of Oncology and Medical Physics, Haukeland University Hospital, 5021 Bergen, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2015-5766"
+    },
+    {
+      "name": "Malte Mensching-Buhr",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37075 Göttingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ørjan Skaar",
+      "affiliations": [
+        "Department of Informatics, Computational Biology Unit, University of Bergen, N-5008 Bergen, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Stefan Schrod",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37075 Göttingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9936-3984"
+    },
+    {
+      "name": "Thomas Sterr",
+      "affiliations": [
+        "Institute of Theoretical Physics, University of Regensburg, 93053 Regensburg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andreas Schäfer",
+      "affiliations": [
+        "Institute of Theoretical Physics, University of Regensburg, 93053 Regensburg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tim Beißbarth",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37075 Göttingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6509-2143"
+    },
+    {
+      "name": "Anagha Joshi",
+      "affiliations": [
+        "Department of Clinical Science, Computational Biology Unit, University of Bergen, N-5008 Bergen, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1184-3305"
+    },
+    {
+      "name": "Helena U Zacharias",
+      "affiliations": [
+        "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, Hannover Medical School, 30625 Hannover, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3633-1330"
+    },
+    {
+      "name": "Sushma Nagaraja Grellscheid",
+      "affiliations": [
+        "Computational Biology Unit, Department of Biological Sciences, University of Bergen, N-5008 Bergen, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6410-1749"
+    },
+    {
+      "name": "Michael Altenbuchinger",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37075 Göttingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1102-6532"
+    }
+  ],
+  "joint_first": [
+    "Franziska Görtler"
+  ],
+  "joint_senior": [
+    "Michael Altenbuchinger"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 11,
+    "R": 8,
+    "h_lead": 17,
+    "Y": 2024,
+    "L_lead": 2,
+    "C_lead": [
+      "Germany",
+      "Norway"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Medical Bioinformatics, University Medical Center Göttingen, 37075 Göttingen, Germany",
+    "Computational Biology Unit, Department of Biological Sciences, University of Bergen, N-5008 Bergen, Norway"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Michael Altenbuchinger",
+      "openalex_id": "https://openalex.org/A5041687654",
+      "h_index": 17
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae263",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i100/7700906",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i100/58585834/btae263.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.7548362"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164898",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176078"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i100/7700906",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae263/2/btae263_supplementary_data.pdf?Expires=1796421287&Signature=dWAk6EYfIsLuDNTQcTrZ0vFjUhRbIpE91u~I-oGagIVL94Xzlyn6JIp9rc8ovJe3Vcb7VvG~2nkX0urQ72PZh8DB1y2Mgli1nq7Jcu4KdRgVaAU5-PdAAQwY08V~4wl51ohGnGkBp9khu5CHyxC~locuooRoeUFHXa2wt8rel-1eGTeTvuggWKfvx~f5Op-Qc-Vop-b7JHAAHVfg3PvP5o4rfToIDcmoTKoZ~4NhoC6XRd3wU9DJt08ITAptm4v-S57EjcUqNKmc9058~CoYJ-LojQGz9-VvuorbG3Uml0a8QvRfgoK9GbGo2dElr2a8VyQPNxcJ5igczMtr7cxI-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i100/article.html",
+    "pdf": "files/i100/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae263/2/m_btae263f1.jpeg?Expires=1796421287&Signature=2r-PrXTHCht7506Pi3VP5mE~soDLEKKe8nh5gp7FInXoTn2fLjB7ZuRaG2QHsf0bedUKXxUx~CxLsQ2SqwdX02hTR5ISYE5f3UpxjPf35bzsAk4HLr62caxFp5yZpGAye0ChAQ8tcygJ1IDuaqBWDYHwxjXw8SG2uIjIMPsyeOwnv8pHSDGzjd9jdzSoqejEXaodn0ZLO~vwTsT5dV4WFZOAbIdTegS1CrGFIqPs9i5S~3C0DTfVDZQ~6Vu75evl6ox8Sus0pkbQiSwOpQDz99ysP~HXr3ko9TadvZgpUC5PxFeJUYD9HcqJqGU8dl~rwoSTvQtt6gBgpKkgE49ewQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i100/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae263/2/m_btae263f2.jpeg?Expires=1796421287&Signature=430F~NeD5M-HWV72QVQVuBX-JajE5SGALMYWEpiCitp97FwdrfdjmqImDRSsJBheixXj~pdkUjynf2EnEnr2lLCqlih6SYLx57vgoyQHpnQmEil94yhLNqLnoAWzNLPEq~J9Z5SrPLk1pRQTQ6oKYERdIMV7Dp4kgTpU0XEyZ5l~i8Vemb8fH4d1htCm-Z3CinuXknDYxE~b7rH36rE0tb1nKKAGLGXn6cUoHYsyq~FoiVOsxeKG31YUmnxugWeak55qMEaKbWzVcrCZUMVHjHPn9UrEqEKIuJJkHpzxBJ9hibMI6keAwYSNo9K5sleWtQz3pm9L6QlvBYUbpdByuQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i100/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae263/2/m_btae263f3.jpeg?Expires=1796421287&Signature=IU~hK8gX5EVgOuMnmJvTN8wide1RIEmwVchqYk6U~ljXUx4K4SJ8PISXGm~zsCbXxcuVZmx5~WO~uGB0g3WWg2evlOTMPA9Nh1lHrCUoFwzld9qi4~jKwuUTq1FLPZaz3uEPrDocJ1YqGeaRAuCS9Px2e0E786zgwzjHCV9S5HcVSWpr5dF7~D49gz6Py4Lb9dUN~ll1OpR57LhCbr4jy7vV798RWAZkgGyUPD9clM9LFab1ouTzfSkzqNkzTbk8cgpiCOpJfNhY5Eo2lK3yh1XU1INN1uJIjUelC2g3G6JiZDsggDCSWtcsGY3qmGkiwNE3CaqJQRCkYeFmfBfIEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i100/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

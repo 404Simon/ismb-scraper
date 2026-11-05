@@ -1,0 +1,157 @@
+{
+  "paper_name": "Leveraging large language models to predict antibiotic resistance in Mycobacterium tuberculosis",
+  "authors": [
+    "Testagrose, Conrad",
+    "Pandey, Sakshi",
+    "Serajian, Mohammadali",
+    "Marini, Simone",
+    "Prosperi, Mattia",
+    "Boucher, Christina"
+  ],
+  "authors_detail": [
+    {
+      "name": "Conrad Testagrose",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sakshi Pandey",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mohammadali Serajian",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Simone Marini",
+      "affiliations": [
+        "Department of Epidemiology, University of Florida, Gainesville, FL 32601, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5704-3533"
+    },
+    {
+      "name": "Mattia Prosperi",
+      "affiliations": [
+        "Department of Epidemiology, University of Florida, Gainesville, FL 32601, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9021-5595"
+    },
+    {
+      "name": "Christina Boucher",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Conrad Testagrose",
+    "Sakshi Pandey"
+  ],
+  "joint_senior": [
+    "Christina Boucher"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 8,
+    "h_lead": 30,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 26,
+    "I_open": 2,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Christina Boucher",
+      "openalex_id": "https://openalex.org/A5021635660",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ctestagrose/LLMTB",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf232",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i40/8199408",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i40/63745704/btaf232.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ctestagrose/LLMTB"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf232/1/btaf232_supplementary_data.pdf?Expires=1796837922&Signature=UlrzIQuY4nLVtNaK-ikywrMG4wAB26nOnXu7~XHF0mr7Jc7jUhNqttORLwAYt3XvwhTPoAkpzuasz6dbjIVgjK-dL3OKnnNpVgOjFecA6zl8RRsEpm-T9UghBtCXdS~O-60vFwAVyq~LzkD7am6y3mdjzNLM0TJ~zQ~ETHzOUcKnwd73Nhw2TyhNdoJic56sas0Uzx6NDBkaMyuOwO3UZtKIP5P6nSNhJUw~DvTer4H9xT3xkT5-oxK3tkkqvhDa1~OyMKgJDH3bDIdWzcc1Lmi3fBa5OXkFc~fmZcodwEw8YV-4RersQavHtDSKqeU2QeTchwRrwHXCt9rQLJ7wiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i40/article.html",
+    "pdf": "files/i40/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf232/1/m_btaf232f1.jpeg?Expires=1796837922&Signature=sQQLAbRb5m9U-C2xkT6HfSYilTJzyMjA-ZSzoEFHyk4E9reBA1QoLkdS6gLB3KCiv6aMiYyxWq7HZk6yKTQLhlFmMxV2ZFwx1P3NOzIa~RdBt~S-rVQqZtTJa4-zE-GIfT25ZVOwtx~Ddqd7pTXvtCyOYtvwg60kSbZvrg3jI9NvtWxN11uO1M20z~q9joxiCnvyGlS0niAWt0sC2dVDWN2DzUx-WSZ9tV~WLKHZHVJHR9A4gp0Scjs9Zvh2NOuynwVIXPBKEIoQDKSAQoDEcBsgVFiASayn0VEtMfXQW5EI02s4ogkO8gjfMrECiLphzg3-c5WEsgkldHrNJX1B5g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i40/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf232/1/m_btaf232f2.jpeg?Expires=1796837922&Signature=XBFXMvjBGkiHHuuEHgY82S6wWqvm0xkW3wizWoM4L8fc3oQiPdGmDx~wyZW2~14mUCnFOAA-fL22iyTctB-xALJL1MUIw0cTja~ln6A6VTFfS2CpEB9U96bkosVKPGPtl-GQSwuSi6YqM1YBkH4e72IXwn9635W98v0pF8srCScybotQjKPTxBAGU7EFNrcYp4wlpR64IjmOsSpJQ-Fk0I4sGK9WvxOhdwJNfGMYYGYi73U0REbpAh9iQ7WYTCw3k3SC0J2MS7eq02fFRk2Fx4yHwJVoXuhy6Zr769BZyNyOcq782pHjrhSE~YDmkhd2GHudhlqrt-p6V29OnAxBKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i40/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf232/1/m_btaf232f3.jpeg?Expires=1796837922&Signature=tmfSS9p8VCegB6mcLoyUd21wike-B8-wlOnRlzI4Giz1SnxJoVoiIBgUrDjHddiRTxbJT1ypjawvyt7RD8ixSWbD32rx~SEVDuXIpmIOEqy5X9GWPjaK23yQRvfFDbLb9Om5NDLXXZPy~W7lo1wDwKTpdj~pqL8LOemPUn3WdT0pjmfbbT2q1Q9O47tx25MyG1bGnE~5bknjbkvM5gze6iJhYvM4vmOKfIuTr1bOz-zvH7kQMFOm6aNBQkPywmEr3bAxk4FY2YtN8Oxbt7eeXaOjYfV2qpDo1ozs-IefDzxiDQSq5i6gy5hRxC92hG9T64OLMKBvWTthlHFq~B2x6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i40/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

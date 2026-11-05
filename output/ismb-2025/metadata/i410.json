@@ -1,0 +1,144 @@
+{
+  "paper_name": "GOAnnotator: accurate protein function annotation using automatically retrieved literature",
+  "authors": [
+    "Yan, Huiying",
+    "Liu, Hancheng",
+    "Wang, Shaojun",
+    "Zhu, Shanfeng"
+  ],
+  "authors_detail": [
+    {
+      "name": "Huiying Yan",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hancheng Liu",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shaojun Wang",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shanfeng Zhu",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China",
+        "Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence (Fudan University), Ministry of Education, Shanghai, 200433, China",
+        "Shanghai Key Lab of Intelligent Information Processing and Shanghai Institute of Artificial Intelligence Algorithm, Fudan University, Shanghai, 200433, China",
+        "Zhangjiang Fudan International Innovation Center, Shanghai 201210, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6067-5312"
+    }
+  ],
+  "joint_first": [
+    "Huiying Yan"
+  ],
+  "joint_senior": [
+    "Shanfeng Zhu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 38,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 31,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Shanfeng Zhu",
+      "openalex_id": "https://openalex.org/A5045866167",
+      "h_index": 38
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ZhuLab-Fudan/GOAnnotator",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf199",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i410/8199377",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i410/63745489/btaf199.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ZhuLab-Fudan/GOAnnotator"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "http://www.ebi.ac.uk/GOA"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf199/1/btaf199_supplementary_data.pdf?Expires=1796412361&Signature=b5RewliKR0u1GOVTcWujQtAbTUse36iPNLtS7HACStuIFOval5zPFc0HSZ-VG5vqT4wZ~g2e9Or5rbL13qywiMatK6Cyv~EY3A56aN9zvVqcSIphwXX~SF7HxA7-CBybkxRZtC-~PijK2q5Qoau8vZxHdYHAHnWb23weGzatRwHEBgDNVxEesZVVAjnuWRpUT9Z3DS0uXEL2yVNlmmoafrFKcwqATl~71m-jJU2irskDy9jmYDGnNkph7B9oo~9nH~hmupq-BgrDSVpotgWRNHhn52lX-5u2JdQrkUZ26mqSco7a4P9~AMHjGk6TLMq~wYqmEUj6y~6-~Cv~S9eeeg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://ftp.ncbi.nlm.nih.gov/pubmed/baseline"
+    ]
+  },
+  "files": {
+    "html": "files/i410/article.html",
+    "pdf": "files/i410/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf199/1/m_btaf199f1.jpeg?Expires=1796412361&Signature=RPpIxlZGJtXbhScB7EqcGHc0jmAP8SVGlgK~9ra~E8aegCtR1Al2omnBnhNGSYhV6oLRDLgVFvc9MZxR0AqCmHFnTwy8SC9Wcff7GaH3D87M8QTUSVpkherXJqRJ6bg~fLtk27TCXj9qZsje5XMLt5fUUEKbHG3mbR1tOZrAPVKEDjqk2ZQXcnNVy1pHEsXZYO4Fvhrfo28u9eby9kfaU98eKYmnif-oXuVSA2tce6TJUDAOhti-cgDvc8J6XC591BIAKbeA~TsFuRS0e5mXzHt1BNBraazBOpJdRbvhldGa4k1mAp2i41-mIFoE7ozJw~3adaPZ4FmDFzprLWEb~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf199/1/m_btaf199f2.jpeg?Expires=1796412361&Signature=dBJkEDl9HjAhnSuYaFj5htKXcc8oWU0CJ-PKZ7n~QiIyNihcTB7S9vp08k1Mr4CrVh~rRh3KGFUjodbeVYTTZ5zU2x4yRdWfInVeTBRiFS6A1tSaxMgzusjUsloTBA5VA8jG1oL4Axh~mUdGi~diO06erGno4pXAkJqODbJtqLapcKkUyDoIaIp0cwf06htcn07pTq8NAJkKXzmPt3t6LxY0buS3h3yDPoBIIj1AmVOJ-DQ4EU0N1AnAk4KCo-9U2fqiM0hUrBBrBFjqpZW-zQnOKtGe34mAfXCaCYp2QqfEM60FlZgykZKdTmtl7nr1RhlRpj7fQ3NuYqzHMwDg5g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf199/1/m_btaf199f3.jpeg?Expires=1796412361&Signature=F4l-x9Z9Y3l5Y3LDs78GdyA8kqV4C3WZputnFHwARRpk4Pl0LsUFwlbgJKJPssvn2q04Iyk4ZkM9gUkT7NRSB9NMHkhDDnNza83sJolu0knXUWFxSqEzYSplQ5tep6trYb~eqIHlDiEuLAHFcKeA8cRQgstbxjzNyiOiWwPaR9pENaEfyEJGnoIDituyQ~2M3VPXkr1Q0onx6ldprW7J6KnMFHRytPkNlDFjYpdS77ZZQOLnKzKffYYY81ilgUPR~5rtR4Gc89WGBPXDloQjoT32-DA8exi3MTTaThCFrbnZMnQQ-l25IDjpM88~qDfYr5EjVGpJGAdo7Uttfl1gZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf199/1/m_btaf199f4.jpeg?Expires=1796412361&Signature=E~LA3FdKOCyh4AIlavQBmfJykG9Vqnf-WCdP221~JimWLLeUZo0BAM7MKBWfY9mkdA7xf7ESFTu1BhvgHGVZ-iMJRtpg1aHqlpYVrCHtjHJ848cDMOOr1P6AW6JzH-VnlvURjgAB~FBYP17CL5OTgpvTDZZ3QOMtOprZfpH3TSxcqkzKudlkkskpnRokskqw5LQUF5cLIFuqU0mlvxcACxNl4kp6x-9etszBX~SKo4i5j82Fm85uFa5bOI5QtI8AlU5tVn0KTDP8kSJNzacHcKBvXH7orA00sSsTrbdkAA1hwv3lENjdzmGc0gdc4aXvz-DvBy0A-uMQOHkJaH6fBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

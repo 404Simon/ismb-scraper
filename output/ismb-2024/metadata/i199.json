@@ -1,0 +1,158 @@
+{
+  "paper_name": "Epidemiological topology data analysis links severe COVID-19 to RAAS and hyperlipidemia associated metabolic syndrome conditions",
+  "authors": [
+    "Platt, Daniel",
+    "Bose, Aritra",
+    "Rhrissorrakrai, Kahn",
+    "Levovitz, Chaya",
+    "Parida, Laxmi"
+  ],
+  "authors_detail": [
+    {
+      "name": "Daniel Platt",
+      "affiliations": [
+        "IBM Research, 1101 Kitchawan Rd, Yorktown Heights, NY, 10598, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aritra Bose",
+      "affiliations": [
+        "IBM Research, 1101 Kitchawan Rd, Yorktown Heights, NY, 10598, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8665-056X"
+    },
+    {
+      "name": "Kahn Rhrissorrakrai",
+      "affiliations": [
+        "IBM Research, 1101 Kitchawan Rd, Yorktown Heights, NY, 10598, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1567-9090"
+    },
+    {
+      "name": "Chaya Levovitz",
+      "affiliations": [
+        "IBM Research, 1101 Kitchawan Rd, Yorktown Heights, NY, 10598, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9251-2294"
+    },
+    {
+      "name": "Laxmi Parida",
+      "affiliations": [
+        "IBM Research, 1101 Kitchawan Rd, Yorktown Heights, NY, 10598, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7872-5074"
+    }
+  ],
+  "joint_first": [
+    "Daniel Platt"
+  ],
+  "joint_senior": [
+    "Laxmi Parida"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 5,
+    "h_lead": 44,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 7,
+    "C": 6,
+    "I_open": 2,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "IBM Research, 1101 Kitchawan Rd, Yorktown Heights, NY, 10598, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Laxmi Parida",
+      "openalex_id": "https://openalex.org/A5025497346",
+      "h_index": 44
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/IBM/matilda",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae235",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i199/7700884",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i199/58354955/btae235.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/IBM/Matilda",
+      "https://github.com/BiomedSciAI/Geno4SD"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/btae235_supplementary_data.pdf?Expires=1796616935&Signature=2YeUHzJF-9UTU8AS3FJGGZJtUq~Qcq-JjJVZAZiEtr3djgWutI1ig~aCc1LM7dKmMVlbKuPyk3xhdMqtt~~MyjgEGTa0UElXgjIlHEUwutitveRjC-k7DN1Z9sgNoXH9FOZUXKjgUcuC0~dQWc~kf50JFz4ZT0idl6AMm8K3KMxJU8QeQMrVM~ECGV1hwfxCVq0sagqVzqIo5q2-iQiqLOqFJFj7PCQ9IoNHRV26phLY22i119Je0DU46TQxpkpBIARj0EltevQqMgU41llcKfXvHtLDtYLJKWm1UchlaksgRkCXw~4Ke3Sn61caj66EuuiS-BIaQKTEtG7F7XQMJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i199/article.html",
+    "pdf": "files/i199/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/m_btae235f1.jpeg?Expires=1796616935&Signature=auWKobY71SzGVC5glS4uypDWG9UNC3vKnonzvAoD9G-QnvyULxwAO85s0~RSu4erKRLp2uEarL74pCtKj6FKUj4ZIJ5cu3sGuZGQCnLMZZM2mijKoTyW~uUOyIr~UP05j6q~t58AIZ140WzBatAx~635kM1x3ExRYOP3iW-xLRf6yXii-KMtL3~NbsP5QtRAW31vo657MTv0JTS7hu9MdoGD6fhjX6oQVLaGa8MYSw9JwUnYfMfKeNaNPi-NdKjkbhAIvHGeeRU2BftolfyHj2v4NMSd6QVleTo9U~7uKruZkxRWUEEoQ3FtzK7Cpnh3fWzDc0xqRKG3fjlVQ4-qWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i199/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/m_btae235f2.jpeg?Expires=1796616935&Signature=FEEiqj9milJgMOVOd3MTOJC8ngeLJODmij4Eu4QHZBTqZJOxh~2CapExMsxWUgEi8d0NICnC55OliSBWp8Cl3t9rlPIyd3giDrG9UBWTOVU5ZOTaEFJv5OSoInXn~OeQ0-zl7dz5905SQRy8lXrlB5sCnzPpnq3SCDn0jk9-nPujiLPGUipjp8IHR05~2emtdl2JnaNKMC4TRUqEh4FnSJWVrRz5gMiQjiirSgJdAXkOW96Ig~sTTgebnEdeTxVrcIgaWabUJAkCoseuXYqEYBCNkRLoFH7P233TtMNaTV8~tRHy4W6Yr6PTJKTUCtbs6AwIUeCFOkVGv8-m1ytzRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i199/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/m_btae235f3.jpeg?Expires=1796616935&Signature=BA47P3a4Ytx7-lJluA8L19SxPuDaXhq~nr1b44xXRpjfc9VAvhC9wUSIfpNTivCTDIylW-xGYxu-wxGtQMm5ZYuiBUmXsaNJbsxhYvQvqdKSOcXYrZa9CWdRPP4tc7nMzvIboNKHY-4-l1QZQPKNqy9MdeTkT5m1AMkGomHFQMemEEzG-ljk1BpySMNwEtk7KkVg~taYYgGyNuP0RtCX1x96PkF2~80EZpuwyogllDYV5yEWzzOM4DDqQD3HYzvwNJSJeIxbVscJa8M--pUY0MkwGILnA2lAVg8P80okmmX~dkOn25pHep9kYCg3prkHXZY0IsVpswithOxVfXboPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i199/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/m_btae235f4.jpeg?Expires=1796616935&Signature=31EY~2qpP4cpSAs8exACOcOqSFO2BdX5YNblTjBvMmPAvoGsJY-rpppqSY5bmP0EDfVmFaViXPAD5yYcEamWi7XbJob7h45pYc-UfBHNGBr4Jsqqx4tNlDEzlZCbxpAoYrybSZAerYcerqN6vnGNWA6BX8WirD-8kSoWmAczKmLsHtiVMiyxXHLsa33PgVxcUAbNzKwdQvnEbDrcHmrKGSYvTBWYtlF8RPAB6R7jX8OCBtqDK-EzIDZ81L9QH87pgLKwK~3NVq~ZfED2kOPMbOOjVOJu4cImNowL2n-0QARfjt1DhZlIb0onW7Hfr2o7tGdu2MSsnVI4CX9G9W3cXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i199/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/m_btae235f5.jpeg?Expires=1796616935&Signature=U9faaOiGzTCq3vIP~JyTnc4pggsfC2sqTLR95Xvy0LqpMIUbEIRzMF8x91sXsGsb2ikTPVoKO9QRUB7bGx0JHGDKR-dfkE40SqpmZjnySU2zzdeuD-Y1pUTBOI~P7N0ivnAryI8yjDTWbBz--OKddPtPVtTYenfDr~iStlC7T2xnUEos1-szHR~ha3h7g0e32-KwWXb8xFeRXOMA6vz8rVDs6jO-859BjfBn~ZKk1DPmnr052~NtuNVOW0aml-l4AbraAX7JWFPKc7LgvWCbHEpGO40R3N22NW7LyP2axHkMs069FB77dWp7jDlpjCmamQ4bT2eM47ZF9B8mHujB6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i199/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae235/1/m_btae235f6.jpeg?Expires=1796616935&Signature=ni40cWNskPEeQ8uGHX5Q9SumwcvRS~mOLA7QHErDM0Tx5uPaJChb3MWvLkqKFXWJ8XzAfciKhB0mZcNORj4S2zBYgnjyokGs4E53mFu7cSyvcjI-GNX21-LdX~H2UaFOK95aiUeT8u08BCTF1Vvl9e~Qq5nINGk5427cuxNRW3wUqq8znGhM5jQ7X-vvCEmwYvlwidgJUmAuDzzoHgz9P9UBc7Bjzz9fHrkEy30Rvo4VNoN7c8HitA6gocM3LPqcmlcOpNGfuP4D2x~IIVbeCAgy6wvrP3clE2VkznA9yJpWMyTIQ0WuWnlpw74ZqhsyKkeHR6WBKQB-~5fXkzgwDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i199/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

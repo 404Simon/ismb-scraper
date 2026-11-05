@@ -1,0 +1,129 @@
+{
+  "paper_name": "Phylogenetic diversity statistics for all clades in a phylogeny",
+  "authors": [
+    "Grover, Siddhant",
+    "Markin, Alexey",
+    "Anderson, Tavis K",
+    "Eulenstein, Oliver"
+  ],
+  "authors_detail": [
+    {
+      "name": "Siddhant Grover",
+      "affiliations": [
+        "Department of Computer Science, Iowa State University, Ames, IA 50010, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexey Markin",
+      "affiliations": [
+        "Virus and Prion Research Unit, National Animal Disease Center, USDA-ARS, Ames, IA 50010, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tavis K Anderson",
+      "affiliations": [
+        "Virus and Prion Research Unit, National Animal Disease Center, USDA-ARS, Ames, IA 50010, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3138-5535"
+    },
+    {
+      "name": "Oliver Eulenstein",
+      "affiliations": [
+        "Department of Computer Science, Iowa State University, Ames, IA 50010, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Siddhant Grover"
+  ],
+  "joint_senior": [
+    "Oliver Eulenstein"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 3,
+    "h_lead": 26,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 44,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Iowa State University, Ames, IA 50010, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Oliver Eulenstein",
+      "openalex_id": "https://openalex.org/A5041404337",
+      "h_index": 26
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/flu-crew/PD_stats",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad263",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i177/7210490",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i177/50741760/btad263.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/flu-crew/PD_stats",
+      "https://github.com/flucrew/PD_stats"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i177/article.html",
+    "pdf": "files/i177/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad263/1/m_btad263f1.jpeg?Expires=1796404811&Signature=e9GG-Wqk0GcGenhduBiFTXec0-ExwpfUvCSqGRc1qDdrwWZm7C3FHlXUSSaZPjnfKo2~st40olDo2QJvqOVqEiu3B35Z-Fud7~0UU50x0zFg9DXi7g9MAysnqIBtH47HtB8I~8lmzLxDSSM1a9zmv~wbFoXRRuck-u7S0mqsIhRLpU0TOPnZBRD5HE~niRwIQfnzSaKGdoIk~NcnOuH2ME71OpSJDnEQl7TXCB5xKdm6D-udLJJF6OibIkCDjqMvc0JFp6D14lSbaJ2DCLl3fHRp01XZFNPiD~frzUO6bpes1ZvDWWwQ0J6M1IBo6qWGouCdBlUUhSzBH6Z5gNuMeA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i177/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad263/1/m_btad263f2.jpeg?Expires=1796404811&Signature=SHo5BMUYdEoZGKbntMsosqqgTRaWEe~omlMPrr-7xbjQg6z-UOZX7UzHOJZtTyvxbkp~JoLV-iD4D8T~5vUADvOcv9ZkyKuAytfa9hyOm26Bidd-HZ6hK3WF2Y-k73XLrY5UFgEsPF7T1utFFXXh0n-KzEW9CGJye8~gkQ56j0lMOcQ0F9Jhz4FwUaGx95kZ9o5Pk7R3m8G6pUJo-GLQv0UKWZ3o0rTG9fu7swFvyE8nkn12Bh5BlqIzS-NN5y83ocsnfrk7yDhksuREFIV3gXj2t3sEITUcCBnpORZLXrS7u3qlERuCjlU7GGdgFYGm~SHHK2C8Y0o1qinV8pterQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i177/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

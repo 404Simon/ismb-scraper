@@ -1,0 +1,129 @@
+{
+  "paper_name": "FACT: Feature Aggregation and Convolution with Transformers for predicting drug classification code",
+  "authors": [
+    "Yun, Gwang-Hyeon",
+    "Park, Jong-Hoon",
+    "Cho, Young-Rae"
+  ],
+  "authors_detail": [
+    {
+      "name": "Gwang-Hyeon Yun",
+      "affiliations": [
+        "Division of Software, Yonsei University - Mirae Campus, Wonju-si, Gangwon-do 26493, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jong-Hoon Park",
+      "affiliations": [
+        "Division of Software, Yonsei University - Mirae Campus, Wonju-si, Gangwon-do 26493, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Young-Rae Cho",
+      "affiliations": [
+        "Division of Software, Yonsei University - Mirae Campus, Wonju-si, Gangwon-do 26493, Republic of Korea",
+        "Division of Digital Healthcare, Yonsei University - Mirae Campus, Wonju-si, Gangwon-do 26493, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Gwang-Hyeon Yun"
+  ],
+  "joint_senior": [
+    "Young-Rae Cho"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 3,
+    "h_lead": null,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 24,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Division of Software, Yonsei University - Mirae Campus, Wonju-si, Gangwon-do 26493, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Young-Rae Cho",
+      "openalex_id": null,
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/knhc1234/FACT",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf184",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i77/8199371",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i77/63745442/btaf184.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/knhc1234/FACT"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf184/1/btaf184_supplementary_data.pdf?Expires=1796479925&Signature=yMy5p6Mzi7uaoSwvREOeVb4iboCGqsgXBTOEbAM0OLQt7O2GMQNikwCOzK2LQVqXO30SfQGeu8kJdd-uXK67ic9syaJYKLXAVm6utP-Ar6YFEsYCFArB7fPEsNhlLCnTaNVNzikYvBKkvY68gwXQKSa~v8RJP3UKN1M~lr4Lp0cSYRjVbzg~kLwXr6tdPMQ9cFhHauvjOh5mS9tpgea5vimgPzIDHbykPTb~c-UtYmdiFS5YvyqDMrGwzuf2E1BCZuCIm~1SeX~-Mfyo49sKcFwQXqnkNnMsXfyuceGKW6GsDtA6Ypqsm7tIDFzy54-H4LO~hnWA6-D9DJQgvCwOpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i77/article.html",
+    "pdf": "files/i77/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf184/1/m_btaf184f1.jpeg?Expires=1796479925&Signature=uQ5Nq9mDC2YJrU2VCTtHlWANrnUFt03M6XyWDlGmCS6mf6aIJHlecY74XF6Gv9trWnqovDhfCklfOOnT0rDNQQ6wLsKdzxqO2Ddx7ggjanQi5eN4Iw3hCbXyof~6jcTgpG6H9rnRCaq~33PaGIJmVbDXHaYwHkBrcfkyTlf67HBdYhJMa-LkNm5eFnLMaWQlSl2r3J1ikpO49rZNMbY1qY2rJzMU9GPdLcQn0ltxMP1~47Ra~sYZIJBnsD8FR9mvGUeYJZUTQvBfYn1vcPvxFoNZ7ZpVwSSigdbCFfvo5hn9Cu7x0p-jdsnwwJOWjMDSWffv1iVdPwaorbV55~em4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf184/1/m_btaf184f2.jpeg?Expires=1796479925&Signature=vAPftKIryXBTzgUhRsFehRI8CeXL4KI98Ijf7il5EcZk5qRWIeLxqKtFCIghk8VPqgTts2fHmgfovDtsungnQRibw8k00G5wjLzHo9BwZGMGwDNbtf8oxKsTOwB2V6kAw42~nk8cMJdirNBCY61yeO2Kv74VUoT8I~Fnwzza-Dmx4NMYsGia2hY9TXgLHnzLZMvqnrw733w-ENY0Jy0bN4i7BazM3OPkzwnfS-2FiFwXbh29lIokYyMjQuT~IrvvIBHxnCvNlnCqCj12FG99p6UM2PxftORoYzZuKGqzoXjkkySAyZSr7oQxj3IHhju0Qntd9x9uzVrj-WYOtBJ~TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf184/1/m_btaf184f3.jpeg?Expires=1796479925&Signature=KvkE~i6n27p6cM5Sw~7HLs2OxAUc~Zq0bmgr-yODZlElm57816yWY9xv5cJF~M9H1sGhRc35Bs-EIl0BKVUHQYrB0xez3fO60iZ5~UkmeXaSyn~GvklonbZDgCDUxAwLjXczBm-yGFPvw0qhqmYIIqXJ5rGjebuKn0~wJ7qfWWg8bN71WWKoWLiUGgrloTbhY4sCgIlQnCnwIWgUuJ9sWn7VMwx-YS5IoX36YLpypBv95q8sodZpm8ISmiHq5HhehtkpCegnxZOBXIRoI2akxnOBzXLj4WHIKFK1wDj~HaveL-vxZ0Cu4ah3cAb~227unrIw4bx7JQ8wbjw46G52Hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf184/1/m_btaf184f4.jpeg?Expires=1796479925&Signature=sYSF4Xl2YsGSVh9GnJPI0EqZheaWAA3XD3OhLChZ94hH3J7jMvMkPaFhhjT2LhRlFqBMcogqoj2qZzfyio59eYulxiv93cCMcbic~H4MXeGzuqYxZ0hWI9WCkMX7lgDSZwevykVy6ZtwRLKtJ3o8WDNpmk9KCNZFPGBy~mFvO3oQ~ht-hngu6fsh1404ENV4QHXnbTQIJ~58AeEfi~wh826hCSJc8cf6Q92RI-uOBiGCHykoEWn90joy19vLi8gxiC0pXOAkpxdKgoIi2o1eneV7Ek~9sz5eqIfgwFRoyAPW0ZpYuROTgsKZN1UqqfWa9QU5zp1yKQh-84PSJ3CnHw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

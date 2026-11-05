@@ -1,0 +1,139 @@
+{
+  "paper_name": "Bakdrive: identifying a minimum set of bacterial species driving interactions across multiple microbial communities",
+  "authors": [
+    "Wang, Qi",
+    "Nute, Michael",
+    "Treangen, Todd J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Qi Wang",
+      "affiliations": [
+        "Systems, Synthetic, and Physical Biology (SSPB) Graduate Program, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Michael Nute",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Todd J Treangen",
+      "affiliations": [
+        "Department of Computer Science, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3760-564X"
+    }
+  ],
+  "joint_first": [
+    "Qi Wang"
+  ],
+  "joint_senior": [
+    "Todd J Treangen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 5,
+    "h_lead": 40,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Systems, Synthetic, and Physical Biology (SSPB) Graduate Program, Rice University, Houston, TX 77005, United States",
+    "Department of Computer Science, Rice University, Houston, TX 77005, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Todd J Treangen",
+      "openalex_id": "https://openalex.org/A5054369332",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad236",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i47/7210449",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i47/50741508/btad236.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://gitlab.com/treangenlab/bakdrive"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA454892"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "http://rid44",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad236/1/btad236_supplementary_data.pdf?Expires=1796431364&Signature=qLakq3Hr7hkV1Hm3cEuPeWqk7nbx8Mpr0AggsYpERdoTJ-MeOlGRQ-nhlD2ho8~6k6gPvYx1e1PlDfhVq9uzvpMHKwQg4M6pJSDw7hu3iQJD4Iy03R2HcJta7OqX7euAPrR~tA0PHIio5s-H134k8aWyCux5VhKV9ajPqkUtM~z77XymA52Vbutgd3~VDlkiL5i~ytzWEIiEC8wZ2Le7nS18CCW2oezdUNdWtucDC713tsqwHSgEN2cHfzFPDzg5b4SrWHFPoRTkDzZShqrVS5yldngqS~qI4xk8~RbMgQ8hh8ZSGdVhzwcbvY1LTh-x7OdxsWXfwPgUBeQIr9NUjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i47/article.html",
+    "pdf": "files/i47/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad236/1/m_btad236f1.jpeg?Expires=1796431364&Signature=sMadJur9ZGmnB0i4u6QCGhEcnhQMtBiDv6j~BHEmGf~fxDnVd8idVwUjCbWVd2Ob4eymU-VeVeU02IIBSysKnsGECinOHYQN6adztZ4FUJtOBoBzNoF-K9~9Xe-FYxTGIo2H1-axeJd7SoP8l6bVP~LOq23J1KJJlNj1JCmz6KXTi8L0BBc4giI2XpSR9QZ-KQ2z7K3NqrgadIs7mgSKIfOUz9GJ3ZUQ~COJJEltQ4H4CvaTp0rdK7D5nQCXBy0IHf6y2MEJrjxN~OTnnHtWTnIXyHRDhQgfbiQmPNm43Z0zUpwDBJIII60HTg~o7febHcFSeMMwPbt9ZqtsmOmxTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i47/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad236/1/m_btad236f2.jpeg?Expires=1796431364&Signature=iVZQAnMa-1vYXJmOKRt8x819QFpFxFaNHGqPGA8qQYZwRhwQSdz6ze7tNbfKO4~S5ucHtBfPONoEnrdFaO-6pf9csF~in6BXt-IRNFbHO1jR786jM68rMLQueaYQZWxvnxMVcsXeLUYuX85mzh~tNn7Sgdk5QoPkYmGLD4vf-h-ghXEDh3UnA0rbJkfE6oNRDqo0hpKESsTGrg-a5omkKQXmIzmegDoaeS-PvLuPOFsNcesgKgXym~YVFGWN6hHWClfSeMT2N8rNhQrcFmbw6lFNdAjRxTowEEByXs7WcJydWaWsJSaspNzYMAoacVCTupcZwH2pSO-nRhYFvov-DA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i47/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad236/1/m_btad236f3.jpeg?Expires=1796431364&Signature=hH-v6hadEQEFNKS6k7bhPpZtjmr7AwQbPueRe9Svy7XjhPyxYM38ywt2eMiHrnXsjrt3HWPrx1jE9sFijPopNef0Nrn6bqR1zVxihD7Yg77Lcmf4uOZNV1urQmHzPBzbbVPjjSxRAKEJll0weJ70F6S258RpMrlD7WT1eO7baVz7-NoywJJp-QVEoZEXNItGO5kzPxEgYRCixd755I0bVjJJXUlamklPkmyZnY8ihe5Bsa9U3PEsuUsbTsOo~4Q7ktn-ICI2na1Nbf2F-e7CHtf69NdN2fPe4~q8MCEhmxeVtfIN17q~a8HMArBzxHWLtxa9eM8lJOg~uMr7YLmscg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i47/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad236/1/m_btad236f4.jpeg?Expires=1796431364&Signature=2tSRsDv4nFsl4N0qAXjUFHW2Bsj3Wq~nMPL026fuWAdtjZ~PZziXMT~5B5zwlxoQ~pnInd5qXjFevutorkfDX9AxCHG0i--kZd7zGZGZkJalFIevFdK9D8oEaoHMIDPyN6AU08OBZsf3un5Z7paW~oLlnLVQxQgbgvm98b0IEcUTt2~awB60DQxw9WW36pee2tHmCkR-QbLz-qZUfFN0a~gQrwkyxS7vKMRP8B54nPJeCdmKMGaxQb9REwdqahz~PXqd6ZDX-SAj2ru683VncBwsiAHsJ6L-uSGTkihOLrskhVD~w6RZjKZNasgRIYkRunfkx5GZTWYy1y4ocFY3Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i47/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad236/1/m_btad236f5.jpeg?Expires=1796431364&Signature=EpbguoRzIKA3BpB7hpSVUbiWV~5h0beNSTLECfFA1XBHqzcJ8k9X9mA0heLU2iuw0hEBXNL3735aS2NtDQ3EJpnC3JtTsfcq4ur7NaLJ4GHO7CJ0JsqQzFGRloCLcnP2zVHTtBRNz0smc7Vk1riujIJ1jooJB2ORly82-9kW~59MyjTH4jGqtquvsDpaVTbHcY7lw8r2NKypcLv5MoZ36LC5K8eFNPXhm0vCALB0ry5uSMjj1k0LD9uFajWR6BK2BOR7CMQ-5MOl0YuXI~8hgMWqbLXgA7~5c~SXlE3V8i97xubfHcNB8nwodquYurDwveWYnKpPsoDO1gdF8ILoaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i47/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

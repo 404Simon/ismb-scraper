@@ -1,0 +1,134 @@
+{
+  "paper_name": "Maximum likelihood phylogeographic inference of cell motility and cell division from spatial lineage tracing data",
+  "authors": [
+    "Mai, Uyen",
+    "Hu, Gary",
+    "Raphael, Benjamin J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Uyen Mai",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, 35 Olden Street, Princeton, NJ 08540, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5065-2814"
+    },
+    {
+      "name": "Gary Hu",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, 35 Olden Street, Princeton, NJ 08540, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, 35 Olden Street, Princeton, NJ 08540, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Uyen Mai",
+    "Gary Hu"
+  ],
+  "joint_senior": [
+    "Benjamin J Raphael"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 4,
+    "h_lead": 79,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 89,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, 35 Olden Street, Princeton, NJ 08540, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin J Raphael",
+      "openalex_id": "https://openalex.org/A5025899028",
+      "h_index": 79
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/raphael-group/MOLLUSC",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae221",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i228/7700871",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i228/58354861/btae221.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/raphael-group/MOLLUSC",
+      "https://github.com/raphael-group/intmemoir-processed-data"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/btae221_supplementary_data.zip?Expires=1796445258&Signature=vVXzs~MIEnV9uvP9zrJiImpE4IwTuzoskYwk7wTDKqkmOsHb7H9b~xF316uWqfE~cHf6GqjJ9u~DtN0-SbGb0jrNJdlCxjYBR1hy--t3ZrvkWlYv2zFORHs6gEUcpuQqQK-ppjx0a6FD8AYXtiuqYSoYKezYsczyozhRps9eRvMwEbStLtRbUVzVFc3Q1H~W6XYP0auW74NkE3OG7ysrhZitAlwjUU8RR3fwxs5txMQ6YbIBHgqeYyOpgkcPe0AnQJ-qUIzC9Blssl0QAC1P9RxDVqS0BFHUo9FmC3ABn3coxYMWUYCnx8WkzgGs7RywwWEgvjMClf066o9WF1Qo2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/btae221_supplementary_data.zip?Expires=1796911303&Signature=sGHN7rQ2e4q4Cd9vzysYjDRWpAGTemgFRmnOtcFyiBRdL~9ZRUcvc6hm6uDdjP0OD1mVjKxqPh4JMe1BxEF1PklPKqxGKzzgfOZvbJc7Ri0p3a7UmTk1Bp18BVRIlq1b94B1aNE1hJOZGT0zHBeYRPS3R5sleQeZBFok0MbPnsfWS36ciyS8cGgh02YuAioi1JH4xCw4~IDi4STeX2hfYjMUoSlfVzchGnJMvteP15TtJRE4pR~qWtgEa0fCusIGKqll0YB3CQupwY3R1ac3PCjGt2pNcoC7Q1zALKj8zExMNzKT-1MdzNs9Ux-yZGchdoTI9wThp7LjH19cpY8cdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i228/article.html",
+    "pdf": "files/i228/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/m_btae221f1.jpeg?Expires=1796445258&Signature=pF6fw8HUiSp4CsY9XKbpaBdIS7XtQUtcJU4YjkcX08IkXl5NFNEvrnjrVyrb-SEt7F8xD1Ejt~Mdd20Ir2FytmNeIADqSFRc4hWFPcbvC1jFXcDbYPSdOKowKHqLUqYgnBcLcsTf0wXVPROam-DBIZpK~CgPRxUsyIuIug-xxdexAZe9BwmJgqWdWwng8nAgG~xjC3TasI548zC5dqj4NqvvaiEHJLRvI1v7M0BRMqfOc3kl07lGAtGSFSTQFh2sg4EoKI8j0cPXLX0-uQ6A4AHWZrL-bP8rOcdvvpnMKE3ylTzw5s65E0dgTBd3aotYQ5HDLlbrrXJLTxJfhwHd9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i228/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/m_btae221f2.jpeg?Expires=1796445258&Signature=lGdKpP~MIN9kecexeQS22QZ~-je~a-9P27CiNYtci0hoD5UBw079od6X8Ib5i6MWUEyHAFuvpM8JRc0ubLXZNOULFbp8UDrIb~H~Mplt3xvhrgOgrSni8UGuyXVxnuz5b6RftfRaf33OPoQ181aLG5op7dCzT5tUNVuh9Wn7mAuCt~Pks67~XRFh-TKWuMsLyrM8iH0Ze4-96YU-RjpL-fuIQqLrsAsyn~SHLiLjBkGEbcTKjPlY1VtMf3kFUsBPUPoT4bIubM77gZzzagtsE~wAz0R25oFbSjcxqCahN5HbukLPvuVoPecnuF8wpbNS8WJPRI9ms6o0VQ88K7bfBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i228/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/m_btae221f3.jpeg?Expires=1796445258&Signature=AAs8703pY7fnh4Xt5~R268w2LzRRPeQAQDRqySbtIoAuXyTYViXx7j9gWOwCYZGUuyeipvG-mrfTX73yxEciqf5Tn0z7IMu5nM9jEbrtwRMosDzKMt6fU5XvjZX0izxki2NftEUjx9SQ~YA6Q2xIw8G5DSwSbqn4wZ0W-4rExq7mNL1DZ0fowfjVFCSDTWvvSSjBb4DLuqGwIDzpt3TlyNQc~M0jl4DGBW2Zax7LAbqPyhnhcYX4kWoa1l~mulMgIL7jqtswixYIVT1kygVyk21mhJ6ZdDNBf2fTnMqpltNbwJqC2MNAjCFXVPsBEnQOYs5hbzHVpSEGKO2GaHk~zg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i228/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/m_btae221f4.jpeg?Expires=1796445258&Signature=ucMcoscQMNFHzUKSy~MoyspyKGbM4GPThCdxvKmDImCcmKABtErQw70h1q5KOXo4i~o~XDHWw3p5HDqUTJYito4rxePF~XtEY30kcb4xRAJ9gkUZs-QuTQihgDEfp-UGiN2Q1lbYJiLXXL8C9nwNEb9F-cwS55BFkwvToIC9W8Iwh1Ge6udTHucFAkq85Qtq4z5dnFQmsdiVmoh9vezmaCEfsTy411if818fBuWUT1UyDX65UdeWilxHST8eh5q1gaZEU5EOcPYMiiUZGM4otlOFUumbytUC1SF6Hd5-RZi7FPtcXBkXTmuYoJS6qxczHz1nTn1yQ-166dtAOkqzQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i228/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae221/1/m_btae221f5.jpeg?Expires=1796445258&Signature=oGXmosxizgZfESePmdT~I1dc4MbND3CDreD5yjOVwl-8aYcrqd9v4mbgS8ZCjCuxVvxSaHfEAUfxifPoKQCVo8zEcEwpcCxF7dC33ql3imGRIoa2fSThYyxoelUq8U7ULNdGJSs5b7TPQDszKUxJinUBMX3WNBqoMRnpGV6BqlhEVggZkVyD3D98f57pWIWmPx79Z8LxxKuPZT2f7z5C2D3vQKMZ3vWw4C3FP8O2GzlqgV9nD2V~DP8XhVBEDQofEHY0JthtpwZWVB2J2cLtfcynk6jfxfUeUr2vsL0rkAcwAFZKN~CvPDLwu0Otp0OJxQ9Jql25-7~HT6VL2aLVjg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i228/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

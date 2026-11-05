@@ -1,0 +1,144 @@
+{
+  "paper_name": "Genome-wide scans for selective sweeps using convolutional neural networks",
+  "authors": [
+    "Zhao, Hanqing",
+    "Souilljee, Matthijs",
+    "Pavlidis, Pavlos",
+    "Alachiotis, Nikolaos"
+  ],
+  "authors_detail": [
+    {
+      "name": "Hanqing Zhao",
+      "affiliations": [
+        "Faculty of EEMCS, University of Twente, Enschede, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Matthijs Souilljee",
+      "affiliations": [
+        "Faculty of EEMCS, University of Twente, Enschede, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pavlos Pavlidis",
+      "affiliations": [
+        "Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, Greece"
+      ],
+      "country_hints": [
+        "Greece"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nikolaos Alachiotis",
+      "affiliations": [
+        "Faculty of EEMCS, University of Twente, Enschede, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Hanqing Zhao"
+  ],
+  "joint_senior": [
+    "Nikolaos Alachiotis"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 14,
+    "h_lead": 19,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Netherlands"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 62,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Faculty of EEMCS, University of Twente, Enschede, The Netherlands"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Nikolaos Alachiotis",
+      "openalex_id": "https://openalex.org/A5010135755",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/pephco/ASDEC",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad265",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i194/7210429",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i194/50757064/btad265.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/pephco/ASDEC"
+    ],
+    "zenodo": [],
+    "figshare": [
+      "https://figshare.com/articles/dataset/Datasets-for-CNN-evaluation/22434445"
+    ],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad265/3/btad265_supplementary_data.pdf?Expires=1796412477&Signature=JwncvBTvWKoUTNci6K~5lDomavHdKAsC~w2ZfwpRgA1gAeVLXI-my31qBMwwu8pcj~gv5x-gC4Q8bXMP~svPaTQy7-rj7l9D04mH-7socaEU2yAC4uclnuN37FjhvJTtCOvieot2u-RFn0KUj8ZChMpVnYRVSps5N6DVMJPfQzXDevvwbdgn68FlZIvEHrqjSJ11faIF7b9~3cczKdQDy8X9GsXNdWNBW1TsYLoXMlq6LBLSK4QhvaMWV7pfqJiozzP4NBDcx0KlIeK2UpaYhaknUwA3PP~9XzU-iicockrxdjNUwPSFH7mTLfGr6QJYg3xqRRrTQ1yIcIfnmRhPtQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i194/article.html",
+    "pdf": "files/i194/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad265/3/m_btad265f1.jpeg?Expires=1796412477&Signature=JCZa3vvNmaqSRP4N4oyrQAnOH84QEtJIA26CLe1uLc9v0wJhYwGoyNgABH65MALbVxU-3IdXmRwWy3SMSLyiyrbuOoY3RVq5MTwyN355rd~ib-KReYLhxhxkUtWIwZmhjzrrFdmSMi89CV6sdGwefBrdLHLmr4rR2RSW1V~vthYXvXDD5M5~KCsk20fmXSjX3LZ8camSOZodECjqXJf6jm4Y~KGgqxY8hSppboSwuMyD1JVHyy78dyY3P1QczaFEVdLk3iy~N7C3VRNUwctga3WfG~W6iRo5Q32OWQvEGpVszlPs1dSQBf6dqtHkySgYpaurqZDORxaTZk0nlL38ZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i194/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad265/3/m_btad265f2.jpeg?Expires=1796412477&Signature=Sa9HVp9HjthJXGi9o~PIt-JwYvc95PSFKzKtBhZ8aPnWpIsCBAt8eYN3z0dRzVoBjPdJt0dVeyGorWGetRqGQNs2-EgnfP6ncsppogQlMzdOZi50bx5ZSOuK0xmGf6Rhv6q~7ZwsNGkkP5aSkhLB7PZDGBarQWwyx3XI0d88775WzTUUlhgr4TyzW1AMoPW-0DZo6jiiuCq13MTMfj7WsAxFG3vFTSpGD-ucfRpBWAhLGDyXOtPBEQoinaobkU-BR~jMoxuKSvDnTXLt4y6aE8ib1Cv~fwQ7EL~Y8x2f1nufNtzwEl5I0r9tF99bQjo5gTn6sFeJge0Ne0Lk8AcyKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i194/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad265/3/m_btad265f3.jpeg?Expires=1796412477&Signature=w-GLYCFpiqvE--XP3V5HknoTCvMs11lOy2HNhv8mjdAB~PkSv8bUeea6TlgJ5VlZd3Pehk6uNJilmJ3Tjfvrq8JfPgG6ze1ee8avIWlmBhPNmZaHeF4sdB89FE9~gSkivO1AM-x5VVO4UEtNzmsgzlvON1xKSxezeasZzz1Dt1OySAIxJdE0HgUqUqpqPZvbpbCkqBXCO4AHdaYVv6lmZdxunfM5yNfbB1ZWZ0ol6RNca4N4svXvBz1mtpaVQW6hlg~-y6FKoswrW2imHQx5o1K63ubnzgNAfYirbg-BTEsrBq8hV16s-C9WGWbvJ6RoplYnjE-HqsjA2gi6HfoIqw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i194/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad265/3/m_btad265f4.jpeg?Expires=1796412477&Signature=YmZmojOM6uUeLaR0D5ArvEB2-OqqAzb86orNpc4BCXQZuKIoHuH50~v24qAoU-ryW2RcWKWvzLzpbG3uCTqJ~TnSFrEYgn4vQyLYSvWHJyHytTzeTAVlHX2mfSWcNz9YOG7mtIlCpRv-RuU88rTrz7kxNTWZ8ANcdl9OkoaPrM4zO1TK1QQFgNdPmLaf7KbY4~qkEtP78hp9r7n4emN3m~lc2Bha0WFvBoEInz0ZmqyiKTec~9Mcg2BcP34n8aF-Sj0r8N6YvuNJxzDm0TsUPfx2OTCS1wuQhBOFE1negcThudoUHaZ107XrN6G9yMGwzCFzgxsb8CrM6TtWHh~DcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i194/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad265/3/m_btad265f5.jpeg?Expires=1796412477&Signature=3-JEWFBiSLSn64QgwkVW5afRUJQ0HErbvyhDzsEkzPa7fnUT1emWn2rW21fMvFSSbPOgdrJfXA1bSP53wfQbbWfT2auJVr025VwDVQSlfptg8NOxxAEFLyXYDgvhaUf8069l8LfWAKI1sEKXG7z0Omyrw4xI-mTahrMV4JNmrq9LZUPBBOHi38pSkQuoEIto-syOu3hYZ8Zgu0KGICEMNIIi7Ey9lnFzfKNMmi2mK0jWKJENLKjfbDju47flriDNzlVnjqftTjIpfAC~tvFYw5af3LfiLFxFhWuhR7MUOGKbaZS06kd~iO4-L9LyxQCei7HG1Ofvq7NjaSY4JxKqRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i194/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

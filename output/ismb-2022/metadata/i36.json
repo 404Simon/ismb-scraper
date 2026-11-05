@@ -1,0 +1,163 @@
+{
+  "paper_name": "CALDERA: finding all significant de Bruijn subgraphs for bacterial GWAS",
+  "authors": [
+    "Roux de Bézieux, Hector",
+    "Lima, Leandro",
+    "Perraudeau, Fanny",
+    "Mary, Arnaud",
+    "Dudoit, Sandrine",
+    "Jacob, Laurent"
+  ],
+  "authors_detail": [
+    {
+      "name": "Hector Roux de Bézieux",
+      "affiliations": [
+        "Pendulum Therapeutics, Inc., San Francisco, CA 94107, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Leandro Lima",
+      "affiliations": [
+        "European Bioinformatics Institute, Cambridge CB10 1SD, UK"
+      ],
+      "country_hints": [
+        "UK"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fanny Perraudeau",
+      "affiliations": [
+        "Pendulum Therapeutics, Inc., San Francisco, CA 94107, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arnaud Mary",
+      "affiliations": [
+        "Univ. Lyon, Université Lyon 1, CNRS, Laboratoire de Biométrie et Biologie Évolutive UMR 5558, Villeurbanne 69100, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sandrine Dudoit",
+      "affiliations": [
+        "Division of Biostatistics, Department of Statistics, University of California, Berkeley, CA 94704, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Laurent Jacob",
+      "affiliations": [
+        "Univ. Lyon, Université Lyon 1, CNRS, Laboratoire de Biométrie et Biologie Évolutive UMR 5558, Villeurbanne 69100, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Hector Roux de Bézieux"
+  ],
+  "joint_senior": [
+    "Laurent Jacob"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 12,
+    "h_lead": 23,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "France",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 14,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Pendulum Therapeutics, Inc., San Francisco, CA 94107, USA",
+    "Univ. Lyon, Université Lyon 1, CNRS, Laboratoire de Biométrie et Biologie Évolutive UMR 5558, Villeurbanne 69100, France"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Laurent Jacob",
+      "openalex_id": "https://openalex.org/A5059163151",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/HectorRDB/Caldera_ISMB",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac238",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i36/6617517",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i36/49887139/btac238.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/HectorRDB/Caldera_ISMB"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac238/4/btac238_supplementary_data.zip?Expires=1796433902&Signature=r-os0OkZNVSGSDTF4UGrUlPVi7BvKF2xJBq-5tEzZkHOCwCgudlqe1St5OU4Oab63hPqwR8cHEf-D-hMZP0YljypfVe7G08AlbXzUhownBVqAuDjED7-vZClNmUEmgHPmAKE~zVPsty3sVG1MYi~TaP325RStZrVIN35K8IEs3cJFGl0rZMGuozRftRwkEtzslJQTJIqsIStTftZv78O6BZPbtx2BaPWKnDeDQqH1EPhvYhA~C47cNSah7qrcHOu5GjQRYbEe0JGZFZzU25Zg-AQIZdg8CNQ1N2ehcFqfFaFp42d3svHs2PO1W9cijBm4GJKnqHKePZAB-ml4tmZSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac238/4/btac238_supplementary_data.zip?Expires=1796910413&Signature=ufXp~faEywXnu3z3VKt2-c9BNUtkqIMp37qBv6Gi18y4WaY5bBcDuyfjYGfWoiW9K18kmvLRY2pU~tS5XCflVcc96IGrUa4VyZWYXz-rrbpluMcgk7O0tBHmwTaB1bUC3uWi3fSgBjNynmVTCPLsJZf1LLC5tmxpXQW4PP8aYnRt0x9Vn5JqNhdBlR5Jlqv1oW~QWR4wHBXmSZcaxlOu0Qox9PWgohWpS4NawZiYHwtNsyg54EyqLl1TdBpDLlyfVoOGqUMYER176FFfny4TkbCuj1wmWfqQKcTzpIVDfhvc3-zGUkxT-n9xcUXe40dtRURFPFI3k41umY0Ow2olmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i36/article.html",
+    "pdf": "files/i36/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac238/4/m_btac238f1.jpeg?Expires=1796433902&Signature=hRJmhHmC5gZ-h7fEsaVFxQdrSHczYjniM1Wq752RJnz~QcF2x75Ramo~sFcFmvygbj4WxZu4YGJ8BhOCYR9luaSx5ArbIR8aiyZjHc-D4zSfzm9Kr84vN9nTr4cFbtqRDBJ6OWprb1uw9DhkzbdbnEmRNZALwx5LoG36ZMEYoHg5fSWU1JPKmEAQPAfE0rd2L1AZ5D-QFLS554cJivbgoApirdsNvowX1xvYr97dhwOuNWGeU3Em-KpY1m6AYnDFI9NIvrA64MkN2NvtIqvgGbRAOBBCkFkvTWlrRWQkblboZow6xf3axezdBCRvW37Wwo76AHsyMUqBKb~H-uiifQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i36/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac238/4/m_btac238f2.jpeg?Expires=1796433902&Signature=QUKx1j6liEeNc6UNTvPd~a8tO00nShFwILlpvw67L6S1qCzzGJAEyOVvMECsU3k1rf1rowHPDwZ3qQTnbw2t-FojCYzAIorV6X4pHaN786BlyjiEr~-02~gng14K9TSWR6x0y7b4rfLAa9Uo9tQrjp~ICws2uxwpNhKlbNBqbLt5QYU~thhdqwGlNil9QsyDKP7t7JA9yvr~2jfoB0kskq7bW8lQcxIlUH~Rks55KIJgDj98bq3e9O4PojwXwPZUX2ocOAev4QXivWq4fqsakqqEckmgtu-1n7a-OOb0Dhfe-niZCafcugEJ-Sj8xN-KmTkPf5yIvycWnA6Kqha9gw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i36/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac238/4/m_btac238f3.jpeg?Expires=1796433902&Signature=1H~Qeh5JayQDyDmU~j-ldx1uROpVc2CH9NeSFe~UiiUzFq-3BSZZl8pqE4A~ER7IZXgS~DmOTkzkqxwhK7vaC87~ePOFbxg3IE0ZYZ6A~LITusfiuzkWEkAZQqT~V8l1F6vVza9kz4gcAtZUnL6FMgRzuQYuZ0TwzoI6VPhthNb4LLIW28LO~R~NX7SVp5XckkaWVHisR0~UlDDOwYT5o0P-C1xpcSDIYHWt9ilhbuM5xv5Ld1m~WkKHnCl3AEV2DMnOhLF4l1b3rE30z0Ffw8sUG2e~dOETT28jGPPO3g7SjYB~hrtEjHQ8shQqbDcEc4uBowx-SraKXMPQDdJGTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i36/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac238/4/m_btac238f4.jpeg?Expires=1796433902&Signature=WJXQHmLO1DcnaTp5LoL4KNCKXyRfZ6Hq5cQCmvdZgHbY1t-jyIBwHembMmlpxFCoioGGjH8gvD6At78QqttKy2s~I~CY1sZuyIoZT0IMAdlGWlP-H~1Q89daS9lTnQnp3cueQ3VrIMEosrA~atB5CRreRL8scwqikye9fnejVW8iM-9j24zGzoFAPgyqIKXorCuOVC2q8rXRHevt5sRmGnORx0u1ujsOYecsRUEGFrNRIfBYWL7wdwI-ynDCA1PQ~gG8yeTvox40~v7BBYZqoBEZOYkcqh6ToSk3TwLMZHE62e9bj1~8wejlM~yORMdnB8JWjo8BNIUEp7luw7TVfA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i36/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "paper_name": "Locality-preserving minimal perfect hashing of k-mers",
+  "authors": [
+    "Pibiri, Giulio Ermanno",
+    "Shibuya, Yoshihiro",
+    "Limasset, Antoine"
+  ],
+  "authors_detail": [
+    {
+      "name": "Giulio Ermanno Pibiri",
+      "affiliations": [
+        "Ca’ Foscari University of Venice, Venice 30172, Italy",
+        "ISTI-CNR, Pisa 56124, Italy"
+      ],
+      "country_hints": [
+        "Italy"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yoshihiro Shibuya",
+      "affiliations": [
+        "University Gustave Eiffel, Marne-la-Vallée 77454, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Antoine Limasset",
+      "affiliations": [
+        "University of Lille, CRIStAL CNRS, UMR 9189 , Lille F-59000, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Giulio Ermanno Pibiri"
+  ],
+  "joint_senior": [
+    "Antoine Limasset"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 23,
+    "h_lead": 15,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "France",
+      "Italy"
+    ],
+    "M": null,
+    "T": null,
+    "S": 44,
+    "C": 159,
+    "I_open": 1,
+    "I_closed": 7
+  },
+  "lead_affiliations": [
+    "University of Lille, CRIStAL CNRS, UMR 9189 , Lille F-59000, France",
+    "Ca’ Foscari University of Venice, Venice 30172, Italy"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Antoine Limasset",
+      "openalex_id": "https://openalex.org/A5001793115",
+      "h_index": 15
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jermp/lphash",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad219",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i534/7210438",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i534/50741423/btad219.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jermp/lphash"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/7239205"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad219/1/btad219_supplementary_data.pdf?Expires=1796540116&Signature=1LdMrKr2Wq4pNw3KpxyDus8c021qfABH4j1GrPTPCo6MscwY6H10Ilm0HwfIrLQXqfvHZKaBXOrQHkn7tFBJk85k04kPTb8BSk0T~eSMae~UE5CXNwO~-LbXnxYMrmMO7m1gqoTBVL1hTHUwE6uwVl5pyIoaI7JVwUzW2CICGRqvFqnKwP5AX~E8aDDXt2IcD86-p6grR3UQigbgWrsLE3ZwTCM1xtD7DVD2W5MWQN1Bk1KbPf4Y4hOYqohFn3jKjtrpNliLyvGfXh3ibojyCaLyRWm1UhFBiVjZ6A62VSAlWhhmqH7ez2uxqfzDdDCJL4wvSGmeePIDTcam6ll9uQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i534/7210438"
+    ]
+  },
+  "files": {
+    "html": "files/i534/article.html",
+    "pdf": "files/i534/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad219/1/m_btad219f1.jpeg?Expires=1796540116&Signature=QHW1jD6iAFFW6qtNju1BcZXeSPLhYWG67aJC9D9CgKWtaZZJpkmhsXrFTJntWuC52m1KPz7i3jSx5GfvT04DdQo1ix1v1YkJntFs3l2tP1FsKAbyez7MH5sWwAk6yQoyUQ~vrvP9MZ5g8AezH-61pX0sf~xMRopiOKi5VRo8cBa0P53COPEVDsZtsT2PC8jH2Dbn2LKz5E7FD7Y2wvuChGmJq1pMzVkLafHCBZA7pNtHWGoIXNPFxZ3~cdtyKjnKWUaNnAm--96q2lx7mOC527PhFJAnLlrgtkCDAgWmipKkCf0l2XxV3nM0VDyLoVuCfD8X61~qoAWf6oPektcjhg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i534/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad219/1/m_btad219f2.jpeg?Expires=1796540116&Signature=4Etrf5LTOESztd2axjkInA3kO69SH9yn909rCAYO5zsV410P6wiFH1uTb98aELgkmaKHLTFQ5ccF6cjESQHuxJB2YRJGhvzKEDpGJHzc56arwfuWztTyNjqARUDGE5GYiqSs6umzYuhZafl~RqL~-7wM4EjNZoK3T~qYR8NvvGTRsojKpuN3e~QP5JkHgBlKF4nt7U4bZdFbXhw3hycKiVFQn868TBaadTWdpkvxoPFyWtUMg3N9LYBF-4J34oB0~7xN8u0JTtgZUuAautf8ejT3ZKBlqbZsAPLEX3XpaQ2K9aSsaeTVDo~XYUZyxTKYicHQke2MI60k3DAAlbzENg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i534/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad219/1/m_btad219f3.jpeg?Expires=1796540116&Signature=O1LnLGxXMcJkRxtSc0tXj5Y9WjG2vH0QiOxcA-YQJtls5hTeGwcr7Uw2dKHuHLsxOeHTslD~966km3~9RlnlRtcp2pDAKd5GSDIYfuB6x7vonqd18CMOqzDmifc2d909pZTpZSaoOVFXnwl2uNf~ALheoEsJQdbFAUP23WnTXJIavEkOWv8w40CqtUHWOd22Mwqge88IGAKF2JW17NkqStzSEiQPcjDbR7pvXj5f31UF2pKlywt~bR3muvoUlyD~mD42z9I3s9qBJxqnknE9iQZwPMdpEjheB5vd0OG3ml3Akqasewny45BFybYQCvrdnt~w1rfWwteyWzSmo0uIOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i534/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad219/1/m_btad219f4.jpeg?Expires=1796540116&Signature=mt4OQs9CDjLV6YYIwRimXgxjme4DmbRwpGjzUfaBzu0TndhaEEaKgCk9TZZ2YAbm5LEroI81wSrZ2MbKg5RJy1ydyvO4H5gNO9YvvRLgWiRCZQI~tis5lOIDuZzNgTiLdI4I4MZthFdIKsqBKociO6Qyl7lrOL0rwBXhiyd0zmYEwgmQID8lPwum2wJy671eoUEriaTe~LS-nTOJJQjOms1YsCYbTUTCVxyUUn8IYxohgwUwE2Ur-o8aONRtwCQ2RBXBLgd4ZWpt7pAqqyfFfaCD5a3f1-3FrMqsrJ7q10tnr4uClAOM1yDrcM9UXdy2U6d8LutwHEEPpGFCWCtYeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i534/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad219/1/m_btad219f5.jpeg?Expires=1796540116&Signature=DGg0q2l-PDQmA4dxFT4srFfCHmWHgjd8fWg8Zfg3pn5IEtugnpODeHonkBTn4GF~3f6AIS0r3jMA459tTbzBDuN33QXuznirph5GFaKldXhB~IxStOQNpolFpFo0yWxuEAUmE5bVF2xHeFyyCib7oZvxyKiLKm6zcpyQot-FS~sA22gjLJy9Wlu~VFqbxkMLCUNCfmXKHw4IPZkjBaAAy7kb1PnN-MP5AK6chQMzfcyvfTiQVMMhP4K5UbT~gE96XaxLbcUaCIGtR3w1ZbVlwhOEM0j4UElXCTfYVKmJ4BpTIsNHvEQ375hvhW6p-oJHZjKjD0UDBTcAh1ihzFS78A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i534/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

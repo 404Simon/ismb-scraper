@@ -1,0 +1,156 @@
+{
+  "paper_name": "Anomaly detection in spatial transcriptomics via spatially localized density comparison",
+  "authors": [
+    "Hu, Gary",
+    "Gold, Julian",
+    "Chitra, Uthsav",
+    "Joshi, Sunay",
+    "Raphael, Benjamin J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Gary Hu",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Julian Gold",
+      "affiliations": [
+        "Center for Statistics and Machine Learning, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Uthsav Chitra",
+      "affiliations": [
+        "Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard, Cambridge, MA, 02142, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6016-0960"
+    },
+    {
+      "name": "Sunay Joshi",
+      "affiliations": [
+        "Department of Applied Mathematics and Computational Sciences, University of Pennsylvania, Philadelphia, PA, 19104, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1274-048X"
+    }
+  ],
+  "joint_first": [
+    "Gary Hu"
+  ],
+  "joint_senior": [
+    "Benjamin J Raphael"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 1,
+    "h_lead": 79,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 19,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin J Raphael",
+      "openalex_id": "https://openalex.org/A5025899028",
+      "h_index": 79
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/raphael-group/spatial_anomaly_detection",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf242",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i493/8199368",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i493/63745420/btaf242.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/raphael-group/spatial_anomaly_detection"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226211",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184369"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf242/1/btaf242_supplementary_data.pdf?Expires=1796423076&Signature=0PNXhdO9EZz5ti2xksPmwuzQkRXSrNOhCDq37UCPyTM0UV9AQlskeYucT4hhwj6qSSkGi2dUoAp4Ckhj-fFz2UgqLHlg8ZmIelMoVUQwfYmz-wO115h-FHWSvE3X7VCfhEPeG8TMoHnqjdcpc~mX4k4wZBe7tEbd~sr0qWgEGFYbFjGkViNKED43dzW8gLY57VkYzB5ChONiFiaUu3PjIRAO7uXI9Rm4ThSQ~qf-UlPXB1OaQCQ8l3FcchVgkifbgiub-6WRb8y2FgRG4S8tWJEWMD~NObXgwKmchTsjgzyph7zy59nIxa6r4ovzMxAFEz5sZ2mlQpAKdrQOWBfsPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i493/article.html",
+    "pdf": "files/i493/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf242/1/m_btaf242f1.jpeg?Expires=1796423075&Signature=D13Akm2jXhbutkwqFeXHIdWhgROtSTeAJhUNQHeEFKBBTnXaJHGPnH89XOdmvUl0iV5RYxP4NOQ3h642FHfyH85MCq3Ta1ZroSyYs9GYraVOtwuWYgvSwHLUJqt4MxY5DACYPPxcFO1hyWViA2vVJLVStW9xBFwRmDeE1AztT9MPEE7LUREetUgXVSwMjDtxOusfzZL6DDTES-dS-ncgmxi97iLIa4aZMMJqFCaLxCoa1fB95AUL~wPGAL-Y7gkQqqUqDYLHDmZgZOMwySpnMqv9WkYcHckepW~VwKYusJyXjt~ujV97WuNheoBJ1XMgeF9b113p6fkNw8oSUcflGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i493/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf242/1/m_btaf242f2.jpeg?Expires=1796423076&Signature=u9HAuIr1Uxq5YaHpKKPhg0o5Gf2SxgPQkV-RdI4QY4AYs8pX5kXK8tunOu2AV1OpRF6vyq7RGB3rIIHZaWfhMRVRiVpmlNoGIVcuO-8mo8KiQFQ9oRAqp4CMuO9dsyU8hsGcOWrGF2~mNvYrfraNuT96~N2-D~uHjGJ7h8F9yrkNQ6tTNCcUzsfZdLYb4fK1nCanbzoYRuPTMncX95mAp88c8skMVhkxB8YntfsksF7Z-YfubyQrgsMaPbnFsxHt9UXuai5T-wep0XxegO7p1jFCgTpk~5hxgcyB732Efe3RIcaLrGE~yLppfonb4iFaFbRQ2kk9YU6arKdkgEh58A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i493/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf242/1/m_btaf242f3.jpeg?Expires=1796423076&Signature=PGQDnpQHo0xPkurF7omHA6O1XeegQoXlnSbNKgCam6wscrYuKKLsmmASirnFh7wLZT6NAwiybaYrDKhwuNl-OqfiugOyXXOn-ZkScRY0rdMz~5OMxfM~Q~ctjE45sOfb7WROxj0ClhdThEHxhY3p88mjQT6L8SyAkIYqJeu51yOtp-Xwi37mJtRht716MGG7DDBoSA2zsu2bgMyEXh5THoSfYiKqFfiqUPywfVQM0pHxLyHFuqhXyCqXSn2-Rhvx5uv1mEkCEkrq3ZzCQxyzE7e9Wco~tHJL6l5dPfH8bEVs7fomJhJ9qOk28WvpYl0Mr0TDGAuEShykbi5dw8-3MQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i493/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf242/1/m_btaf242f4.jpeg?Expires=1796423076&Signature=EIw09ShE0Bo~Bc8JXj04RhOwYAN7W-O2n4HIS~IVEWO3OAUullzX7JkNrJmQrXGlYQL57ofzP4ykbCWn5fY-rN1iSIuiFcaZUch8ZiNc7~~bC2Q4aocxlABkDkj-n5ti0bcp~hhKwuPxUE4Pot3GBwKNpJzE6APkBxvPc9ghnkMchzPjgjW02hqPZ5OJdGcBJ6UeNQgxu5RwVJnsrekGc0k7OdEBEhhyxZ4OJaQDAnX5CQnF921Z9WdLH05TVqf6UcUEJqzXOZGBXtO94XjmpuS4SCkSVF4vtWCIpXYJkvXg0vaXecWRtlMyoSK7eBxFxGoYB5kk6xIaKryNf7p5PA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i493/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf242/1/m_btaf242f5.jpeg?Expires=1796423076&Signature=iJYiZoX-T2hw95Qj0~REjKzXML6F0WWBBhcdSpsEe4VF28RNlPpjsWS8LEmamZqIPnp~FXDDvnVUGvOVYKI06cmdEbGxDqe3mDyx04i8w3tvB-p8PsOmE-5uDhdJxI7IWlrlsN0DdbhmgZ7Kj8kvalJWvzvafaNNcpf0LXCOIt8mesijKul8B7T5Hz8B-vdNbcbPIxYbWFnLiYvPum4T0sCINQryZIWE6d740xc-YG-NRIfEv97vk~ehLvApzJ2CW4ApYcFLkPs~t01ImXwL9rq49e9aHPuDVk6cbFrndvEsdJcqV5BEX3k1QdV4zUD9UsG7HQC1ui7Cw0QlTWjfhw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i493/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

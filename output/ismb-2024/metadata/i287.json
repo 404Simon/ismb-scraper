@@ -1,0 +1,149 @@
+{
+  "paper_name": "Sigmoni: classification of nanopore signal with a compressed pangenome index",
+  "authors": [
+    "Shivakumar, Vikram S",
+    "Ahmed, Omar Y",
+    "Kovaka, Sam",
+    "Zakeri, Mohsen",
+    "Langmead, Ben"
+  ],
+  "authors_detail": [
+    {
+      "name": "Vikram S Shivakumar",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, 3400 North Charles St., Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Omar Y Ahmed",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, 3400 North Charles St., Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9933-8508"
+    },
+    {
+      "name": "Sam Kovaka",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, 3400 North Charles St., Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mohsen Zakeri",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, 3400 North Charles St., Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ben Langmead",
+      "affiliations": [
+        "Department of Computer Science, Johns Hopkins University, 3400 North Charles St., Baltimore, MD 21218, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2437-1976"
+    }
+  ],
+  "joint_first": [
+    "Vikram S Shivakumar"
+  ],
+  "joint_senior": [
+    "Ben Langmead"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 23,
+    "h_lead": 41,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 7,
+    "C": 77,
+    "I_open": 2,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Johns Hopkins University, 3400 North Charles St., Baltimore, MD 21218, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ben Langmead",
+      "openalex_id": "https://openalex.org/A5009556658",
+      "h_index": 41
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/vikshiv/sigmoni",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae213",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i287/7700860",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i287/58354790/btae213.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/vshiv18/sigmoni",
+      "https://github.com/nanoporetech/scrappie",
+      "https://github.com/human-pangenomics/HPP_Year1_Assemblies"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae213/1/btae213_supplementary_data.zip?Expires=1796411514&Signature=pqBAijFOhLO0DSnPKnB5imhe76RS6Fq3TipEf~45QOvZLjsJ5YADLkQtQUcaxEFND7CSGtUEeqMqctZngWkUPfxSJAFjaLHAAthI18BfMJPztbkwZL13-R8gWn0K-~3xTmVKGuMyoHbKTdsfJLLS3itI2MQ8r4qQGTvAhspo13RHuyNXo6dC-pYBscv4D1saYOTD2RqTc5BiMdcBBpWdwrJ2tagNVOS5GHXTh3sl7uIrBL5X-VXtzClUJDLikVIIuwZheUKEksBhvUwpG660tLXoio6wNtGxJWvJ3XJvfrCEHpAGrvyqne6jgErCyL2xlZ0H1IJwodUkHjCTa~CsIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://s3.amazonaws.com/zymo-files/BioPool/D6322.refseq.zip",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae213/1/btae213_supplementary_data.zip?Expires=1796911401&Signature=jQjTEpd6a0c68yEnOnrkvM1TI2foqwP7ihwYNTbbbVYP98ySx9OnhfqKqwG0fcZGh~QaCduC5quZy4Om~8TNbw0XlbrtCI8f9jZd6oUPwWapiuflFsxxOXAUsgQyXFwt1N0Mk9ZekBc65P-5-uuvopfrGaAoC4-WAJzmvNk-x98~bHQwhGkH7UlGzfdN6zLqUANQAyLZEd~ibhnZJxzZS8h0Xm~UVhSvPNR-o5aDabDg0YRnvGewJDovah2C6Al8ODSAINsFrntx37Iom3aGHRf3izrgkpzw13qet1frBOiFI~wl9zxXtLwhOx81QSchGX3g7Ip2hFXsZ3yiaTKRYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i287/article.html",
+    "pdf": "files/i287/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae213/1/m_btae213f1.jpeg?Expires=1796411514&Signature=3u~hI42vejS2vO3LBqA9la~DjKwKg9kd9zlWW8GOmkiDbAQjc2GdkcLcubCEwcTY45P1ZNhQ7DGMlaWoWWYuNoaKvNFWGwKQKXa~MXbUlHZmqlQX5ejEUV1B5X2oYCVcvfW8Ee3QGl3NWpqE6VU-RiJ2lhVdWgqZ7LRM-qANf9vp8CYj2NDgZRVi4QBt-~tHoD21IiHqxLhSYsAa18K3ig1xsa11xlBYNpaI5uAVmYr7GlBKxn2lqGB~N8NNBiekQmOmq7CMxuMR19pz1fCSEnKNE859pp6IBJGn1fI13Yx62Q5hOk0UDkLHCeS9MmgO3k8GzvLQ-ACDRGvvYd8ddg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i287/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae213/1/m_btae213f2.jpeg?Expires=1796411514&Signature=Q-2FqQolcd4KoZwf88Jv5tcw8Gq~~op~y5PjgJj6R8nfXRzJ32gdRCbFBSZkMdpKcOpugRkh1~Z8rc2GGbYDIjCeakZR9Lv5gvlCIWnutpHNNBZQOsejC0-alFlAlsLS-Jba-REnhS3gmPQ-LUHEEMBKIhXtjccLJjA~iKB61XiHm7c695AReZjaqF~SEtwFwKVLfCqoQE4wFvvbhuHt9cdhmp8X868Pc21L6O0zthTMKuNZcl2hkxVG4uUk3ZX6ibQh3c23-7~uDOKCBPvKi8~5cvwRhRHP8w1Oz8pJ2cfcoF8TpSTmZ7XgkTgJVL4lFoFsfFtKJIWWM1LlYSbHXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i287/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae213/1/m_btae213f3.jpeg?Expires=1796411514&Signature=YQ6tZbgXQ2aP4UlAObRtoSNgbDN9ctU~gs-RgKFgWd3YdHiOD0pWYzPM1SH7US3wguHhrDCshJmPCd1691HgbXmByCfYd-U43ajMKAvPz2ziqFXybqg~1FzLPQkTKHo5exOOIRRQPibald8tF3s8v2VFWzspwdUhY3iRFCsUqwZRFyF7~zM4C37P~DOtuexYOcSEwlLMzSmvZavXBpTrOnaq4UqcfkiDHphROFl4sggneqq9cB6k3IswiCrXDTVOi0JQxb9NMxQ3KmlXS8OptBpLp49Fj0~coFuN-R~VkopYdcD0K7~P1y1DE1V5997c-YLe2-fs1Fi2db5Ooig99w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i287/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

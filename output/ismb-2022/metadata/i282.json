@@ -1,0 +1,146 @@
+{
+  "paper_name": "MOJITOO: a fast and universal method for integration of multimodal single-cell data",
+  "authors": [
+    "Cheng, Mingbo",
+    "Li, Zhijian",
+    "Costa, Ivan G"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mingbo Cheng",
+      "affiliations": [
+        "Institute for Computational Genomics, Joint Research Center for Computational Biomedicine, RWTH Aachen University Medical School, 52074 Aachen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zhijian Li",
+      "affiliations": [
+        "Institute for Computational Genomics, Joint Research Center for Computational Biomedicine, RWTH Aachen University Medical School, 52074 Aachen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ivan G Costa",
+      "affiliations": [
+        "Institute for Computational Genomics, Joint Research Center for Computational Biomedicine, RWTH Aachen University Medical School, 52074 Aachen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2890-8697"
+    }
+  ],
+  "joint_first": [
+    "Mingbo Cheng"
+  ],
+  "joint_senior": [
+    "Ivan G Costa"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 26,
+    "h_lead": 55,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 13,
+    "C": 47,
+    "I_open": 0,
+    "I_closed": 3
+  },
+  "lead_affiliations": [
+    "Institute for Computational Genomics, Joint Research Center for Computational Biomedicine, RWTH Aachen University Medical School, 52074 Aachen, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ivan G Costa",
+      "openalex_id": "https://openalex.org/A5057250270",
+      "h_index": 55
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/CostaLab/MOJITOO",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac220",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i282/49886946/btac220.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/CostaLab/MOJITOO",
+      "https://github.com/immunogenomics/TB_Tcell_CITEseq"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.6348128"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [
+      "https://osf.io/6kr4v"
+    ],
+    "software_heritage": [
+      "https://archive.softwareheritage.org/browse/revision/1c7fcabb18a1971dc4d6e29bc3ed4f6f36b2361f"
+    ],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140203",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158013"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac220/4/btac220_supplementary_data.pdf?Expires=1796410899&Signature=ERvggliefWPfdJE4lA9RcHhl3XUKInQU7je3dUOS-5UPg7a-RNica-ykcc~7Li7NgP0OiHwjzzPO5ZWIm5D-Fwut1NEg0G-HP6~XIEjOptI15UGPT16he1tJlzWh-wuz3ZKj08A8wsEBpZiNzlDgIh-XYuiDT02KvEA34pwltCwYmjY2rBpUGK3LwT1JlvGkM3uZmJ5DrOIW83~akL-36Y24sP2wf6qHZoXglOkLOL9ESsExayfYcfQYWK96r6pxGsuSn6m2Lm9HPwVW9cvZ5llz7KkHAxK7KgmcpoHoCKtm6SDVdQuCXEfqv~cjH3mVI6UfuXcCvBhHuLbPENbMKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.10xgenomics.com/resources/datasets/pbmc-from-a-healthy-donor-granulocytes-removed-through-cell-sorting-10-k-1-standard-1-0-0",
+      "https://satijalab.org/seurat/articles/pbmc3k_tutorial.html",
+      "https://satijalab.org/signac/articles/pbmc_vignette.html",
+      "https://satijalab.org/seurat/articles/multimodal_vignette.html",
+      "http://mixomics.org/mixdiablo"
+    ]
+  },
+  "files": {
+    "html": "files/i282/article.html",
+    "pdf": "files/i282/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac220/4/m_btac220f1.jpeg?Expires=1796410899&Signature=VlqECuw71sOLaUmZVSRu5CnVYkAPxDkZIbRPInkal-URvWLm8mKjE14ZE5aNDJN4Gl4T2sUqnwRpsJGIx8FMdjKfrhyXUYMpvvPzqCwl4wkQkafyxSMOm-0jWvXdBB1af4EGERFo8QCyG5uBWe3i3M5y1~B32X9oT0xKHNBdaTdGiSX9jBW93sXdkUmAy~aDgM4DrnMeoLFCjHOTJ5C-f7B4smZYcX~haARz3EDHo-Fv3MMQEsPm1NbGUYw~9U8deChp1sUe1RmegCAVqeS1VO0I6vMt-vk-XRbqSUeCoeFqeqTtlbDJDN~49EgelvbyZodEuRS4GsN4JkDUcR2Fsg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i282/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac220/4/m_btac220f2.jpeg?Expires=1796410899&Signature=2-nUga8hXSh~oBlyB8cbdvaeULM8A-bHpYyZIYRBEhOQsjyEt3m3G~wFnkmaZ~Yt8LjJozX6fLy396BboL5zyWIuA5vPYXheHo1-1WmAj0WTb7rqSVnOiR4mqrcISKjsfnGxA0fUkSJq46kXrP8ywgoz9WUB5EtOlhodJyL2tgA8shOi~3wrEFGh52wF0lkB4WKwnvbvaC3j9wmLfADc5Iae~jNYAY~GWpTKzxRF0HaxqrCORwCDJ76lldeKiITaVMLO9JXTCMPGsOaem4gY-zJs~Et4rVkuv9dYyk5ad0aMN~kmAh4NPVod4Q~7-yYCs4B7Z1ZEZszdIdVli9aThw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i282/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac220/4/m_btac220f3.jpeg?Expires=1796410899&Signature=U8XVX3g9Zf7r7~hHJXYwYAtd6C1~r7Rb5P6keXfZHaHs0G26Q8dT~o8ak~bZp8ild~vzV1HAUlWE8P3~p45SfIfau5MX92f7yj7QKIQKJAJsyTolWU5vmy8oXS~5x5ahGHhy~qWhXk2pioonUhCcjFXu1gSWSKBQeQtL~B6gTnGPbItd~tvdfAw4XuVYEnaDuSckAy5hg8YDdDrJRsTLRJOVGOnORInkZ6J8Ya5lSFv0vLroiAiwu2VC0pQqjBKEBefsIqu1sxAhPtlOvUIlk1aDSTnWL5FC4cpCoLxBKEYoSqxKQbM~10azq4Ob0sTTdQL6juGqCXLZdk8MMsT71A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i282/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac220/4/m_btac220f4.jpeg?Expires=1796410899&Signature=by6sKpUxx75x4Y6Aj3FZpzzK7BpBAwtlqv1N8HF2dmFcCAJiIC5q2iTxtQ8~LZIVRZk~pvcH7OeLAPmYTVecs0Jgses9aSBaR~LC~aK4N-e9ejw3Srg4zLCsjN0wO6go5Bh0IuREZRgHwl1JqcUKtdo7W7g-Zo0QQtv4pSaALQchrDfRM6b4nnCuyRJFxoB3CrJC4ReMqwDHtded6sSrJUnJaAZJVnaU3EHT298mmPdb8RpnTOQRADP8Okrex2nmdI95YswzpuQYZe6f1oj1p7-2tgvtAL-GUXd8FOXIyqdpcydGKbKT6qThZ6WOeVAQ1K9iSKTRKTq9MMfRFgCmQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i282/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac220/4/m_btac220f5.jpeg?Expires=1796410899&Signature=gK7gu1FtEXoo5s6zzf6No1m64WnYEqpHjYrwn6R252nltyFiuXGO70owNsKShuU4jem2ubBjJX6N8BogeCOvPgMVqv-i7Tktg~M0sARcYpNhmViiFGsuQNgVCvQDi4PH1AHCD3nDYzU2Z8hx-VHaczDisv1q1uuOlZNQA641qN4Fzyh8VxmdaNnpqCw~m4JkmHETZrSEBD59PzR3~QlPOn2~MYtA9py46X3jlBKmsjY9PHEWOIv06mFE0Hg4EFFCbe9XQOn-BbcfZIfzxbwesR1CcPqiOJWYEybHm2gxx8GC18alnRGjwJNBSnsxt1wfapwyLnB28H9tKLT-VUCcoQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i282/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

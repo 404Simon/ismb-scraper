@@ -1,0 +1,196 @@
+{
+  "paper_name": "DNABERT-S: pioneering species differentiation with species-aware DNA embeddings",
+  "authors": [
+    "Zhou, Zhihan",
+    "Wu, Weimin",
+    "Ho, Harrison",
+    "Wang, Jiayi",
+    "Shi, Lizhen",
+    "Davuluri, Ramana V",
+    "Wang, Zhong",
+    "Liu, Han"
+  ],
+  "authors_detail": [
+    {
+      "name": "Zhihan Zhou",
+      "affiliations": [
+        "Department of Computer Science, Northwestern University, Evanston, IL 60208, United States",
+        "Center for Foundation Models and Generative AI, Northwestern University, Evanston, IL 60208, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1473-9071"
+    },
+    {
+      "name": "Weimin Wu",
+      "affiliations": [
+        "Department of Computer Science, Northwestern University, Evanston, IL 60208, United States",
+        "Center for Foundation Models and Generative AI, Northwestern University, Evanston, IL 60208, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-5901-0219"
+    },
+    {
+      "name": "Harrison Ho",
+      "affiliations": [
+        "School of Natural Science, University of California at Merced, Merced, CA 95343, United States",
+        "Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8937-8266"
+    },
+    {
+      "name": "Jiayi Wang",
+      "affiliations": [
+        "Department of Computer Science, Northwestern University, Evanston, IL 60208, United States",
+        "Center for Foundation Models and Generative AI, Northwestern University, Evanston, IL 60208, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lizhen Shi",
+      "affiliations": [
+        "Department of Statistics and Data Science, Northwestern University, Evanston, IL 60208, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8776-4470"
+    },
+    {
+      "name": "Ramana V Davuluri",
+      "affiliations": [
+        "Department of Biomedical Informatics, Stony Brook University, Stony Brook, NY 11794, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7053-1064"
+    },
+    {
+      "name": "Zhong Wang",
+      "affiliations": [
+        "School of Natural Science, University of California at Merced, Merced, CA 95343, United States",
+        "Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, United States",
+        "Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6307-0458"
+    },
+    {
+      "name": "Han Liu",
+      "affiliations": [
+        "Department of Computer Science, Northwestern University, Evanston, IL 60208, United States",
+        "Center for Foundation Models and Generative AI, Northwestern University, Evanston, IL 60208, United States",
+        "Department of Statistics and Data Science, Northwestern University, Evanston, IL 60208, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0000-8850-1237"
+    }
+  ],
+  "joint_first": [
+    "Zhihan Zhou",
+    "Weimin Wu"
+  ],
+  "joint_senior": [
+    "Han Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 8,
+    "R": 65,
+    "h_lead": 3,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 137,
+    "C": 11,
+    "I_open": 4,
+    "I_closed": 23
+  },
+  "lead_affiliations": [
+    "Center for Foundation Models and Generative AI, Northwestern University, Evanston, IL 60208, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Han Liu",
+      "openalex_id": "https://openalex.org/A5112180989",
+      "h_index": 3
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/MAGICS-LAB/DNABERT_S",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf188",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i255/8199363",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i255/63745376/btaf188.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/MAGICS-LAB/DNABERT_S"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i255/8199363",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf188/1/btaf188_supplementary_data.pdf?Expires=1796865261&Signature=ym7jjuZpSiWBXS6DleK6~-WUaynpjqHTb2d5nf9zGyggiZl4~q8LNBlnTL5d790E1ISfGHfkkGVLvlWgSPiqhQiBZnUJkKt~KJHM2SB2O3dhavyt9gSIOOZSFYMICz9RqI8c5RQkVPrsHQ077Mz0~J2HAxGGSVjqGbfeAhZojI33P3ZH0~hqb0BA-FlAq7Q4s5V3ojkCEbQY-r2ZFU3MN70VqY5zaLltmp5kQdpf1xCIsR4yxAhUgMifjkWIcSMNEH-qHQ5v2W5d5SUTkW~ek9HtKJJxK4pRT8VBdDB9yMOJCFf5OlOmdDztSMoUeHaT82RpNnIS-hHX6hW4S~MU1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i255/article.html",
+    "pdf": "files/i255/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf188/1/m_btaf188f1.jpeg?Expires=1796865261&Signature=GmxoxLsG1nx314jNyPF-ZW7xM43Ty00bu9nh~asqy59NFeHpwBe3Oojs4ksucQjhWhqSU3V3~jFT6INsHyY~LS7Lm8f-TutzMMmcsERypU427gBCYop-YVfEcLcZopY7SkNuWTN0OmrY-NCBJf9NgMdFZITmI2pppqTVRSHwesibUWtvOAtkpR8WLxY5QaQJ9hwT9x~umIjFDFAErrFRn8bN7~keJpEw0yXPQeaDwIB4mnrE5XB9ISLaAnjy4PvBAEEk4F3ELnTOrn7BvFkQEw0nhyLTzpS5AsojxVlZ6u6QrFxAlzEJsrGVk9bMmvmgmOcZyQQ75ORjyEwSezbuFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf188/1/m_btaf188f2.jpeg?Expires=1796865261&Signature=KoGgjVPk6GjckPEuuuXUsqK61agkUISWU0k4zEKw~18FYAaTC0J-NfnEhvCkXun4Jim3zr3CMp8hbBwEX9~o-rcFE4cfOTG0DuVHkSDhn1-4SY9DOmQk~jH5pfPr2VQGKsNS58SoDl8UYv8H2INm6jm-BQwi2POGlp6MLDK061bf9Wz-NDgzrpWIn8Yu6LMbjYM6Y2OAuuz4y14AckDY9B91vS~sArerUP6K96baOGyq7qkUSKz2qhPrc629068Lvw9TUzYX8VryeRtjXiDPY~q14qL8Kl31s4pmJ7oN7F9INZdTu2MXAPC9EQu1Qi8a-NobN8EdfiJGhrx5PKjq-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf188/1/m_btaf188f3.jpeg?Expires=1796865261&Signature=nbBvu3xm2tHg1VIGKGXTF2b9ZBy-YlJnYxyEt27yWOnZQIWWEsQnAsFy8cdkfw0CYZGKDtRyskGicZRwjPAywtDMm1J8rlEtvxkwDFKDw7ltk1aqbQgxxQwbPcxW-I3LhoSZmd5LNUGaDpG7seIv1mZFyPWfWfFiPEp75Lu5hbKcLRlKTWw7Rl1dNhSmWDcGatIrU7Qtnnf2TGWaABpfr8rKz2eQPjHxk5Gd2-wHxthaSiVHQlocRAHAmNHKZHiaD3O3njdNPndzzQ86TZqzE3TQ~WiSOiBqsnCs~v1twzbIGNgX68tKj0HPeWFa9~6PDRjmA3Dn5gS5zyOaqnxmAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf188/1/m_btaf188f4.jpeg?Expires=1796865261&Signature=Nj-ikmxG~w1ZIiviA1oM~9w7QwiapMnNyc6Qc2Yh87j7J7vhcX-6WTVR8rIS0iGavPmUibl1XzeAE~RjaEwsFPOnE2HV1-WFZfO7U7CaGNns1AkP-1rqaM06l69vsqLbmBPHG8tfqxnTgg0SCFdbMc2Yi03KqUhuM5zmiARN3VoXv8D-fcKgfob2K3pgz6xaJzEVfC34MKxZmHgEknZQ5MvnL6N1lAg2WvYfhgQIo0fylx~uyacT4IsDk1KL~SVvgfWKnZwT2C-GyTPa7gGDBCjIumXJ~9oc3xfotwMFbBVMJzZfYOp5TyZ8XC9ATZkVnvSDSLXMJ8xS9vsJfPOkMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf188/1/m_btaf188f5.jpeg?Expires=1796865261&Signature=SqKvCbiqDBw73W3TPv2vvkMljOcueD~Qlbsi37AbT0FCntuN4XCembcxHa0FSe75zNvHRsgAQJJMQoOh3c2To4AS0Q1vnqNW15jpPu~q92uzWpp6Fir7ino4wby1RudqpF1ZaHOPkifByHyKh-QFu~ZQ8QRSctgEC9r1oX09mgCwU5tcgHI6jU~tI-xRWnRYVLALj0n6A0FexYUOXDkbiNGBZRIE4F8-guyZNgGE0gSkNAbFc26vgX-eriW~3D4NHbQ7JcfjXhWX2HexPNFS1W4rL2FSCdLQFeegsEpMMGUaGos4MZ1sFn8UoaPlByILc9OzI4vzn6YXkicZLVa0Ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

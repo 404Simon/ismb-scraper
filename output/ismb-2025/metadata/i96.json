@@ -1,0 +1,117 @@
+{
+  "paper_name": "Incorporating hierarchical information into multiple instance learning for patient phenotype prediction with single-cell RNA-sequencing data",
+  "authors": [
+    "Do, Chau",
+    "Lähdesmäki, Harri"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chau Do",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, Espoo 11000, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Harri Lähdesmäki",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, Espoo 11000, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Chau Do"
+  ],
+  "joint_senior": [
+    "Harri Lähdesmäki"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 5,
+    "h_lead": 52,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Finland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 13,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Aalto University, Espoo 11000, Finland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Harri Lähdesmäki",
+      "openalex_id": "https://openalex.org/A5049442192",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/minhchaudo/hier-mil",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf241",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i96/8199355",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i96/63745319/btaf241.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/minhchaudo/hier-mil"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/10407126"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i96/8199355",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf241/1/btaf241_supplementary_data.pdf?Expires=1796410019&Signature=gUarCwrtk7rgvgbjx7IawOUN4lnWdGZbr1p1v8fKN5AwrkKbp76kjScjsToV2i4ldBuB2Kd21B~3RvMoS7-COyYlbRE4eAv29VFhhbgsTExd27hzF3ahNO7pOjH-js~tamteJsFty~CRU98JgRoYbf6lTaxNL-4LjJPkUkFALSssUbylqofCSqc5XXGkY1nmFdQS4zaQqZ2RlMy7CHg6ZcXPJbvA2Pm3N3h5fFy-tmiC2FD1pNEidwM8gE8BGFTvtjm3qZAyK70RzahyE6RnEoJth-ml2UvBdXXNZiFhHxuholM9AqRUhOs2HkF2v8yXyj2-pP9c-9Y7BnxJhBRdmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://singlecell.broadinstitute.org/single_cell/study/SCP1303",
+      "https://singlecell.broadinstitute.org/single_cell/study/SCP1289"
+    ]
+  },
+  "files": {
+    "html": "files/i96/article.html",
+    "pdf": "files/i96/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf241/1/m_btaf241f1.jpeg?Expires=1796410019&Signature=yH-NToJ6z7nEbL-n-BhjAEHqDWltlWUp0OLXH4zAq158SidGbw-iDuWYhEz~DVfkGVVX84UFTN79BdKVjRE~QjX3hV6r-WYpz21BS1NqCtdvWsgM4QMskbPFJTn567-xKqDGqNZVJ~VVO6s6N43QMh-9YizyI3gRKpSVwTM5nXgxxk5vLcb50MlM48aUTkSum~l7peU~IKULjbGZsVBwDeKBlWCU8oGj2vPRT5QPV6o~-dr7QG2Dx00gL65Z9RaC72k0TJWzead3T5nj-Kz5C4FJa0WlWV6VtplheQLwIBt7Lit0XZbVbfU8DnvkYT68GgAhZY2QDkbvzVuZqmLFAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i96/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf241/1/m_btaf241f2.jpeg?Expires=1796410019&Signature=p~k059NzR-lfDNT7-nuz9JDs~sOB2-VXUoBYWIawl0IlE4c~IVNQzNqJXge7iuUjgluDHeYx~tIP6rmmRef5IdUCVzu800RSjN1Oz8V0rLCy6vtFGrXnbtmzL8FX9QpA6mTSxqLuSXgb93m2A0DM0PYhiGwxjutYd3ld2CniN-nhCxha7FrASfxvHEiL7YlePTEurixCzWMkD9Brsl4OkYEV3RQiIUnHvd2AMFYr79zfJ6iI0u4k9Oc2s9tEZ1jxlTBP2K0~IECNLd2l2fIy~pSFMUYUSBehw4F4tcA7XL3hy8knFv80ZE93-rM14andPj1s1jZpc~jjs6f1S483cQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i96/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf241/1/m_btaf241f3.jpeg?Expires=1796410019&Signature=QSlKfJ~WD1SlXivGKyvNItb58NHjo3QYOj8mx40SBhpwgVwPPPd5SN9LxBimWoPgkDVtufE8an4NmrPGCgzd8hV8DQPiVG9dVLDD3NAJEI2F7~fxReOYS5CNSGEaKnVHPXgrysPDBEMUnAYMXjrYeqCHrQtqxehSUhFxqkwU8L7zMjCwIU0MI0gz-7HQKg5zNwUb4Zqet9mSA7fdZ2yXJLz99W-iorY5eiyasoZZZ7LKDUM~RWJm9e9x2Au2KIbt86VFviQxQHtuCaIYxntJ3PAErVdmDaHPMbGPgGiXn1utv2VDabB6Pc-0MhMJHzXd4DuLo50D2glGJ2h6gR824g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i96/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

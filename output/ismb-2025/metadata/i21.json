@@ -1,0 +1,148 @@
+{
+  "paper_name": "Automated assignment grading with large language models: insights from a bioinformatics course",
+  "authors": [
+    "Poličar, Pavlin G",
+    "Špendl, Martin",
+    "Curk, Tomaž",
+    "Zupan, Blaž"
+  ],
+  "authors_detail": [
+    {
+      "name": "Pavlin G Poličar",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+      ],
+      "country_hints": [
+        "Slovenia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6462-9372"
+    },
+    {
+      "name": "Martin Špendl",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+      ],
+      "country_hints": [
+        "Slovenia"
+      ],
+      "orcid": "https://orcid.org/0009-0008-0796-8985"
+    },
+    {
+      "name": "Tomaž Curk",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+      ],
+      "country_hints": [
+        "Slovenia"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4888-7256"
+    },
+    {
+      "name": "Blaž Zupan",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia",
+        "Department of Education, Innovation and Technology, Baylor College of Medicine, 1 Baylor Plz, Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "Slovenia",
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5864-7056"
+    }
+  ],
+  "joint_first": [
+    "Pavlin G Poličar"
+  ],
+  "joint_senior": [
+    "Blaž Zupan"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 37,
+    "h_lead": 50,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Slovenia"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Blaž Zupan",
+      "openalex_id": "https://openalex.org/A5073792028",
+      "h_index": 50
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf196",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i21/8199383",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i21/63745528/btaf196.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i21/article.html",
+    "pdf": "files/i21/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf196/1/m_btaf196f1.jpeg?Expires=1796446044&Signature=N3puB1jOyMRWQaorqfgGqc9GJuGKQVr8VaCroCPaUzpfX0G9CJoU7RYodLJpa4k-~-kwnlAmzovaMLRMsHKeKBxvWA3V8dRSMOhZJ8KJWT65CDmUaKHXJ8FxTg1B9QgEItb2UovlIDVuX2cWHRW9bD2vAQ21nsLCjSWDuRazvVnvdTp1VnyHlq1tKxmyl46OVNd1KNENs~SbrzvjwiRTiso5uP95~5rp5Crt7rR3PulEXsa-E9xgTkRqw9eAp-V1eN1ZVs264Lat2atr6ZdhJtxRO6CVoomC0ODS11Wkw-l~oGFdVHgd4XrDYW2PP1cGPX0NIs8QnIhB5XoIzf3Zvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf196/1/m_btaf196f2.jpeg?Expires=1796446044&Signature=vyNxfaWJF~neGya30h3YS2BZb1Nki439KAVF2HX6pVDqmepYzhCop4Si1Ev6JCvhKeM~EciYUHJJS~0yv58SzB0n-nQ8r6igcNlwjU1esttwij3HeF-ASrvXN71aJpAnvlAEvi8ULq2AxG6hbnZ3N9UfSzwZIQfVAm6jmSknA-OOTpftNnRZodJh1qYm6v6az2PFu1kCO2ECtJG9WBF8QGmlB33p66drO5r5Ya04V8YfLfV-LWU~AXGSwTcU37tPz7BwH0CKwR2PIyE8qWWsYbDSezCDAJiaZdUILwrbz5P0lsPmHeZBixYJihCOeSt34riPnfSpRYSOPJPLJ8Ztbg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf196/1/m_btaf196f3.jpeg?Expires=1796446044&Signature=IumepojGTQsCD065IiBB5d5kctyuv4Stz~uCVVcIr6nwdzVxjS7kYG6wP7ibKt7bMDvxMDjVX5drguiZQ-qbzVLJsYu13nl1vfSfcrfRLvonTA8i5HI8-hA-vNU06T69WlbdC61UQLXTaMqcAeKF5laJgJjCl79hgqKh~xCKHv6C7SakhRveJWE4P~MVgNlh07Rp-PB41hV-9P3wRkRhvagWbZVWYuBGtyjlyqcAktf8QfNg2Hvxb6y1R2B3-ftPmIBi99EzsTqhNA1MMuSsbAYeP2q6YR8MaaFT5yADkybrjLNDtID3HmWG-sk7dkEGy4kw~9U99htpKSrYJhbtXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf196/1/m_btaf196f4.jpeg?Expires=1796446044&Signature=vsIomeFzHtfmRa~AGLFEInyFwgpD6w8i1exBYbUEN2xxXdwYrSwy~TnFCEmcKqP7i0~GpO0UT7WyjydkPFXkABJLQFAelf5pMTVZu6UGdF9ukEEJD2glBVkwFXD6iWtP5ZjYGheoATWat7sb1IBMx-C4biAzKWlT-zGT5bhJ1PPIrBsnExu3G8Zinho~H9I2ZAIzGlS9hX-Ha~q-c69RmfYJIikneInQLhcuOfrXsizRfYhh0YEFvo9aiExgVhqkhiE5-RjqFAL4mJMF-sexmZMQsD1mEIDuZ9CjXb8iHQ5sUb4r2SMoUv9PVOv-iAMlSGsgQVJQqXgpUF1PVBdWxQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf196/1/m_btaf196f5.jpeg?Expires=1796446044&Signature=tsAsJuKjeYxdo8AyAdBhVMv8GctVG-~T9umCYNeQGK~ka9mHA9uNYeykzAw1exM96NRZ9aZVa6kBl5UfFxQMr0pNJZ~uhSt9KcS3UDuIR2bsi5ifFJqgS54gvu6uTcHrzxgAT-8J8zPr-krpPQ5n08NEDn5gK6ZQWjgAx5Cvyv~BztM5QuvFP9EwBoEPMZsoHIpFjsKWb9JBrV7DRZ6WPXRT93GgLbEVfFqGaoE8JCmma8PnG-XvUBTY1z09tScxQtakzXx6j9oP7~xxLcjvlnMV3a6320tWAjYwnxRX0Ab5HmM3R1H18182oTID3A6r1kqA64hclSosVEyXeIKbGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf196/1/m_btaf196f6.jpeg?Expires=1796446044&Signature=n0OJfsIIaqmLLTDe2xC0Xc84qIlyvUO7cXwKJ1JgJw7GXgXFfWC8CKmtMK9gFIM7sucqJT2Lv8pXK~WhXLXWbnKIuIa-iRLq9laQUpujsCf~-gRxye6G1m4~zMdSKyfzxrh0MIiQFMR9344ubAExdNPsQmVzjKT1guV7FuNB8rZv09XALLETzkG7wK0duZxzIKThqNerkMjEUW4MaqnS9dtqHvY1o4OGVZUh1rIqtscn0VltcEWV~dMi98atmQFYwJLJqbpL8yiBsUk~mJ0N6PTxveTpXESTlB7YHKE5kF4x2ope0sm44nR53PtmVuASdnfo~ukMAkr~BDHmN~J7Aw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

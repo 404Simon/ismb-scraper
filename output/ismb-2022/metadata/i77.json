@@ -1,0 +1,130 @@
+{
+  "paper_name": "Fast and interpretable genomic data analysis using multiple approximate kernel learning",
+  "authors": [
+    "Bektaş, Ayyüce Begüm",
+    "Ak, Çiğdem",
+    "Gönen, Mehmet"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ayyüce Begüm Bektaş",
+      "affiliations": [
+        "Graduate School of Sciences and Engineering, Koç University, İstanbul 34450, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Çiğdem Ak",
+      "affiliations": [
+        "Knight Cancer Institute, Oregon Health & Science University, Portland, OR 97239, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mehmet Gönen",
+      "affiliations": [
+        "Department of Industrial Engineering, College of Engineering, Koç University, İstanbul 34450, Turkey",
+        "School of Medicine, Koç University, İstanbul 34450, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Ayyüce Begüm Bektaş"
+  ],
+  "joint_senior": [
+    "Mehmet Gönen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 2,
+    "h_lead": 30,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "Türkiye"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 7,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Graduate School of Sciences and Engineering, Koç University, İstanbul 34450, Turkey",
+    "Department of Industrial Engineering, College of Engineering, Koç University, İstanbul 34450, Turkey"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mehmet Gönen",
+      "openalex_id": "https://openalex.org/A5019778058",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/begumbektas/makl",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac241",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i77/6617523",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i77/49886476/btac241.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/begumbektas/makl"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://cran.r-project.org/web/packages/MAKL"
+    ],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac241/4/btac241_supplementary_data.pdf?Expires=1796457699&Signature=TxHHEHvtWltdS8DUklWFghnf19N47p1tz95y51d2UO2KhBd~3vu3ROm1o-xWMfN0Hhm4v2-Js1cYBJ-j7vbjaSoH2vu7D16FtT3BCwqxv9hUJ1YpV8xUXNzrehXSHQJIqr8vYVegccUf3jGx18-ymx70IEN36cQMPKsGDfm5~qa0kg5Ey1ezcUldKchOQDOw5gBzycsfDTE5xrO51Vp6JghjRqho-Gi5qihCWEMv8jNOeiwIln0mz1b2wQN2xDYkfWTI-60FpHt6H6FdDCKVPaMBl5KwdrfjNFXxEOPGEG4L~iwrk9dXhndvT6rVPEkqgD-~3Ys2sAvymP7Yu1zDoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://portal.gdc.cancer.gov",
+      "https://singlecell.broadinstitute.org",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac241/4/btac241_supplementary_data.pdf?Expires=1796457700&Signature=5Bvt8pcnbIhVXUblMYu5~mPoBxkz4yllKc9jtajpbWw6RSuIYaAumrc0Txk6PTUX9JSvaD3kSyGZ1Zj6ug4J~WnqW0V9z2N0M-Q3ExWTFBHa~qtI8gz2nPUI8ki3~KoAI6rgbYlu93QRtWETfm4ad3W5Yz7Wug6VlWJLEyBj3KVOamWwuOWFgCvEjMCFzFprMNG~pVpcU9RWL~P-Vxsp2UES5Wl6e8wqWzN1hJIVQJOn1DdGuVgWLd0cnD~rtL7KlsdvA~VitVxdG7N~uXls98m5jnwnesM04dAIkf0B~Hvq6msHxNwsX892pLVFvY52rttwL3pyoy8j51VPWElfbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i77/article.html",
+    "pdf": "files/i77/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac241/4/m_btac241f1.jpeg?Expires=1796457700&Signature=EEscoUsF-d60TdLka8R-Kir07X-xEnqSWDpgnDD74WXV8XEnu8y74kzw0r0xfofSULxibNOkigyVR5HEw0WTq1z5OE9evqlYfym~rlPZAwOS9s-ka-Rdl6dRZH~vxJ1ti5q0kzJTch2bH20vCvGeEywmaZoAX70FXDvruPGYpD6M6kt0c4soc2x~uphCL~ef5MdnS7Sknpl8TmOGTDpWPN~d6Vs28NEJ5Xw9XdRIeM9cKA2jsy2B98xZbkKkBDBd78PnGrqhRYwJHPIusOlEOCkPGrS2z591tEnyEpe3zlQNZyKpQQV-km9R1I-98vBd-NGfsZyCJUWplAYpEUl0Jw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac241/4/m_btac241f2.jpeg?Expires=1796457700&Signature=P2Ss1BrD7yhxMBsuYwB70mj7IfWWuog~5Hg-oEVHLSvchwhYzzHszrttKygkfJPSDjbLXLzVDmY9yB587zuzMjeei55YRNJD2Hsr6PUMsoxB6ukyZcTX4qWAVP4~sX~nnhD9IbFH1HDbalYLZz59E0Vgh3-5j-3v7USuct62GRPyAuc73J5jeKtOFjQWq7VYW~VKd1Q4SZqEOar-nuRIcZWOVh8x~1BI3N5-WrnwrdCt9tsuNU0jiOWjdCxsSqFXJaLOH-Cvlmh9ERTT7WfA8ApOEe5fFkP0Yr9o7ZDgnI3cfMd4ZcNKzvn8hp8R8USTm2CizURjOlafmxNWy2q5xg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac241/4/m_btac241f3.jpeg?Expires=1796457700&Signature=D9Enhaydc7IfM6sZFSlSqe-vPQNESS-h~P~G8exJkyBoieYvX0JMy6li4FahUzIXWZVzvHYVp-ZWyKaVEBDHOVZEHCjbLM3vrTPP6~9gIZ7C7R-9N~Nwif~Py-l0c8qEI5BdPd4JY0nyyZqjpio-ym2GWc1p4h5zezPvFcSM0Wzbi3ROgAASaIUoj2fBegt7cek4MryYoFkoUZDWjWBi5ll38b5yh-QON0NV9-ML5MNQFircbqFbpb4cEDRwJ1VZD1WWAkmzJt9GGuM3RnCnCOxKhjyIb08zgU9r7~AATP2EdNN-r9mO8iTaCpv8bub2ZiPpGJUJlnn121BIfCL60w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i77/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

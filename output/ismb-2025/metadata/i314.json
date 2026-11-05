@@ -1,0 +1,170 @@
+{
+  "paper_name": "Spatial transcriptomics deconvolution methods generalize well to spatial chromatin accessibility data",
+  "authors": [
+    "Ouologuem, Sarah",
+    "Martens, Laura D",
+    "Schaar, Anna C",
+    "Shulman, Maiia",
+    "Gagneur, Julien",
+    "Theis, Fabian J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sarah Ouologuem",
+      "affiliations": [
+        "School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0005-3398-1700"
+    },
+    {
+      "name": "Laura D Martens",
+      "affiliations": [
+        "School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6520-4029"
+    },
+    {
+      "name": "Anna C Schaar",
+      "affiliations": [
+        "School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1063-005X"
+    },
+    {
+      "name": "Maiia Shulman",
+      "affiliations": [
+        "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0006-6308-1997"
+    },
+    {
+      "name": "Julien Gagneur",
+      "affiliations": [
+        "School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany",
+        "Institute of Human Genetics, School of Medicine and Health, Technical University of Munich, Munich, 81675, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8924-8365"
+    },
+    {
+      "name": "Fabian J Theis",
+      "affiliations": [
+        "School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany",
+        "School of Life Sciences Weihenstephan, Technical University of Munich, Munich, 80333, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2419-1943"
+    }
+  ],
+  "joint_first": [
+    "Sarah Ouologuem",
+    "Laura D Martens",
+    "Anna C Schaar"
+  ],
+  "joint_senior": [
+    "Fabian J Theis"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 6,
+    "R": 5,
+    "h_lead": 129,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 156,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational Health Center, Helmholtz Center Munich, Neuherberg, 85764, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Fabian J Theis",
+      "openalex_id": "https://openalex.org/A5083128670",
+      "h_index": 129
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/theislab/deconvATAC",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf268",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i314/8199385",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i314/63745543/btaf268.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/theislab/deconvATAC"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://biorender.com/d08u1k8",
+      "https://docs.scvi-tools.org/en/stable/tutorials/notebooks/spatial/DestVI_tutorial.html",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf268/1/btaf268_supplementary_data.zip?Expires=1796734424&Signature=ReLetF-633~MCls1ehA8ZHYfVLihHQiAHqSt74pVc3jJmDBk8~a0nV7q5jEbY6YZGnCuXTkpu553qMofX0s686-jQz4lN6vY7mMQ~0z-HGo6iSvBF5yLCxVE1fFPvLc1sd1RsiibZ7Q2nges2C484jDCCEp08H57ZB2wWluhpSUOiHlt1wv2InkqFWsdiu916PPibPqgHY3ctqFuRwByAnzY5bWEffyy2dUbWyYOnO9MDsB77~7C1TZpmHetFPIetNRSi8ojDZ~SIgnKkVUtS0fzLlnEY8bzoSImbIvWLTPa0brbFibL9LzkgFZFv2~6Yoe0xjwbG-KgOT4v8Lpg9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf268/1/btaf268_supplementary_data.zip?Expires=1796734425&Signature=RIJ-U1KFSI-rT2gz7nfpPPxhxfyHggDfXrQmHuDf67NXlTKf9n4ofick6ApyRFQKnZTh-c9UgHcS1H8p4DYZZDOer2p2n1YSQzN3Gg-8bwdoEugBv0y5Rmj9buuPo~opcgZyq9KQjygoA7O0qMizNqT6yB-c6Jr-ikEcTT0mxnqkVXe8XbkDbOJPccDFNXV1x95-DABaBQFh7wiMH2o0tZbJqX9lsRFSfiv4SR-0Vmbh0eotOftoHm8RSm8iJ9LpF8IIRuKxvT~iKHhiAbK1PiDl24Q~GEw9BXIb65GMNWcFQQ~x1keb-PRZP5R9OOsOB3I8drclx9~oroHU2sTiTA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://cellxgene.cziscience.com/collections",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf268/1/btaf268_supplementary_data.zip?Expires=1796899063&Signature=yY7d0WxjflsFkLgYBmjHJLT1x~ua7gOdiFQC2If04E4gbYZMmJU5v5wP7QE-aqc0FKA1ORRCrDlwQ7sOnVbtH2xqihTOjJre2LMryzqqP0OU1vRLA596fFfqSq~~tBgBTiT4XOui9LBiVcJaOYRiFjHWdHoDH7eDrdo37p44aZRqNjkdbk8BjrqGnFMkU6QVXmP1l8WqN0Poi98VbYWUbu8ARFN-6dstwLul7~TbDJ7XSziYPwd2V6Frfq3W4KDLIiZ0nUYyyivwsB-7cA92RNApCmoAiEJ~QR6hbGXapwyxMQs9c4z0Lz~32GRlIy--WFpMtbHilJ3snPexDrYmxw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i314/article.html",
+    "pdf": "files/i314/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf268/1/m_btaf268f1.jpeg?Expires=1796734424&Signature=06hQ2bmnbxdXjVriTDpszrkr-tq~fDRg3WjG3BbLsf1LnlPwppWa6UjgZZmLs51qGFVosC7Ks16iT-gX65mnGxEqS3K1fz4BJT8Mq7T6D5uspR4NepIqdGgVwglj3vKe7gOrDBeMK52WNi0uyLl6cTxwWbgVXkSuQMpxI7KEj5P0QWj~WuBgBSqZemOO3jxr5GdE25fZFBR5~~79kSMKj4QYWUdayf7TwRvOU18PoLgRkOJzz8uz53ZcMpKI1NWaeoZQ3HiPmdQzy3XgLD~mfKusfsdUEQ9O08-GF1neINeqYuoVn48p4hMyFuSm68CT47frdjdM-vBe~z8Y7IeWIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i314/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf268/1/m_btaf268f2.jpeg?Expires=1796734424&Signature=0iolxCIcE24NIpshx0k58H2l~HeZApHt8IUtp6f6kDLr8XY9dl5yBA~x~4qcWrAw5V8lJKC3cfL8TyxctlEzuRW5xtqj9W8w2t2WaoVYBy7RghLNvB99R4xZA863JTWRk8rMsMc9qzFx6Lsw8rzqw8rDo~X1a~gHEo-n0AenyUfsOpxw-Va5Et2UIq1~M-fZbKHbdt7gniC3KR4iYgV-sGFfEqazmHVfFgCsEatQNn0-boJWWejEeAIAp6ul0~P0x1duED4PLmkU~22uNUpMo8LRHsRlbApVAJAbBIxtm18I4pycl6IkPfLrqnqWG7pUPu8biN5BcDIMdpJGHfznTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i314/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf268/1/m_btaf268f3.jpeg?Expires=1796734425&Signature=TpRCOpAhLt73bLSp2ctw7eIrvczzIFvrEPnf4~9pr8UzWxIJZah7nF25gmJxX8azm7XNXV0Dxu5nonFtgvMnzV-73iyPLLzvEr~jlo7yZvGfhmOhr6GtRQdifoSl3th1ygthSSSu4-mGJa4TOTreGMsWuAMakAzXnpXHibzpeCeV6sRfrBoEjxWAvo-q2r0dAduyUXNxSo4Vrqd~RlGicKqPkIjiDqZ--Vr8irQH8auMr0Siz5iQtaiWiGA6R5NQ4wyLKckYOQHB6GdogRDOQBzW7fCPPQFMc3xRMJYRuqFUMncAUInAiC4AZhnrNUDCMbfOjJOuL2p7f~EX40ZU0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i314/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

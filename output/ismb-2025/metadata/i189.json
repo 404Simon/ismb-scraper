@@ -1,0 +1,132 @@
+{
+  "paper_name": "ARTEMIS integrates autoencoders and Schrödinger Bridges to predict continuous dynamics of gene expression, cell population, and perturbation from time-series single-cell data",
+  "authors": [
+    "Alatkar, Sayali Anil",
+    "Wang, Daifeng"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sayali Anil Alatkar",
+      "affiliations": [
+        "Waisman Center, University of Wisconsin-Madison, Madison, WI 53705, United States",
+        "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53705, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5984-461X"
+    },
+    {
+      "name": "Daifeng Wang",
+      "affiliations": [
+        "Waisman Center, University of Wisconsin-Madison, Madison, WI 53705, United States",
+        "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53705, United States",
+        "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI 53705, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9190-3704"
+    }
+  ],
+  "joint_first": [
+    "Sayali Anil Alatkar"
+  ],
+  "joint_senior": [
+    "Daifeng Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 4,
+    "h_lead": 35,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 15,
+    "C": 65,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53705, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Daifeng Wang",
+      "openalex_id": "https://openalex.org/A5053240500",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/daifengwanglab/ARTEMIS",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf218",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i189/8199396",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i189/63745624/btaf218.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/daifengwanglab/ARTEMIS",
+      "https://github.com/dpcook/emt_dynamics"
+    ],
+    "zenodo": [],
+    "figshare": [
+      "https://figshare.com/articles/dataset/Raw_and_processed_data_of_three_scRNA-seq_datasets_/25601610/1?file=45647244"
+    ],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114412",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147405"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/btaf218_supplementary_data.zip?Expires=1796410018&Signature=Z3izEBa06ohEflNwqr0Xc9Gadl5COJBn4TJbWKblvvv8sVr2teDqJ7zEp2ZI2x9ci2XKNmrXbGqyt1xfan5~~cSd3edEbe074zSqm7ZRCptcsMaWYGUpsfb753Nkf~zV6H70cl99hB-0Ygew5-8BngiEen0BR1vsBgW09zgwa4WgyJVje83odUf7NguxYaqqzS1k2b6ueECbWkpgaBH5hE0X4CFq5e4rvmaMYv3pHZj7f2yAAAC6rRbdisbZrybwl3rgg6o169kub8TrZgTH~81bMats5UltN6MTdGD2~UuhfuWSXbBKdWfyJF9ikI6b6UL4FLWvZYickeTsACsqvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i189/8199396",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/btaf218_supplementary_data.zip?Expires=1796410019&Signature=XDyvrGr2ZQD494BPzeRKVrU~pSDPyibUNikc9nJ5e1CKeGHKnpGhbwNRRpDTz5UTzuhkmzih0ec7XZ3-fQmPTGMwOmxZBE9~P65Mz4thmME8694gXP65uceCAWGIw6PgRHKN9LT3f~f7z8JpTsdIIQaC9WZrkeJoqXMUPMgys0GnBG8PXvXlvRYHG7peGo-ZwvbmyFR96hl3o9EQOyoh8NuOvSb9r25viPhm4CFIgy-X9MoVIH0rh2CJcHECg~m0CKeDo3N8OqOjz7eiCVoOCk-0OjFyXu6Y67hnNxtQuJLZJDbqloNNuezMxNOga4~vGxYIvaSf7uYSMLRXbsLpaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/btaf218_supplementary_data.zip?Expires=1796898901&Signature=TvobCj9N5gwEusisk2HAxSpudIdSuZq2Fpc4b5zVK9XSbMhDbzY4n938jsS-yJkikqbJg0tTC~S1XzthqV0MV0rjfE~hDviBWXIlXSVgRZM~KBNdhlzJBGmg3kZYgsmYC0HFN5mKsxtIDLfvLUGArGU5GuxPqOP5ugC6NBbFa1tXE8bvHInWaMroi3zI4pdzE69LnZPNm2n3323tgFAit8MUDfaihdAV-G0uWofP6prd4lcdEtBGJ2BUPzGnkpy2b2H1w3wHJOaFPeOdiPFD3KLb0msLLOsAsQAgn-Wbrl18wV69JM2xbANNzrkIJr5m86z7Urh8Vy1iNY1uNd-~lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i189/article.html",
+    "pdf": "files/i189/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/m_btaf218f1.jpeg?Expires=1796410018&Signature=1Sq1UQjRSnYGe-kGWZdFm9zu1l9xFK2zKEfwEmWj0qN2LXThI9ks8NpcyvdWKRcA2IlBfPB9x~gjtar9SkzB-nBg5joCZK0fKOeqcTB~RiAvzZHbrEOQVFo28wIBlu9wsXlVMayKWar-u~K~cHE9CymNlxV7edtaUoOCQxq0Gxy5b2eyhiYbLJkxcQKmTDaG6-prR6TZld~f0dGrJ8M2u01cKELNN8mRQT2OedO57BJ3d5X7aVVmAVeZ6gX~5bRZH5VrPRVtmcPVMXqxnalgFGEBxnEQfGCzo~yZWnBJsFojVck6HKHkyqYpbX6lY-V~gjPJum-OUvptxxhlGRb1cQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/m_btaf218f2.jpeg?Expires=1796410018&Signature=vv7YC7uDCOvLf86cb42wihYHuN-R61Mf0Dr3fz278WLJGwlsVZi2VXwluSwKNVit0ZSdN1H8QTM4nHDiO94tsAlV7p6155HwdFqKkfnXql709frPKCJrhQ6ptRXpK3AZbMp9kEqXH-J8OjWLjwnm0HxauDrU9A5YPmfai2ESnxr~1pbbr8VhXkIVUcOlYaQk6mUzpNgk8Me-PZSU9VSetR-Nk6U7rS5pqkRPV2p9cTfoofjpZ554NuGn8Gn0NyPW15SZjmDwwcuJn~YjyAN4tVkDTB4Eo94Sk8Ys~MNDFuy81zK5yyA48wEFajhp~VbwQfuRfzyB4NJwIgiqqHDwZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/m_btaf218f3.jpeg?Expires=1796410018&Signature=CdFB3SvG4Boddg6E230~CXwNbJCfFQqiIrJBcG1jZFxFBVsvbetwZCCcLWpDKCao5wVTaKn6PLyMauWcknG3KsRtLk63PI2H5eMZX0eQ8ABoJDpTaSGwzHID-K8NVVxo8ouabQSThdqJpLOM3MmWGtbWaaAVGREvJIzu~rvyJaLU70QLnCvMhE-uac78KB9q9l6KBJSItJA6cMSzQqFJVHw-wgOrmPIJ2SN2GT9eNTKz6RwNEDmBfBDUMV3wW1zQrsHNkQwcFMMHOWJYgn6MZBLkbTAC-WfIWMolPZffEQGyDo~d~K-oYaEijV9M4D8KBytNJFBxnv6ES8B9Y54fwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/m_btaf218f4.jpeg?Expires=1796410019&Signature=RMEqbvAs-O2b4hTRTQBRJ6ENZ06QAY2nTeqFuJB01-fdendbnx5J46QsZzS-IxVkdqFoTO~0FL23Ao0al8S3fMPCNyOEb5uQhu6qcWZQnAcpmsJFty-6aKD-heiqLKTW8QDSp1J32kbqIAjGGNZghnt8fCiNhKtl4EdI8FhVZIVxOhsnTt8d3pLBVBzV~yWIsTk~~yGzZMTW5Q-EZ-0KwQ4UDaAt-6JnTLyjOuCli9DR1IlQbIYfW6K07oYBGmyvrjuAnOErfEOdGzpZ6ePQgG2JQHzMxHK9uZTUp-0kgjcneIJcXNw7X3uIlcANMfgtu9FMp78ggyUAOa7ABR~Q-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf218/1/m_btaf218f5.jpeg?Expires=1796410019&Signature=g9VmNVTCzB4a~492gehpxfwshfkhQHa7cku6zkyc2rgILjjGZI7IQYksTt9eOIYJZI-8ZbFu6ea6hWrvrkgzerHUDzUF8JtqHs0pwHslH72vpADzzyeVfdg6iG6Ef~Hk-YTsLoPMWyIl3e~4Eb0fafLHY-tyAviNVDilrVRg3ZsICPqZCP35uCKCe~eNatPC0QmLqeDYBQZQ323Z0inTsX4XbVX10uGf0~mG~QfhcoUGrOjQEtyefa0VBQVR96IJnyhACyHb9ofZFRMe36Zvicy86rthTh4Q5zyDdcEjAgCxqpc35hBUumtB~xwYtUfx~3J3Vo-7KGaLof8Uh6VCMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

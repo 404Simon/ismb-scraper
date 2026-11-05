@@ -1,0 +1,141 @@
+{
+  "paper_name": "Fast and scalable Wasserstein-1 neural optimal transport solver for single-cell perturbation prediction",
+  "authors": [
+    "Chen, Yanshuo",
+    "Hu, Zhengmian",
+    "Chen, Wei",
+    "Huang, Heng"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yanshuo Chen",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD, 20742, United States",
+        "Center of Bioinformatics and Computational Biology, College Park, MD, 20740, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6675-2449"
+    },
+    {
+      "name": "Zhengmian Hu",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD, 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0316-146X"
+    },
+    {
+      "name": "Wei Chen",
+      "affiliations": [
+        "Department of Biostatistics, University of Pittsburgh, Pittsburgh, PA, 15261, United States",
+        "Department of Pediatrics, UPMC Children\u2019s Hospital of Pittsburgh, Pittsburgh, PA, 15224, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7196-8703"
+    },
+    {
+      "name": "Heng Huang",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD, 20742, United States",
+        "Center of Bioinformatics and Computational Biology, College Park, MD, 20740, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3483-8333"
+    }
+  ],
+  "joint_first": [
+    "Yanshuo Chen"
+  ],
+  "joint_senior": [
+    "Heng Huang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 8,
+    "h_lead": 77,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 18,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Center of Bioinformatics and Computational Biology, College Park, MD, 20740, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Heng Huang",
+      "openalex_id": "https://openalex.org/A5060016795",
+      "h_index": 77
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/poseidonchan/w1ot",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf253",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i513/8199349",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i513/63745275/btaf253.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/poseidonchan/w1ot"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf253/1/btaf253_supplementary_data.pdf?Expires=1796867256&Signature=lmjGaZLyZ6ZTFKvcrXNZ1z6VSNNpc7ZXR3w~cYgvYiJCOSmLFyRdEOvUbfJS9n2oCvX54ctQf-MpWLMWVinv5Ygu31qceLLqcVieEIPgTowkpNYbUonMTGqbd0sUbHPLcXUw0c3s-ekXrD9BGSZ6KhUTQk7ivGPFp89ZEVuogaQgO2tnlDR6QEe-vo5eRB819glSigHmOmUflxSO~3oYkeQ~tdL5tWbutw54QuoYolKZj6dwWxx1qU0O~Wtl3QRLCiIno2pJY3pOL2ttRzk4c9i56eH3eVOnDhKrFIscbGFNpJBsUFjyAEMnm~IcfZW4bZ67cP2w6zKK-rD1pj94ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i513/article.html",
+    "pdf": "files/i513/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf253/1/m_btaf253f1.jpeg?Expires=1796867256&Signature=aJDvFnHdS~mon0ZcQitVkZVR-JyT9v931qDKjeZObpsTJax0waMeGvRtUChs~nuoD4PoviX2-~ToN~ohjVu-XRcyTzZkVZp0PNCm6ZNzDK2N-LdZIk2w6KLlsK6qwkWCJdGpsIfRWR0ZpOelEYmBb4O77rBC2Pb9DZLaDhCmvKBMe8anNZnLfaTgM4XGFErhKrivvEmkOqt~uR90yxl8uQRgRLVatVRUuRXKOMMEKHveYZIW8fFfAgnLD7orydHy-9IHc8q8wRfIolJyhL-~gHDN1dP22bUpqvgnrHwteEo2tvuRdV0LqBDKrRIFsRHfZfMqwvZyJbZ17fa4-oAsIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf253/1/m_btaf253f2.jpeg?Expires=1796867256&Signature=Ril9FqEGO7IqgFr0aMl6IbccCy-nERb98FpckfSnMb-KzBFFpF64xtRFbVRAWHpgiouS8AvWkHPmh9vwYgSUToOUvW9LsRZrPDCK9FIsGpP1KLefRQvqOs2HHqsJW3LNDUMp2g9YgOh6LzxBsWctQHi5EmrlF10H8dnizQoDUIkWbDptrWSkN5qqKnMmwivXFaD6LGADAQZiVBkpJAlDmLTaPZb1SjDRjYAcYomqUl1Jp~s~qvKcKks2dLCKK~5fG675R-jeukugeIEo71bq0mWe0mlZq3idgEWwXfRvwPQVo3lnf-4lTPMyVB5fjf3TFijVYqUwo1lnEzAvDGAnEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf253/1/m_btaf253f3.jpeg?Expires=1796867256&Signature=h-zjXDclojZaeZtmn2nTUiVVrs8VQpGr~HyqHYLcCkAOKgOlcbf-tNZoS1IYrwY28dcfTlcl1i0Hwe~16CF201euieNCPR40WcpQ5uc0gu2~yCGyzE8mGaauHwAro7~hkfrgPVIlVCCsmWjxOhOsTcvuGw1KjGwj4vS0VmuGRZ1p~6-ssQr-6KN15uUM0X0N3h0IbFSA-qTP3Nz272SRPPe4hPmBcOqkmReD5gQudkQaycbowW0X0Ifmj3Z-lhv3NgDsLuf0qMd1hW69dLpMexiePb-1mL2ddrpemRiLYvgaLhkfKTvzV2q2GHV9QQ7VwuLatWDbFa8qee6ZGSOutg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf253/1/m_btaf253f4.jpeg?Expires=1796867256&Signature=OaVs4hoscYNFjwPT74yYQQ7QCdgSuBZ1yOIHL65JH7qvAgD3g~49~w~NAjiCumIfb2nL0R9d9NRanzzcC9lRpsXjVK~RRAKLlrsWIU1IznswAGAIrJPRbE5WJx1dTscBpqeYNE3TqHkh4nheuzA8Ox58MdAGbxCYjhoAN4Kqsbr547BL0wSJ4BHrOkhF8MnSp-81Kd2ortzNqbT5b8qMlvxufBeiaarWxIFqKJuyvcu9rON-fjjFEWNvYZytLJfbLIu3FLyMizjSojWOjTvywlvl5wyCDCGvOQJLWeezsdo7yac8Ete2znzCl3R0h3hL~kr6xKBx8QYcZOZvRAYUsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

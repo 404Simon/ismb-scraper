@@ -1,0 +1,133 @@
+{
+  "paper_name": "Understanding the sources of performance in deep drug response models reveals insights and improvements",
+  "authors": [
+    "Branson, Nikhil",
+    "Cutillas, Pedro R",
+    "Bessant, Conrad"
+  ],
+  "authors_detail": [
+    {
+      "name": "Nikhil Branson",
+      "affiliations": [
+        "School of Biological and Behavioural Sciences, Queen Mary University of London, London E1 4NS, United Kingdom",
+        "Digital Environment Research Institute, Queen Mary University of London, London E1 1HH, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1537-1117"
+    },
+    {
+      "name": "Pedro R Cutillas",
+      "affiliations": [
+        "Centre for Genomics and Computational Biology, Barts Cancer Institute, Queen Mary University of London, London EC1M 6BQ, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3426-2274"
+    },
+    {
+      "name": "Conrad Bessant",
+      "affiliations": [
+        "School of Biological and Behavioural Sciences, Queen Mary University of London, London E1 4NS, United Kingdom",
+        "Digital Environment Research Institute, Queen Mary University of London, London E1 1HH, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7983-1020"
+    }
+  ],
+  "joint_first": [
+    "Nikhil Branson"
+  ],
+  "joint_senior": [
+    "Conrad Bessant"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 7,
+    "h_lead": 35,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United Kingdom"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 35,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Digital Environment Research Institute, Queen Mary University of London, London E1 1HH, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Conrad Bessant",
+      "openalex_id": "https://openalex.org/A5002888756",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Nik-BB/Understanding_DRP_models",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf255",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i142/8199361",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i142/63745361/btaf255.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Nik-BB/Understanding_DRP_models"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.438045"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf255/1/btaf255_supplementary_data.pdf?Expires=1796442356&Signature=NWR0iF9ZhPCLqGBfr8ZXTUNq9V3J5IkpNwzqedaNZ-aBz5mRvaPbK496Q~ojiHW8~G0ZtIs5ycCoRdG~eavMT2apRw66wEboBnwaz29bE~-IV2dhw-dh5k4Y30uS7SIhuNb2Q8VxFYHUjo7Ean4xWVJTskMSTeSLxSuwMVU~Rf~HFd5wpqmhsHZN7yJ553Cl2nM4lHBnt-V7Ee7asSBEC3S5yEuPWWD66WpflG1Y2LnLwCpYe5A7OVizSQOfCI0ISrZUM7f~-jovrFuvNwEGhtcead17K~Cs1mqJ4NWxOLl06sjUdtQudya3odcW5ddUxVLCkIGjWZfcMlwWYoq-yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.cancerrxgene.org",
+      "https://pubchem.ncbi.nlm.nih.gov"
+    ]
+  },
+  "files": {
+    "html": "files/i142/article.html",
+    "pdf": "files/i142/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf255/1/m_btaf255f1.jpeg?Expires=1796442355&Signature=I5LgfUUJcGqX8lTpT~GQl9pw~1Z14yNG6hOr9YNSMEcTWx9qS6sQqEf2YcT0joLBy0G39v3NidAPe0EP4xxRp1b1m4uU0LiXlhn-79GFgsXfmfI2glooTuNbJ6oPDTyO1IqNOOA66RYEt9u-TfiR1AUJPlgGcHUOU5snCXjw9Hhr4n1-w9ZgQOmOKdWgGWHbJeTWbnDIY3W18iu-Sj2SRo71XxH~BXoD19JMn4TwdYXGbTMzm7R~6oDI86~Nte9E0B86yq5e-fNMJV7BXY6MmTMfMKZFWS0oVJvFwYX9035wCkEPlc6vMVdVS6j8dA4OaU0qMD3aVcRQs~tvveOoEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i142/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf255/1/m_btaf255f2.jpeg?Expires=1796442355&Signature=yH0VCq1maXyXc~DcULjIK1GbKoJq3Hu1Xd3ATlvAOj7ITxMBOfoMMatVmba8~1dNhhu2OsB1QhD3GTsDgvHIWqiNFrWwSyZRvQCMSoYy6vZP-NhC2RSYK3Q2B9s6trC9Q7ZHzqy~1nQnH8uTRJroIFgbHcpR-eTJxyzfA-cF7IDqaUEToOcNHEgK4jw53kyrmw-A4kv~bcA0TU9CHNLJQZXClvXRzYQXytFPCEGgq0t9N16-dDbhUMTtIoNYb4jTq7dKogO3v10Ck1-tndBR00~tfy4TGwSR-VFAtX7BFNXA1ENBBA3kDE89-OmTF31ygPNmuGO8BhupE--qLkppGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i142/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf255/1/m_btaf255f3.jpeg?Expires=1796442355&Signature=GshSmsNd4bKM32gX5oy~TqAOhU9iHPhCt0CcKyYEaTsUCUHnFtJWKmQ-gKSYQDHW3GHbeEXje36dajwGSMwz6iMlw8Ya33nucmDe0jSEjoaadsfTCsdgY4HGf9yarR1qgU3veixcrcQ~BaW7XjGF3j6It5o0AR4XWpKIRkDd0pXM~NO5RBEQbBd3evE7iZAwCrcn4sFmO0SEJlhqAYBeOHeHR8G0yWlyovcVoRNIduRbrKmoQoUUs1Vw2JMB0kGTCz9sl7N6Nkxlm4GS5s~eCKH82q8a1PsOTCBJwws6VGUo6taL~ALLQTwxbFx43dov5B83dCMNs6IryLWod1z4sA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i142/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf255/1/m_btaf255f4.jpeg?Expires=1796442356&Signature=PkA6z2s6-PkKNO1Agaon5ZVz~qUDWjyb11xoqZtaWeSbJHmrH2hk1s~zBDLD1nxYbQuco-5HvRjqgtY4SyrduLubH8Z8ndJU7Faxm8Pk6arEkQB2z1RrETuyWpevUfttx27G1WAS0hWvW73VG6kz00TqHP19K9uIWisystOwTinMAaTjpGDMsUSpcytspHERLwegCo4klhbcbQgUSKsqKlbNu0ZPWIS5Fqzl5mEkxkqu6Hxl43styRlrWHASr7ypYY3WYCA9ceMLINmmTyLUAxdcToB8xLQanLWIa3qqfn6agFqkU7nDYgnY8qnYFa2~V6XfSaoM4lZQqFRSm5NZ-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i142/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "paper_name": "A machine-learning-based alternative to phylogenetic bootstrap",
+  "authors": [
+    "Ecker, Noa",
+    "Huchon, Dorothée",
+    "Mansour, Yishay",
+    "Mayrose, Itay",
+    "Pupko, Tal"
+  ],
+  "authors_detail": [
+    {
+      "name": "Noa Ecker",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dorothée Huchon",
+      "affiliations": [
+        "School of Zoology, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 6997801, Israel",
+        "The Steinhardt Museum of Natural History and National Research Center, Tel Aviv University, Tel Aviv 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5047-244X"
+    },
+    {
+      "name": "Yishay Mansour",
+      "affiliations": [
+        "The Blavatnik School of Computer Science, Raymond & Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6891-2645"
+    },
+    {
+      "name": "Itay Mayrose",
+      "affiliations": [
+        "School of Plant Sciences and Food Security, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8460-1502"
+    },
+    {
+      "name": "Tal Pupko",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 6997801, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9463-2575"
+    }
+  ],
+  "joint_first": [
+    "Noa Ecker"
+  ],
+  "joint_senior": [
+    "Tal Pupko"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 7,
+    "h_lead": 58,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Israel"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 215,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 6997801, Israel"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Tal Pupko",
+      "openalex_id": "https://openalex.org/A5070736617",
+      "h_index": 58
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/noaeker/bootstrap_repo",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae255",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i208/7700891",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i208/58355021/btae255.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/noaeker/bootstrap_repo",
+      "https://github.com/roblanf/BenchmarkAlignments"
+    ],
+    "zenodo": [],
+    "figshare": [
+      "https://doi.org/10.6084/m9.figshare.25050554.v1"
+    ],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae255/1/btae255_supplementary_data.pdf?Expires=1796418869&Signature=FacMf10eYrX8clpa8SLYiB76T6vc9i9u1baNGcj9zWJT5rr6GP791bzLbblTr2Ex3TxLKb0VV8Ym0CDDKVcNrhmZ7Qk7C6gfziABgds1GHEel6EURpWg5qiFunVmNq3EEcYQ3XSyfRjuk-u5RRq28I0l4cGUSBaeovob95ceWBQ3D6zmZK4sPYAfJ2eD2ltQbXs7NJg24rRxdUHZXNhsmoYkMbYlCK8gF7dV2bsxsRNuDTTCx~e16tRXUqu~Fk9syt~wL6sBdLXjtLXebfh8pBd~n3MV1vSOoKWLkZRQbIIba3Z-g9wulmaJ9NrhXEKzgq0HFEZmx9-ddonGgz7jdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i208/article.html",
+    "pdf": "files/i208/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae255/1/m_btae255f1.jpeg?Expires=1796418869&Signature=2djmU1oe7H1fF6xoTiRoh6v3a53uR1fhvUNjzlWdEPaCGlAIwwLVXq~uBLE8929u3YL~wHPUGLCFHUH6PC3AhKf3ribY3B3qOISp1XwtnnwwYsWowX2qFd8iH1349Ln72U3pjLNyQwgPPfoLBR1-gSxwNZoyFRMIbW5yevTmVwl9mu4JC1nPdZoK4XpD3yuGiyygHIcF0Ezo8XqwdFvTj6vYxSz9EPdXaTZDAMXtL5VXlSg9vAqeICqNa8k9CBxGSc916kEkdBklHIwRlR-~Wdzj8-niMuvZqt-CcdDawUK78TzGud7ouqK8c6cAuBIm3~SaiBCBh6lHfxbZePcDKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i208/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae255/1/m_btae255f2.jpeg?Expires=1796418869&Signature=ttgRYM490nq7kFO3fsR4YXj~FuafRGlM-GQFoic1FG8R0luhV3XhW07jKWsl36jwStau2bA7HbMDBifA2Q-Wbhg2m6gdU5025llDltxG1y8pf2lbkgvNon4PNkUm0O7rjqqVXtWBgsRkKF-6SpSL6HKnsYe0yAnpS7OLF9-8V9Js72qg-X0xG9BK5pGv2HPiOj9WBOTMKD6~iPhSPkH3hWjO~RpX7kFxRGAPf9I~2mDJubaTLlvhredPQWNFKK8xR~fwyL0L4En-7CNS0FbC11yf9P~DcpXPskeKDKvm6QbGr44N4dL6VfAWXINtxoecwH7IwMYhodwh9tGj9Ka8GQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i208/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae255/1/m_btae255f3.jpeg?Expires=1796418869&Signature=xidnR4M3MyqNAh9S6l5-xSkdeoVvKhq2TdaqIMHOZkyN0myBp7GbxhjcUsBGerTmVvvSb7du-R2j9MN0mmff4pcUdNJaKO99oZ4fgNo4RPgrodbSK4X5c0QJdriothW7QOywV9S1ItD5umV8pT~RLxaObv3WWTqJbf1~-OZ2V2MAvBPBGZ-XK9m-U5d4fCGVVUx~Ov0uqNcHcqtpMOM5LbbXGc6MCLXhMlb5vr4BQx5nCYPtM~EFSJMnuUL89EJlD~eMSnbtOh1ZVI-F6tTroSdV-nAT3mX5WiVEn~RYXCmG3XOA0tu4ZZs6OPy99~pWOxqm22YdQ9MvUsWEcbD8pA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i208/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae255/1/m_btae255f4.jpeg?Expires=1796418869&Signature=my8IDsct65aLf2td7R3~i4jWvIrlfKIVpTI881ZLW5lsjZSt-eTXWrwY4u2VIJEF8Jh8a3vnVLFLe1qtvl-9qniu81kfzCioTjQrAe3dQFU7AKN3AgS3Q7Iu7xLv5UKGUntJBrx-Kp9dM31ygH3XcS2nUxzOwDgdkhlfNI-baQvte8VgtjYWccMyDvX~QW8BhNEk8x3vxtq-0yLgw7An73twYEA2j1-WiScq~O2PWQ4KtO4QVz1FRG1GmSzoYokV~LdalmVie9BztjaCich3Ma7XbB2jvx0lJ2H1JSopKJgz0H~Xo2Iy4M8WA9cdm4P04nhS67g~nVVY9qhYqgQNsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i208/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

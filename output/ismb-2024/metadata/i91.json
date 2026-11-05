@@ -1,0 +1,170 @@
+{
+  "paper_name": "CODEX: COunterfactual Deep learning for the in silico EXploration of cancer cell line perturbations",
+  "authors": [
+    "Schrod, Stefan",
+    "Zacharias, Helena U",
+    "Beißbarth, Tim",
+    "Hauschild, Anne-Christin",
+    "Altenbuchinger, Michael"
+  ],
+  "authors_detail": [
+    {
+      "name": "Stefan Schrod",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37077 Niedersachsen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Helena U Zacharias",
+      "affiliations": [
+        "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, Hannover Medical School, 30625 Hannover, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tim Beißbarth",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37077 Niedersachsen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anne-Christin Hauschild",
+      "affiliations": [
+        "Department of Medical Informatics, University Medical Center Göttingen, 37075 Niedersachsen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Michael Altenbuchinger",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, 37077 Niedersachsen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Stefan Schrod"
+  ],
+  "joint_senior": [
+    "Michael Altenbuchinger"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 9,
+    "h_lead": 17,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 7,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Medical Bioinformatics, University Medical Center Göttingen, 37077 Niedersachsen, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Michael Altenbuchinger",
+      "openalex_id": "https://openalex.org/A5041687654",
+      "h_index": 17
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/sschrod/CODEX",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae261",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i91/7700898",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i91/58355071/btae261.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/sschrod/CODEX",
+      "https://github.com/Emad-COMBINE-lab/MARSY"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206741",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133344"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/btae261_supplementary_data.zip?Expires=1796437032&Signature=lJR46H5tS~EnjpxznHYt--Y~KoSSSN283MPWEuhLd6hNwSJjIt5hw8F74pwJF31DqDSe8ReWuGsDXZK5anykOSAPqCQCF4aRJ32ZX-6m39enpSLYDPQdGW3aCf1A3--e4j0fq58q0DVnBELHDvpl1LpVndn-41uqSE6Y6ZgqPLsZ0FRj8kuX4wB2PvCWmL9j-fNjSjzyhZczOF5hgbRsMzTnld9immZeYENHw9lD2wpXmp301IcMEbrw5pw7XeudB5Q5UEZGZgbFHWSIl~l-cL6X1AAufTaYj2-g4-hXD9tJTxRzlRd-XqaY9nCbe5I~oZnu35D~81YAzRoVi3semA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/btae261_supplementary_data.zip?Expires=1796911087&Signature=epEeG5PEH6SRpiUZ4L9Xj-ER8~9E-fg~F1e6VZ7vZ7pPKhXIk70-PHM5-waVQzr75Z-2xlep7~HJ5TTxtI2gLL-IJAPjUuKvm~eJdyc~EaUMjLu4pW9h~7BXSLgM-co34bdXBK2abGIK1~MTYbySBZqifpVpAxIUSMmizpihkVaQekZxl6t5y3DlY-ldHzdtZyvjrHeHK6UxfFM7Mg2E0G~SX4xlW87YVFWY74TWyPBt~S6tZSOKXDNA9sxXoH95PF6lm9utVD8kUkINp8ryX-ugUbaW-ooO5~cdwvKor8RGiHaVYCye5AQZn86K1VVwgdG0FHG9TSGPS3jmWoiVFA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i91/article.html",
+    "pdf": "files/i91/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f1.jpeg?Expires=1796437032&Signature=XifgRLweqMLPZt8kTy8jXzu1fvFrl3U24taQi1Q43NxagjEWaGKhgf3Ewo4qnV~BdhEEuk3j8OJPvnTrlHSXh1OBKfNrF63QtH9T20L7vH6YqBPjr7jH6hPt4weQu9SU~DszmqT1bAv47z9LBEVIAxKzN~vCclGat4EPQKJ85TKHiLJgPSVju8jx~2ZiQwlLrRw~ZwGzV3YHpgH0jLBD-2VYuiHddie4paRgjConHbvASCykEqVm0Pxb5eGT~gH8TTTomIHCkLBXQ7CT9JT74exY9cmECt6r9fSvb4gSTl9o1v-Iiaezr1~RfbYSqEABG4XNJPpva7ntngvTq~aFUQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f2.jpeg?Expires=1796437032&Signature=boOj63dYZqOHEIhY~NS3~k50IpL~5GAro4MPaWvXvvSDM58ii7ptoBaQ6cnu8yKsxShd77ib6Q-7mM9lfkBhoI~ZpV9~P2Q0ivK1lcX950qTk4X2hQAMp0JSca-xoWdiVCb2Fzpxa9lBWKSkKMJuQpHY3I84rr7wBkKwVum4e1W97kkUD~M9qi4qYfZEK70TunckrCg2MJD5xRQkPc7fGuyI5lFgfQ~hkwgbgezLV44iacZmXhrdDBOLux0xAQA7hNeGXe8ydF4LLyuob0tDQ7OSb~kVflpNpOzyIfwOhjenWqNrLMe5v1bEBhG5Xmw5VZYxjv8m0i62TDhIQztD4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f3.jpeg?Expires=1796437032&Signature=b0l9TV8VoON2zyWxfL0WZcN5frvlhgv6g~YPan0H6m8-LPy9GfpK8zcL2rFoHEwJxhmHHRIsHwHAaj0z2vsNfQXRjRbSasnRAi78budX0j4o7n6YB539prDolqRkOAMGDaRNuls-0n59tkIKaHq~PcFliLTGa0efPkkCDDGxGUmsGNoTeUcqcEaukB6sYOt1Ge35tXO0jS75XQ2K99NgKl-djYo1OzW9gKn11enQeENAcGlMl8ZSmCIbDt~tIK6TF4AI2SxrO3uvkLRBF0iHPYC1tv5Z8d4wXSi9HoEFDMwM7LYem7IKnR4~WDvEAnvlvLEfN8BDnZUk1Ya1YX3cEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f4.jpeg?Expires=1796437032&Signature=HopyqUI6DeJ-o-oWQ7PnRKWxQtiEl68kzJb8wKO5dbWdkPXrKNrgs7o7phyEGlN~tdYpX5~v6DUUPHyHH5K1S4TxZdOUBMd1O6q8FE0Q7dceSaA6XjltYIR2v4PpovOCcZOAiVHVhWukVHdOrS-qp87hrunp1nw4yj3r3dofHuGVOsjfqmXW1N-QVUIkKwJG3de7PmMj0WFi9FWPwDPxc6HQM1mgcgfYgQLta~O~8-BOJKUqWyE1Ri5yfB6sigEWQFEBNOhaxIYHbp10QuLKlvJpQw7xUOWpkCAwK6iLVo2fEiHEsmXLkSr8gggoV-dO2Ts4kFktvZqKykMyrpSSNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f5.jpeg?Expires=1796437032&Signature=KRKvWhmIe8iK4NNGjoxwrb~rZTHFal77CX2jAwZ~-FsIIA6-E7zu92ilaR0AKXg01-gqEFlJ8Ad84hQ50YtL9Lp1Jt8JDoNTPV6DgKTvZo22HFyBZWxemDDEtdw6GRSZbPh-7Z2izmAdW3Bput9c957eY8tJBYgWXEsFfT92qhl9GNj-sHeU-3pQUZ9GTs7gwXZa~ikc7X7z63pHAlsZxoxJsRsAsYxYTRclbYn3rXB~BcvTeRMQKTiHMPHmnfyhPEzkUAPEwVQ8zBCJicAM02WVwDjcZrGZa~C8S5RSdL7PtcoiHFvzoGuJTw3tEocsoPTqdKx5NTXIRp59sLbOQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f6.jpeg?Expires=1796437032&Signature=BUzMrKBnf0NLN~9WHkoD-XFSv1jcvQ37qI0U7MmZQqFFqY3MPI6KpRc156HnYGmLK-p4SX733HMNo1KiL2UH3ixhXi4EmFsPf6JtBMK2kdkwpzQk6HieHuyh2tMzPPqGyWwmnzvuatTk6Cj9X1QhnuQM9pJcQBgE~0oIwKXZrc8c9j1FYkb6cneRyNgAQOiIpdWKEmG00DvdtZXqJLyTs4D2eroawDGBOnR0vVfmS6yNcnqici6-s2n6eIUj6NN2SIJmAkGohekwkWQTZ1C0UHYfme2b6IUWNNSHjEcFyilKTp9i7MD74qrh8mMMUoldLScUc7ffggLhzWmON7u1EA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f7.jpeg?Expires=1796437032&Signature=tiNd7zJFmSSpP84SMmA86rYD2cPk9BYtETLHJcyzg2v7zj6jXNhbn6ZgP4BYwhXFeNj2yjws2PUu0hP-kSs1ZFMMhYOYMg9-mTOmiPb2phcVsbsNkkz-McIsXsHhTJ6Mrx8U24HfhpxsvIGlxY9vs3R5YVqXEKp1no6XfXsVPdnWMsvVyH~Xgk4Z64HV48CEI6IOTUhluDyyefFKPHb77-k4nipNUF8oGZljegjtslssV6WOSD92QC7nLTeBaKkV7AUNBdyFH4OK6pfS33lQy01Sf-yc3mGIAnxMSIjSm6N~G5eaHe4x5SXdt2M44BLkKGQ96jCRxrVz~kC~T0mNXw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae261/1/m_btae261f8.jpeg?Expires=1796437032&Signature=e88TgKMBvauveWYeUO9CwnCbqA~JW8M6ADQ8wv3ijFwi8KFm6jORkyi2cE1RTCx9cnt-HWNOrMUZGzSnKc4eGTsGEYBOphwvkEyrzKxjDENSchstXMg00~URB20t1WySjjlTuSpbtaGkObB2IiWuH5z~HQHGQX-oejjT04BzCjDkcVC6zz4wjvrAIhzG3Fo5g8yLQJzi4~1TCQEX4DToLJ-ja9toxGw6rNRSD1M~AUUy2cHXwl0POvAzWoolCkNtDI5BYrctpXIx5~qh2yhw0OEcparfOH2pDHBv~ZXaFBVwMh1hx1PZf5CTsTySJyWHOtJGWGqbws5usDIp2Illqg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i91/figures/figure-008.jpg"
+      }
+    ]
+  }
+}

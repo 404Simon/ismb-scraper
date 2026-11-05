@@ -1,0 +1,152 @@
+{
+  "paper_name": "RiboDiffusion: tertiary structure-based RNA inverse folding with generative diffusion models",
+  "authors": [
+    "Huang, Han",
+    "Lin, Ziqian",
+    "He, Dongchen",
+    "Hong, Liang",
+    "Li, Yu"
+  ],
+  "authors_detail": [
+    {
+      "name": "Han Huang",
+      "affiliations": [
+        "Department of Computer Science and Engineering, CUHK, Hong Kong SAR, 999077, China",
+        "School of Computer Science and Engineering, Beihang University, Beijing, 100191, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ziqian Lin",
+      "affiliations": [
+        "Department of Computer Science and Engineering, CUHK, Hong Kong SAR, 999077, China",
+        "School of Artificial Intelligence, Nanjing University, Nanjing, 210023, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dongchen He",
+      "affiliations": [
+        "Department of Computer Science and Engineering, CUHK, Hong Kong SAR, 999077, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0009-0004-4400-1133"
+    },
+    {
+      "name": "Liang Hong",
+      "affiliations": [
+        "Department of Computer Science and Engineering, CUHK, Hong Kong SAR, 999077, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yu Li",
+      "affiliations": [
+        "Department of Computer Science and Engineering, CUHK, Hong Kong SAR, 999077, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3664-6722"
+    }
+  ],
+  "joint_first": [
+    "Han Huang",
+    "Ziqian Lin"
+  ],
+  "joint_senior": [
+    "Yu Li"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 31,
+    "h_lead": 38,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 57,
+    "C": 9,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, CUHK, Hong Kong SAR, 999077, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yu Li",
+      "openalex_id": "https://openalex.org/A5100345753",
+      "h_index": 38
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ml4bio/RiboDiffusion",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae259",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i347/7700903",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i347/58355115/btae259.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ml4bio/RiboDiffusion"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae259/1/btae259_supplementary_data.pdf?Expires=1796425337&Signature=XpAp9R9xnAXgthSDgInhlLH8JJ7hHScuoSe4-bEGX8B6KcYZUC-4WFWewRmue~oaUxU6rbN~RlQCer9gznQqEQZU6eX-h5FocjrOyWrwSQC2uC0U2kvD9vJfJ9GWUakOaNOPvsQWkuNH8L8uEEFN0sEbMC42eYGtg8rmfQExIbfZW2jEJiGi28pdFgoCtDBdrxf9MMs2z9QGKzzaLAbBDcNMPnd2K1QD30qpSld62fj~8EUX-QRbwreXyzEVF~j20QpPEV-8~oA6i-heD~oRsFWdNvz0axZdT1gahU76-AeYQz8BZq8tvi34QhQ4CPjbO6AykZH09LEbSf7f2MZN5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i347/article.html",
+    "pdf": "files/i347/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae259/1/m_btae259f1.jpeg?Expires=1796425337&Signature=e~kdRP2TsMsS-FA-PJ6IBSPsDfT9gW4USd5k-Z6gnF4k4MYxiLN1pnYk2eH57u5NNiiNFenRQMcouG5-v9kej9QnJ91zOjM9GflwTS6rky21GzcplOwAdcyjhZdTzvaUSDD0NvGgkTxZY68SLsw8gXkb11Dt~wQANfKri6PA3ZeJhy2yaeZc7-LeYRErpce74zPy17YtsUnu~oqZY~FKDtxgShglVTf32tRsVVghsKdcVJSLCv~6xpzDxaPAHbx6I7Z8TIHbE1MeEar0q1MlhdxyxWIFeGqW4otRVwO4yt-sfhEqwoZad-k4i79a023-zwLIvEj~ofp4YYDrOw2YsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae259/1/m_btae259f2.jpeg?Expires=1796425337&Signature=P8po3OenIQ1T6PpWFmhxmwKhzVH7l3CucbqYFCD~i4zdq6v9WVDETT6I3NYqtV0tAVqu5LFHmoftB6O3lgrkUjEEMS5Ar7kDOx9tn4H7KhLG9g2C-voSmeQY9MFjQPezdOk8aVPXRA~xlnj~IwDfCIpZjX8NmizgeyfqSGoWW43w0xi8ZyL3DgpQMm9zF10Uagu7XZZc3ibh-wXhr2d-vKDTC3fgmK7Q36wL99vt75I5yV7n-rcYQzXXslS8~bTq1XRxMYy3Q8Aej2YmW5c2-h48CkWS-wfhchMe8zcteBtCRh4HCigRQ6tvLcUE-QvJmCamwUrMWFXkP1KacPTF1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae259/1/m_btae259f3.jpeg?Expires=1796425337&Signature=WIfePivDooZSWt6rLNQs7eV~YqgD952sm-kPLqmUorVKEBPIQsBJa4Gqldv2NxIc8m6XEn-bxCDHXt2u9DEr8RRmZH0Jp4q5fkWsjAX3eFsWsqDbmpvOrr~nHwl-erqNyitD~DYLHJoxq7TueGAFkn3rmPMy~jE5K4X42noOowdRXh1KZsqKLNsOR4D~zjSBjuu365uJbloJoq-X8820lcEc7c2GSNv8Lus6c2UtV6LqTOCis-dUDKLOk4zunsRgHZiTgI1Hxs8RfKC0VoSPuF9jU~V98TMyNv3FtLdHaxxBy~aWrl0R449XXl2YDhFdAKXavzy9YMvi4702s4vhIQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae259/1/m_btae259f4.jpeg?Expires=1796425337&Signature=rFpvbBkoctPc7IuKCWKKYGab6mPl4SUEv~cU315bUvwvDzZSF6uw3oKuepZwQb2zkbVf8OlgnlcfK90YBPKOUUpCtnJ0qYccrfWInXkW1uVEp9xDmHOei4YXAmv0mm3G3bAfMeC2lLoT8keq2wseZVEsLDoKcb2pSEPliM7VARr7ezbj1wceNg1RZ4Jkr9uBXr3nJdosGxQD3K5flsOSV-r9iIY3gYACjz4ehNJpMRQH32GQf~gzUj8m6gVLH2AMQL-cq8H~~xqHcz66FR~kVZL1PXTfJ2kwxNA5lDFYhEekn~WT00phFb1bhBoLRFs5I~QoP-NvEm6VIOSEK7SnQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

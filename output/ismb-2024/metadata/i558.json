@@ -1,0 +1,144 @@
+{
+  "paper_name": "Efficient parameter estimation for ODE models of cellular processes using semi-quantitative data",
+  "authors": [
+    "Dorešić, Domagoj",
+    "Grein, Stephan",
+    "Hasenauer, Jan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Domagoj Dorešić",
+      "affiliations": [
+        "Life and Medical Sciences (LIMES) Institute, University of Bonn, 53113 Bonn, Germany",
+        "Institute of Computational Biology, Helmholtz Zentrum München – German Research Center for Environmental Health, 85764 Neuherberg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0007-1820-7375"
+    },
+    {
+      "name": "Stephan Grein",
+      "affiliations": [
+        "Life and Medical Sciences (LIMES) Institute, University of Bonn, 53113 Bonn, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9524-6633"
+    },
+    {
+      "name": "Jan Hasenauer",
+      "affiliations": [
+        "Life and Medical Sciences (LIMES) Institute, University of Bonn, 53113 Bonn, Germany",
+        "Institute of Computational Biology, Helmholtz Zentrum München – German Research Center for Environmental Health, 85764 Neuherberg, Germany",
+        "Center for Mathematics, Technische Universität München, 85748 Garching, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4935-3312"
+    }
+  ],
+  "joint_first": [
+    "Domagoj Dorešić"
+  ],
+  "joint_senior": [
+    "Jan Hasenauer"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 3,
+    "h_lead": 46,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 282,
+    "C": 1628,
+    "I_open": 137,
+    "I_closed": 465
+  },
+  "lead_affiliations": [
+    "Institute of Computational Biology, Helmholtz Zentrum München – German Research Center for Environmental Health, 85764 Neuherberg, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jan Hasenauer",
+      "openalex_id": "https://openalex.org/A5063254041",
+      "h_index": 46
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ICB-DCM/pyPESTO",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae210",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i558/7700886",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i558/58354973/btae210.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ICB-DCM/pyPESTO"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.10568951"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/btae210_supplementary_data.pdf?Expires=1796423109&Signature=uwq-Tljuyckdm6sSOxX4BKInS3McBYi~4dM4e3dA8n9l14TQicmg25HkjCx09I~xDJSfQjL8kJDF4cCDn~XXtQuqcjMMjl~fPyHxKmY-mUOvZM88nXok71o3TBm~lsAzmipqo-7M86V8HGHF4pt0mADFoJc-KxrTWlaeHCHuoo94gzs1sqpFoPJYLpRlpO08BxAPvhM8CstjlzkRUZC2jQoGdCSgTRSYrwmOuty9605VHE91mhspwuoogb4lWmMcXGvSa2TkKqNfbCJ2WH0wfhSCRl5LTKGQyF9Vq8lUAXXDdaqa8QDFCfKm-bNCg8xbOHq6nGUd-X1wrT8TEgBSiQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i558/article.html",
+    "pdf": "files/i558/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f1.jpeg?Expires=1796423109&Signature=cGFGiys3PTbxJCfKdDRC3eI9pjRjtoL9f5NQlGMRC3sKNetFnhuvqrqMozdulwtS6IKnxg5hifiv85JCNJKxiC4oU188Q4~VzlpcM2jjsPcWO~4po1AxF0eDpA4pOFRyueCnvL~GqUlbI6bMOceRw-XId2VlA6uLI4raG3oAyoxmylGKxtgAz9l5pE0STYgiSPcUC8KduaRhVZ2pVArdyJWbmCbcScDsp4OOVqGqlsIi8WdX2p-rLcwW0yfAs6Vg6u3iWRJZPSd57HgbWXB9IyTfgGaos7v6bltu9hDjx~YkuV7c95~indW-9TWPbH7xQRZG0tXDzXqufIh-nWyVIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f2.jpeg?Expires=1796423109&Signature=dgueYih11sr8o87J-itaf-FBhiTIKEIVr8ctb7wHQdbsBYdhfj8SGPv1JTITMzPsHVTXws4EHDIchoMuD7w251XJIdH6bXTe5pOCGHDPnXyg6fq0fbYF2bt1eWx712e0llX5OdTtrFMTe~Ay8wOi5vtpkjuXBsQ2sw2eigxM3j9fZoeWmatyGjhaFwY61-nf6nywGzfl0iXBcW0O9zDhuS8b3VvNTJdmb-oFRVfoCMqUthpYqlJk6UznGHJr05R29O-C~R0gVrH-KC2ujnZGwbjpgV1czBORVdW8gpHcFhYl20KzkDkk-sZSZR4FmBY95tviV58uXfIBb2SkRBhynQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f3.jpeg?Expires=1796423109&Signature=buFbjyV1UBCL3uLR9IFgwz4hg7olKxaY1kWnZedOnbFC8sL9klXpg97grJ0iRe0x12u-IOc~niAVxAWCt4z1zOK73cwqJKna~Svlhahe50v6iYnAJijtMmmpQ3G5SDh-PbMHtGMETzJGMVBket4rJSCth-O9mKB5ed8YSbpHW0ge-HrdVruZ2N0t7L5tt-00IsSsh-st3DquZU3P0munyp9trW3BYFezq5Yz~SWKbHfGnbI7JcWPzDoxKw~MfoZH0HcXJNiHyDpVvdkGNyv-VTY5FohFIhRpSTguvs-2ydGkdVKIQiLup4mVBhfDUDxxTbwpxlj~tCb5dFADfzD0cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f4.jpeg?Expires=1796423109&Signature=T7oPNNkjc9wKqlCoXItl98G1PJLYb3UClbL4wUGUEEp128qMw3mNx0pKQJ6ww3d5L8FrjSwFtEdu1kI4AXc0iZYmBwov2zo6X9Gc0JFmnmuIlBgw9iXgkyUwR4NR3s99BufNdNy4eDl4y4RjLJiRALFrC8rqKYnCO9wpT1A2cELjI5AT4kyW~UcQKBBTC6qWds9WJ69ktVGMGRZ-j6bqRk46WRc~Qsz9SPoRH7CVUdo74bnPRyqVHsE1NZNftQsmOfG93biS8xDpy4W9rj4XhRJS-~9sNY4NtYEpmE553K808PS-hERUydhAsZjzfOqDjo9C3FXFP-v-Li6mi-x7SA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f5.jpeg?Expires=1796423109&Signature=sCNxe6tCt6RB-6h7hpRspd7TVkQHa75y9jxmjOG8Qdbie8DpyV-4UrdzTzTucKPfhp9SXPhelDab19wSLEYZWUzvBnumzypzU-VTva56FnAuPMrG37H619FQ0s7AaPNG3NxaRZxWZanE2gta9R4E0I3LkD6-QQ8kxwPmH3CeHBGBRwR9AFVMgjq7IMQxYJoNQhPOx~OPjsYZKEttyRn-o-lpGdweQXSlHjCp4xaPkjw~E3dpTgGpBnZ7ePlXFn-OFuV7zla2EXcpmR~mPvXdYcDeRDnGUw9YQgmrfq4ulIdZg~~~6BAljpfzPow8uhGKKl924Rro7~I1-XpHUdaEHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f6.jpeg?Expires=1796423109&Signature=bKiHDY8J6cBqbZY6eRZbfj-4QCuImzm3JiqeYhRMf6fLh8Eq3euQxn9lXsI~XnazXAPHZjFl1vI~3G-YEh1OEzT6i6tiAnjyncgrFPYHkEvSK3HLG3fgXxHAUCDRXl0~G30YKY2hEoOSSLVN3gsCiR43jMuaRXpUzcS7jsDCn93M1YiabFzkROUWP0UXENiG~bVO2yTQNR-w7xY5BiMdpcajS7Qj0tV30FW5hjk~GrTDGl07jCynEEdP4-L7zF6OCiepRRE2xzk-xk-Pp4gl6~FRjWMBRCv~wTUWEVACp4dfJs9RaUIV0e-bpwisHBMdrRmpMfPqG1o16m9yjzQm7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae210/1/m_btae210f7.jpeg?Expires=1796423109&Signature=Z-hEQYhIx3cQA19NyARXK5fkt0K~LQgL0zLEMJFzWNcb4gUmufv~snrpeGaJWthIdzcoUQsDHivySAlWc6VX5FWofhGtHtcnn5WYUC7tAu2NvYqgPQW3xZ5m8AY12in-9c9ddwHCIKG10tbo4SwSXmk8KtHByziMl0dnwUdDLsFp0LZqwSxKIzotPQwcujlwosHDwJ18A8Ggj332u38tJG~w5GsiMMV~voRA5TUJt4FdIxR09bNGco~QU15LU7mzjvStyfUVoi2WdY16Z7-5QuM6m--jzvgS0XE5Go~xkkxVSv~kX99WTCYGccX4EqMIcZdwhz7a6xRNURTmCCryyg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i558/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

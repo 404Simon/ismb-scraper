@@ -1,0 +1,131 @@
+{
+  "paper_name": "Bridging the gaps in statistical models of protein alignment",
+  "authors": [
+    "Sumanaweera, Dinithi",
+    "Allison, Lloyd",
+    "Konagurthu, Arun S"
+  ],
+  "authors_detail": [
+    {
+      "name": "Dinithi Sumanaweera",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lloyd Allison",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arun S Konagurthu",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Dinithi Sumanaweera"
+  ],
+  "joint_senior": [
+    "Arun S Konagurthu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 4,
+    "h_lead": 12,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Arun S Konagurthu",
+      "openalex_id": "https://openalex.org/A5081792355",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac246",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i229/6617522",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i229/49886437/btac246.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac246/4/btac246_supplementary_data.pdf?Expires=1796444668&Signature=psRGnfiZaKzXMd5oCt9LbQePFhgGVqIPDkZY0mghG3-EmSInNJySJYJrwRgI8bvz~qOnFH-ZD1ilGrrK-GBFuVqfmzF93eEEA4KmpK3LBkz2-gNOt77h-28yeBGn9rdexxDPzGv47pdDOVzBh9P2rH598DsxzkYab1ntOturDexXrhUxExuTAbxZVGYAT5kLVVCYzVD5XkdG4ZHG1Nzf-RFphMTjzm9ks4Tq-vPDtojTe9MkmNfFe9QNCh2vgB8X1sPHNg0FPIadUyA-hZhi8TyYsIIpy3sk7LEilngGrmizOt1FCS8D3eKWKDnsr3Fq76LNb6o47m4j8vTHxceK9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i229/6617522",
+      "http://geneontology.org"
+    ]
+  },
+  "files": {
+    "html": "files/i229/article.html",
+    "pdf": "files/i229/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac246/4/m_btac246f1.jpeg?Expires=1796444668&Signature=ks~z~0ADbftYnYExywTZWmth9KIME27AA3ZoahbEy0fdDMmgWlvYitCzZ6BR~uvF8E2BYkGA2iChe~gKMDPXYzlNwCG7tX-6w1fZxjDIg8pAEEOmuMIGjVClgBJJQfwbLkmgPTLZ4x63TiRHdUHIOZy3Z5vpy485Vc1FzTj88oK4Zn4gTAOu7HXLV4E405lgbgoZPb2PDcubw1cC90LRaC0kbycy8VnvLCHXV~RtxDGVrUJOfizLN1nNA~GB-Yj1GlBOw3RT3edT0euH4gS8qqyKxy1lZ-~t54ftl46kUhC4thwMWmjmZv06fgui5aOa~oxGMFEXDvpQ~lVeUQX7Kg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i229/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac246/4/m_btac246f2.jpeg?Expires=1796444668&Signature=z0VP39h-RUwNolWM1BibD5aXTA1pOVm~VfSILlNmSeTNdLApk0P~BGrzxMenZvp7eU-xowGsXW7tiJNGzFj8xmMt-r4McEY1bJkClw3Gvmnm-aoWugzmOnxlCRlmYykQXjbAEUKhco~o59gUrVLirJJDBg2eGScecE1Qs1Dg4NMtyLpFhW~SEA3iCpYNQYNN2oJxmnsIBIZDk~GIZZkSP3yg~uqlhWBx~ZlK8usGPt89gbfublSAv~RtKNsGyQ9LQmIJDbwYmwW9ng~MA5jF-OyBxIhrjnkwa7R2JY6Zbyd-aLugKChex6r~dLbM1Z7mVV3Y3DE3PIqF-e74vAW9XA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i229/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac246/4/m_btac246f3.jpeg?Expires=1796444668&Signature=dUDPsRotMxagTUorjQwkrmFULB6sAE9I26o3nZctS5zt1Tf~6Bh9XAOy9BHvtL9JAlRDPqAHFE9oU4EbO0jC0dmvLiOTpupwAe58GuzONsR9MQYD7aHr0oRBEUPRHV5l0lfyYhOqvsOqUeIPAxNoPJZVesroWIEamK80LVmvnznPzQjDZwZSXNLGE7~i-lUSVLvcITGoH0LoxJPCVEYSs44UWsLWO7XzEOQjH6JO3vVox6WZbwGHnMGGnXoPEB9voVSgwZel2tNcGQoltn6igQhpagr3td2aVvQN-2eciCkb9OgY19zlctpzK~Z5Z6Bry9Id3lRg4D1GTIdahPsjoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i229/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac246/4/m_btac246f4.jpeg?Expires=1796444668&Signature=MMP7rV7DonxxFeIlQ13PU8ATQKp-TeYY8ycgqWrOVdwLPRb2-EGnb84yOt9rkO15ZFWNbg1czc6MnhY8c8zClQwCo9zg5NiEy36DqrCOsu194Hwat9oiGhEdnifKbFEe7KGxgD4ZP5Y6U4ac~SNOhIBqDvj3OYMF0ai3NpvCxGO5Gk3x~gzi~cU-WPAkvtAMwQ5UDTNggmnmIYSbPkFnVxMRiQ4uhJilokFIqWpVM8N3rhWrigoq9vUr5tDEXR8TzNHrz84wN2teNGm3l3eLUPeU~fUZSzXoNAEZkDBttQSriuOOMHu9lM5N1WCaJ6CpR8vfoERsspHKJJqGhJgpiQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i229/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

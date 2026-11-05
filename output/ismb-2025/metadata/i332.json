@@ -1,0 +1,134 @@
+{
+  "paper_name": "Ultrafast and ultralarge multiple sequence alignments using TWILIGHT",
+  "authors": [
+    "Tseng, Yu-Hsiang",
+    "Walia, Sumit",
+    "Turakhia, Yatish"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yu-Hsiang Tseng",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, University of California San Diego, San Diego, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0005-8758-9739"
+    },
+    {
+      "name": "Sumit Walia",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, University of California San Diego, San Diego, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4557-2339"
+    },
+    {
+      "name": "Yatish Turakhia",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, University of California San Diego, San Diego, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5600-2900"
+    }
+  ],
+  "joint_first": [
+    "Yu-Hsiang Tseng"
+  ],
+  "joint_senior": [
+    "Yatish Turakhia"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 7,
+    "h_lead": 21,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 32,
+    "C": 426,
+    "I_open": 0,
+    "I_closed": 3
+  },
+  "lead_affiliations": [
+    "Department of Electrical and Computer Engineering, University of California San Diego, San Diego, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yatish Turakhia",
+      "openalex_id": "https://openalex.org/A5080797757",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/TurakhiaLab/TWILIGHT",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf212",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i332/8199405",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i332/63745685/btaf212.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/TurakhiaLab/TWILIGHT"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/14722035"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/2024/09/08",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf212/1/btaf212_supplementary_data.pdf?Expires=1796439834&Signature=yse2gip6Ctdd9Oa5aZyncTnEqODfGqchAorDKC25fkfpT7QS8zfPo0yOz4m8qURm31e1WjmpCx5DiazrrsVgEJpCdt2NDbqWa20f27mAuLx3Dcp1FTJpPA4xUP7QwCSZt8LS7yffvTBR4MlFliHx3k6rQMEQ0gjop2G~-KHV8TlhHod7usGpkGB~8Dxcoez3f~n4hr2n~VX~Drw0YYQ0l6cS5Pjn9aBs~GbeaatelnxuEf5gfUKw~5FJGQoP76a-dP06Javx1SVWOg3lj3uRVW09zSsfI1ZZF4kUxxwmCs7A8x6kXMdWzKpl~0JGBd2si6qJf5MqvP24ihIvS82buw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i332/article.html",
+    "pdf": "files/i332/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf212/1/m_btaf212f1.jpeg?Expires=1796439834&Signature=1y1b9kwkiwuXKjXSfSuHMJyIxqQ76YBcY3NnBMt560iVvPviasvYK1g6BvsQZK3w2h3J7YYqerTpZiZWSLnMiXY3vimw49hA-ICddXO0aa~f3wNsPVyW7QHML~~7sAs7bjKnnBZZZMITBiqZLcgwSlxcGOiFKdMEGz-mpcAg0XYIjkYSQLtiGTNJRpgIg1fFyt~mL7rM7t0zpQ0KetiTrSPBEMFs6YpJit7spW~vzMRrfvsJwJqEWw6VLvTnBRer7zTvwlDzoBXpEnaLva0WCrJNhEgEmOtnUi5u4xIS8IPVVMuIpF~SXERP6ZmLxOzG8ocR2zUuiBZisjP2UwiWdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i332/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf212/1/m_btaf212f2.jpeg?Expires=1796439834&Signature=G-tYqMyWmF6lmQavli9T2TvBy3NYuPJKKZJgOzuaa-mx7KReOeDXfylFfE8wIL2eQ9x0D3yo5njnr8XopwNyEIVFmE3YmkSGtJWssICmk2i1ji6ctUW1X8R3kDnvrEXbsNUMRppApL7jl76EBogSIZ9hDKYhDn9hcym9d~KeESU62p2CzNA~RU~JOFNkuXcUp0A0QnZpYbb07W~-CYfKnktHzSsdNuTHoSu~dxbQrwUfwU35oG9EavwFrAdj1MvD9YbEG4mVnLhwLnqrPpEKnQXJnm7AzcBZtS6LXcp956-ZywQSq2oud6oY0BaMvFnCHi0omK4Zz6DZ~s0JYst6ug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i332/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf212/1/m_btaf212f3.jpeg?Expires=1796439834&Signature=WXzT42gX2Yu4t355xkmPNBibA7MZsZuy5rs8GgATba0~4-MAxd9fFI7egGUvwYc~cTqLYddpdSD8aE5dbWzjGOw7m4zj2Dgz7pBrRwZbYzUUn~PLqVUZuBhDxrfCbkG7gsRx7ePy0rQB67k13gcSxNgRD272k2fElok3oV8XnQVWIRNA2B~c8hJgqdKvYEeRToo2c3ABZK8y8uvwRUAQOMy0HXoi--t5eTnXOovfNOE5xqhv3KJDARNzZDen69AZYsgg2XMsKEmrWiO0CeRiC-zbfHm9TWpRy-fK45vMDX9kaXPo-7TJbR34xCcGPzPNSzofSbGzuQ~wxzjd1frAxw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i332/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf212/1/m_btaf212f4.jpeg?Expires=1796439834&Signature=KffnUpozjN8U-I-eMvuMadJ85G-59UODH6ypyEpyRtVLdB4M45mdISL5SFoh42sF0fKs5OqvkPHLltoA-atr5uCdr2zjhjghoSe16QfYfhbIRyPHxRWHoNLSS88H3ALpmtESdMfmf1J4wCIVV-fXSgqz7PwzNGNI3QPLQyqLWgLF4auCU3-v8Iklqr8bObyoxdkhNkZUfXooJeCiZXlMfrHZz-t4M9Ay2EtAEhP6bqif~q4bASEl6Df4qAH0qXE8pJM1AYB5mC5EVVi-xL~QWojYltMxcJf8b0a9pL26MABcJCYVUViUjKIcrOmocAYeSwfKpDVU3hnj4BasL8GKNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i332/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf212/1/m_btaf212f5.jpeg?Expires=1796439834&Signature=sVwI72cPXdva1G60-PUOHA8WCrJfyfv3QKjd5UDw2iOm3xDY-735a7tbqumP~CWx6A0VOv6H-bKMTsIwqaYsS32joMMr8oZscNMvmAMzz41VoeWc2QbSpkeOS4Cx6H4f7al5Tyf~E6WCfFy4VOCgIAQVBoWoDfonl34u2y8q44iHwv3eG4KNAMIjwI~czk899m3t1-Obxpqz4XWG65yCCdfisVA41xCr9HoTjs4jNGpdiJ4tG0m1cxcsmzG9alm2cpSx4Hxmbj67e9jNZt5QnFrfepkHYAa5ofMnSuN2OfdJm2L4jg7Qz3~XQKGPWFyVOYF0H--d0TwB45SMaWId5g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i332/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

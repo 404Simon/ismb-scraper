@@ -1,0 +1,138 @@
+{
+  "paper_name": "A count-based model for delineating cell–cell interactions in spatial transcriptomics data",
+  "authors": [
+    "Sarkar, Hirak",
+    "Chitra, Uthsav",
+    "Gold, Julian",
+    "Raphael, Benjamin J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Hirak Sarkar",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States",
+        "Ludwig Cancer Institute, Princeton Branch, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Uthsav Chitra",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Julian Gold",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States",
+        "Center for Statistics and Machine Learning, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1274-048X"
+    }
+  ],
+  "joint_first": [
+    "Hirak Sarkar",
+    "Uthsav Chitra"
+  ],
+  "joint_senior": [
+    "Benjamin J Raphael"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 11,
+    "h_lead": 79,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 78,
+    "I_open": 1,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, Princeton, NJ, 08540, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin J Raphael",
+      "openalex_id": "https://openalex.org/A5025899028",
+      "h_index": 79
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/raphael-group/copulacci",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae219",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i481/58354784/btae219.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/raphael-group/copulacci"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae219/1/btae219_supplementary_data.zip?Expires=1796482702&Signature=1jxeoTxAF1ina~7GYbtWQgk9tBG38SNhc~Fd3lFDVaSQo2IuSUwsETBCNd5VvN-xtPOxkm9jO6l3QaFVaBUVWsKXaQizF3sBIz4GHb-iyo7oKTqQM2J9MqLR23vFM2V5jNHLVLAc0t~151q1GJozJ~dp9qYopgy6ElHCAtzNhX5zlTcuq7ygNRpXIWtvXB63el6OUNQcyDFYD0-a9Q8YrlFwBsWQfzSYQhQDYXDhhxC7-E0YUmxL3Zgbmxirc~VuGH8zKtaFv9TcruQFqFTsJs31OAdyvUf8MQyN~v91TyxV2ICQYLdfJIOdyechug2rllLkViQ7xXV~osBgupU2xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae219/1/btae219_supplementary_data.zip?Expires=1796911725&Signature=j4bc4jqXdEVJYGt5XkqrzSV5lKMjIbWe8m~YOt4ta0PLOtuQG6tEhvYwnHsTccj-NLN~Z88q4sGQmZxNhVYp9i7JZxUE7I9hTM-aWWh~Y88WRGlFKetjWTia-JeO5SlnkFDqQP0TmyvsE3houAEHYRWbVzq6QpBW8VC0StqFhvRPz3TxvDyYN~yFEdsq~us2iT5Yy4olaWr~zs7Ot0lTP9rGYgZG-tuoWXl3kEIlhyPfi~89HiikOVUSgVzNYxP5N8J0KUDe4bOuicQaAJEcIDNt3LOJobSuDWa1bjg94VoetnAr~b12i2CE~QXfX32XSBQjW15qEESk6dSiDxLPQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i481/article.html",
+    "pdf": "files/i481/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae219/1/m_btae219f1.jpeg?Expires=1796482702&Signature=VWLDTU6LbrdDxY90oz~trEJ3fu0h~1C4rO-3xcAQi6fQrAGO6sDFZzrt1FQ~yRoWvQc1aNaI3iZQ5V5kPXTVz8MGNLtNeNlRrqduo~EthrxUmRRRsiYJ1myhEPzx0OWV6YuUyp6wwjczubPcVK~dbVma4F14HomrGe8JuKgwKWhavTIKe59pzgj1VTmcBEMJg~ie6JZXCWiN3md0DAJ69PqbKCbGN7IKtZgCA4uzOENlCv8yGY1me~87FIiC5jjXy-bxBC99VQqAXYyggny8YRAozNhLJrh52qghUrBKxizr~RLRzmjypCYqqB4vOpXsZqBF3D-d1mDpEA-SdNPczQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i481/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae219/1/m_btae219f2.jpeg?Expires=1796482702&Signature=hqW0ng6EL3smtVtxnKh6USlrMq4J03FDcPTUfzaKap5bB3R00o1DVMopupEa4WP~ol46aYIlzqP0exSGsZWPOAWiWicz~-tfTwWgtKQ~ifD3g7MzoNGnClt9FxumAR2ncJu4fwoguzLUTHC0ew9am8CBjgNRcKpUtMJilcRFRqFJ6VWQIY~fPXC9De~gw9C4~g709b82~ux~8SiyhU0Kkd-Dxfk7ZgW5w9rID94iJBQNPjvOqEAfeTxRYXx2mvAke~8kKrUqfeayJVPTw~1sxFkOcGEAKHNttbkMEx7D2ddIr6rZuIDL7MSgTvY-Knd2dJo4tYRFua5vHb5gpxj-JQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i481/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae219/1/m_btae219f3.jpeg?Expires=1796482702&Signature=kwdIG8nVh6fT5cmGTxVEk~5Ftnfrr02oIuptJC2PDXFJ0P-j59a-2AcMay5-PnrDdGr5QMd06Pb~OVhf4J7kTnGbXxzXqm~ZdcQWOFaSx8~Bg8-k1~laL0M2y7OtShcEz4X~7bj7khhTyaJmoTsAl-nlij07A8ujjKXoM7ET83Of~ndIu0sGH~oketGGJFqr5k441IjohuGUriobNTMnAdYszeGQIh~Z4-CmsBVSEuCheUsO9AD9mseivoZxOMxv~kvwQJ~KeRWN42T62RtnuCg8RxGfhmBTeEOC8JzWgT5HMRV9ZweaLKre1Kfl~HoXU6S3f2M4sIWAmlsR1I9EkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i481/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

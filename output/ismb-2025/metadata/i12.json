@@ -1,0 +1,299 @@
+{
+  "paper_name": "An educator framework for organizing Wikipedia editathons for computational biology",
+  "authors": [
+    "Sélem-Mojica, Nelly",
+    "Lubiana, Tiago",
+    "Pulido, Toni Hermoso",
+    "Gallego-Crespo, Aarón",
+    "Karakulak, Tülay",
+    "Hegde, Megha",
+    "Näpflin, Nicolas C",
+    "Anjum, Audra",
+    "Eranti, Pradeep",
+    "DeBlasio, Dan",
+    "García-Chávez, Jorge Noé",
+    "Rangel-Chávez, Cynthia Paola",
+    "Rodriguez-Gomez, Divanery",
+    "López-Ramírez, Varinia",
+    "Vázquez-Martínez, Juan",
+    "Welch, Lonnie R",
+    "Kilpatrick, Alastair M",
+    "Rahman, Farzana"
+  ],
+  "authors_detail": [
+    {
+      "name": "Nelly Sélem-Mojica",
+      "affiliations": [
+        "Centro de Ciencias Matemáticas, Universidad Nacional Autónoma de México, Morelia 58089, México"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0003-1697-3862"
+    },
+    {
+      "name": "Tiago Lubiana",
+      "affiliations": [
+        "Department of Genetics and Evolutionary Biology, Institute of Biosciences, University of São Paulo, São Paulo 05508-090, Brazil"
+      ],
+      "country_hints": [
+        "Brazil"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2473-2313"
+    },
+    {
+      "name": "Toni Hermoso Pulido",
+      "affiliations": [
+        "Centre for Genomic Regulation, Barcelona Institute of Science and Technology, Barcelona 08003, Spain"
+      ],
+      "country_hints": [
+        "Spain"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2016-6465"
+    },
+    {
+      "name": "Aarón Gallego-Crespo",
+      "affiliations": [
+        "Department of Hematology and Oncology, University Medical Center of the Johannes Gutenberg University, Mainz 55131, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0003-9758-6633"
+    },
+    {
+      "name": "Tülay Karakulak",
+      "affiliations": [
+        "Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University of Zurich, Zurich 8057, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4644-2774"
+    },
+    {
+      "name": "Megha Hegde",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0009-0008-2523-4619"
+    },
+    {
+      "name": "Nicolas C Näpflin",
+      "affiliations": [
+        "Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University of Zurich, Zurich 8057, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6845-7400"
+    },
+    {
+      "name": "Audra Anjum",
+      "affiliations": [
+        "Office of Instructional Design, Ohio University, Athens, OH, 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-8774-9141"
+    },
+    {
+      "name": "Pradeep Eranti",
+      "affiliations": [
+        "Université Paris Cité, Inserm, T3S, Paris 75006, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3060-3967"
+    },
+    {
+      "name": "Dan DeBlasio",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4110-4431"
+    },
+    {
+      "name": "Jorge Noé García-Chávez",
+      "affiliations": [
+        "Laboratory of Agrogenomics Sciences, Universidad Nacional Autónoma de México, León 37684, México"
+      ],
+      "country_hints": [
+        "México"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4482-1575"
+    },
+    {
+      "name": "Cynthia Paola Rangel-Chávez",
+      "affiliations": [
+        "Biochemical Engineering Division, Tecnológico Nacional de México/Instituto Tecnológico Superior de de Irapuato, Guanajuato 36821, México"
+      ],
+      "country_hints": [
+        "México"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Divanery Rodriguez-Gomez",
+      "affiliations": [
+        "Biochemical Engineering Division, Tecnológico Nacional de México/Instituto Tecnológico Superior de de Irapuato, Guanajuato 36821, México"
+      ],
+      "country_hints": [
+        "México"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4457-5338"
+    },
+    {
+      "name": "Varinia López-Ramírez",
+      "affiliations": [
+        "Biochemical Engineering Division, Tecnológico Nacional de México/Instituto Tecnológico Superior de de Irapuato, Guanajuato 36821, México"
+      ],
+      "country_hints": [
+        "México"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Juan Vázquez-Martínez",
+      "affiliations": [
+        "Chemical Engineering Division, Tecnológico Nacional de México/Instituto Tecnológico Superior de Irapuato, Guanajuato, 36821, México"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0002-3037-1457"
+    },
+    {
+      "name": "Lonnie R Welch",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alastair M Kilpatrick",
+      "affiliations": [
+        "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4795-8799"
+    },
+    {
+      "name": "Farzana Rahman",
+      "affiliations": [
+        "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4785-5845"
+    }
+  ],
+  "joint_first": [
+    "Nelly Sélem-Mojica"
+  ],
+  "joint_senior": [
+    "Lonnie R Welch",
+    "Alastair M Kilpatrick",
+    "Farzana Rahman"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 3,
+    "A_lead": 4,
+    "A_total": 18,
+    "R": 2,
+    "h_lead": 17,
+    "Y": 2025,
+    "L_lead": 4,
+    "C_lead": [
+      "Mexico",
+      "United Kingdom",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 6,
+    "I_open": 2,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Centro de Ciencias Matemáticas, Universidad Nacional Autónoma de México, Morelia 58089, México",
+    "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, 45701, United States",
+    "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom",
+    "School of Computing and Mathematics, Faculty of Engineering, Computing, and Environment, Kingston University, London, KT1 2EE, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lonnie R Welch",
+      "openalex_id": "https://openalex.org/A5069844269",
+      "h_index": 26
+    },
+    {
+      "name": "Alastair M Kilpatrick",
+      "openalex_id": "https://openalex.org/A5004851534",
+      "h_index": 13
+    },
+    {
+      "name": "Farzana Rahman",
+      "openalex_id": "https://openalex.org/A5057079573",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/lubianat/compbio-on-wiki",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf216",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i12/8199389",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i12/63745565/btaf216.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lubianat/compbio-on-wiki"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i12/article.html",
+    "pdf": "files/i12/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf216/1/m_btaf216f1.jpeg?Expires=1796427953&Signature=eyED6wNmqDRez-61OYYQlLP59Q4ExM-gRdZvhxth-6CnivzmxE3aAbS5QGlkRNGauszP90-lBQCSBudNqTa34cVEoSIpUmfBfQr1TZkiUvw~q-Y9kwZLzWW2EvAMwWeomqPyeHi~cVOz1BrnFwSC1ZosUBhoTSOhFD74jEUW3M0CkCuXlUtPLPUm7lOkPolSX4TIXBTS6DkANEbk1K~QTCInP3e~al5ROl5scl75mgVnmxx-WrXBDWv10LM47yr1mqoUgF1u0PTPvDyT5z4V0~xOIH6ueYz3AAV~Iz-zsP6USWbCGHkNpd1uVdilACKawYRyXEZCrus1aCqwrnnWHw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i12/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf216/1/m_btaf216f2.jpeg?Expires=1796427953&Signature=omRPXa1TEwtmuOGc4qYVUV31zKeY0MuxDDOc9FjShNWtydVmCn~V8yd9w8~4Jg50RlHrZf5BNduDdBJW44496kECHbLBoM-yY2khsmI-phBrRJQGI2zghaWZ89HUzBnSkkFGQ9KsJxLyfg~3RpdbK-qDUjgSEy7tW1cwWdL43m-vqyIMgve5uuoVsJVjPbW~d8PeI-SWw0lGgk6S8a0ZaVPmNbUm2p-QqICWxe1Dt0K6oWQzbWK1hfonl67Jh6IagRf~mE2ediiB2PS8mYbFIdcWEFyYagdej5L5CjaQsKfKqNWLMu4kev8wP8xm0zeyP4NGVElD2WAwTw~2CCxvOg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i12/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf216/1/m_btaf216f3.jpeg?Expires=1796427953&Signature=0c0ngTYqSBzKCSsAAvCfcfftVHg4GdBf0NzobiRsNUDFTBoAxMA3kwNryeD2PTQI-o3hanq-e6nvvZmjjL5f74bIeZ82bAvO2OJ0fEt1-lbemiMKK1s0BS~bI9wpWlCL7eIk71q-Lh7BWJFA6uXGXIHg2uNFvOL951lBzDx8VTsw2~kV9mHzC5hybSna3dKURGWIt0Lm5k1D99dvCECo-kgzfRqHRy4w~iaiigAGEas-L1ZIKW-6ZUUPeqwI-Xk1woRz-zWhMDl99YOZJgSuC2qWpRpQHm~LcDvCgeQuWk~nrczznPkTo-Llxy~lTgV26Cf~1nmhz1Se3mNnnC4mWA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i12/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

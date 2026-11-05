@@ -1,0 +1,141 @@
+{
+  "paper_name": "Quintet Rooting: rooting species trees under the multi-species coalescent model",
+  "authors": [
+    "Tabatabaee, Yasamin",
+    "Sarker, Kowshika",
+    "Warnow, Tandy"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yasamin Tabatabaee",
+      "affiliations": [
+        "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kowshika Sarker",
+      "affiliations": [
+        "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tandy Warnow",
+      "affiliations": [
+        "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7717-3514"
+    }
+  ],
+  "joint_first": [
+    "Yasamin Tabatabaee"
+  ],
+  "joint_senior": [
+    "Tandy Warnow"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 6,
+    "h_lead": 66,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 110,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Tandy Warnow",
+      "openalex_id": "https://openalex.org/A5032411541",
+      "h_index": 66
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ytabatabaee/QR-STAR",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac224",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i109/6617518",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i109/49886807/btac224.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ytabatabaee/Quintet-Rooting"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://www.ideals.illinois.edu/handle/2142/55319",
+      "http://gigadb.org/dataset/101041",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/btac224_supplementary_data.pdf?Expires=1796416586&Signature=eCqf9CdSp8K95cNaI0huS9HK-WytFBp4n8m5sKMDd1cErSTBeepxMf2zg9R5rPAgCvGrNMuLF5lKxyPPgXPkIhRQRH4wHadB4qOlqSMX1ebBGfnjSChqiEI~9fEzv8y3ZczZYUQ0zvI5VouzAfQ-OHSsdKFvY3Tn3NlKuJR9bbRR5Ia1KgQ6sH5d3nxWv~qyZV34UG8eBWxKeq2iUgKGIOFrcr1SXL~zR5GAXiSy5u4RpzIYr2Hu3ZSfMmpHJ14M7F1qt~YTirbBX5JdYXltA5edEL28CRRzkEXePLP-vAcKYGttpWcjQwe6XkjbArvptvyb~jhrpKYG8lQ-WlnpgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i109/article.html",
+    "pdf": "files/i109/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f1.jpeg?Expires=1796416586&Signature=nieFIKJ8yRQdZTy-Xex1VDpWLAuCZU07-T9J13BkDE-F3THnHGgDEQmC8e6Zp99dZFG5slT9yaCUA1oZGxhRHK1je0NQWIPZFxmDQ3ljvVPMxooL6bmt84bp0n6RFHhN31WIf2~yZ9hc7TVBJpmpBXHfzZgHLc8yDXFuJS3YHjSyjeYKfuG7U2ittaMXuADJhlL8VaZkzwtXS~K4bpN1L5W81ojaYFW6zGapU2aaDfLS0FqNeCtHEp0RD~eHWkyAbaTpCKLCDocIPF9Ph-JHvQMxM29XlhYs24rwCLCAT2Ea0roj9PWRg6FVha2d9bOo9jbgRowp1hFTBBP1SyNFHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f2.jpeg?Expires=1796416586&Signature=hfRqagVFsHYcHzxcnrk7D2UiQ~ZAGwMf60-B4RinkSxNXVMWEqgbZBHkO~KzaIRmYIkzI~xjq9kHn1oq078mYYFLV2RM1H40brb-0WWCC3Ea-U9hTggmGoHm4hmrHOvOgBeQS8eBQRhZr7Lgri-sjQz1NONfxdS4pg5ArYdgGulQEJjjTJBoluEN5z4Z1wgg5ly4TGT~47uWdFoGbrIrrT-ne93WHFlTKV3nGjvzOtUDtVbGiHsIQB26i04yhfextUhyVVZPNlA10ZPx9oIyExjEW3SjLREY4gq1bxs48GrUYUfAeq4h5dGZ0L4wUuknzVHzdGm1lgiOyilHfvnZvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f3.jpeg?Expires=1796416586&Signature=THLp3HsIDdVKj-QIWJ2nLuk3ZoRIl9cVoW1Am4hlwU1B2nSm~pNgroVuLDJcFTkUTRTNT5izJjAZbIaFGqKSD62cEF8uE28jFW6-IYzhCPcoUXt6Y5rRaVA-BoeynwgPaYQKadLMi07fDa6mmQkcxhLE8BNBv4TmnABYjrzFIAnYrvV12hRerlKiODrlkO5FbDTSnF4ZLsXYuZvHjP1UluKmkX5rUO4MT7uXPTgdegoVghXptzmN6Q3iZzD8R7k1Kg2voY2lwTgPQgNjvUU3pbY6Ws3BOmaNnNcFqXBkgv3yYQyS9R~I0W5CTA9TKrghXonsQyHgK0AuzlBy2q5mag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f4.jpeg?Expires=1796416586&Signature=o38JGoGbBIwB4H3qh3EUohlcX9HvlflKDlGY7I3IOCfLLx6jV69XlLBJ2C0-GJpxghIRyxKyyVxKYcvKJXG56xDqkKaI5U7BMg81g~QqvTt1PqhYvt0-WgSEpyVeqwczl8tHarWXJS9EcA0XTi2JTCKfKIZ9uNY-HblWopNtarNEvpKg~iw2jP8ZzhhqltDW2eyxGpv-N8vJ22JjvMmwWVzVdYUMHml~zN9N6UlR8s8HTMfIQNyOKueCEoYfy2PYHoMKtNnd00uLZF-4cXl2E14ow4AjaOhzNBd8dAofV6aXTxDKjmKy4YShwkWC2H9sdqFbP2J0G33w2LAj1H2SFA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f5.jpeg?Expires=1796416586&Signature=DF8PBC-jQhHwE4u5ybOvOvO~tdWB1PCSt7JFv07l34~NdUVMEy3BgQaCJqsBVq5TITwuGLcM4ZLGJb30onxTJr4EfohRGHUfaTHlszsHelJNW~mdDRLB3vqR9ylQK49bxhCQSjzEYasXfJ-hzTT8TABFTanB6h9Cysfy0M9CqKof2ycGoT5FY424k~jBZf9b0UlRdUc5D6DTeNH4oSVEdCQ9xRr3dIC9~pVMMyb0hgSSYHKBYLZRscj0~AYs3qEuZ4RxilE~j7qeQwpOxJHqbcA8ayl8Y0CETaXI6snFITWxya5BaBwytcUjNfbyEvp2phMOWg6izZf6--qbFGIszw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f6.jpeg?Expires=1796416586&Signature=KowXPSND0Nf7gmyFtO75IPtcsxK8676lHF3vTrBT-Oru5w0qpaYyPqeHLD~-1W~A8U~FisooEzezq4XEVqFHK1We9w-1xkdF73PG~~v-n8H5iZ53fyPo6UNP23RkuBnr2rPUl1M7DtAlogPBernUWqeUJTgFtzpkcxZZHeeGcGJUGZDPVjKKDmF5LCC0ZO7N6a7cZnF8mlXlRzQCJ2vdiMg1gyGjyfBGh8ys55es2pae0Xv3uNYUupThbaNaxVg4XRVxrpOpX9KA~g7lK-iYd83ybc8I58-GXDRwWPFWU4Uam3WF98oTEmK2X5kA0SBvww8V01rNDDZoAz8iyZNiAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac224/5/m_btac224f7.jpeg?Expires=1796416586&Signature=p2HzXm4qT~xzg0DWpdupTxN-hafbeiDBcnjiHwxYYajk29ao0CV8zmggkv7J2hFWZ16c3KRggBl23XswdutJZwcxgevPGdGOMZmsKSG9AtNDxMbpPxbwQ3ORgfmrMcJvCfUeTVpu2ueR~JWzieXmzSGyhICYjxgLaSMR7i9ps-lc9EViunYRyNP4qYiKctjc8X144C91eutWZUkafNnf6Q5YjmADoTFIuLDw-b-7s02m~LnFZq7nH5rWXbOnTXrjDvcRrT31WVgI9D3NDsgfGTCtcH0bUmW-7MncZaG6BXJOPR7u6lMqHnLmUy4gINDfyzm8jOCsHiCJwYdO7zV2Hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i109/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

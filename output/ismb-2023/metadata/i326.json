@@ -1,0 +1,143 @@
+{
+  "paper_name": "CProMG: controllable protein-oriented molecule generation with desired binding affinity and drug-like properties",
+  "authors": [
+    "Li, Jia-Ning",
+    "Yang, Guang",
+    "Zhao, Peng-Cheng",
+    "Wei, Xue-Xin",
+    "Shi, Jian-Yu"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jia-Ning Li",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Guang Yang",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peng-Cheng Zhao",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xue-Xin Wei",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian-Yu Shi",
+      "affiliations": [
+        "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2303-273X"
+    }
+  ],
+  "joint_first": [
+    "Jia-Ning Li"
+  ],
+  "joint_senior": [
+    "Jian-Yu Shi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 17,
+    "h_lead": 27,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 12,
+    "C": 29,
+    "I_open": 1,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jian-Yu Shi",
+      "openalex_id": "https://openalex.org/A5000609872",
+      "h_index": 27
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/lijianing0902/CProMG",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad222",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i326/7210458",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i326/50741569/btad222.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lijianing0902/CProMG"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i326/article.html",
+    "pdf": "files/i326/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad222/1/m_btad222f1.jpeg?Expires=1796451546&Signature=UNxIHuruRBJGyPvKh78wP4fakx-jaTMK0pAhzpLRHColdjjUDR22XiCZ4JuTxq5vHkc-WzsJ99OuLwdDeWR7jfOzSOi4pmmr-4YVcjgCZFlEEH9HAx7cKJIx2wxeyQ28prWxXIvXYhAbCuLcmHFs7bMv4GU9dlQhmu7jxrXQ2xVZslxhAziVtcV1LTzh2NAt1Jlew5SKV4RdAuWm6y9EmdH2r8mBpJWZfXDvU3NsjFtZReUP76gUOZe-FgozVF4m-CVIXaUBcAgrFwJHO~3t-iFtt~AUT5~~bwMai2HYfIEZ69H5SUPdoBWIL-4TO7sEH6NANUiydbHomP4yoavrqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i326/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad222/1/m_btad222f2.jpeg?Expires=1796451546&Signature=gn4DDVg3RgT4tk6RBrYbZMB-Ggs4429Nil5WXNOerQePJXRabyqLagOp5SbsE-4vqTS13hdPc0GJpFm-5cQ5W4ULbqS0exKXzLY3TUBpVpEOWDQ7QLWBemzbseGE4G2oltCJvx4YJ5BPE8ClkkCXR72whyXyIuxwvoH1AFeIxaKWrz0MX2jXseLzD3ds2p87KIp~h-PCFuTSynIa-BX~PGsoAxH1UfmFLHeMIdVkSKUgkjvhWcBnOK2LIaQi00DH82MVWS76sE~T3flGqLw2RlrfAKesPkpr2DO9rF--E8AkLjq9zw6Mhff4BxNYOLzY0KdfSiwi8pnt7epeskY4cQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i326/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad222/1/m_btad222f3.jpeg?Expires=1796451546&Signature=K48egCjIi7QTps2ema7asmlXmXxD3lvRUnz9tXecWKKzc0d25OK6qNnnyVdAdAvHzqIn-GuPMrTgRiI-Cf7OVRpQBkFj9IQkcJiV2YZJ5pVS~9luVCE15ndMwzZd757X-KXjiXT-Qn6kX6Z4zMYsrQqBhnDIlQh4omw-JJMpvCYCzKpr~q01h-XD9wCURgzNkGWvtvNrR382~Dw4uoj7EtsKVOKVUfnzQIRy14k-~~z~tfDNGdACzMk7r8-URjiQMCTGWx~nc-aORKkWSH-8Wzg-mCwAL6NIFlLrKecNbgNe6oT9EOmyKmYFTZs0QoLRxkihabueuZMBe2-ZuAkJlQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i326/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

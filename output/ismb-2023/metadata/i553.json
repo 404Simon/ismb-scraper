@@ -1,0 +1,116 @@
+{
+  "paper_name": "UNADON: transformer-based model to predict genome-wide chromosome spatial position",
+  "authors": [
+    "Yang, Muyu",
+    "Ma, Jian"
+  ],
+  "authors_detail": [
+    {
+      "name": "Muyu Yang",
+      "affiliations": [
+        "Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian Ma",
+      "affiliations": [
+        "Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Muyu Yang"
+  ],
+  "joint_senior": [
+    "Jian Ma"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 7,
+    "h_lead": 65,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 15,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh PA 15213, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jian Ma",
+      "openalex_id": "https://openalex.org/A5100626893",
+      "h_index": 65
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ma-compbio/UNADON",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad246",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i553/7210492",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i553/50837856/btad246.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ma-compbio/UNADON"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad246/2/btad246_supplementary_data.pdf?Expires=1796912708&Signature=ARLiw6i8~cQVqUfCtECuDPWZXb590VY4sja~QBa7acUiAPVDagTXmkA7j-KTTGIwRyjWVYhYicQyPUO9mz1vbNM1xIq5L7YTCrg0IdHZ4YKfnh6rckKQHSjX6J~~1muSliaI8uwNjH8gG3aA45LBBRcqpihhCvSYi~bKgP1-tGAsYQT5UGs6lbKFOA1dmAY76m9iKMkqdhoRA7o5uVRqxprBhx0VORcknMm9MHST9cR8kC4M6xPh66O88idHs2EivQVpZFxM6ohzs0-V5Z8KWJeIJu46jg8NDoQ823c5N9You0El0HQhKoBePpkN6bb-UVD4XubT5aNXpjSgNSNywg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i553/article.html",
+    "pdf": "files/i553/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad246/2/m_btad246f1.jpeg?Expires=1796912708&Signature=QAbm2khZj1Y5k3YAWlzCCH1CD6PgDhz1jUl4uDOQISUgcQF5ZKFK9-Cb0SLQuBpvkf93tY~yWmLieuxw~p5mMhr2e05oL7elUzSrVfjjnNolzv3Ex67IOtTVvF1Pxp7uC2vnOUH4NED0zNTLwOBJLreodFLtCnyM4Zp70tW0MOT19hmjiz-WcjzqYSiSh7TZIDI1kKMXtq2pdUoV6fsYMNI9X6Az4JcdA5-0cmVS7xnbeAJBVk6VJb3u6sSgp0hgzYLYjUZum1b8WBfvBlGA4gjbXpylC6aegPbRdvgr3tNHSHR8QUfhhQOfEDmr91gwVSL1mQLrrD7IDSuyKtSQNw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i553/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad246/2/m_btad246f2.jpeg?Expires=1796912708&Signature=uyJbBejfjwEBIxCqnc8kFh9meia5OZGiem7LS2iUyG9x44F5P3jLigW2fRGyqWEYXsWPr6v3g-GOJ~iC~hhrdE~jRQ8vN6gz1bP2iNJEFhQCey~tuf-I8pFegzJrNlEo9FFHUEU~NABncX47dt5On5mrvrf7bV7OYbCBBTGeXWbOIT3w1VZ0qevkWhMU3VYxSb4LLX4LcUPvrGyOFoQosU7xT02jlC9vAWtwkxJ1iZwFoJdFhCfMD29q~jmh1V1bYuP~Upc-qDm78eaYXh7PBwPPmhs0VEGEf04zKQzmXPlpwoa5dIC8iYBFz4j5kN0mqJ~S81ELcf0pX03iFaosqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i553/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad246/2/m_btad246f3.jpeg?Expires=1796912708&Signature=ZPefY9GEVXXd6zKxP~Jp0W4JjCRR5NFmqmWIrddkVivBQWt2E3~561a3BdL~QC~JA7Atnq4cU5kS2AFHqyQitCT-7fx7OTKYZdTog1Ijet~x7JCa1QmrbIJkUsBiKbLoskOuV7Z2fA~6gnJwc0mKeWgW4ZPiFVI3g227hrOLxkz3VH4ZXQ2M0pJaqwCZrUAVn2hYtMNSmdztOnoJvrI11PXi~LqwUgxICbQGN0qHNAeyPF3vAHUyt4btcKRoRYHRq3v9zjJ3idpsSqb8QAqYgEVW4vZhSRYqSqdy~xyf0OAgPX4ZU-ApBfiFLO45Mf-yZjYztDVb0H8YBw-NpiMIyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i553/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad246/2/m_btad246f4.jpeg?Expires=1796912708&Signature=aB7e4RwvM~zr83hSI7tDBikPSg~INVRWcGrmef0o5PbCZL0sMRG3mBel6qnhL-iT-kYsai~eLsWNStk1tR27I~s7NSUQLsWUkQH5x4eoswgbkneQnLBHyMt2L20PxEFUr67eLLIFGgYyYjjz2SbiZw1j7hS6XeQ8VUpdYT8TIUXjlJcWiwol~IdM8~uaocLOlnxg7t-8~gRlMCQbdj7zJeyl7qkdmIjQg~pBxPK~kVgo3F2HkSUbHsf5ed9hOM1vOegiE-kHerScN~Jr~neaPaumEIAAzgiiGulNPLEXYKyuoRH07-EUaaufUmrVZgIk-59I2IBBImUjCwWko3aVQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i553/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

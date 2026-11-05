@@ -1,0 +1,161 @@
+{
+  "paper_name": "Bayesian inference of fitness landscapes via tree-structured branching processes",
+  "authors": [
+    "Luo, Xiang Ge",
+    "Kuipers, Jack",
+    "Rupp, Kevin",
+    "Takahashi, Koichi",
+    "Beerenwinkel, Niko"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiang Ge Luo",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jack Kuipers",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kevin Rupp",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Koichi Takahashi",
+      "affiliations": [
+        "Department of Leukemia, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, United States",
+        "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8027-9659"
+    },
+    {
+      "name": "Niko Beerenwinkel",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0573-6119"
+    }
+  ],
+  "joint_first": [
+    "Xiang Ge Luo"
+  ],
+  "joint_senior": [
+    "Niko Beerenwinkel"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 3,
+    "h_lead": 67,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 243,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Niko Beerenwinkel",
+      "openalex_id": "https://openalex.org/A5035497488",
+      "h_index": 67
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/cbg-ethz/FiTree",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf193",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i160/8199359",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i160/63745347/btaf193.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/cbg-ethz/FiTree"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/15096570"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA648656"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf193/1/btaf193_supplementary_data.zip?Expires=1796429237&Signature=Wa821uySGNIF10WPnIpEnzS9DtuCqezN4h6Gq1JJIKFcdE~4cEm0QFeIkx0HlQkdkuKGSxxc8588RY9RrjfHiU~FeK3AbnnMkADhXfrMsq2nd6cFEsJNqKJYHFsEyTc4Hpvre8ZinFUHc99o9wBW0oJQgaxuQjCrgNCYYQpzaSto7LMRNBJUrhIcQLA3XsdchT~-t7NPadV8EWR3vUfqGboxpjR-D11hbgYjiPvn4ugogDDHmFhvZ~NhbvtucItPRxgb27tlgyGspFP1h~VBgvyS3zA1MPjGgXtmK6Ft5jSz9ET~f131clUoh6ARJv7CwcLnjulIvYhQnjaAbP2Idg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i160/8199359",
+      "https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA648656&o=acc_s%3Aa",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf193/1/btaf193_supplementary_data.zip?Expires=1796898861&Signature=NsRZZlbt2OpHlCB4NsjJCyxCDzJjjG~H1zBjd76QMHlqHc1d2lmF5OSNOksDB7eoSUyv56UHkUd4siRJ9uh3yVEIuF-brNa8QenXc6C0n0tnSYSvsESx9fjlF7ghrz9oQjflhk5mBarS~GpQFRtef817n45kijvl-PhOB9HCPN47iibDG48vuQ77OZxUHGHplD1WW~pLVpDIgYEqF-ChSnrtF37DEnYbKJ6J99L6j7xTpQfdBpkPAq4AcbAMi6mqbjeKGd2k~UcPoVFO4fLop3uHtquWXTin8m8rFs9w3~EDn2ClqlZmZVNp8rlQ6At67bdOHjgmaawypDqbjHwvuw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i160/article.html",
+    "pdf": "files/i160/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf193/1/m_btaf193f1.jpeg?Expires=1796429237&Signature=ig171wunJt33nav4de5YXgUCDy2FP4Inv31vvFQ-O7hoYyiF4k5qsXSr1VfxoPCgxIKx6YxMdg2VVWIbtGgzGv8h5-ezSUAP3Vu0PKcciR1xbIZxePVbY3g20OqTsnTSoKfaKaBbuII20J0EENjTsxOyNYuVOO2~yQHsInINm0KKquQ2swVojPnppdl0zglWZqSecmpmBKwHn-4gLjPyIUyim4cMgKYEXN-3TdFNKQp5rvp85XkduDFeA8tZteIr5bcq1ZXpfSZ9bzi1SUJ5CsNe4vanaEGzcg0l8j~iId0tk3bQFJ9K0bixAmwQ86YKBTGRn1CP7GMFpv58Dr6siA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf193/1/m_btaf193f2.jpeg?Expires=1796429237&Signature=KER5Xatb9RXeuT~g80S-YukQNBqufGwpnOZLGmz0Q08JrxLkKtHQ20J8GmkWRFiwGDRDxhxbuTGyKYEo6sd7FBLhCElo8-Fy5FdFsAwmR5c23CI1TQemxNCo-SAPoX5euXEKYRKVNA~12mZSjBxtPOFOR8bBZ7iivFxCE6aCnfSO91Se8ziZ4u6FAsE-Ap4qpsnowPKorIkJHxoBKBRUKaPz1G0XAyPUxK-fQd6OUb0onqtAdmC4lpaSBuegCKPmD8hwuruXGX5t-PVuU9s1rC4~bVHtKhMY7uAjdcW~BnI~Uq8B-m6~GPL3GXFi9lGV062W2joONlgtGNG2IelpaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf193/1/m_btaf193f3.jpeg?Expires=1796429237&Signature=gbSs3mDP3RYmF8VuZabLy8lGeNT0KomVXqKDBTeowWNbJdJRx-syVmxMEyqYrxE5GVH~wuLp8bYet4A3VH0UM1D46ILsfIZOFhjnDwqXQVHpb0MIKFCeAK4ges3SP--rU08XYIB5rfxWk-jm6-HHhHQg4LIGsW3rB6~eXKnrOr1noxJXZo1fyBarh-gYr8aF7pDXAeUrRkmvLnsiicvKDOjLMLYLjCRCERUnXAogfjHOAFh7zJTx2EQ37Z-M52h-TJV71OpE3YulO0x3zOuK8GggcauH3Bd70uiah4FjbX7BI7wgwR430cv7v6t0Q~jduFJ0Jt8cc6deZlbXwLXApw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf193/1/m_btaf193f4.jpeg?Expires=1796429237&Signature=HA1azgstll6r7kyl8tH0h0GX4mcGC66dma3GlRB2SKzHJkH9N15qRbVgqhD91uHqWBqCkVVhd2nXAdOvu~59SQ6IrcGCCURyvBvcqiCtDyanBq-QaVcx26lAP~qtKEnWCLzXXJtHg3hrh0kuKF6vlsBB2hl-QRmKXKuvsizB9WuILt132NZ81uUzaIkBndoWPrr7qik48O99E8QVZiXALZ1RucOkfb0q~wAK2w1xgU67GRw7jHlOWWY9e3VsO6XaAWoJKAOHsZesJ~a4SsPCJYpx2kJkr4Wljr2J8dCJFF7jzLcE2GlXewN7nD0qxU-uuZGOexqcgzr9McwsXP6xVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

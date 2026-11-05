@@ -1,0 +1,208 @@
+{
+  "paper_name": "Transfer learning for drug–target interaction prediction",
+  "authors": [
+    "Dalkıran, Alperen",
+    "Atakan, Ahmet",
+    "Rifaioğlu, Ahmet S",
+    "Martin, Maria J",
+    "Atalay, Rengül Çetin",
+    "Acar, Aybar C",
+    "Doğan, Tunca",
+    "Atalay, Volkan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Alperen Dalkıran",
+      "affiliations": [
+        "Department of Computer Engineering, Middle East Technical University, Ankara 06800, Turkey",
+        "Department of Computer Engineering, Adana Alparslan Türkeş Science and Technology University, Adana 01250, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ahmet Atakan",
+      "affiliations": [
+        "Department of Computer Engineering, Middle East Technical University, Ankara 06800, Turkey",
+        "Department of Computer Engineering, Erzincan Binali Yıldırım University, Erzincan 24002, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ahmet S Rifaioğlu",
+      "affiliations": [
+        "Department of Computer Engineering, Iskenderun Technical University, Hatay 31200, Turkey",
+        "Faculty of Medicine, Institute for Computational Biomedicine, Heidelberg University and Heidelberg University Hospital, Heidelberg 69120, Germany"
+      ],
+      "country_hints": [
+        "Turkey",
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Maria J Martin",
+      "affiliations": [
+        "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL–EBI), Cambridge, Hinxton CB10 1SD, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rengül Çetin Atalay",
+      "affiliations": [
+        "Faculty of Pulmonary and Critical Care Medicine, the University of Chicago, Chicago, IL, 60637, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aybar C Acar",
+      "affiliations": [
+        "Cancer Systems Biology Laboratory (Kansil), Middle East Technical University, Ankara 06800, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tunca Doğan",
+      "affiliations": [
+        "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL–EBI), Cambridge, Hinxton CB10 1SD, United Kingdom",
+        "Department of Computer Engineering, Hacettepe University, Ankara 06800, Turkey"
+      ],
+      "country_hints": [
+        "United Kingdom",
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Volkan Atalay",
+      "affiliations": [
+        "Department of Computer Engineering, Middle East Technical University, Ankara 06800, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7850-0601"
+    }
+  ],
+  "joint_first": [
+    "Alperen Dalkıran"
+  ],
+  "joint_senior": [
+    "Volkan Atalay"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 64,
+    "h_lead": 23,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Türkiye"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 140,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Engineering, Middle East Technical University, Ankara 06800, Turkey"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Volkan Atalay",
+      "openalex_id": "https://openalex.org/A5042515589",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/cansyl/TransferLearning4DTI",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad234",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i103/7210457",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i103/50741558/btad234.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/cansyl/TransferLearning4DTI"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://tl4dti.kansil.org"
+    ]
+  },
+  "files": {
+    "html": "files/i103/article.html",
+    "pdf": "files/i103/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f1.jpeg?Expires=1796464432&Signature=E-pvVZmFUT9JK8ocYkkyfqfhZxUH3IsKvzYlA0DuDgfP-~gTPjab0obqKY2muV4OxR-G50cs9o66GGilDajH50mCjj4tum5tAPrpSTQvLSjbk-5iY~SbYk47DQK2mBfqhfWNyt6MYy~yvm3txdRvUfsC6G~H3QQl-k5ceFREubIekfnolx2XE1SBb4U7HbYRFz67GBBDMgKQnJCltYUugEYR~0PpXsdudfTSnmifyTOn4EqDyW~7XKpc5Rt2D0rdwYmYveqiGMreK2dJWPkHL~JLeBslv~lVeBp2YBUdgcmtUq4KV8dxaTFKm3UWnUN8kyuPngt9LL6dOYuKqXv-8A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f2.jpeg?Expires=1796464432&Signature=Zgow2tiso5dez8jk8VSphxXSIrEEOafKbdndMcc-LygYgb-8MHWXpweMu6zuFJec8P0wdlO4rLqokVwZ0BbuyJ2CvBSFzeSVNHl7qOaUyzqssR9SLoRyy0eiV53B3vZTk8Ie-yc5fV93TGfNQlM8n9ac5NVVihcMDvwqy4RWtP5WLCJKXC6n2iZj6FvinAY1UkQMGWLA27Hl3BsnX3MBzN6tUk3RTiR2NNgergqsAObyP~inSQZBAta8gP1VFGPBMKGxmBXfJNeBxeH5E6nVdn4WpHli0-pJQA8TQryn8Y2fKJAeDQ76MLODqCR02LZfQrewA0fVPQjZm06P9M5Yow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f3.jpeg?Expires=1796464432&Signature=v~TIKyMv2Rt7n10xb9IBSDVb1CMEuR8Ee8Nmzuh1vT1miiLzVX7u8t-z4sMmAU4UAPWAu7eiUnE3Uih9kGilqB8FSrXVypjraxLXqGNQC~TvjBkxcRey7p~GYkV4T2HgcCgmVJavZXH~LLI~xdjjZnxRKMh5sbSyzN0ZpizpC5~FGKARcXxT05pS9~fPVindrbnqWx4ID-chbUttyUPS0BP8YYXt9jWqNM~OaAZ4AQc8eTe4MgvqItnRoylEMdVyCQ80FqWJoT5syVbgxpZAjOMX5JQ4l63RJkmdsPSGSq80wFMXgObeTm9BsvCOTgdOLHKp58gVU-sk0h28ThhRHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f4.jpeg?Expires=1796464432&Signature=E4SR~XEmDZULRFmwepRJc-B7TDnlVh0SOzhQYG-gQrueOLhU6nJzmBcrD4LKgS3pQxl1pQYuhbNn3mdGgmtgTy125c-6MzaRMBoRGe2duRDUL9fvrIdqtt3Pdekk1CLiyDZ9hqgNP7FXfWPSCk7hbt-tB~Fiypq~gBslfi77MVkpejsZo0YqnCE-i3gqju-Azlx-g6gCnb4iA-pwy2u9wfeqk3tGnOcr0ddSjFOC1rIUE4XI-EusT8aGU6n2jLksd2VGEbl08dCHrm6HGNi4pKlG3z7WvtSQmlVhhYQmeCNz7OrFTHOdFw29FF4bpRSWEP73qALDcGwCjWLX21sgOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f5.jpeg?Expires=1796464433&Signature=NtoIhGC3ogFqALkSKd5BbSNvyv687PciTohuNEzBXsRAksJk6NgmrEb60lpOuPa6AXd48hYBtNHf6gz2uaKUOF4d47Ngo1PNxvONdWXh55OIWJ5Pj-YL7FF4hNRrtwpEb3C~8Sk~nioXAKU5iYXBWHwAa8eLciyxMf2VL0d0g9BC1~tIk-ZybgwGoXb8gFFK08naPi8DyYNKIGyvpo8J6ykfAZGw~vm8hB3kfmdX8W-JkLZkIpg8~ktbvmJCtTL6g3SLGr4sNzvDTykYa4CCWvy3HbPEBktUwML7CpEvJ1pYnvSVHegtypd3dFf6Ir9k1KT-7obKi9SPFAHf~k06Ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f6.jpeg?Expires=1796464433&Signature=Ajn3p5MIomPIkuXsSr10nlgKCFzb7vqaTUR~p-IpbEnG~V1zV6R1iMZtpcx3MrvPdr1~3C0wiLe-qT0d3dFNS5hxZUBkpQ53xAoQGXug1XAHSOjp--U5995y9S6uzWX9eSP~f1soVk3W82OsE-cwKAWGqUl0FZSbARu6FLzumfW6k9NjTbM8Ywe3L-OGoU01V-XztRbfgUekWxEAh5UojiGh~kercJfgQX4NA5vS~JhFSyXC8XY3grOKHQRr39XQm8l~hU39XRh9rcWemhN9W4CeO14Xiw-LmOzEwiy7VZeq3sDt0SWnAXWD-TxoGAwmpwc9bvVPcEUhtgMUL-evzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f7.jpeg?Expires=1796464433&Signature=Ftu7m2xr6vgq45JiDYLfvDljD7i99B0Mjw~tX6epmgEiOIWFG6BwVfE88UejEitp~Y5PhrX4aApa~KpHifhqLPOVXCK0NNCyOuKHbCg3o2qoUE-brozfOoTe-rX2BaZtiC2OGW8r9~TcW6nWFF91blkRHDzExqkCzks0Mofhh8y2C2hosil1dI0FpSW~dgVZzrek8HOLwv8r5PO9U9-LQEVTqOPnpRAYl2aeqP4TPO7w1KVt1aQcp7O4pTIKaVjHnGp7yokOvcj133CFql8ya0kNJRoKk6v1IM9DZAB~miYO3dJHNNKf9edLRzcjAd0rftK1-7WHLIOhsL5su6g5bQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f8.jpeg?Expires=1796464433&Signature=x6Gpz2V9t5-Ty3jdIs41z2Qrp~5S-lu7dODdNhIOgp5zMfRWkaw6XcPVeL7Sr8YCtdlj-bZSZIsv9d2IkEakP8mV6c2QiHI8ZiiAB~N2XnzH9KEjNB2mXc2cT9-X8JY09zWqPFZFTSAzGPr8EKc4mP9ZeMMZ6K0xCcBqlUKKl5-q~cS8lWgbLxJ8zY15wzKEKzrUHuCTNstZgframc4nctKxjUOxSXzFqUHVJFFB5tfOmrAWKMU0AJR2DwnHxwihK0QB4ILqjKWAyoAp30BahQ6XDWN8sPhpbGVsmOy4LIytbCwzM8TlSikKoN5yvEq8BEoGY~zDCrWOOmIEs63IKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-008.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad234/1/m_btad234f9.jpeg?Expires=1796464433&Signature=0P3qaRFIFXnH41J-SWjrN7tM6cnjrACXB0hA33MaEr7ZHhFlucdn6tYgjZs7riYsfF~C4Bncu5hbuh6Pt1TbrDqqH9GduyzkC-OaEVq3294v2PMo7TMtaofaEKZCD~ibEoOcLvF1JirycjG1g4MWNeIFuHkxKUDp~NBFTvsxa0YS5H77hOG4dk7m1F2ZYDVhSbJlUy38NC0GgGvxxzMJ6rRMJ8m9WTVe0AjratAvjtxSgQtxbXDdBphxoNin7l2wkAfTHTmc8dmQwRffgKFoKnivlg0F8NNNmkC-xITa4I5e4C84oZHq3LFpAjN9uT-aYOHLptG1rLsixhaDmwkGcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i103/figures/figure-009.jpg"
+      }
+    ]
+  }
+}

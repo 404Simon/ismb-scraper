@@ -1,0 +1,166 @@
+{
+  "paper_name": "scKINETICS: inference of regulatory velocity with single-cell transcriptomics data",
+  "authors": [
+    "Burdziak, Cassandra",
+    "Zhao, Chujun Julia",
+    "Haviv, Doron",
+    "Alonso-Curbelo, Direna",
+    "Lowe, Scott W",
+    "Pe’er, Dana"
+  ],
+  "authors_detail": [
+    {
+      "name": "Cassandra Burdziak",
+      "affiliations": [
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chujun Julia Zhao",
+      "affiliations": [
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States",
+        "Department of Biomedical Engineering, Columbia University, 1210 Amsterdam Ave, New York, NY 10027, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Doron Haviv",
+      "affiliations": [
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Direna Alonso-Curbelo",
+      "affiliations": [
+        "Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute of Science and Technology (BIST), Carrer de Baldiri Reixac, 10, Barcelona 08028, Spain",
+        "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States"
+      ],
+      "country_hints": [
+        "Spain",
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Scott W Lowe",
+      "affiliations": [
+        "Cancer Biology and Genetics Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States",
+        "Howard Hughes Medical Institute, 4000 Jones Bridge Road, Chevy Chase, Maryland 20815, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dana Pe’er",
+      "affiliations": [
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States",
+        "Howard Hughes Medical Institute, 4000 Jones Bridge Road, Chevy Chase, Maryland 20815, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Cassandra Burdziak",
+    "Chujun Julia Zhao"
+  ],
+  "joint_senior": [
+    "Dana Pe’er"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 28,
+    "h_lead": 86,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 22,
+    "C": 46,
+    "I_open": 4,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Dana Pe’er",
+      "openalex_id": "https://openalex.org/A5074451448",
+      "h_index": 86
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dpeerlab/scKINETICS",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad267",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i394/7210448",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i394/50741502/btad267.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dpeerlab/scKINETICS"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207943"
+    ],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i394/article.html",
+    "pdf": "files/i394/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad267/1/m_btad267f1.jpeg?Expires=1796410339&Signature=y1QsO6dhXiF4CxmJ28zuZPGQxQnmYdfh-Y04hOZEHcGdpEJtNxqr2HVY62KBNElSI5cD~2J0dLKGT1WWjpmM3AkEN9qwfMA3M6~W2JL83Vq8-XLwW3ab0bl06TYFxDLBNds5TVQ9D0Lp2GilMmKTiZtMzFoAN4T3lDs02WAC9f-9FAXm8qkjzfBGN6lQHxsNR6gOCCB1dqqDyB2VnQwFLatkDgfq-84lL44kR5zusL4nnMOGQGLikbtY~2QPjZWwLaXDBwjKU9UzIM~kK~Q5z5MOnyddugdKMgyK0kfE9Xc5GG0ylsyQSj~he8ZYPdRznzFRgL9iJiSNWFmTvUTwEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i394/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad267/1/m_btad267f2.jpeg?Expires=1796410339&Signature=kbklFb-ZkSKvlW7jtZsy~c0GEZ4xMgDJIJTefAsoanGnRR2m~3unyywTlNIy7p3XCPlMRDjlrlE7Kt6HKmU0hE7AhmiKGPfWT2O~PYQMZk8gryJaBr9wu-6pfUI3O--ER1i73yfd91voKMJNn6h3M3itD1hsab1zKUqyuPgEUWXqKhPwEbnx3bT5pDUcPySzkB6GMMy1xzNYB6wIkPo0XpgheK4kfrzqowTzP7fVFlZyEHc2M9Cs1n~tOkJDyv6m84v0Ztnh7A9UaXX5qNNOyPDjTlnGaiqww~70dLopvEFUW4xqXKO-ic6QMlbzw-3AX5lH0X5Qo8ORuTirpxV9tg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i394/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad267/1/m_btad267f3.jpeg?Expires=1796410339&Signature=aCOp1CROYk-mDjVK5SoyaKI9LmXcsEY7Sn3tpq6Im~WQ-s2p5lA5VG6QCuzW3gcB0WBW-wWlGSgdAiOBoqkrXGyFJZcicD-VpbLFzNtTgbKbw9lH~ucH34PstpPOyKSBHQY--rPtS6agLRLrRMZy~IJ4XeU5~MzOQ2wR5HyGpdwt8Nnr6~btzrZpHkkCLx0TjDxDlILk2-sKYZjc3r6j60rJxHhZ6twMG6g-k51IWEb3xd9roMMsLSRfB2ehogjoij6hOObLs2X-tCo6QwBYH-nrMReaAFncwNxpS-jCc0BP4plEpZij6kUAw6UyvCiNJc2dhOjWmi6VyYxi~Wvm1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i394/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad267/1/m_btad267f4.jpeg?Expires=1796410339&Signature=LiQhys4~w4DLNN2nPn1tygrDSyQ2EC3yhpD1qiOsvMUGXvpoP~1qzXpb3XZJkuVpFyo3M47wKirCU3JIb7w2RSiZ4hmzNKJAINuu4gjDHBiAAeyhu8xLsSA-fI6qggNDcpFMOy3lmE4SdQWjxnt9tegpbh0NhtE~qjR-z2scZwozvUYmeBethWepBWbaarVZRe3nJUgtN90dmaMjzzozKnmLkcTaUFL~CoF51dItybGr9owBgfdjL7AqWWcO4IqRskfHDlC35Ke5myzmDTiRnt~U1DopsDm-TgDzwEC~QOkGIo3qbeZkhnL9RxUGFEoFyjI141AN5j2s3qDIE~a18g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i394/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

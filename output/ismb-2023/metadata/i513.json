@@ -1,0 +1,142 @@
+{
+  "paper_name": "Trap spaces of multi-valued networks: definition, computation, and applications",
+  "authors": [
+    "Trinh, Van-Giang",
+    "Benhamou, Belaid",
+    "Henzinger, Thomas",
+    "Pastva, Samuel"
+  ],
+  "authors_detail": [
+    {
+      "name": "Van-Giang Trinh",
+      "affiliations": [
+        "LIS, Aix-Marseille University, Marseille 13397, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6581-998X"
+    },
+    {
+      "name": "Belaid Benhamou",
+      "affiliations": [
+        "LIS, Aix-Marseille University, Marseille 13397, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Thomas Henzinger",
+      "affiliations": [
+        "Institute of Science and Technology, Klosterneuburg 3400, Austria"
+      ],
+      "country_hints": [
+        "Austria"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Samuel Pastva",
+      "affiliations": [
+        "Institute of Science and Technology, Klosterneuburg 3400, Austria"
+      ],
+      "country_hints": [
+        "Austria"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1993-0331"
+    }
+  ],
+  "joint_first": [
+    "Van-Giang Trinh"
+  ],
+  "joint_senior": [
+    "Samuel Pastva"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 4,
+    "h_lead": 11,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "Austria",
+      "France"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 23,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "LIS, Aix-Marseille University, Marseille 13397, France",
+    "Institute of Science and Technology, Klosterneuburg 3400, Austria"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Samuel Pastva",
+      "openalex_id": "https://openalex.org/A5071042168",
+      "h_index": 11
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/giang-trinh/trap-mvn",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad262",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i513/7210466",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i513/50741630/btad262.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/giang-trinh/trap-mvn",
+      "https://github.com/sybila/biodivine-boolean-models"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad262/1/btad262_supplementary_data.pdf?Expires=1796486068&Signature=2r3aDlbcO0vIDaMiS8xhj45G-roEjNonVsT0Ydf4oHJYz9MMmyZ8A7~bQRaKY8aGfqzkcogzS-rJT7UlfNCteqU~pVzMMg8oZHKf~h22bxl~jfqQWLsgVgaJBRgklpSLFOD8yoXhSVm9FsRE~JotsU3CHWOcB~ziUA6QPxpuZpAlIgECZNANDMX6yvXyH9k75eDlFVSe4aQwpdX0ujS-iMy6ESEU5Rfeurl9erBxkdlYU3zL5jXAJz3ajCOCnV1Rq8Je84VS~ynmendQt9QLcl2613HMjX4QMrmfu8k9i9HwoEpjLrZvmiEPehnZLeb4xNUKE~HMUUGR1cIY1TlWcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://biomodelanalyzer.org"
+    ]
+  },
+  "files": {
+    "html": "files/i513/article.html",
+    "pdf": "files/i513/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad262/1/m_btad262f1.jpeg?Expires=1796486068&Signature=5Hw4Uql5S-ODqLjHRLwZzAQFqrKB25iaagZgL9danPxnhvZ97QhX4KiFfCXJp5aewKXW-F0lRC4mFNUgNENd~JVqrD0saVFO-42x5JRCrvTCJOKBwU9I2B6woBHtTSa0oG-rLqXNb6QOfUEp6m3FtRUf4GPsf4vWG1NOnl1ZRZ2lXsSYC317SWVTfBPj8BqGij9eMqplzjp8Hr9YeAhnFL6VIP0c~xvVtNffZ7szA6zzzvSujR~uevb-XCunQ2d~zL2vFE3tqnNEjiW83iRCmy6o8a6WVVCPu0FnVpgXnL2xAsT4tEGKwqxy18JihROONKPCWiWNTEkzdufMsIKsWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad262/1/m_btad262f2.jpeg?Expires=1796486068&Signature=JjotltAIdBsUhWFCDZ7BLHb2fj5WiwqQNhwityMeySCFBz360FTiveC-2qPn3fiwCQoXUkkY6~1-6EhzMf58e9Rd~lau6cg2bKI~zm8bR8Nd4LEX4SJLInWYWyjF0KR-o~SsGWhUHJizavOLYeqDit4Iuk1ne7lrWLAEMjqSJYm8CjJErB0h8tQPha7zVpo~1iVj64xtkRNrGbfpPUldZLz4IzDQTPdV12R2F18k7YIJ8RexcwhssnSXLAP~3q-qrdSl-wzMKmG6vrZ1HVvOxoSS2r9XAP7Rhp6D0YG2hojmek9EJr1Vbz3VE0g-dffNCZYpt9CGmj3H1UxGAVktmA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad262/1/m_btad262f3.jpeg?Expires=1796486068&Signature=YelZqE-BtfI9cqZKkmun9uAlGprG9o9yBTv2W1e75L81fGXoXaYZYamSUQNg1qOXEmAGlqe~vnKPCUhZEQimMvEzEOZymZpQiT0lF2kBo5Vhcd2eHhy2AecZGcJipE4fR9teJZPDt0Q1-ZtxP~hW-J6LvD5ukEJ3ZT~jVwPqi11hOzbJ9g7hKsxBagKDeuYHI3kwhK97AjyIsAyxLmKxyRJSipJzJKO411F0Nz1clwaYGM8TBa~BW8yvQq6sgMWeyvA5WpqOIUA4BVLYcSFImfdxMjbTuXuLaHzViQ51vngXwnPcgO5vjYSqFyehBoKS0w0yG4oUS7S5gBYIVXu3og__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad262/1/m_btad262f4.jpeg?Expires=1796486068&Signature=KXRjKu2pzXhqBeNLmslIUay45cJQsZfeHI-7WQKJ1UhP-DUy7LN-IoTx2Ym9TeKw6AQbs1owwRWC1N3pirfnnLjPGYnNYPgWv1CepTUuBo2t89paE4eWYqreP40cUtw~N9pC5PE87GQ6yXWdWGQvjf-1g3wXjsWRJ3HFzeSFUXP71dr-kXLu3VItEstfqpkRieZapn1LuR0xlToR2MqvWFDoBwlsWLN~eH3MfiPB518PuaBFI617jcSw66a-EAyRyFT1whkUoCGGgs1JF6GjbhYWl4~akt78U0rWiYGToy7I09VA8YfVqLyJoUpa8antoaUfjWeH2RJ2COZNyOHrfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i513/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

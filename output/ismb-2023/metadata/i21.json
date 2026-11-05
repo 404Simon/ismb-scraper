@@ -1,0 +1,146 @@
+{
+  "paper_name": "SemiBin2: self-supervised contrastive learning leads to better MAGs for short- and long-read sequencing",
+  "authors": [
+    "Pan, Shaojun",
+    "Zhao, Xing-Ming",
+    "Coelho, Luis Pedro"
+  ],
+  "authors_detail": [
+    {
+      "name": "Shaojun Pan",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai 200433, China",
+        "Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, Ministry of Education, Shanghai 200433, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5270-5614"
+    },
+    {
+      "name": "Xing-Ming Zhao",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai 200433, China",
+        "Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, Ministry of Education, Shanghai 200433, China",
+        "MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China",
+        "Zhangjiang Fudan International Innovation Center, Shanghai 201203, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4531-3970"
+    },
+    {
+      "name": "Luis Pedro Coelho",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai 200433, China",
+        "Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, Ministry of Education, Shanghai 200433, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9280-7885"
+    }
+  ],
+  "joint_first": [
+    "Shaojun Pan"
+  ],
+  "joint_senior": [
+    "Luis Pedro Coelho"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 215,
+    "h_lead": 52,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 175,
+    "C": 798,
+    "I_open": 25,
+    "I_closed": 133
+  },
+  "lead_affiliations": [
+    "Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai 200433, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Luis Pedro Coelho",
+      "openalex_id": "https://openalex.org/A5078114370",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/BigDataBiology/SemiBin",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad209",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i21/7210480",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i21/50741692/btad209.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BigDataBiology/SemiBin",
+      "https://github.com/BigDataBiology/SemiBin2_benchmark",
+      "https://github.com/tseemann/barrnap"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA595610",
+      "https://www.ebi.ac.uk/ena/browser/view/PRJEB48021"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/btad209_supplementary_data.pdf?Expires=1796412578&Signature=ln25zBg1uYvSj3FQVbRtQWZWMhWTHX3ZyQ36vmVrW-yNhqpxlOEe-W34aQlakW1HTUoUd2wNqI~m~c6xe2cM5-4pfXeQGyuwuB25wMJfka-rs752yM6dKV92SjERqC-yRA8ZkSwBfskIZz~nYUDbzraY3-aKqCDalUsh6HmZhywDospZzvsMspnQJD7ffi9C1ISx1CUhKgeEkzWjbolDew3tuYmpUY8wt5tHe2qvd8xH~YsEsdcbg~RxdEVWp62yozhy7lQ9knPun9aZUi1e5ZNzZ233Us3oTUYm7arl5RmFV1YIrdysh344xWsYglEoaF7WLExxFkR48gA90gUEPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://data.cami-challenge.org/participate"
+    ]
+  },
+  "files": {
+    "html": "files/i21/article.html",
+    "pdf": "files/i21/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/m_btad209f1.jpeg?Expires=1796412578&Signature=aCChRe1E9tztssAguE4f7ADFt4mx9aBGux6qSSloSrBnwNYcRpCsSwhrTB1cIMcQ-Gm0rahByGQgxdLy5HL5DmMpi4aySSY1LrvNuq0MFGM8ZC11xJniEO2ZYPhZFM~4FQi5Wg6lxOQZtHCA1WOtLoQmmLWe2w4gFRTmXSZVX-AS7S-ClcRtbr-pU3zAToOdGqcpfwlaZssMNm3jxQKsrG-vFtVGI-8pIq6ssfGwa~yeZfstolzgSOzib0KgOWRKV6x94Bi~~J~XF6cOI1TX8ZQ4n63UY0bTN7STNNX-YJSvOqhdBDnZtUzvxZyHT1LjwIpeXTklVRQXXjwTtbZ9OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/m_btad209f2.jpeg?Expires=1796412578&Signature=3h1DFCtIl2pbCFw6NMTZaSKjk1dSTY2YaODazGSVvRY6R5vxiOMFZzOwz93EI7soFWpdWm~58gu9qERyRZGE6hq76nCN1meyK0j5m7AvyXwcdn-RIYubxCsxeqlzZnIzytV9MFgmjP1Ir1TbXiWqYYhzEuCzBr~w6ioF5A3jX6KAj~4Vpz8JR0YTM9Zm5yXJOCOKGoPkf3Vms3ZqoDAb2m3IzhLaCwIODlN7aRnpu2OzD27FdTFXjqcbEh4htRRHT0LX1VFssJl5wSE2Zp81vHOGVEcRziCLFjWGM~G3AdEJLAjUqFIBftFTOwzocq0mBdmhskgJkNHhfsQ1Lh89qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/m_btad209f3.jpeg?Expires=1796412578&Signature=f2escioYHr1Vn1VM07GbWFCQJLR2K-h5PSO2y4ILcdq0dZhqxnJGzcNz8S1tS5W3YPBtL0a5efZ4J4WZdTNNtAppoV1jFi4hYeZnhNM8VfmYDRjugDgwURMentY-ConV9TfjXtIEa-E5X1Z-tLgfCOQOopQnoNyrNTQVQ2RNtmCbLnQoovQ3mCeheALZsXlzgV8A2IoEaAQ67VPaIAaKN5drsAcc8gLVsx1xj66yNi2O-C3zuqVkdguaIfSZFvrlqiUgqmz-jcXfMTAr-Ytt55qlbRRTESqmBuCSfIvl2TLqZQR7c4LPcnc1lFIuJvgqK~TapDDXlqWSaQWDJGayNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/m_btad209f4.jpeg?Expires=1796412578&Signature=lChFi49zmIxhBKIZuaGysR7gbzob5rm5IhKAyWifiMvRw0sFfs-Aukf0hPrdvAJa6Nw-NcVsUtxpBfRoWLeFty~1LQSM3gjCSni3C2FBu1sCIQbWRtbq7zqzvqITQWeJjeM1XG0ypezew0yGHniJ0uF8-Fc2do-8AP1w7acqfAxysF5MVye8mMSCzpDyztQb8qJbT91957Q1IZ4p3qwlXkw4RSpx0nk2B-H~YpLQ9PLIFknKoa-kY7fYFwBgq~XtisRsJs60Q4HzAzj9jk-0CH5v87jTZnCX2HSXNX2STMmkCROegFoHLWek~fc4WaWvXPnYkON7bvdsYIJFOiFFYA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/m_btad209f5.jpeg?Expires=1796412578&Signature=WdpCXQy2ecweswSry7YknMNpLB5hdZDSbPVz-X-3jxft5q8dl0h6etXOxyB8k6o1NP4qmS~fsIK3UdkHqp9zYxgo6gLvQIYvgywjCwWZay0fo4m3QpkAyD27Y5DkBBlSbfNA25i5Mjgwvst9V3JqTmZR6YXwPCECEWq4HUpUEYj8Up3rGt7UZByRhLemXA~GMe7kxIyx0Gmc-6bT1JQCG-WQYkvUGPnOGxw7q3hmUTBXGqFCAtwUQt5gzPPA9AQqqsiRCD1rtF-~~AWPepOlcWfZt4LQryoJ1AsXgcHEM3F~Kd~GRe4zYdZpD2M2QGSQ-XFuMVXZDIHPmYLtNTl6-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad209/1/m_btad209f6.jpeg?Expires=1796412578&Signature=jmtxLQ9PPT6DhOUFqSZ8RjYDXk~EFBafO0GxnqI8e5GesyA8m8iN6uojllgT8vkX-JtzckRe5hqnae8Boy7-CzLO5n9Qdetgrl1m-XLNBNZynK7pDG4v05hYuRgFSeayVgNxCJWpTCmsswjv~SLXhIFCO1B-wUkLlJ4BqkBWS7Iy1FaDIyzKujl5SYg3Np5ZXGRzmrt5laDxP-~VX6t0hTAwSY5o~dVjJW~XmdlvgdXQ7jWBM3w~t3YT6b4wzKpznvySd-COb48rqqoslGLt872fSj4kNkuFZdahEfsQlRjnZN-0Spk9gFAAh8t7Vu6Isyw~S~2NGJSaS2Cf3h6U0w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i21/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

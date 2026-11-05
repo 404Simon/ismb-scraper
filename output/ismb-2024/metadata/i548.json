@@ -1,0 +1,201 @@
+{
+  "paper_name": "GraphCompass: spatial metrics for differential analyses of cell organization across conditions",
+  "authors": [
+    "Ali, Mayar",
+    "Kuijs, Merel",
+    "Hediyeh-zadeh, Soroor",
+    "Treis, Tim",
+    "Hrovatin, Karin",
+    "Palla, Giovanni",
+    "Schaar, Anna C",
+    "Theis, Fabian J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mayar Ali",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "Institute for Tissue Engineering and Regenerative Medicine, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "Graduate School of Systemic Neurosciences, Ludwig Maximilian University of Munich, Planegg-Martinsried, 82152, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0398-5699"
+    },
+    {
+      "name": "Merel Kuijs",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "Department of Mathematics, TUM School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4193-1138"
+    },
+    {
+      "name": "Soroor Hediyeh-zadeh",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7513-6779"
+    },
+    {
+      "name": "Tim Treis",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9686-4799"
+    },
+    {
+      "name": "Karin Hrovatin",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3319-9645"
+    },
+    {
+      "name": "Giovanni Palla",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8004-4462"
+    },
+    {
+      "name": "Anna C Schaar",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "Department of Mathematics, TUM School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "Munich Center for Machine Learning, Technical University of Munich, Munich, 80333, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fabian J Theis",
+      "affiliations": [
+        "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany",
+        "Department of Mathematics, TUM School of Computation, Information and Technology, Technical University of Munich, Munich, 80333, Germany",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2419-1943"
+    }
+  ],
+  "joint_first": [
+    "Mayar Ali",
+    "Merel Kuijs"
+  ],
+  "joint_senior": [
+    "Fabian J Theis"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 8,
+    "R": 16,
+    "h_lead": 129,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 39,
+    "C": 95,
+    "I_open": 2,
+    "I_closed": 12
+  },
+  "lead_affiliations": [
+    "Institute of Computational Biology, Helmholtz Munich, Neuherberg, 85764, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Fabian J Theis",
+      "openalex_id": "https://openalex.org/A5083128670",
+      "h_index": 129
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/theislab/graphcompass",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae242",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i548/7700863",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i548/58585736/btae242.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/theislab/graphcompass",
+      "https://github.com/napari/napari"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/6578047"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://data.mendeley.com/datasets/d87vg86zd8"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae242/2/btae242_supplementary_data.zip?Expires=1796417814&Signature=K0feAomWumkD~TbyzC7DaTMtuApjfII5pf64myOT9NGZi4MN2UUf6UU56amTHmza7wMxnq13yQQj2Gap9JmulmrGx9KjWfhP~XeOBrM1YOrV8aTSZOSMDNHDybX7zi1gQgBVofPsOHP2gyjqkkmKr1Ln8NH5C4FmrhGy2KIb~0-Z9VNfNCPz9ZtNOlFhI93MxwTiYX7aEQzcQmj9PQzuObVlZnYp1eeSmaA24EVVrZVs5OpwikfvjXeLRAiX~3pa5GP56SG5rzwixwEJk4fQbaxZuQPJ6PWU2MCrNDpZZ7BxMkpdvr3S4M1--KUI4QJCy4tHhKB-phq6kzpbYUKXJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://db.cngb.org/stomics/artista",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae242/2/btae242_supplementary_data.zip?Expires=1796911825&Signature=tN3VCzDWcDh3rwB0e1vLubHXGZn0Q7HYPN1VgKR~dq6Uh~Uk9dE0SUOPoy~TPiShOwzMYpXlJNErmKl1AK8A1L4Yio90YeCdOsX~G65GUSxMCC3OrQ0db7SgMS~hqaxyXM0ORTaNda-vFbtPgTk0pQziKd4jMguqRngPKZJCMgC7FjyjTbifkclp2n4AocZd98AHatWadGAqAgMaMvQQroLxuHWeg~1eGphIJES7jCMsXGxWkuMlTIV5l4yPUmjOLDl6ONjrf0ZxJBBVrp1u-YrzzCLPmMHRLbgFijrEP44GNarYSK8lCEfaDup-4jvlV7ahb1ARPNeEGw-0UlZYLA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i548/article.html",
+    "pdf": "files/i548/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae242/2/m_btae242f1.jpeg?Expires=1796417814&Signature=2UA0u1I1jlo1tTGSOeUgojCL1bFyomIPkk3UcVR1yA7hPx11FXUj3~c8mGZ3ANQuu2nMGiaRPLozK16zsY~KmU~WNhu3q8NClLPFN-dmVk-6Dro~lxdlIuzdkjLdVAXLrT7BybWQpnlxKRI8M~ePrPADjKZsoBb~DiMBH5WRgfrfyOb-e7v7yPPEoEN6wTKYFuyxjfZY9t6HSBeMcDz24iy-AFM3jJSt1B6VUI4BxeG8jOb4nSFkdRw48hclYMhiqpJiXPB9RFEFbGWpmmaxsIRxKuTLjvEqtkoFcR0rQAE3iSLmnToMS8QtsG0P0LsvxnF~kjoMy3RXDLB-eBIjkg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i548/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae242/2/m_btae242f2.jpeg?Expires=1796417814&Signature=pMct6lgEUJ8xkzbzy2G1LYGNfmbtrQC70hbNXjNqoAoEuc~2iLBot6PwtmosXqPZ1oIrza6Va-PQ-MDYiONvRhiAOC-vtWdQKU1i1Jrb7JbUSCuZW1CJ13l4Zw5aL3TUfrHr29XW6LzA-RXJEwUz34X0P~LqB8qiToTQuHMF7tDKG8ORdXsmCVznhsUDxDcX5XtNNbMRnKIX8OqSgDIMGxHH-7h-ftB2K4lBY0Yq-xROU~ZWLBXwL-SAeTz33IDGyeoDamV1lfUSvgjKLnHYJAKsV~gcjJBaQLBFnL5Vg77S-wc5ZgNfRU10aaE8GGLbLAfFXKvElIqpD8fd2nqO~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i548/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae242/2/m_btae242f3.jpeg?Expires=1796417814&Signature=DojL4mYy9vkoEIeNO9GX0ZPY2IvcKczU3X6oIlnTiYSoV~bfXjM3yzBHWtGBxtFLiyf-dSQ65ludQHBQ51nrK45jhzESG2O9exxZEa93AgF4fIHAzU9JzM26GRNy3qCLZbgZbVDrKFAfTo5nPfeiURXXD4b5bpXjC-nfhZ6QgfWQl33aoBSk3iOHyW6FaUu6p7484vNLUnMKE3RdZh5onx5jWGof37zmgudbM1kcTE~9lwwz1UmRfwBP0H5YPPLUdOsEToCo9UU~YTX94~F~xmxbTzR-cJ0YWb3HSkGgQxNTkMPeOaMPn7sd5Y808X8HwtQ0Ba2xTxai66-DB1fU5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i548/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae242/2/m_btae242f4.jpeg?Expires=1796417814&Signature=uRq4TkENDMRiGZuXkvlIEC57MatyYrj~4B-xPl73RhKvzD3cTSsBzttcZZse7t3tY0ZyVTEVF~utGUuj0-eaziBWsXeGxW6t0kolJWLkRBZTbYGnbec6LVBy-PJnDZ-1UkAXzb34S9XT76oGQmOT5jv6FERUl57e4kGaZlzNQJmK6UBCteo7~uBAzjNLQOKyUE6pHTdsdcMXqjQntejmBJ9S-CAievHmyeKh7smTUYJPpC8w-rGzYCnNNTH1jnuI27DkNnoOEPy8YawpjSW1TQKgO5M1yULZrYYk1vxgSxkmzdJYYmMjrQX6iPD4fecgZBoC6ukDu5VL5rj7yOs8ag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i548/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

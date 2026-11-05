@@ -1,0 +1,152 @@
+{
+  "paper_name": "HIG-Syn: a hypergraph and interaction-aware multigranularity network for predicting synergistic drug combinations",
+  "authors": [
+    "Gu, Yuexi",
+    "Zu, Jian",
+    "Sun, Yongheng",
+    "Zhang, Louxin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yuexi Gu",
+      "affiliations": [
+        "School of Mathematics and Statistics, Xi’an Jiaotong University, Xi'an, Shaanxi 710049, People's Republic of China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian Zu",
+      "affiliations": [
+        "School of Mathematics and Statistics, Xi’an Jiaotong University, Xi'an, Shaanxi 710049, People's Republic of China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3633-0725"
+    },
+    {
+      "name": "Yongheng Sun",
+      "affiliations": [
+        "School of Mathematics and Statistics, Xi’an Jiaotong University, Xi'an, Shaanxi 710049, People's Republic of China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Louxin Zhang",
+      "affiliations": [
+        "Department of Mathematics and Centre for Data Science and Machine Learning, National University of Singapore, Singapore 119076, Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0260-824X"
+    }
+  ],
+  "joint_first": [
+    "Yuexi Gu"
+  ],
+  "joint_senior": [
+    "Louxin Zhang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 3,
+    "h_lead": 29,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "China",
+      "Singapore"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 11,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Mathematics and Statistics, Xi’an Jiaotong University, Xi'an, Shaanxi 710049, People's Republic of China",
+    "Department of Mathematics and Centre for Data Science and Machine Learning, National University of Singapore, Singapore 119076, Singapore"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Louxin Zhang",
+      "openalex_id": "https://openalex.org/A5012300835",
+      "h_index": 29
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/gracygyx/HIGSyn",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf215",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i86/8199373",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i86/63745457/btaf215.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/gracygyx/HIGSyn"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://drugcomb.org",
+      "https://gdsc-combinations.depmap.sanger.ac.uk",
+      "https://pubchem.ncbi.nlm.nih.gov",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/btaf215_supplementary_data.zip?Expires=1796421052&Signature=wrNE3gSZgzkMXu4gWopzBctX8Y2YqykT8D~2x~X9G-joT4TMv6Od1Hdc01oV5798qJFnjfQ1Uo~xwkgdspH6uxiiT3tHLPnddPKQxsZSWkIwe6lBGHFEl3PC81Op4SVPbkcuYF2rryKBuy3I5wCXmswqlYWzmGoMnRhM~MT0BRkgPZiBTuaP968JNG-6O-7fHQjxFZiZWXLE4h5SaHXCwhqtMCekcoRuy7BC6FyC~Ks3LRay1IsXrrT4HsCvPTVj56~wE~ul3PVSR4f~aHap1CHzqZl4H0nxrWyh1G1cCiEhgCb002B8Gw3uKvPdpIr~gP7QaF5AA1Np18YSPL~8iw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/btaf215_supplementary_data.zip?Expires=1796898765&Signature=fV-~pq7S-eF5gUUbkbiN0~fAtbS3SZ1ROfAtGzcC9ScmeLQ4d6XB-ij~3kArEwJCWRoVM52D3mYiBMDTf6M7AWmZnC2AHTKcqUYH8gq9WAXmfdX8oSf3Y~~ASAo7NGogwS7i6-qGrfGgmGoL92Dtyl9xUqE0GbqYA3BYwIPH6f5mFyP9lOotPwrJFBKQjZqjOpAXgXfmeqUWgk7aKJYuOoNIzuqbHe0xRAFzMxlL5Zu36TRFyi7iLc8c6VeyOF5JKJ8dEXZ-EvjCBbzoSPGZ8MBNM3kJpblPeXnOitWTMbBWxp~lsNtH~tao4-11EglSaCE1fpNhzT~S4bztSABbvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i86/article.html",
+    "pdf": "files/i86/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/m_btaf215f1.jpeg?Expires=1796421052&Signature=InzGZYTyS7p2MhHmVlGl7Z0nStQQ9RRH7sWxxm7XgAcIZDM0E8KtE~G9-~u~tbbwHp66g1UWM4d9OJjDY5yXXgZ2IW2Iq-AgNiA59-CX9W0XiFMHlUv4PXAcySGqoZtNititu3tTQ3S-THuwS0fHeEOtpwuQxW9CEvV3RLoVknnO4E1mTPBsKXRR~f0~Vf65ZrwKyzXfvtWztUS9fYEU-I1h6KBCnDVqlb~rPCKNt9-5Umoh7pFT8KjtaOSaWFkrxcjM1fqmfSE3bqZS1RluHx7JRg7fnB~hhDeYOuRE4n0vbPax-NqPujld939HKlUTNT5AyWAXZBGTIe-4ggdI1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/m_btaf215f2.jpeg?Expires=1796421052&Signature=3cj9Km-Qr9tZb1Wz9EbKEQS0cIkE9EKaEbOxLtlU6IRbcEFHwFTbuv~fIXn09D4MvXFPsjktYgd7TDsKqIycZ~Tx86gUWKCx1GDmS3rgZztGDw-MC5iyD6XHbkRsEyS8RqJIexs3Rf4EM8TZbIKx-VywyFrFTz6qeje44YHXnxzp-YnLs8M0AMdZS78Imt7tZ89BZw4HoJU0x52QqBB5TCHvEvPoU7c9po1UcOs1wikwLL53vPMtyjJWRdfO7EEand0vSQUYQd6Reu~Lj1f4RFMa47I2uPYGPx3e6KSK9m~ui6zlI88I3eFYS5ksl50Ir2VTi7u9fSyUB4WKCZunsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/m_btaf215f3.jpeg?Expires=1796421052&Signature=W-knft~oUb6hDdHvCqSiYGT~nrm8Gk8tM~HX3qJIpjPGKkWBSFK0pBMdCuu8617iXqn738J3bHmRRBWk73Y~ju2jTcuouj7uUdvh9t0ZJBp8Vivf4lM5yBlRIsnSS32GIcbTxl-lKwW-NYECYmO9VkdfY6c5ngcbRbvep1CzPHFoG5swKAmIMPNnnI25NxNRa0WBKSOxNPNNyxNOomc9oekSiYy39REuR-QZanJFQF97qRpWp53~GGjTMD0IsbvnGSLFlejhJ4bEGc7usqFOaeKhNSaNra5J1JY4bRGHzRf2JrZiSiXTNn-Wf~un9ZVrNuFO3g2K2gdK3bNPqesXdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/m_btaf215f4.jpeg?Expires=1796421052&Signature=j1WHZWacz4cpBPV0R1rbmUSk8n3OISZmPMoOLmMhG3Q9kycFf7OsOHlQL7NdJs-iym1haeZ-Dk98UwGADT-AUiw-xtQDcgBpe-y8V~ZqJuSC~TcZ~97qZ7lbprW4P93PwDxOI7RQEkXXUCCMIoxSCtqaADl~AahONOufjdHXFnLRtMVQy1UF2aa9LurrnQEER4K9pjGtPDOP-1IAOgK~3-GwpytlidXIqZrbo~P435egBGQ6wrvGhEvvaKO8IthZfLhFmc8yDrtePY~qUMcBE-HjGS09kh8YTvuYDAtK-6gfQtO~mmo5MlQtWIHyBdBtBnb1nl9sMU7acFvzWhaJDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/m_btaf215f5.jpeg?Expires=1796421052&Signature=lRhWgI2b8HphEiGuxbKBsSl35VHScRorq2O1pYNif0OLw7X9PckY6blJIHLt3gJsIQBvp0ZMnW7HZzarbywDCFJlMB-L0XSiXlzSgbdfA6zLU3ewj5vFCCSma6r547BeKiobEFURoCWxa1YYymjWtso2g8Th3Tjj4lLEd23B3rVC89nDyeCDZHze8vmPyW197IsYE1lGcStNMdcXZKeZLHHefcct7Tgw~tHRInjbl7poY~6r1iUPzu2yf1SlW5ZFWlkw2qUwo9tJAxhY6R-Be6SHDKWYy-b1iubWJAzbE~nmzhiisi3akrcpMsObGO0F3ShGOew~uiyqT4i-PVYZdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf215/1/m_btaf215f6.jpeg?Expires=1796421052&Signature=c51F7k70fzKdwxuNEPyskL5YP10eA3kumCW7StP1PLgRVFhiwxoJ6aSX08BPJUJza56HqSTQ4qZKENMotJh~yL6eZ0R1~XiGYoNduFM7nD7Jf2jGL~zUy6LdD2wWZA00MjKsB~b1cVURO32jiUe0wA6O6tTo3HuWs-3tA4mJPobkzw4Fl2OUVutgB0x2L7-sGLFBVYYb3MPghoy3sYZ~4z6D34WZ8aUyot27D2p0CbIitEtdIg4CxUBx6VewNoPKPtPZxuXJHPRDDCZwYZDGIkzWAGSsIs2PrRMTBjiXWfVcLI7Y63wL8VPoCBe8ttaBRBtCXB1QcjDWZ24Rg9DMbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

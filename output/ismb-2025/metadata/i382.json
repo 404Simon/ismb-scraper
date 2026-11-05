@@ -1,0 +1,165 @@
+{
+  "paper_name": "DivPro: diverse protein sequence design with direct structure recovery guidance",
+  "authors": [
+    "Zhou, Xinyi",
+    "Shen, Guibao",
+    "Chen, Yingcong",
+    "Chen, Guangyong",
+    "Heng, Pheng Ann"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xinyi Zhou",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong 999077, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Guibao Shen",
+      "affiliations": [
+        "Information Hub, The Hong Kong University of Science and Technology, Guangzhou 511466, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yingcong Chen",
+      "affiliations": [
+        "Information Hub, The Hong Kong University of Science and Technology, Guangzhou 511466, China",
+        "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong 999077, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Guangyong Chen",
+      "affiliations": [
+        "Hangzhou Institute of Medicine Chinese Academy of Science, Qiantang District, Hangzhou Zhejiang Province 310000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pheng Ann Heng",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong 999077, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Xinyi Zhou",
+    "Guibao Shen"
+  ],
+  "joint_senior": [
+    "Pheng Ann Heng"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 2,
+    "h_lead": 113,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 1,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong 999077, China",
+    "Information Hub, The Hong Kong University of Science and Technology, Guangzhou 511466, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Pheng Ann Heng",
+      "openalex_id": "https://openalex.org/A5032708386",
+      "h_index": 113
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/veghen/DivPro",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf258",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i382/8199395",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i382/63745615/btaf258.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/veghen/DivPro"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://people.csail.mit.edu/ingraham/graph-protein-design/data",
+      "https://www.iitm.ac.in/bioinfo/PPA_Pred/index.html"
+    ]
+  },
+  "files": {
+    "html": "files/i382/article.html",
+    "pdf": "files/i382/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f1.jpeg?Expires=1796404761&Signature=3~jGA1R3xnTZsnjilMKOmtbPU2V6EZ0tU75a2nyECeu4PwGYImt9rLAjSCSsiPkp5aUN55GMGvlJiDAPf-yk65ex19bUSFqHdkTe2dD54zREs0VnESOTt9c8LPshJDRzy4fISKfRG7d~Gkb3-5EzTgvyUrL5dRj8CQQFEhAfOVgJWDBcWImb0aI6TtfmB73F6eyOboZzfAeL1VhYJLP7NZ34~JxoSxG1Yp3Uj8Qw9Qg3hjykk4Tchet-VCgfvUTPW~Lm9TAaLOYtSCHe0ZyH9T5ath6Rj007k2FN2CTxliqyTccgWKaNjL6gfTl-Bz1kA9zmfgWho11EJNBZTF5Kvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f2.jpeg?Expires=1796404761&Signature=C7KvsRfsyQf6IWRH6FkuSLsQFjfztixr7gIlpclMsvgpbMi6t173qAjIVgIPSVHu~zzMZOykrbs5MYimISVqZWktWckNQyTKvfb0JH~txg0v4MQVgax53jvHffLr12hfV3APfiILs8UXK87nQEGiHKxa3e0w2aiIIJCTN7gemnLlhHFClaWVpI5q5e2I2UakH3~jK72nnf8-1bkNf5CLrG48iXicp8cpCW5wKy9r6kWN961oc32mNKCFGoLg5Wtno7u8pv-D26dgBI0zRV7YZtbp3dgak2nkSmSSsTqdV9aSMH-ul1pkmrXxp8ZbrVKQ9wA6J3Z0O5vWWGQdpplDEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f3.jpeg?Expires=1796404761&Signature=IF415CDxPgym8qcuB~DnnjFmt~jUg~HcBwLT6dWRE8pMH1ef4By-pvw1CEkRkK~VHZwz1K0ahs4QHYYTBEuGMQ7isbRVevr8TQ7RhsVNNxhpW~WU8SsjinVqayTIkzrfsCB-T8vo3awDpfY3wd6uJZ6v06SKMNeERoGZo4YCG33SCnk3~gi3QB1pMmB9zdKOF8BJ6q2UrWOSYwAZCPlMb8xBvASk5Fwj7K-~8HGcPUcO2iSAXsFWTY~e9puHSwVKYAgykn0Q1dGGe0inA0jfbQGz25~jF~XVPKdeuvy9kiRIxtkosEfHfbkkFFTZdlMUlxbcIKrgcA7AqupYQo7h8A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f4.jpeg?Expires=1796404761&Signature=ahaGlj~9Fn63HoDrLYvDG1SGY4g3wr28LdIDEV9eB5z1rA155sLarxtCzoCv8vLfg1jdNDb45s1sjKLUh1NeRNSztIs0Peh-~KpyVGAcDI4uGb2ancNU~mtcKk0xxHKgaomQsFtc~vHafwEPj--nKx9qUT1sCxo5FYy7upKcIu9~~ELb0--nDE-G5-MIU1kR9DkUVkajB6n3fdx1wDGwesJBjBxzWGFxIafx1qOt5VBmRBsvgzbeLlfurdxmihD5vYylDu1JUhgOljoxxXgpKfpSAT32oftnYhuyuPdWJKusYZmT1l4tDxTV8ihI0VVkzMm3LhyiukNxUYcaL89J2g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f5.jpeg?Expires=1796404761&Signature=bwuirDb6BMYQ1c2-5LK02Cgmyc2xq3O6nwuMCk0Zbn8JnQc~5FmnpkMRfQ2va-ty0tlBvceL4E5~3s0618ne-SO-lGP0zfm3O-UooyieMOruGtTsZ2YUGNZD-urJl9O0bwYFXJfaGh9sShUaSOU04aATRiuuHvw2zZzzGdAhaY5ANRkAhDqQmQu51L9xpakeIi85Dsm9devITrSwuFEmtG4dkmXeRUn0fQELZzcGH-uWS~vvOOVPwVUXQW760OCQNMg-BdDpnAk0uvwI9Zrg6l2o8vUJr-5-QXSMfVTLzXoaqlx066uFxD~dSpfHlyLOYZXsxwveuex02LlTpFMwzA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f6.jpeg?Expires=1796404761&Signature=4ozlSw8Q4-Y70dgOCokavs7gqUSdyL-8Tlectan~qb72xAf-j3dxZ8BPJcLkL20Gmpoj9eXQa7oHMPZT0U6J-QlRllJUVgeetZp~IQDMrLjbv1CJTzcf7o7ZZ~qAT8TYFYpFhPNHB~A2M1XWp86XpGARbVP4Kj9hidvgI9UjoO5jOlrbg2SSB5zlGlGGRaMq1nYfals2gB2moYMU446nst2-r6Mu23H6VVSHsytmVHzcrYai8n7AXg0yKy5bmGErl0-IMg-UC6v7upBxcLCZT13kJYLtbEfi0EkAt2ZVfxTYz~ADMn0iWKhs1DC80jq6NQdUcwr4pZuKcT2mMvVveQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf258/1/m_btaf258f7.jpeg?Expires=1796404761&Signature=N0hpRJuBSXpM-WW0RSGAXuXQ48Py1gBjY2NiNwJy-DsVaxVlU7HC-I8v3-9jesKTsLgDUfj73JsF~NYrqXJgUgMfBK3gZ7Uw6jWkWmt8MxJ7pHQI7Vsv2ig080YmQwX73yfJ-RJbWNqSw3IOd8dhbYqef-DdydrYCnq7ibEJ2znVNkD9aejUBXrjUMyJ4tmBenBIqeKlyPDoX59dtwdEyY09uhBuHwnyrR4uzQ3U6IahJ~sNftuIF5ogcKcdpvoLmpLYLJDwdVt1TpQgwoM5deZFAXQZcZfb8EX1qI9g4UocIOjq5512IznNApTh3swtf-94phQJwF0uqBmtrS4ppQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i382/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

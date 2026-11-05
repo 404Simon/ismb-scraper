@@ -1,0 +1,181 @@
+{
+  "paper_name": "A graph neural network approach for molecule carcinogenicity prediction",
+  "authors": [
+    "Fradkin, Philip",
+    "Young, Adamo",
+    "Atanackovic, Lazar",
+    "Frey, Brendan",
+    "Lee, Leo J",
+    "Wang, Bo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Philip Fradkin",
+      "affiliations": [
+        "Department of Electrical & Computer Engineering, University of Toronto, Toronto, ON M5S 3G8, Canada",
+        "Vector Institute, Toronto, ON M5G 1M1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Adamo Young",
+      "affiliations": [
+        "Vector Institute, Toronto, ON M5G 1M1, Canada",
+        "Department of Computer Science, University of Toronto, Toronto, ON M5S 2E4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lazar Atanackovic",
+      "affiliations": [
+        "Department of Electrical & Computer Engineering, University of Toronto, Toronto, ON M5S 3G8, Canada",
+        "Vector Institute, Toronto, ON M5G 1M1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Brendan Frey",
+      "affiliations": [
+        "Department of Electrical & Computer Engineering, University of Toronto, Toronto, ON M5S 3G8, Canada",
+        "Vector Institute, Toronto, ON M5G 1M1, Canada",
+        "Department of Computer Science, University of Toronto, Toronto, ON M5S 2E4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Leo J Lee",
+      "affiliations": [
+        "Department of Electrical & Computer Engineering, University of Toronto, Toronto, ON M5S 3G8, Canada",
+        "Vector Institute, Toronto, ON M5G 1M1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bo Wang",
+      "affiliations": [
+        "Vector Institute, Toronto, ON M5G 1M1, Canada",
+        "Department of Computer Science, University of Toronto, Toronto, ON M5S 2E4, Canada",
+        "Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON M5S 1A8, Canada",
+        "Peter Munk Cardiac Center, UHN, Toronto, ON M5G 2N2, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Philip Fradkin"
+  ],
+  "joint_senior": [
+    "Brendan Frey",
+    "Leo J Lee",
+    "Bo Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 3,
+    "A_lead": 4,
+    "A_total": 6,
+    "R": 33,
+    "h_lead": 47.67,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 11,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Vector Institute, Toronto, ON M5G 1M1, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Brendan Frey",
+      "openalex_id": "https://openalex.org/A5003361977",
+      "h_index": 69
+    },
+    {
+      "name": "Leo J Lee",
+      "openalex_id": "https://openalex.org/A5076034535",
+      "h_index": 18
+    },
+    {
+      "name": "Bo Wang",
+      "openalex_id": "https://openalex.org/A5100408160",
+      "h_index": 56
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bowang-lab/CONCERTO",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac266",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i84/6617525",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i84/49887261/btac266.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bowang-lab/CONCERTO"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i84/6617525"
+    ]
+  },
+  "files": {
+    "html": "files/i84/article.html",
+    "pdf": "files/i84/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac266/3/m_btac266f1.jpeg?Expires=1796459605&Signature=wwWPoEHNGW4aEMabF63Z6Nb-akYl3Rvt2ROSUERubBa2yRs2AUbW22MEfaONcp1PWZvT-O4VUtiV3Wm6VRAtejP8SE16vjD-NYrV31jiSO6fzqbcwhEuRXAoJ9JXom9Q8Rzf6FryJQSUVbmxvKPProo7O8TXy5dXjFnLOCixnWyNQ94N3csdfLI-abUY23JfsRjyuSsdHthmbFM43X5aO1H2PW-wflj6M~~bSsBEBzomwjuBePjTTd~mLsxadQmXReel7lb3rGyFIvh0BIoWad3AZXzLBtVDmCj1ODio3q8JROZ1tkAFRyr~j3-gCOftvdPdGs3AdaaTYZ0syj0scg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i84/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac266/3/m_btac266f2.jpeg?Expires=1796459605&Signature=kTQYbiNTIW7R1T37to8FeIly-DG-mvwt5vrmU0Bzh0bIP8oI04-8jhlberrIe1BxbmZTwSSvttgVvQiG7nmIHqNyKwcAaczVCqjPrV0jsdeNcQoFy6RINQDeFPSB9Y0-4dOCPRjyy6FD-5vFlmIz0sy5Z3XsN~XyIZANLRBHBORC1rTuGKFC5nE9CizWHy89m9RXGe5EJhwbFzici9UF2L7Ni~bMQziZWvxYAAuQbGL2kc68YIwpRdgHI0eOmQfZGRFNcQCnGah16m02QPNOp7w0I8zsfF3A~dyPvTidkC7dQcCxismrYW4nBN-02FskY5N18MihJjnyXvlemcnvAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i84/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac266/3/m_btac266f3.jpeg?Expires=1796459605&Signature=ya3V4T8F4H6cZPnAocIg2GHZ8Bq4ErwXrE6b04vRNNmaZQh1DDPkoACwmUPOtZN-A9-tOV2WIAbmyi0ZzVI4pXcrXUS6PaZ5besbUSwDN7p4W7WP6CU2oGiE0Sc1GpmpQWWVbrb84cj8F7xWo5cmmSEHvKX9LZ4qFY4Jb9HUN8duVNv~HBMsnr9eRKHIGSm8JnHTil95a5D0VGfPFO8DHhmu~7sk-WZYoDFb94JVSrpdeZRWcd7qzA3BvMVWZde1-fp4wxBghZ~r2DEK4puxK5ffO5mxLxtXm~YdAE56p891RWfscrlDaFcKj5FYzLThYMydMfp4vf7Hv98yGHw7dw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i84/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac266/3/m_btac266f4.jpeg?Expires=1796459605&Signature=DlxLmI5vrDhzU4uJu7muxEJhyXElHmDdoKeKd2gNFZQUrYkeeZCloIJLy1dYbAggO4YBpXm0arpfFEQrkhY9RS3JuF6~R8TqPoeg83JfwCAmEoDTGiQJxR5~P5~YBu3Rxf-eYA44gQYfMo~8K4ubv-xPztrEy1xrZ4m-R0sxYCC1xv84hqkGVua4rtZUBbWvMRRvDEHogxhFNFtzDspA4SM2P7UfV61rR5K2eUzNJPcSeYcAbT8GaKOynz4fSneWYqxf-aS51vEvszsGybR50LjKsUgCZFDudbp0kMd0zIG-61clDLThfwanaRYSzKM-b7Yg-0hDlgtHK-Mn3fzesA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i84/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

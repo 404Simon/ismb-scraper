@@ -1,0 +1,183 @@
+{
+  "paper_name": "ArkDTA: attention regularization guided by non-covalent interactions for explainable drug–target binding affinity prediction",
+  "authors": [
+    "Gim, Mogan",
+    "Choe, Junseok",
+    "Baek, Seungheun",
+    "Park, Jueon",
+    "Lee, Chaeeun",
+    "Ju, Minjae",
+    "Lee, Sumin",
+    "Kang, Jaewoo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mogan Gim",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6458-7723"
+    },
+    {
+      "name": "Junseok Choe",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9548-7146"
+    },
+    {
+      "name": "Seungheun Baek",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3231-478X"
+    },
+    {
+      "name": "Jueon Park",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0613-120X"
+    },
+    {
+      "name": "Chaeeun Lee",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3778-6177"
+    },
+    {
+      "name": "Minjae Ju",
+      "affiliations": [
+        "LG CNS, AI Research Center, Seoul 07795, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0003-4048-4089"
+    },
+    {
+      "name": "Sumin Lee",
+      "affiliations": [
+        "LG AI Research, Seoul 07795, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jaewoo Kang",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea",
+        "AIGEN Sciences, Seoul 04778, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6798-9106"
+    }
+  ],
+  "joint_first": [
+    "Mogan Gim"
+  ],
+  "joint_senior": [
+    "Jaewoo Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 27,
+    "h_lead": 52,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 11,
+    "C": 5,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, Korea University, Seoul 02841, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jaewoo Kang",
+      "openalex_id": "https://openalex.org/A5076917278",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dmis-lab/ArkDTA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad207",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i448/7210465",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i448/50741623/btad207.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dmis-lab/ArkDTA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad207/1/btad207_supplementary_data.docx?Expires=1796453720&Signature=mZuMMWDPq-j8j7cTrQY2HI4VoYK~~BGSH91lbL9F1ufxO-NE4WHvvF2FlwCyhTr81NAmOH~luNLGCHgtpu5KWkhsJuxEBTzsdDffq4NavVqJS5oamW7vIE60v3~G0rS2jfPfKzdXjVmwktZn4ffjpUZGgKK20-WOu1KZdihZzlN-M~4B4AZuRrARPsyvnOqlHZzk4XIUVYWmddAyPw1KHmU~-Ee39s2-ZCOeQTAGHOAS~1W5d7TUVEj8Y5Q4-YGOg0VKHmz4KqwfHrj1QPslh5EhHPo2cHf3-JG4ITkhoTJI~EJh5qeOSZHg~A2GwCHLaczDWDD~jUdmFW3jX2L~zA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i448/article.html",
+    "pdf": "files/i448/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad207/1/m_btad207f1.jpeg?Expires=1796453720&Signature=sP2lV1pIUz34CSbYlHyTYc-jitUoiqfrbywG5f3kBfXTBD8ARqe3R7ER94lUV2~bmIn13aewLPjIP-dOsplqqcegXCYlJoCug-r66~1BEvYhifqOEJxdkSEOk5SuxPIsrKbCAGpiNahzTce983UXmntITNOS6JZnOQ9Ce2mg31H4baprXbAl976hKx9MHpgCyv-4I5R-xw7BxTHDibaXmmW1FxOs~ESOqCRLlQKrpKFSdoxH7nxfYjH1-90wMppnROk0iBByS389v1r2HGxNN9IlcrF2M8BfUlWZcRmJ~tGWq6qt2nPNJ3EgYpcXu4obrmI36IW-zhlh-W-YICbKSQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i448/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad207/1/m_btad207f2.jpeg?Expires=1796453720&Signature=GkKtVexQlzCEyGkiqCrIBtnWhqW40n4APYpzfXHY4JhpQsyEZXcjLd3~qOs1eIQpXKFWzc3qMPgiC6lt931VJxSKczwD9mxKFt9f0daJA7dDrzLQgEHHytAS2252WUhCgqe5HAdKK7tiAYW4WynyLqbyUNEWRWoJXFw7rMJPo-yPVzpqgVYzaC3cVbR8URjJDJweQicvMt-2yQkdOmKEYgidzwjtWhen6gheSRsUrEiDByqb78HMYxMNBki0i~jOHb-YyXArdY0AoMQSNwKuXMiR9tNKeyn3VQP02k5NV2yf1s3PnWsmNsTenlL~ePHZdyv-WsnznqukS9q1TR8Low__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i448/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad207/1/m_btad207f3.jpeg?Expires=1796453720&Signature=asI4q16SHdVhe8ufepnpQX4nNmKv9WYTBICU~cudiywJDpcc3XslsBj0j0i9bvpLyMul9k4qprw~5TgkkJwaiFbcqS7g9cuOlheMhjHLQR~pOSXW87iSzLI23lOonT8k3~kL8OaTotFXDIhPmcWf7TVXGsUD0SkVQTzMCfzFRaNQ-~jOLFgtX9MgNpl1Uhyf9A4~6xjDx6PtY2yCpo37NikPHnwYIjh7FZ0bDlDecofvkdi3UDCceJRcVVQcqRiOkNVG-TfEkd9a0gyGYAryJAYxvV8v1giq~eUTGWMPYFM0ba1c460nuvFM0l0opC7dosZwUz-Z5KVkxLn4CFACtA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i448/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad207/1/m_btad207f4.jpeg?Expires=1796453720&Signature=3rh0tBWpRHWqXTBEpQuTxwAjTBMq4eEpIYwlTj6vP~4eor-uwpxZBbY9nOemTSswcAsWPbZdZ~IgSO5z0vJ8jUNV0UJqbGyyEdlCkJjNmONsj3pSqHz3lCszqX5nkppSRBq98A-vff299O2N0BcKqX1KWqQhg~SwzytZ4CFEHl6N2piHekQUTv7O6m-e1DCU72qN3XoMIZfAfoSSNdsNdzSMIerOvV7Y2EhAAiabP2BqqCYDpc5qLFJ6ebZHlgzKyjcSZXn7HdMEB9tGxbW-OIdReXaCs3Hg48oSsL-dEzzJcofR3VUV1y8RpqFPDwxXrW1VpNDEsl~Qh8-pXrnsjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i448/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

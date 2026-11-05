@@ -1,0 +1,149 @@
+{
+  "paper_name": "KR4SL: knowledge graph reasoning for explainable prediction of synthetic lethality",
+  "authors": [
+    "Zhang, Ke",
+    "Wu, Min",
+    "Liu, Yong",
+    "Feng, Yimiao",
+    "Zheng, Jie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ke Zhang",
+      "affiliations": [
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai 201210, China",
+        "Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai 200050, China",
+        "University of Chinese Academy of Sciences, Beijing 100049, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Min Wu",
+      "affiliations": [
+        "Institute for Infocomm Research, Agency for Science, Technology and Research (A*STAR), Singapore 138632, Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yong Liu",
+      "affiliations": [
+        "Nanyang Technological University, Singapore 639798, Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yimiao Feng",
+      "affiliations": [
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai 201210, China",
+        "Lingang Laboratory, Shanghai 201602, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jie Zheng",
+      "affiliations": [
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai 201210, China",
+        "Shanghai Engineering Research Center of Intelligent Vision and Imaging, ShanghaiTech University, Shanghai 201210, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6774-9786"
+    }
+  ],
+  "joint_first": [
+    "Ke Zhang"
+  ],
+  "joint_senior": [
+    "Jie Zheng"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 26,
+    "h_lead": 35,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 10,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Information Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jie Zheng",
+      "openalex_id": "https://openalex.org/A5014529529",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/JieZheng-ShanghaiTech/KR4SL",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad261",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i158/7210467",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i158/54809238/btad261.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/JieZheng-ShanghaiTech/KR4SL"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad261/2/btad261_supplementary_data.pdf?Expires=1796409463&Signature=fsvaJSSCUzLSm192SeXw0tM9K8xDGvfdIwS~aiE2DjQEj7O~HGe0A5D9XmUIB~bvNNf5JfIL7AkPTe8J5pyFGjWdW4RrnYeJoccmdZW1~~Qn4eHnein2QRuZqPcT5d8ke6ZNGW85RTRPVp1JmqM9KFXIKUkh06MSLe5i0MVAR3V9xaFtw8KqOaaLbfD-Cq6dJQnaZ70MxqzdzjHAk7~PnhzkJqN2AACkGdiyKHyoHb5fx0xzIL6eVGfLKNu04y6~xGMUWS9gqEmFhz4I8EGRGDRpLcMHSwulFmWJ3KEC9frB5euG17Xew6o0d~g8oWGzbhJ~7oraoZYM5jTc3T8fkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i158/article.html",
+    "pdf": "files/i158/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad261/2/m_btad261f1.jpeg?Expires=1796409463&Signature=V9KQZlFCBGpx8qnQOrxhWg-dgE2~PFx0VoKPAGSgx-~PcqTe-jFcIDQUaLFylPhM19ScN46oKP2LjYnO~yd-DL8b3wE3o51-B8RWrzlewpJrP2Klewz0tepRvVeWtxUtrgTT7dcjKjzvpzkKX1XRLHyy9kY-YiTnMAVqcyMRyyrGj5TL7uH5bzpLGJIzbcXrYi3vJlMtipfHFBrzZiRhs6OpfrWHhCOzV14wBnheGCR6GT6tvCHaVgClFSG4QjZRws3QQgEWgDHEb827SEE0TLZOuuYtCCLJuffhArid2wJKBLzwd2PIk9bvnQQcUzdUyiAGAzwZFTeCy7cPFPoSMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i158/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad261/2/m_btad261f2.jpeg?Expires=1796409463&Signature=xlre3nXh1xnM8Kx6PUlceDGYaSnAoGHGq7QXOhDUdyj5Bcp0bdAHkdFJwTxNmYLbboNG6LRn3Oj43cltPMkWn2o60hJfkroORtMSp1VQwgaCod5bBMrLHamzjypdY-zsMcNgeuJAC96NuDm5Nm~8PJS-RUpPVjif8CDSFtn4gavNF8RSJEAEm6lT2AEXB-FAarqE~7AdwOJsx1Rk9gQhOCUhEf9u-iVG2Amhts5SxmL6kC-8NJjT3EhbdQXSY7RU1FajoG10RghNQmkDxOcj90q3fHOZsKvl1~Q0P1mMkXMvG2NK9Xd94MXP2E9g9n2N1uU2kkXpK4UYn-rvWcQ~lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i158/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad261/2/m_btad261f3.jpeg?Expires=1796409463&Signature=bn907sM~B5rYcWaURTiRj2AIi3YEF2YYmFhbOzLuUehsQAKyKiV7CR923hNYphM7Qs1tiTqdmtN4Jqyn-MSSZCEmS2-DcIXbYopuKZZBdVVIFIKcloxWzkDfeGozDxFC9efKSLkxrlxnY8wvu58yDkNoRAIPc77N9HbbNm4ElTQNCE0FZ0tQ2ygrjlehKEODaI8pqzTEONNIbSSofKHR-i2RZ1N6o~jjzcYEh8Q-5i8B8a3y770YymIWo49xmf2wmrvWW5Q48lze~2MnK~Q7Hbmb4mp~G6hysBVDOzxuPDAljR6erN4qWWs757twACsqDnFEJuv3Pk-TjKtNVnVuUQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i158/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "paper_name": "Oarfish: enhanced probabilistic modeling leads to improved accuracy in long read transcriptome quantification",
+  "authors": [
+    "Zare Jousheghani, Zahra",
+    "Singh, Noor Pratap",
+    "Patro, Rob"
+  ],
+  "authors_detail": [
+    {
+      "name": "Zahra Zare Jousheghani",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0003-6877-4934"
+    },
+    {
+      "name": "Noor Pratap Singh",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3721-2157"
+    },
+    {
+      "name": "Rob Patro",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8463-1675"
+    }
+  ],
+  "joint_first": [
+    "Zahra Zare Jousheghani"
+  ],
+  "joint_senior": [
+    "Rob Patro"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 44,
+    "h_lead": 35,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 127,
+    "C": 458,
+    "I_open": 13,
+    "I_closed": 29
+  },
+  "lead_affiliations": [
+    "Department of Electrical and Computer Engineering, University of Maryland, College Park, MD 20742, United States",
+    "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rob Patro",
+      "openalex_id": "https://openalex.org/A5014584023",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/COMBINE-lab/oarfish",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf240",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i304/8199410",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i304/63745713/btaf240.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/COMBINE-lab/oarfish",
+      "https://github.com/COMBINE-lab/oarfish-paper-scripts"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.15099250",
+      "https://doi.org/10.5281/zenodo.15099278",
+      "https://doi.org/10.5281/zenodo.15099283"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213984"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf240/1/btaf240_supplementary_data.pdf?Expires=1796408142&Signature=oAsg~LmX06JFFWOGUvZjaZJgjbyhZgSlycmjESi8LsJCsvHvfTFhPS~SDd8HUQ31blZD-q6tT5Z1o0cnaHOCIV8SP7cnu4jn-BW33BpUVI9Im~TvPt0qzeTn0vODRUcvHA8v4wyNzP8ujstS8Kszr9GVA6AuYCx1Y~Sc1rPDV5rgvfIDN6zFbw94JcU7SW2iivae7HvM3jY2F9sk0OrI~fvvQ24aggVbZKrdVG4bXic~pZ0N-uySv2n4QpWFvAzcYwfjmKm0zvim0RrnwMOlhTPfNtpNUKv9vPrlQkFwCN6-VKLgm70S086aUJs3c0ZFeZxIkHVIwPfXfjseakkgCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i304/article.html",
+    "pdf": "files/i304/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf240/1/m_btaf240f1.jpeg?Expires=1796408142&Signature=WP~AITvPO0SCgk9tarddOII1bncx67y-Xx7wJb3WJ4kqISHXnEQCCLlRQXUxXWr8xU-s6fkq9Ug8g~uk0-lM50WcP1~wnz~48KkN6tlBdKguX4JRM0udCblTmf-s3c5YHi-1qJxzLMXA-1VrEn9RJxVTKfzeoV8TZnIqK8hZQQveHTdqRXCebpvwrVpqKoO-UGaxrhZ1UqYB-WyZMDo7eYawv8SDhV6Wih881ovnIzPGfOOyXvBub~dIzboT6FuYWLSTyCzlty0Rufd2E0UlNemca6TQsgsviroUjUfnVllEAp-gcbmGsqhw6jF5Ks7Sr1zVwDGDEd2dFrL~Ttb4ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i304/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf240/1/m_btaf240f2.jpeg?Expires=1796408142&Signature=EdWcUk~OqDWScPRTDjc2MOjkX37mJlEMSimzBycsCL6kPbI5J2a9tRa~6OVJf2FhZVJcyNKXYNG6ARxuLaZV60jjqfV4j2cU6T7o5avM493nYFYfKOgSLsAgcRBh7xpegNjFoSBJO0XLCaSl7dEk5RxQy~9mmPo8Rq91XmowTf5nUtFMDskiXIwwvMX~0itXE44MMyHGCI2eh3PRXQeMn5uXmn3~Cqa6Cv3cGEFN-HWdgUTiohYuTqk9xlqTGl7Jeqf9qvoRTC139RBWm-3l98mUdMFqANkr2XhjAx4AcFoN0epa4HP8Dyix4Y~RK66u7p3CIjJC6EAPdiNRDrFlcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i304/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf240/1/m_btaf240f3.jpeg?Expires=1796408142&Signature=CeOY1EH5VCMYHxdj91t4yW6l7iHpGcRCY-wHzRXg9ajGPICACf1RYf13aIDpq-4iKrHnydGFeswGVYGzIVlVLDIjQibZW9kZDEYyMM3tT9UUg4h717MAVDMbtqWrKRoIydQWpEDbcz3jOa-Vd2BZtpfw-me5PF78ahqbaIvoLcBK0WsrPd03cqn-ZrtfS6alFQCbv5jYju4z0Y-Qyk-2Ic8FcyTcuSMuVX0etnQ5QZO81YhAUvm66mAqWd43WZo2sKJKh~OGIMJy~DNdcSj8LtpY-65lcSVtQ3y6AaYroxr3E5z18q5nzH1V2WKAvpD1O0HGjcLFxccGqX7qHN0R3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i304/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf240/1/m_btaf240f4.jpeg?Expires=1796408142&Signature=HmYR6LFfxDVb6Q16Egsl4EN~2wjiFqoPTOZezu4Xd1CiCYnn0koKBU8zBmxdudzb~~cT4hS4k8NrAZPY87c43Gnq7mkZppKxX4yoLkGmMNqIqBqTUccQBZ~TdMuK3hnITf0tHYnbscNcuTPLQZzaFuAlu3OPcNlq70gblkHTlnOn13gSKSIpFhx8cTq8tLExa1SkqEN28p7WV68MEDRpaxKH-BVXzt2zhJ5mYEVy6tu18KXRWVlj78Q1EhiRvwQoV7deaUTLaYIfx4lb26XNMylZbaXZSVEbHF1ngsXJjtxQlfGsSJ~WbyenUeYVL-IH9Nq7lqOqJzbmOu-umLoOYg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i304/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

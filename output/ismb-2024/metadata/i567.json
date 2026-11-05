@@ -1,0 +1,121 @@
+{
+  "paper_name": "REUNION: transcription factor binding prediction and regulatory association inference from single-cell multi-omics data",
+  "authors": [
+    "Yang, Yang",
+    "Pe’er, Dana"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yang Yang",
+      "affiliations": [
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, United States",
+        "Howard Hughes Medical Institute, Chevy Chase, MD 20815, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dana Pe’er",
+      "affiliations": [
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, United States",
+        "Howard Hughes Medical Institute, Chevy Chase, MD 20815, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Yang Yang"
+  ],
+  "joint_senior": [
+    "Dana Pe’er"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 8,
+    "h_lead": 86,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 237,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Dana Pe’er",
+      "openalex_id": "https://openalex.org/A5074451448",
+      "h_index": 86
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/yangymargaret/REUNION",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae234",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i567/7700880",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i567/58354923/btae234.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/yangymargaret/REUNION"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/btae234_supplementary_data.zip?Expires=1796412991&Signature=yMX11MFLIsoDNoKGRwNbUYr~AlLMhTlz1JlqdCoAscbckWHWeWHWV9pNRf3aSEuCzP0I3H~Mmw78QbvqkzrOcYX-hY~N4NyHzfXjDF3qImwoUrDmsAOvbj6EFWOjYZ5-0W5swPdBHqFEr9lms1-im1uVFmVljgIR7WNJctp00Wr9fDIk5mttNmBRXoi7HKIgPLUUaYFBENg5Spo5gTdsocuzy79nYwlYCKOzEcR1LmHn29Dec7iWCnpuXPt4aNd8wjhgD1FeweW0bt5cawG6ApmD2-zzO289s-uZIdnNCyzXuEHYCUbnMjA2NZvpRj6s-ORKVwVVRoH7kV2KX9MKJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/btae234_supplementary_data.zip?Expires=1796412992&Signature=zpaK3n6YUj0dMn-SZR8o7golGgT4AGheh87FUXJFmdRV2aEe0GwUYKOzYGg0PhkYYsyH0xlC83ot6RYDoKZciJ5t9ncV9o9ueX1tzIkgDz31EuKjOsVWDlRA3avRCQDE0lvB7ppJ~YMY6lyC79qCIcEu2v5IxX-Ryr-3mqig4k8~4qaMpbKt9YsfenWH2ZqXz6uqcoWt3dj-z5EgmQc96Qieqo23Y~Zqjqqi1yYVQRmnulDJn~gOHqH8pQJgThJFnDDctWwBROsjmAAnCHQQJd4qTifY2HEbAyW6NISf8zpr2QUsEgWGxWdm79Xv8ZONpG4YAp9zXqvDOUcwcPxJWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.10xgenomics.com/resources/datasets/pbmc-from-a-healthy-donor-granulocytes-removed-through-cell-sorting-10-k-1-standard-2-0-0",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/btae234_supplementary_data.zip?Expires=1796911856&Signature=33zvfQWmilzCgbYOTLxNv5jl75Pd5kkP6Kf5m3RaH~Lry6gPXgaulo1Z5k~ZeZqpSeIU~T7-i5YTqEtDDTKLfMW-UgWJrrvQKxtaJp429-elABEu~W7FRY1ehjoDDmoiNSMomiR4yHXAmdTnkk2dyZm0lQnfBunChmfZuZHKPoPfmhKG6T2m5wDGbqm20c9nzNyWX0dfRB8LH~p-L4~3Jn0Mgg6tq2KeT0SmKzXOKLAVup7YOGuQMYjFXGFNPHKz1e3yYM~cDUvzR-HWVqgXqQ5jzhrbedzxkruF-n4R16PDqdP-iQSLIP0Qraq8kiyPCeEAhb~A0fbgmybZhxfK6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i567/article.html",
+    "pdf": "files/i567/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/m_btae234f1.jpeg?Expires=1796412991&Signature=AbLiaXWdHr1ZtlWAYSTHT9Pz4vFeIMdcVLxnhR-0WtHVxw0SGR9el5hmG94njBZ18m0tl-vkPTcGm0HFvlbnw6xrfPwZq~sILq4MmKZnl7kI4J2sVCljBqR1CZ8QbzWZsYhaOCWnM0fQpKz8GlPdis9lBc3CvnP~xyRGXh0qWJslvbWOFjJpStENE~OIbtw9cwj1oQHf8oJspphMsvtHbExCqdbU1J5BRjHVAkcVcfSzI3cXie29XZy5hY8-uWpGpWTE8p4m-lxo82qT0mNq~IdRi0Mwaq48bQDxQ1ZC4lywtShyim6imjeMnGwcpNLpaKJk8-6mAXh3Auw0zKx25Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i567/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/m_btae234f2.jpeg?Expires=1796412992&Signature=HdagvyHyJpylCjYjIw6zw0bkZ8Doz03uye5NmrW2dOYb4NFf33wi8l8hNeZcoATCQoFaLc-IbmOfIAei4GqWB~Khqz4o7B~NLwDr~6d3wGqZt0VEgZ1eskdEhLT4GIX59p1CmdkmAbAEV6yg6mOm2ihDHZuGfA3aIgNxU2U0h3LBr1OJh3cHGUv1zw-cLAgrqBaYLGbJajtAzWND3CR8BHqbsOiNR9FL2WggD6nyEkc4VtnAp4uFy0yP0gttscxm~0LOGHajI-sRjGf6-0jJ7RX6nSrOmp230f5n3wT8iX4DN88yHuNH-dtFSutrZMH5TU5IVuLKduJAOL4nuxBEbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i567/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/m_btae234f3.jpeg?Expires=1796412992&Signature=Vg9DO3XhmYZ3XYXl2DNO15ykloMP47~sX2sMie1ni6NK1Fri9OAkQGvI9atju1xZGoKt2yYAxi6OdLzgKzemF08Jf161wKtLVGVSy7l5TVZ2O0mg2Y798I5rBAXJvmzxbHJiL1oIz4KyVORqxcoEqWDC5bBV6oJolHblqDn40CJklq78j-fHKUXqIrgRUn~9SdWflhJtLUIoS1ziFp3wnxK~hIRRx47lkvz1qtqoYeKVkOrDSVxZGC5xte0ad8PsZWYFDssHnApafwboBLnGsF693jmPJXOLpQZ991KIyJOCvep5gK0J8YbIGGlwD7Y-CAGKLquisEqX4W7Z2jHNoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i567/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae234/1/m_btae234f4.jpeg?Expires=1796412992&Signature=kzi8Uwr9T4aVHVY7jEVusm4fjnaU6SqXIzfHFCaSu4ZPI7LqCQX9zvScOXRXZjjAmnfi63lX-RxiarJEG0WfLmsGWyv~YhMaJi-K~phHylVrAcBL4D8WIiM2gaUPiWcfD74C4S8sSjQ8nnfjRRBQYg-Wnwjt0H3qmRpOw~0uF9qQxgjYfZuxNAvToyjzvGya9qSEHCcmHt8HVkL55Ej0-uSsIz7l-bTKGbf10NhGrYpD7IXdP5Uni7SsecZkZHBuHMjcqttkcvxEqUJCP4K0sbW3neW6rY1yV~AUzJCOmAt2ED4JOcKrQ5KI2DwSiD3lkHp0lb6NEQOY4TsoBrEuTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i567/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

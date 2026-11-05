@@ -1,0 +1,193 @@
+{
+  "paper_name": "AdenPredictor: accurate prediction of the adenylation domain specificity of nonribosomal peptide biosynthetic gene clusters in microbial genomes",
+  "authors": [
+    "Mongia, Mihir",
+    "Baral, Romel",
+    "Adduri, Abhinav",
+    "Yan, Donghui",
+    "Liu, Yudong",
+    "Bian, Yuying",
+    "Kim, Paul",
+    "Behsaz, Bahar",
+    "Mohimani, Hosein"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mihir Mongia",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Romel Baral",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Abhinav Adduri",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Donghui Yan",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yudong Liu",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yuying Bian",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Paul Kim",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States",
+        "Institute for Protein Design, University of Washington, Seattle, WA 8195, United States",
+        "Molecular Engineering Ph.D. Program, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bahar Behsaz",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hosein Mohimani",
+      "affiliations": [
+        "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Mihir Mongia",
+    "Romel Baral"
+  ],
+  "joint_senior": [
+    "Hosein Mohimani"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 9,
+    "R": 22,
+    "h_lead": 26,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 7,
+    "C": 13,
+    "I_open": 1,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Computational Biology, School of Computer Science, Carnegie Mellon, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Hosein Mohimani",
+      "openalex_id": "https://openalex.org/A5033781263",
+      "h_index": 26
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/MihirMongia/AdenPredictor",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad235",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i40/7210450",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i40/50741516/btad235.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/mmongiacmu/AdenPredictor"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad235/1/btad235_supplementary_data.pdf?Expires=1796442481&Signature=HnlXRhkAzD2uWUYs5sWMzrb~NkAXsnc8qmO6HpCiGxnMLPuNi9dOq69gX5-0aTPL0ponhnOioBGrTEWhR9jW~ekiARRLOOTEqaeHPiKiIjXDuaXAKJFviDfeso4vjhRarz2bLoF-lpxlZuD2WNDIWcGXYI2jgD~TXzgYj3uVIIEI4dkMD6a7kXQAJd4GmIP0hzjNcWbrAcPhvGnPGUwc8ALOvkYHWNTG0GKi-HZUt1DW0MtomhGuvVyp~ktpEX7oNwtp14CapXW~hYfipMy5HcfgLtaujRjhGig~D6zXBD4FmSg2RcNKrPnCUGzh~zL4Nc8d7~4-owW8BuAk3Tgevg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i40/7210450"
+    ]
+  },
+  "files": {
+    "html": "files/i40/article.html",
+    "pdf": "files/i40/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad235/1/m_btad235f1.jpeg?Expires=1796442481&Signature=2C6gzrcy4iFvpX1E86OQDZWSjYApVsW1td0XTLAtnVlwENGeFDZKY5D9BwdjsXH5g1iD0JOyBFsFsnleRq1Id6E429PN7GSj6qgTthkBNkgCpEm5C70-Ec6gjsxhKXb~N1vBzJ29wCiIKaK85vdHGYmzijOtsTxaXW7kj8QvCVaEwJed86AChIlgm-ZdmQwJuMzRFdWMaXH7G-T60OQaPhEF3MKppGqjw4NS4bblBCU1M~MkeFb5RYm-V8Ew-ajhdpt9s7z8YE3jVvkyjUJKAmiygI3xTArecs29qOpRNEKNBVMS6XoP74EIsMkG8ci2xZLL7eSHGGtXwunpx8O10w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i40/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad235/1/m_btad235f2.jpeg?Expires=1796442481&Signature=rPzW0LaPrPWuxJxq6i5L07hGbpPIK7ZG2SRs2aTAGosecZEAlwwDnzCjfx3y6lvIo90PhT41gxYxnm3Ee1~rG2KuuMxGzNhJ7Ey0HisBRt6s~hLuS65bV89C88AAIFnua-w2Llzo4~-EiEDkPDlNJgbJmYzWoEmScaAnlBWK8tTBgn2cjyuD6OIo1sOHuIgcvYfoyzuoXKwd6or~yFJQfs~BJDo9G5UY2J6WYt1zTcjPi74Vug8Bm~BjsOj1B5aXOOoGPf51fAMHuZdNqUQipcj5OdRp~PBoqRPNcNOpZF3rWUTpFciuYgHEdh1ovrDmEK2zYkwRuyfldKMX9kWsFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i40/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad235/1/m_btad235f3.jpeg?Expires=1796442481&Signature=0zby5XP5FYHq~Jmsrk4HeXXRUQLKNUmIW6ao3L4TyUKd0j5aWfFk9P-~j8e3yoDILUDSc4bWrIIBUaqptvPR0F8gfTDLCr4YqhaSIO-IQdfud2oPmtAOGVi5yjvY9i3Im2GqKoxIxWEF~SU8xX5gTlZLBjCBuy38J-gaThvL7s8GaAnb17cmw5HSmjVGXl45MxWWGLqbmt4tp4g3BrVQfbIhdUY8gmMACWz2qRnsztsdw2t7b2QKX2iqarS9WubJmJf8XBHnE1GWXnOngSe49ZO1XiJnSyy9RfXsMveNpYSk2JVDgbE-aP7ZmXuiu5dxKE0DO9UDPFybxsqC4h3RyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i40/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

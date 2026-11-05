@@ -1,0 +1,133 @@
+{
+  "paper_name": "ChromDL: a next-generation regulatory DNA classifier",
+  "authors": [
+    "Hill, Christopher",
+    "Hudaiberdiev, Sanjarbek",
+    "Ovcharenko, Ivan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Christopher Hill",
+      "affiliations": [
+        "Computational Biology Branch, Intramural Research Program, National Library of Medicine, National Institutes of Health, Bethesda, MD 20892, United States",
+        "School of Engineering and Applied Science, University of Pennsylvania, Philadelphia, PA 19104, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sanjarbek Hudaiberdiev",
+      "affiliations": [
+        "Computational Biology Branch, Intramural Research Program, National Library of Medicine, National Institutes of Health, Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ivan Ovcharenko",
+      "affiliations": [
+        "Computational Biology Branch, Intramural Research Program, National Library of Medicine, National Institutes of Health, Bethesda, MD 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Christopher Hill"
+  ],
+  "joint_senior": [
+    "Ivan Ovcharenko"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 3,
+    "h_lead": 36,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 128,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational Biology Branch, Intramural Research Program, National Library of Medicine, National Institutes of Health, Bethesda, MD 20892, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ivan Ovcharenko",
+      "openalex_id": "https://openalex.org/A5071763912",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/chrishil1/ChromDL",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad217",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i377/7210509",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i377/50741898/btad217.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/chrishil1/ChromDL"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/btad217_supplementary_data.zip?Expires=1796653684&Signature=4eRG2sBJCgRqLuOekkhTpTw0XLGOJ6VrobOQz9C4lQneG~K1JgP3Gk~15~JEZPclRNy5A3i~03vF7i7aIz3BmwHHGQgPDluDkwS4T1y1MJ4Cfdugah5uEp2WAo7za2sM19E2UkY7YxXbjLEAYYgPGgrCReFk9X6ljqwG4joofY9DR4yVM0rdb7J8S3W6mBOagYBKGBqRriIL~bmAS0Dhme7VjmPFW7Sr12s6a8cacxxH~Ie-nnwls8A5D2CCggD~a7uRdbLt1HmfVcHqoShTAE9aVt50B6tZPdNmn7cKJWmlfTZtnGvQ~LMaQfZgBxa~YyB65ETmmcCdfCOgfQh4RQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/btad217_supplementary_data.zip?Expires=1796912441&Signature=d2cxlbjO3u4f7EDtESpxAMFKe6wXpI-Z37UZUf2psn05nA0g7y~Ik0Ww~UoSUVvmN90qtGuBziht4U-m5g8TWyBQ5RtZnVqDNahZ0STNGLEoJg-ExUdqFuPG1djGvrs2FDwnfPYlQrGR1U3z24vhEcewRTFEAZJEf0vmsukKC6WGIvrax~vWMTqoE-9XSdLGObTl6rAdcPkGxodvONLcx9Cm6MjplPyeybeNlGWQFjAHzlnHltineAIKGDHPbv0WU0iYeti-9a6xymtwranVN2qCZTsN-yrEMFeyE2YCZm~wJjoTn-mx3dEqS0d8pjXOJqp~Iihks-3Lu9TVJK1YiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i377/article.html",
+    "pdf": "files/i377/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/m_btad217f1.jpeg?Expires=1796653684&Signature=o1j4cOLfXaBose4m3xf2GbaQQxFvGE3qpJ1gyxmO~Et3IHy2CtmesKU-rntAWGSgvY-whjEaR0zIlU1zW7Y-IvBgkG98liwU~OhRnF2Xo7DVKEIytLrm9A3jtEl2bzgjVosG6rzeO4TGKaBnfs3UsISuBoJaAT5YJQm2x3899qacutrd~PSIFLWd42vl7eanMDvHcs0vmcnHi25~RTwln0wQJRq8AtaBcTi1xo1P-BiFULtxhQosvSnc4IQ3OtBGZC-WWusioqJS3-6jge94BkQA-qIN5~Fw59cqgFPdto4Qk8A8ub59DObTsUqwIjskke07cxopXFuJLJGKLWVcFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i377/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/m_btad217f2.jpeg?Expires=1796653684&Signature=NP4Xe~sDiYL9j4K4pkj0gjKc2J-6HXqpvE4v6IMnSTq5sPW~Pga~edbOa0G81Zls9Nud6TxW5vDrdZyz3Q6r1~OlizM3~tcpgzEISVXKXOa0dZnCeOx88TRH72RfAdzgBkGNMfd4WS-MLHTVw3rPgV4fAAo3wTfb7gMgWi8JZBHfc8by32fnP8fi5jxD2~kx7j0HOceoFnzV3uHGiOB~sDe8maKxNEIdHDpOpvx0-O8bNwbkBGnpZf4au1JTCNkwtGt~VclmjlEHkKmTF30T-99cvkobKRPTgNesMrvHaL8bibJCSH-RLVE68kR1eD-7EVKCIm11fCVVNLd0M8aRPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i377/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/m_btad217f3.jpeg?Expires=1796653684&Signature=CWsAu90N1GfPD5NvfphoT~f21ht~3L6mTJp4n~l4axZp-l3ofB-iyg~8mj-noU4QAHWK5TdE~9~8gMU-l41e78nUBGNyMCXL6Wv8Gqj5VN0kb-JUswco-7ayL~ibJW4Sk0FOs-Oszcpxmg63MyK~a3~58i3bXohyQ2QREWQ9Tp5ZmZrtMN32sRBOfU~rROBExUVYC1Iu5J0NPC7XBAOUhnztNu0mbUcxPOoxHjWZVi-9OA7RUJAIyMB94JQHeDBXC~fZUbS0UoYzGAZbdQ5U1tpsY6R~etF2p~vrK0UjQZoWK-pLCeN3h3p~Pmg8WJvfpCEniUOZwbacXJ~ahYMARQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i377/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/m_btad217f4.jpeg?Expires=1796653684&Signature=pFR2qi2SBSw-mxmoTEOuP1db3b0V5Ptj9mplRln2HxBY2MwUZisCWM2sNX8X3bUEhvGj8Ja6khqNy~upXTtpkiEveg0jnbtqCGV1jSyf~GdTobNaCEjyTbPn7tlPDYhOI-pTsFlgpfsqW4oeXwHvm1Z3G0ZlmIq1zykBHCIhal9P7aE4b01~PcryxUezRwTjed0Req5T79bKrkAcxHWupEqwVQqd2cCOw1fDjYFhjMDkVBzl03tWEjvN9iGHdGG7lgA-fz7NLLe-qLtwn~EduBbH1y2UL~Wtdl6K7YqA7eqerYlye-8dGiuvpDJ8a9VxSFcWr1-EOWQVmZfuo2kLgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i377/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad217/1/m_btad217f5.jpeg?Expires=1796653684&Signature=0X0PJwhU3N5QeRvUvxgoueZyeQp1KxdCgLYGq236fEoI-P~M2xD443V877hVqF3IpA722m0VpV~pkfRPT-NxD-V8qEdNvdXkSwJDO2BaJA049XWCxmsQORGsRVB6h6XSMI-PXzAVNi3xjrf5RRfq9hS09fyAs3TGNzubMr7i7Vw19zAJRQkp4-F2l6p9C9as30lw6NCzy0f9AM9OMKWMt5v50-Gtpdt~ITjWH8GTMR1-gyB1wFclbo3QF79n3em05MTUWJR24aT0cFDNQ4atLtwnFUEwoFah~po9XrY5W39LcOCkXW~lGqXsiJMQOPe2v6zqSnF3ASfz5usXxpm3HA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i377/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

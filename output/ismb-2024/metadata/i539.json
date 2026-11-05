@@ -1,0 +1,155 @@
+{
+  "paper_name": "Enhancing generalizability and performance in drug–target interaction identification by integrating pharmacophore and pre-trained models",
+  "authors": [
+    "Zhang, Zuolong",
+    "He, Xin",
+    "Long, Dazhi",
+    "Luo, Gang",
+    "Chen, Shengbo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Zuolong Zhang",
+      "affiliations": [
+        "School of Software, Henan University, Kaifeng, Henan Province 475000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xin He",
+      "affiliations": [
+        "School of Software, Henan University, Kaifeng, Henan Province 475000, China",
+        "Henan International Joint Laboratory of Intelligent Network Theory and Key Technology, Henan University, Kaifeng, Henan Province 475000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dazhi Long",
+      "affiliations": [
+        "Department of Urology, Ji’an Third People’s Hospital, Ji’an, Jiangxi Province 343000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Gang Luo",
+      "affiliations": [
+        "School of Mathematics and Computer Science, Nanchang University, Nanchang, Jiangxi Province 330031, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shengbo Chen",
+      "affiliations": [
+        "Henan Engineering Research Center of Intelligent Technology and Application, Henan University, Kaifeng, Henan Province 475000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Zuolong Zhang",
+    "Xin He",
+    "Dazhi Long"
+  ],
+  "joint_senior": [
+    "Shengbo Chen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 5,
+    "R": 8,
+    "h_lead": 23,
+    "Y": 2024,
+    "L_lead": 3,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 15,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "School of Software, Henan University, Kaifeng, Henan Province 475000, China",
+    "Department of Urology, Ji’an Third People’s Hospital, Ji’an, Jiangxi Province 343000, China",
+    "Henan Engineering Research Center of Intelligent Technology and Application, Henan University, Kaifeng, Henan Province 475000, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Shengbo Chen",
+      "openalex_id": "https://openalex.org/A5062618254",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/daydayupzzl/HeteroDTA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae240",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i539/7700904",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i539/58355122/btae240.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/daydayupzzl/HeteroDTA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i539/7700904",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae240/1/btae240_supplementary_data.pdf?Expires=1796447113&Signature=ZPFSAKpz-V93PTxeiKexeK9XtR3UYANukb9NoZwpR1-FoXeacsE3U5xbIMBSwFPL97d~Q~pXSaJ~PMy~UrY-EwYvgqn2l2SnfGyziVVT9MadX~JHfp38Vlz5qT49j-aYgJzOLlR66S9ubTVJ3qLeykVxl5uzS-BbeqNX61VsFv8W6Uf0vkonmlGN-WxZq-znKoQjg6wGQ5Roxdav3ItYQvPj6CieDC1IfnxlBDLHSfvQrVj9U7CClTiioPUeITEnVlhL3U5~JNqQ3K7voq4-2wGkRlXzCJdQs0WezROmrmslksMzU-OMr-ls9zFiXSn9dihX-JH2GvoZwhNesBHZEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i539/article.html",
+    "pdf": "files/i539/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae240/1/m_btae240f1.jpeg?Expires=1796447113&Signature=I4Fzvb0-kd47sQFREDb~MWYwnZxjFht7JKoHHlMuYrEOd~2sTupjr7XDd66lzBDCONLcE-SnfF1U8fPLy64kWiwU33tu5gpP~5MfRRCAVvpGo8uEMRKfr3tyELZjrMojht0ZtlzvG8aZE9D1I0re2x7sYwLaJEqabl7vQL0XqTz-xGSgzskhcSNtZ8B6wHRXHoJ6wgi0dOXoixtGhMOVeUve0e23908JluU1YJ1qEv9BV8temiBLURz9no~KCFmjDUwTVSOGtE7CWDRt1IN3q9QjTA-E93LHMfhnb8GOEDX6FLkqKbfZEogn-2TAvf-bZoxTkE8zNAkDG4uB1I6gxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i539/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae240/1/m_btae240f2.jpeg?Expires=1796447113&Signature=CLEePezswrkBTQ1JGTPhYisRlancgnFJlCnQuqo8nrm4IxbbpTtmEl6vu0SpkqP-1fxllCJadnnOqY6CICVe0w7CSK2cChGA8KmaJ0L-vPqxkaXeAcAU~VNBn7DHj3ZqDc6Xi3caQy6o0d1SoJ3iser6I5WfRx3TlJaV3nVFLTYU3MTBrHsiv3wnyRp3AoGwinMacLFmQTnrOEGL-sVCt~6P8QbRWR2AV6XdFrA4vChYktmM6gPB~0g6ZwvHv61pW0Vsuevx-hnO4sWUcK-cl4qirUoE6PF0XqXOb9rvKzS14S7PQXNdp5qdeIGzPMYmROS~fQvlrSpoC4c0QWLhZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i539/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae240/1/m_btae240f3.jpeg?Expires=1796447113&Signature=p9BrV95Jd7I8IGxYdg1KaeQNECqwPV-bQkNLtpqKdbTAqzRS85mo6fyFtWmKByamJ7YGvUt7Sa7xcqC-OWgSoMZeQ7kLHSCvh-oo6xIq04-eYzzb5jPDHPeohhGUiKQblOg50-sC~BPEJzfb~8X7MKt3IuBbxhVw9y3OdMW-HBXMIrgXJRGCfpUcTveuhHViWI~SBxna~zmglj1rJEPAhsvn2qu4JvRSDPmqqOAEJlVwiUQ1Lto5UywlX0P9kDABePJZaJ-zcoq66TB7IUrB6DcsC02BcdllkWylMWanV1KbOk5wobWb4JMlndXexV8YMgyq-dObQnf~P1tHTANDgg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i539/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae240/1/m_btae240f4.jpeg?Expires=1796447113&Signature=CkhLoUxIU-GP6~uOkAzTEn7dKlCZJe1Soxyhp-BJ-YjOIfyx8LtG2wQgAdM1gAE6-0lIRedtnUvGU0WEhq4JjUB~dTMNmC2-ghdyVU0B039EOWraeQB4mqaduve-bjHVDyDQ9HbJ9QCL-2scoMpiFY0wxvdtpbwA5PNl9uP5Jw~MryioZwUBkgzL-hENfuRSFWZOJJxLLfpYN5SAJz76fae8XsGsaR5lWY~Y3HnuKc4qr7S-zV5WgnmRgkptzjtnc-rPpHFzIBx3EBRQ9r2HrmAIc23~3gKqewXIVxN0JMByTTQcdtXRA4jQ5lQpIacJu~4EF1T3XiHRP4lhLJz8tg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i539/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

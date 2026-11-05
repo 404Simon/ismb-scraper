@@ -1,0 +1,148 @@
+{
+  "paper_name": "LYCEUM: learning to call copy number variants on low-coverage ancient genomes",
+  "authors": [
+    "Yılmaz, Mehmet Alper",
+    "Ceylan, Ahmet Arda",
+    "Kaynar, Gun",
+    "Çiçek, A Ercüment"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mehmet Alper Yılmaz",
+      "affiliations": [
+        "Department of Computer Engineering, Bilkent University, Ankara 06800, Türkiye"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Ahmet Arda Ceylan",
+      "affiliations": [
+        "Department of Computer Engineering, Bilkent University, Ankara 06800, Türkiye"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Gun Kaynar",
+      "affiliations": [
+        "Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 06800, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A Ercüment Çiçek",
+      "affiliations": [
+        "Department of Computer Engineering, Bilkent University, Ankara 06800, Türkiye"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0001-8613-6619"
+    }
+  ],
+  "joint_first": [
+    "Mehmet Alper Yılmaz",
+    "Ahmet Arda Ceylan",
+    "Gun Kaynar"
+  ],
+  "joint_senior": [
+    "A Ercüment Çiçek"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 4,
+    "R": 3,
+    "h_lead": 25,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "Türkiye",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 17,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Engineering, Bilkent University, Ankara 06800, Türkiye",
+    "Computational Biology Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 06800, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "A Ercüment Çiçek",
+      "openalex_id": "https://openalex.org/A5090836372",
+      "h_index": 25
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ciceklab/LYCEUM",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf244",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i285/8199375",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i285/63745472/btaf244.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ciceklab/LYCEUM"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/13997011"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/btaf244_supplementary_data.pdf?Expires=1796440513&Signature=nRDAeKnbH5eakWACwzw3tVvFpBfokRKrSHNjEG3lignSt7ycYWeb0SXu0WPzf9u63aB95uAp4jGhsA9O4VmEDRf5gHkNgHlyOt4AUJpeyOAklgLLm5hepSAKY2gHAXSV~AadFCU32N-Ec4hGvCEJUfN~Gp~2HjIV~X8JHQB61yFfrRd6JVmYgmZyfiXwlLV6oU~5PzreYEJW3yOf3mSMv1CnG2eSmeEDZ0NNke1V8HmJxw1gDrOhuTLUCmw0zv4NwgJaHl~YyAVidG8YStWe8UGx3yxJuxih7xw0sy30asCy6dJc2BPCA718GpDpbc-RLYXNqvWxmguTosYyjBc1Xg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://registry.opendata.aws/ilmn-dragen-1kgp",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/btaf244_supplementary_data.pdf?Expires=1796440514&Signature=WEqaX0B9YoY~MVnStw~Y6dKdxVUgeFYQHPPXTAzc~CoZ3nkkoIIgojFXIeZ6Zfn8iKEVB1xkVmhAgaanOYFx-RLQlLRt2DG0BAaJXwNWKUqYAh94YiNj8INEvnFt-7Fpj6RWoI5u3R9mVqcfvgp3y-hyOeWbQA0UVxqwyCAwAxHfeNFhU0MKiX9mROXGgHdMgMkPyIz~suWvBxLN7jQyNKLm2f9AJQuNsR92GhTunb4JqNm6t1xEfNpVF3Z6YVCcMC27HOQTNaUWwtLmm2aitApfmNh2vTkXrBHGqANXzTeOiap-q05fy-NHD3UTe8H6P2K3F7ZjtNia3zB~j~4qQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i285/article.html",
+    "pdf": "files/i285/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/m_btaf244f1.jpeg?Expires=1796440513&Signature=N6lTNAaQuVkgLhiluPDKdcgmrtijY6xRjWLXCuwPORFw2JPcqb6SHUBAwZYcoOKopMvuRunyfbYgH9fF70SZlvHsVX7astXlCUq9Nwp5RpnzE3~x0n-u-F3~BtJdr6XFqkQ4AsjCwh~7eeK7FBguDyP4p5HQGR5A4AsbV8KmTsg9VONbxYJBrKAZNWrrBY8I03DOoEWtqYHweP7VzPeMcBn9LzBbVGTLjcQZe8VRqlIWF9DeUKqpD-8Z~SK7CSR2AeOXJsx34Su80i8yAqSkKxUhgeOA7gRPRW7nemmE36uMjW2RXuS7zrTYTu8UeFq7ewHd6CBaUS5TfQ2XzaRgZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i285/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/m_btaf244f2.jpeg?Expires=1796440513&Signature=neJjXDkHR4hLbp3D1qpIz~e6hNMtVZwV~UECV-sXxKjyPZmPN5wBJpsvYf1i-rZrWuAamVp1Jw4x9-qdITSndH-zeJEl0xZ5tpwe-wFNQ0B1zRcjOZt7wOaO9OdFsAYYhgttm3qYyTw1xyiTp55dzHGBka34eFt5IZsiBhOWE4bFl7BVWp320EuEZFusSGB1e63DWmRN5NvCrDW4KjGntmNXKIF4UpkfxcioBmYEdZNRBEoDPqKN~TJ8hyVshi4sWZTSPnIeZOzlATqEZVQjZsacn3RyzDB5LJMSCoeRDD-4kszpU4fYWheqcR~ogkLFBD4GijF~DrLthuiHIeEHjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i285/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/m_btaf244f3.jpeg?Expires=1796440513&Signature=e4DfLgzMNX8~TpfV-V1Zx-VnX-Y9R11Q6Am6zW3sDddRgzrO7szRukGTrFesipGKcXRUUj8vkrdil4sPWqtIIxCmndmxI8HZBjebOexbvcfyIuOozHIGw8EButlyRVrkxG3FSSpztiBtQxf8TV0O2gg3-2tmc21cra29ENJ7nbGMAPhjqDlr2HCPT26gjMWF1kHkmaLcRplcD-~IjfC1XEzB9fm28l5v-YsB0~eQvnAeTWTjbOkT-z78oS7GTzMgaPH2r6z5fPqcayNrqwOTs~wUFqcuXNrCCZRU6KAOuUao7QUFk4CYtGmWQDvLVnDM-2PVduuePoKnA5vGTi0Kmg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i285/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/m_btaf244f4.jpeg?Expires=1796440513&Signature=zKgQe~O07aw0AAjMfB4uPDQgDvEoovzrrenaVfhKfZ08x~VRTbHlJeE9EfkTHv9HhAAcsIMjr8BD8fVMQelTJ4hox42JJbFxNR-mqo39RMY6xYQCfnfsTrg9c4XP7o8pgfihzz6PxY3epy6TG0wtiyVaK75r4FCXGVEOSPdwYuKzDtNxH5hKthoJXD4oP8gCKRkQGJmL-kCgIoXYLeeTIdAV1ceojBYT3pIU4bgZpeOYwI2HisQsPwuSMwiG08QYpFRe-5cRgcy5R2opR~E7kgl4hd02oa6VVlB0BLWroy9fhaH71xy7i77RWtUsze0L8fpZEA4wWiUHZ1OTjuer9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i285/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/m_btaf244f5.jpeg?Expires=1796440514&Signature=Sl~FNL3QRlTlEyCZPaMlNzDHCuLCTV8~Se-y4zohL3Kysy2vWvMa6lalwFNFtmqsR1w7l-A-k3CK-J46tBTwHBXtJNeMUh0xVfp4nvGkorJa5MEALl~V3HiCD3u~9Pbd7eHy0wRihfrXI10dI9amt~2ocl-e7FBveBhRvjgZ23w4g1P1uQPTS3fFuJXyVu~gXtcAJCSJQMAte~y20vdejzItunTnhs5ptuSFNiFGSF8T2Ix5ybsKlkEE9vEUqLrso6tIQHBEo6l16iPDdAlf6ysbFLzS4DSRkXJpqagEv2fn-N3aZRgBBqdoHdTyFo3umnKapn4p5GOf9nQkIlxF1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i285/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf244/1/m_btaf244f6.jpeg?Expires=1796440514&Signature=vzV3ba4O~a-SL93roAgEhQ5tXswu22M752hjWrJ6YbT14x9LLv6cOqri2jdy~7EKQSO3lBdO496eTvdVQ4H~LmkyN2qUeyG0XDZEJpZfpdZXwClb9aIiUOV67Q23Cgp0Dh8vE0rLjjNsevJB6iO0KYrOL-t5zKjj0D2Y36CpsQmV5DUNTtq9Lbe8tMTkZCprOFXDkvMGI8vA5odepYCYwgcDq1KOpd-FPaUa72bFHddk5HLejNWpOJ~r5TesZyCqVt3IdRIXTtRPjKuGaN7IaVxqemVtN0kBmkpQo~TmI2sA~0HtmCRanY7GXK41wB5mvG3o6kY1b~QIIP~SDyfGrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i285/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

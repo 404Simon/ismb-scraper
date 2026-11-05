@@ -1,0 +1,163 @@
+{
+  "paper_name": "An intrinsically interpretable neural network architecture for sequence-to-function learning",
+  "authors": [
+    "Balcı, Ali Tuğrul",
+    "Ebeid, Mark Maher",
+    "Benos, Panayiotis V",
+    "Kostka, Dennis",
+    "Chikina, Maria"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ali Tuğrul Balcı",
+      "affiliations": [
+        "Joint Carnegie Mellon University-University of Pittsburgh Program in Computational Biology, Pittsburgh, PA 15213, United States",
+        "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mark Maher Ebeid",
+      "affiliations": [
+        "Joint Carnegie Mellon University-University of Pittsburgh Program in Computational Biology, Pittsburgh, PA 15213, United States",
+        "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Panayiotis V Benos",
+      "affiliations": [
+        "Department of Epidemiology, University of Florida, Gainesville, FL 32610, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dennis Kostka",
+      "affiliations": [
+        "Joint Carnegie Mellon University-University of Pittsburgh Program in Computational Biology, Pittsburgh, PA 15213, United States",
+        "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States",
+        "Department of Developmental Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1460-5487"
+    },
+    {
+      "name": "Maria Chikina",
+      "affiliations": [
+        "Joint Carnegie Mellon University-University of Pittsburgh Program in Computational Biology, Pittsburgh, PA 15213, United States",
+        "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2550-5403"
+    }
+  ],
+  "joint_first": [
+    "Ali Tuğrul Balcı"
+  ],
+  "joint_senior": [
+    "Maria Chikina"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 12,
+    "h_lead": 36,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 94,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Maria Chikina",
+      "openalex_id": "https://openalex.org/A5034705320",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/boooooogey/ATAConv",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad271",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i413/7210441",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i413/50741446/btad271.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/boooooogey/ATAConv"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100738"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/btad271_supplementary_data.zip?Expires=1796601355&Signature=uTIRw~hkPg0KZu1pWcX2-IuQ1Qn-629sZL9KDYJPlZ3ZkYSineXgS-QbHz2oKX350MreDBNZbJLYYiileKwTcb3B9RAftPrI-2mtqX5fj5tnabN8P5jKh79aOJv3THqY44zLQpJgj10l7yRnMrWR4aBL1fJG0g~TCMiP1pvZenNJQ4HccwwkosFbiew75bq-CGmOzwpjaN-VK5JLdycjEkFmrCWjE-ihPvPdAi~c4uBcVTqzPBMa5xgevw7PZMimH0FgagzRJO~3iTiVGddYhp1D0NGmJfrR5Up-14CIG-ksL2p9Hp6lygeKrDjllroKFx60F-n8~oEqRbaz48C~KA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i413/7210441",
+      "http://www.immgen.org",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/btad271_supplementary_data.zip?Expires=1796912496&Signature=HQvd~uCFIqp0SqB74W1OfyXZqcSEwvIVu6q2-hN~wCmOSBeSQG4rJL83iYeUFVyDYDIZWXJUVCzxMfp1DFfLQBX5KsPMNuwqrpDHjuzomhDY2hmbw5ND61dpi-JsveeBKjzmplXjGPP9kWo81IeRb1XiAC16W1MqHEAOFsM-QperIMo-DnWJMO6fjMinNJEyk8~-tMuBV-r043KcEMTun1bZf6m2trx0q3k247-25njnTsMvRUEoxz-b8QX7fn1Eqh2cKsqlMGN09tdkgwF7cFcv2F4v32q3SkaLAsMQWF~fScTfYQAtKBxzGR73TP9tstnhuGJltOQiDS8h6tbFvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i413/article.html",
+    "pdf": "files/i413/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/m_btad271f1.jpeg?Expires=1796601355&Signature=0lHwaBg-4SBGwFvXsl051~cmUcH-wLwzW9K~R0IiCgEhU1kD1S-e9GNWoBpb2B2FEbO9w6YxdJuX6YR94O-QueYioB9dQEJQTzt82V1m~zd3M90J5tBORw1VzR58-eTTnX0cIabcC17Zb7TkfPk0JpoM9evWM-JAxRvGFzC6VgaWxvwsZ1feVUuXPcYAzSRDmj3v2EbA6c6OEeudlPbd5oYIM8KgRX56xl8iRcs27w2WSg447q0qzula5vexZxlUKrqzHiwu0cZ5blW9UKqufPlUy6L9nC3ujKZuRyLNs9mgFbGn1ZKQTMyx0T5iS0pQ-c29HuEpXgAf2CU786bhFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i413/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/m_btad271f2.jpeg?Expires=1796601355&Signature=GGcO9igVICLKFOVXxZ7EZh5211lpqCme0fN9peqc4IGK06Q1iyHf2OIBSSvk2W~5JAm9xecQc9C3evLGjtZJeWEMgEOl7YkN2i~cLJXZnbJ566fJ9JxGtftbPKJbopg6We0KuXOhc5m4DAtRhk2sZY44gV8pU3u2vUHV3GE667~yeIip-r9PcaHyuaQ189HhdSUD1pWPdUaUslFShsV~f7rEGTGly9yqIJ7l6wpddzOgo~oaQsePpWjQmtuKXnmTZRjVs3ozHZ3JxVoLKr-j03u99R38OHqCPOXfubo1d4NpwN-6GCv-LM0adLm9pR2GqROZQOKETXp4iSUOBZ0ANQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i413/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/m_btad271f3.jpeg?Expires=1796601355&Signature=pi3juYgCLyrleEcRfbtcpiPxElFXLEvW34WOrp8ecUQI6rlC9dHxwr36d6mSwzmbMU~c0nFSxkDDVgl1RsmmwJ6US2gryYD66OLfPmmM6BqSDeNNaUg973YLOpbdxQRfh~bQj9nZ9NCJrZH~tRcqK97ddTc-IgGj2hZ18Km8A7MeikFuux12I26KU7~39hfCKvzZ~K8L9cMUKH8hvpvhYljtD4RgvPstH~b~JUlXUQaNeOCW5KblH7M58NHXw90TvpN8DI1AmKmiJ85gKfLMXHtiTfNp--Fs1-SBkHXCEVp9aU9GDah8Kru3TQD-DOrKtaW10r51kJXcx77Fpgsu-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i413/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/m_btad271f4.jpeg?Expires=1796601355&Signature=oI60kzfC-eZSEuY8r7P-m-JknPMskwn-Pfb38f2wizy0l5rmdC4PKmOmjdLkppfm2~ANTgBE3yvXLqXnoervahral7hR1oRchadn-zOOZZeiYjw6cb-ObGXzU7jtjKB0hSwHuNGzZ8mliMY8yq3FJtijnNcYf5aoNfSAYQFvgh6iNL6u428Bhb8Iet1zFV2IUWQDCu3Mrze~dmGc31paFXxPJolVLnyDOz-BtT2ZE-VZ98YjJvZIkad~U2POUyKquh8MFeM~r4gaRB3r6F0isZL7EyIhqsCtqAuMB7yklDRbtMZC1Vq8owDvAzjzE6I4XB3J7MCukBUNxKajsGkBvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i413/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad271/1/m_btad271f5.jpeg?Expires=1796601355&Signature=lkyCjP-hg6e5f~2y0DSBVFzGjUSoiqUHYRnozuqCOKlZ40zhBBDSBBrDWjnFP6oU9VPRZlxyaNBx8bLlUoTD9IHxo3cfs-~1~eHrEhZn3ZWVxuvf12zV0WFFTCjSHAckGiXRopSb4OWh73B96U6dM0N89vJt4p4ayW3v9EPLrFbfcEugCyupfvURpSiNeh7lN7WDBPydp7yrsFJB3fmSrvjUbHJwprUvXoxo0sCnzwtjhtVd-6YZjGsRw7J2ioDS90ESklfpKlIusnVpb9k3PUOIqL-nK5cOroCxFqQ9yXsbNIvlMUT1ClwiXqPy33FyvTyZxmPXE09RyuGNfEVZMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i413/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

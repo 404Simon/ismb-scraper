@@ -1,0 +1,179 @@
+{
+  "paper_name": "Precise prediction of hotspot residues in protein–RNA complexes using graph attention networks and pretrained protein language models",
+  "authors": [
+    "Shen, Siyuan",
+    "Chen, Jie",
+    "Huang, Zhijian",
+    "Zhang, Yuanpeng",
+    "Fan, Ziyu",
+    "Kong, Yuting",
+    "Deng, Lei"
+  ],
+  "authors_detail": [
+    {
+      "name": "Siyuan Shen",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jie Chen",
+      "affiliations": [
+        "School of Software, Xinjiang University, Urumqi, 830046, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zhijian Huang",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0009-0000-1949-167X"
+    },
+    {
+      "name": "Yuanpeng Zhang",
+      "affiliations": [
+        "School of Software, Xinjiang University, Urumqi, 830046, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ziyu Fan",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yuting Kong",
+      "affiliations": [
+        "School of Information Engineering, Xinjiang Institute of Engineering, Urumqi, 830023, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lei Deng",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2869-1619"
+    }
+  ],
+  "joint_first": [
+    "Siyuan Shen"
+  ],
+  "joint_senior": [
+    "Lei Deng"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 0,
+    "h_lead": 40,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 34,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computer Science and Engineering, Central South University, Changsha, 410083, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lei Deng",
+      "openalex_id": "https://openalex.org/A5085608332",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Q1DT/DeepHotResi",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf197",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i466/8199390",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i466/63745571/btaf197.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Q1DT/DeepHotResi"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/btaf197_supplementary_data.pdf?Expires=1796407765&Signature=FF9a81DJX1Q1VLkmW7gc1zLgqmRSJRBgbiVKZ0AQ-4V9toQ6JyIteLdP6lZDLroaan~ORPnJGVnGZNEXv1sRriPyrgEtC4u2-DPhz5e4Fur66TSofFl~2XvYg3R29yikTit78dM2EW9d2yoQ7H6LpM0n5WsCIqp8HzYfke6yelAlR9oqyE2ZZU8P4CJEYfIILLrMmiHrGNmEjKTDYq7NMb9NvkLhbs7NCkMZosujMGpk20j0nnXJYAbc8FV-xCy0WVTr6~Uku9eE5Vkq~tOLP6qViSkj8Jk5gfOtXwq9QY1nhxD3~QFBLxVqXfexMsrGKtzPZU-Ol2xO2V4Z6PLCig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i466/article.html",
+    "pdf": "files/i466/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/m_btaf197f1.jpeg?Expires=1796407765&Signature=jHtECWVjOGrU9IEI5kXF9IIcCquPMaRywSNa92FL2AngtpEo-cAXnH4zj2-W6wHbHJdnL7Mi2loJ-4pChv8g6xwFQJBDcJKFt62zWtVJ0mEsuzdFhFBb3FcpWv7p5PY1bTWvtI12yFPXNj7b1LlBMgLEUl1vod7Jnl6VuuuO7cC9NTMVtxp53d1uXzORIv7wBlfw2pJAmjd44g7j2YBzcxrIPtu5Et2SWbFoJDQvQX0u5fjWw5Xbjc2PAAn6W4rybG-tjESS3VeujUhEQNv2WwjImSnaPBPzGw7sMRIbIR4Xt3Yofirv20BQY4ld3d-w8v2et16reTtxov43WnBYgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i466/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/m_btaf197f2.jpeg?Expires=1796407765&Signature=yGpquw6dviOatJwG1xw1Cyo3i8s2judW~deRcy22VYYbUkwiMK5OomykIHQctx2Y0nTfgtUZOHD9s0~2r1oBG5IrK9rzoo9w6FNX-n-2nwjKPGTyhISkZA7O1SyfFY2AzczL8-VkGRVilSkAV07yKrhXYma-xm1n6Osx0NPZHfQKWnjuCysDSDN2khxe-K1WEZg2iMjxTY74bN3lmOvtzpqtKUhHdcAB87kvpEH6OuOhQ2R2P38qA446QMpMCCGIcKaXZ77fYPCrp7C9e3-skCca8TSCCnK~a3sMV8mXa6-XBaiu23~rLo5i3WdWCIE2KCRA7me1lJrcrlEnQaOb5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i466/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/m_btaf197f3.jpeg?Expires=1796407765&Signature=wREkoXoQu5xfB~NSj36MF0pTurP9cZDV7DkuK~bDqtZEoRfHXIRnJzo447XiZhRHvbCTJ-AKbOoMIQEOgdOHInrlK0WJOm56QXf64w9ySiX6CouU4pjnQxB~Wct4ke9Abveeurjz4b3HXVaeuJFA6tewZh3IGuaWTrUcuPX9NXc2XZCFBpuBH4SMTy4eUOzBGQjbdq1gJgL7Nprpri0mibrE-3D9BZZt32iUW5hI5fCX0jBMVva4pZrieFaJMY75BgpFaiOI29ZbNV5da2NQ3S2Ch9TQe4bIM3aBaUPRGQ1I0sHJ-kE6lsKUi30O8xlbx2yCgHGa~MwINh0iuS7sEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i466/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/m_btaf197f4.jpeg?Expires=1796407765&Signature=Fc7abvSP1QKHqg1KLlhBfroS4yVIeLA492hXaBQ8dIgHhubdHR1MfEAsf~-ZRVnhwRa56bQMxsE8ena7pg462o~aXRDeir0VqWow2OOxVhCJEudy59ep~6sBiTlNhEVDd6IXvXHBv-egtAzTJP6d32lKnRBOVHIN0VG4omDMPHVuMB1GVSiLJEEgSJekcJls5FkF9UGYHp3CkIkd0jijxxY3p9qb4ls5q2SnSAaKyPCsWKwbezEbzinYXc6k4GEgmCxLlGg9pwVtwkK6vJDbLWDodGcq~lH4obphF9eLLIbGkzqLrD3tqjaoPzgLLTSO6rM8VTsiNJN9czwMX6XoPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i466/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/m_btaf197f5.jpeg?Expires=1796407765&Signature=mRyqFja2QA30~OQsP~oxLQC0qjlnClcQKlAtPhWqgDxeO8atnIdfhIIHroibvwBOHnKu7czTpZOzDPUdhpz6~b0LHaElm7fY9p0a0KSTbj7~rtMO9D92pCMjJ6eD8NAlA7dTnObqa-~foqAj~WEpqDHgkkGkV7tNzrWUFSa28Vcc9HR9ebXn50gvLBX0EH1it5Tf0xlTSDdJwOBxpANjnHvbWkui1rSCSlbDoW4CN7cgRWbQXsI5H1F4JqP5r~Qy-o7IAocugTYgH7pYAnvXFoVJPfeKYXIupNIPKMC6noke7TVPmMUDQPU0Kv6Ocu1Imq~Su4okgJvrG8PMX0WxJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i466/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf197/1/m_btaf197f6.jpeg?Expires=1796407765&Signature=CTc-Vw5~sAknC700uwq3kxQvbVEEUP0SFEs7yDZZBqLLFpAo4ZDptLbI2easu9RTiusnXF3Hns8FcieWgCDcQjMPFTY-KXzKT5l6oumM1-PMbToC7bVXM6DASS8kiSVJgjip2bukd1aJPx5-tKQ80g7slD70I7Bphlify~7UQjo2oZ~CCjG1NuyWNDJZY67dh4IysHwVKPX1Cq6886UXRXF6XZmVYh0aX2T3pK1hfFoPn17-U3wCsLoqSnQS7mUQef26TXFFMDHAbxpxqBvXBvvPBO9Is6or6v4B9A~sDdJjA-gcLO~M3e1FhcG7RcSyDZUreSoTBbY2Ws7RO-Yzbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i466/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

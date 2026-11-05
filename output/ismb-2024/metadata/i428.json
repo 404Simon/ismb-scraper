@@ -1,0 +1,125 @@
+{
+  "paper_name": "An algorithm for decoy-free false discovery rate estimation in XL-MS/MS proteomics",
+  "authors": [
+    "Peng, Yisu",
+    "Jain, Shantanu",
+    "Radivojac, Predrag"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yisu Peng",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shantanu Jain",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, United States",
+        "The Institute for Experiential AI, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Predrag Radivojac",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6769-0793"
+    }
+  ],
+  "joint_first": [
+    "Yisu Peng"
+  ],
+  "joint_senior": [
+    "Predrag Radivojac"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 1,
+    "h_lead": 55,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 158,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Predrag Radivojac",
+      "openalex_id": "https://openalex.org/A5051324698",
+      "h_index": 55
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/shawn-peng/xlms",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae233",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i428/7700896",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i428/58585822/btae233.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/shawn-peng/xlms"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae233/2/btae233_supplementary_data.zip?Expires=1796515473&Signature=U2MT7CSlr-0Yll67dWqs-sPvuzoSQF~8dASxEPRlwLBJiG2eW6va7RL~vQwy2gtTvt8MK8LL7~mtAp46fG8z5MHX-Dsqxprk7YAvlJhqmKJRAkXfmY~Ml-aKt2HsosTK0U~UTkj0UsEZ7lR025ffssEpa79DyOrkRkRVKNuJTWUVdJazDGsCimrB1MkcXQHE1-mbMs7WJGRRaogzOj1U4rXtGKqUON1xy7HotGMwCslw0mKZPO7i2WVBX7DHe8DoHPUsIX0~IvVwwoAbH8bD8bDzZVppNJc9k3QlhZqBTdzb5pwztFBFNmmjuu7RHdc9DAKi-FXBt8d-xzAAPPkOhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae233/2/btae233_supplementary_data.zip?Expires=1796911619&Signature=uJdvBme5oSsIxtIjvDlZxglW4tU7n4Id7hYIiz7kx7tdNzGrSuz1clRsqWpt8M1icFrHIYTR7QIwSl2UQuBS2OPC24LtZoSTUK0V8BYpZ87IBAKzssF0oLQ1mDqE8ySh4c6EY54e0sqmk93F~Ex7kIJ09oVP7G7rtjkI794vpiDXMdWRBOPlb2xyWAQbJjNTIfHblfVcXPjlzjxkVGqaWKG7JBV9HqWtJFd2LpDgflIUb6IboKK8AckIqshrWIP8I~nQePdhAxUs-mhzBz~7I41XhEpf83OzbNMDk1qU8FFTgpGaXdvvJHgaUAebNC0qQo7R4F0y08frMX9tluhX8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i428/article.html",
+    "pdf": "files/i428/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae233/2/m_btae233f1.jpeg?Expires=1796515473&Signature=lTaN8HugYrRft4KaDzyGwlT-RWESF0GYxQK0ujr7tSwSk-Wgv1HLfiXUf2-jTVKycqRaJPsN4hW6Y0qkuEKnawEZtJIyZuQV0k02bgNA38YGA2tuoN4BITXsScsyqvOZa338wtwKfBGU4H1jq0JDLJxLCeSYogHFRXfT96iKnTg5uFZGe6YW28YVJqlxS0XUYf4-aLJ4J7fofdFfSiqiPxHH5m888E4hQseHfoyKF~x28Xmz7kWy5XGLJZtcSGfaLuzmXw7qHzZE4T7TvUj9GbrzuqmIU6cV0hsqo2pSvFD6U52rpVzUxuHvoe6H8L30vtYPJfJ-f5myUwprQLlJTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i428/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae233/2/m_btae233f2.jpeg?Expires=1796515473&Signature=bPsHhQZi22A02EluOvqJi8EmGnRebLS5woL654IJtdnDIEGpB4xkYPrrMkyP5G1TxDR6M3xGleTlMvUaFcCJf-fUfuLtc0wrY0x0rniB32hk0LAdflHVuO27i0Jj8Y0jfBPC7mr2qSGkbefqv3a6jNEDSedcALV8my52xp9vUIcpbz7B0yg8EU7TbMaQxIbdIDIoi2038S0oNQBYOBFdr7gwF78vyTx-QGUirAK8nrRuljzPTGMMK~w7BDm1RcdzcYZFxB0Hd0QcfpZlDmMYG3wpx-wLt7al7S-f3yvUsizCR8qeUjznRZ8aQJrSOec1s3En4UkHYNQUUhUoIpVcfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i428/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae233/2/m_btae233f3.jpeg?Expires=1796515473&Signature=m342pFkJL5yg1RQ9jmtVOqKcVnhpiOuobP3he6I1FLPBr1mMhry3RqwQwDhbw5~0HkBhvncXiTLWnMUsGSqRC5fsFfiKQhXNalfS~BogSGGUbFNtLH92V7-MIkLgusDiUuYZlt8IDGzwQCydghVG5SYGqI~fY2HByxBVeu~kGnYF-dg9-sONQrjjKKpXGOrO3~wyDRHjf7KoIqW8~AYtkzn131Ji7CqjjUS2bPgTCx0ZQ-iUoyvDnrbjyaE59xmXyXDM7xgzUZ98gBRYHWl-sHQaThr8M-RWU4nbsQ0lXidLZZCwJRE27ebbwQdC1WFNIk75iNy7BAAaTCGYGhEKkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i428/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

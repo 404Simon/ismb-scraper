@@ -1,0 +1,161 @@
+{
+  "paper_name": "From high-throughput evaluation to wet-lab studies: advancing mutation effect prediction with a retrieval-enhanced model",
+  "authors": [
+    "Tan, Yang",
+    "Wang, Ruilin",
+    "Wu, Banghao",
+    "Hong, Liang",
+    "Zhou, Bingxin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yang Tan",
+      "affiliations": [
+        "Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, 200240, China",
+        "School of Information and Science, East China University of Science and Technology, Shanghai, 200231, China",
+        "Shanghai Artificial Intelligence Laboratory, Shanghai, 200232, China",
+        "Zhangjiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai, 201203, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0009-0004-7261-1705"
+    },
+    {
+      "name": "Ruilin Wang",
+      "affiliations": [
+        "School of Information and Science, East China University of Science and Technology, Shanghai, 200231, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0009-0004-3675-5103"
+    },
+    {
+      "name": "Banghao Wu",
+      "affiliations": [
+        "Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, 200240, China",
+        "Zhangjiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai, 201203, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0009-0002-3361-161X"
+    },
+    {
+      "name": "Liang Hong",
+      "affiliations": [
+        "Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, 200240, China",
+        "Shanghai Artificial Intelligence Laboratory, Shanghai, 200232, China",
+        "Zhangjiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai, 201203, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0107-336X"
+    },
+    {
+      "name": "Bingxin Zhou",
+      "affiliations": [
+        "Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, 200240, China",
+        "Zhangjiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai, 201203, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3897-9766"
+    }
+  ],
+  "joint_first": [
+    "Yang Tan",
+    "Ruilin Wang",
+    "Banghao Wu"
+  ],
+  "joint_senior": [
+    "Bingxin Zhou"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 5,
+    "R": 17,
+    "h_lead": 20,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 148,
+    "C": 57,
+    "I_open": 16,
+    "I_closed": 7
+  },
+  "lead_affiliations": [
+    "School of Information and Science, East China University of Science and Technology, Shanghai, 200231, China",
+    "Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, 200240, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Bingxin Zhou",
+      "openalex_id": "https://openalex.org/A5090728932",
+      "h_index": 20
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ai4protein/VenusREM",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf189",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i401/8199374",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i401/63745466/btaf189.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/tyang816/VenusREM",
+      "https://github.com/OATML-Markslab/ProteinGym",
+      "https://github.com/ai4protein/VenusREM"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [
+      "https://huggingface.co/AI4Protein/ProSST-2048"
+    ],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf189/1/btaf189_supplementary_data.pdf?Expires=1796404385&Signature=DPnf3cgkbeiDJ6CXcW49MIHFBGupvoOrFgsWzPTd1ks9yD7QOPvVW1v4Qls6qGuR0pToQ0cnNBsaY0GLQnd99mVHVpMeOO17GlYLrJStQyCw87RsgRDTPOB06QgxtVxPOJvQzDxHPRyEUX6hoazZ5HwIhWIP1Ir5iLNGevRPnPhUM-OcVzKTOD-WD5p6ANdC-G4f5qAm5A~kAdZT7TeYnDMH6f1rkuaQib1PdLZgeZdUCmqgG5jx9J4ba2a9QiYv2a-wySsauYiJsG95nqFTkKHAyH56c9TNAemcVwP7f0hAnmpNTSCntCgqTtzGSPaDKnPV6sh0e2c0ENo5~6-5FA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://marks.hms.harvard.edu/proteingym/DMS_msa_files.zip",
+      "https://proteingym.org/benchmarks"
+    ]
+  },
+  "files": {
+    "html": "files/i401/article.html",
+    "pdf": "files/i401/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf189/1/m_btaf189f1.jpeg?Expires=1796404385&Signature=D-9oax8id6Qn5sJBFT~7O2ND55Q5zsKxuVjdu1jwhpSjsSgsoTO~Iw0DEVy6erilPA1lzrw9c3-V82pNt4tGHQMP~gSepD8ljV0AnurP09CwdhTLd0qMgEfiD5WkD3KE~zXvtRjQZGZcbg6erahB~uNJclQiCm~DkKA0QKhuhMA3YZ5O0mQCZgLOON1se8vsu03ASRRmKwjgAPFHGT99EX98vQ5d3gjVHlJj3SzV93kIASJ4Es7YhiAKsA~Z4H3tXPn4t-rzmAF4l91QQzJswu1OBwJfz0tgcRlK8bYw602WGXsZp7woCXHFf~4BVK7HxJTpfA3dV0gX7rP-Wg-J3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i401/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf189/1/m_btaf189f2.jpeg?Expires=1796404385&Signature=dH7C-oVn~023nTq0ySOxYRJQaSECN3C0GY9CfNRZKQ~deB~OmG8PFI3W8yMc8rmq3WZ07pg5ups15ZAs-XPGI7e9r83S6Ga40ZPQ3zExDQfE7FwX1gwEDEc7xnCrsGxruRZYbwJY3Gq2FiMn4HeEXMQkx870oN-aGXy61Tqd43ezbZgpJsUwZqu2vj-VhoX~NeTnFCtfTCO4DrADv46fZL9Ec2M0jigHvtEfEYO1Xf4MgsDYOha6Pw5I-i0relmcNbr6FdOD~ps4ooKJFHcNML3ta~1QOqMLgaUPounPmaie9QVkYXvYn3KYHoUXoQfxY5dYf0VfTgDMPKNIJtpgmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i401/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf189/1/m_btaf189f3.jpeg?Expires=1796404385&Signature=yhhZToMVlaRs88llhVdRVuaFwjUu4Z4kUymuPF5P91I7pDFe9r0RgbVJX7fJtatuCgE75LetLLI3hh9jiuPBMiBTMCKnTFvfDm3-TJPavCoduHMCVIyq4Hvb4RxHahJnzQ6KEMc2r2V~xNxQTmIl7m-9aeWN73zxleKTssEbfYpUKMAk69KcSiRASzplvlsBkk8hN4Aa9czh08Gb3yuNk4BubfEjk0lRiOEVpOZyrcFvxbUKyUmKl5wtdTNNwiQa41gePSX3pzuGl5VCF0AZKhshS8QW5Vigic2CgU0O8Phv3~3RLnPommMwUrxCQXJUZ8oct0-giGce5NNh2aFqDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i401/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

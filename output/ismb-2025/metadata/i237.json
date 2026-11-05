@@ -1,0 +1,127 @@
+{
+  "paper_name": "Alevin-fry-atac enables rapid and memory frugal mapping of single-cell ATAC-seq data using virtual colors for accurate genomic pseudoalignment",
+  "authors": [
+    "Singh, Noor Pratap",
+    "Khan, Jamshed",
+    "Patro, Rob"
+  ],
+  "authors_detail": [
+    {
+      "name": "Noor Pratap Singh",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jamshed Khan",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5129-9749"
+    },
+    {
+      "name": "Rob Patro",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8463-1675"
+    }
+  ],
+  "joint_first": [
+    "Noor Pratap Singh"
+  ],
+  "joint_senior": [
+    "Rob Patro"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 1,
+    "h_lead": 35,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 220,
+    "C": 1103,
+    "I_open": 25,
+    "I_closed": 69
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rob Patro",
+      "openalex_id": "https://openalex.org/A5014584023",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/COMBINE-lab/alevin-fry",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf234",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i237/8199381",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i237/63745515/btaf234.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/COMBINE-lab/piscem",
+      "https://github.com/COMBINE-lab/alevin-fry",
+      "https://github.com/COMBINE-lab/simpleaf",
+      "https://github.com/COMBINE-lab/alevin-fry-atac",
+      "https://github.com/NPSDC/alevin-fry-atac-paper-scripts"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf234/1/btaf234_supplementary_data.pdf?Expires=1796402762&Signature=mNscw1UsMqrWbpfH-6cspxZPCYt-YBBqvps2qXmAjQaMulvQRiEiiY9QMPI3cjgYC6PidmioCIsXxHAbRGSWyjDzIQXw3-52pX7YY13hi7lkJ2trLAmyykvnt5cf~-d3rlGDmNN1nj9~y2fKvewW-lqy6jTQAWvAtFPw8b3kWpjYDSkAyQGoBDm-dIN115bnEM-AYnGEjRuvbxxhGh0CYkTghXBESJnM~yKakfVUBBOd9yZkE8Z3fFnMHL1lCwyizLoUecaZ3tfzomqhlPszQrvAiBIdkeNXP7pCxZNUWL0yoIVPxxQ47sOBpbvSaOROqgMIssyr67lBc2crJ~xsjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i237/article.html",
+    "pdf": "files/i237/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf234/1/m_btaf234f1.jpeg?Expires=1796402762&Signature=Vk1-cTqJ0YHq2gQq7psPDMIxx72YqPiymwsB385JozgMhaJEAF5ADtvXAFjQtwrRM~~AIh69dKB~bRL6dK4W5aiHFK9IRacKCO6QAObjdDBSt2wTRBYBbPNr9PM01Dtfkdf33BCRHgvNaF-I2EepGdPd8w6ra8dui-09cU0PKBUmyjnqVqAfVnXqRRjIx5gnhJfGRnEl~Qtx0kXxPUp4ZiZRcUlDI94wGN1Z6QOTSDaVrl~E0LAiBX4Hu-aBFBQYDolL~uqxLxiY37ysFU03Dxe-fH3OlOp38csuvGpLgZ7HTsJT2xYrH9L9BJnve1L-0tvhbKgpUYEfL0xHGcnu4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf234/1/m_btaf234f2.jpeg?Expires=1796402762&Signature=Rq6tPF5HClQb4h0nepqTbxAqwTP3zd45pwfDMPPsBmNOhmgsQuXohyNOOdf3k39hypq-T5P1jMQ3gTR6qRpXL5zsb9AosJjDBYk5qZZT1grT4xPHJCjIYAU9I3ARqfvD4A4V-PAvm46~~oe5MVhKQazONgyH6omMqVuhEu-YuY2iLSFvZ-xTJqd~ImgGNsNJNeSuOYYd2CvI5Acs24HUIPi2SxbJiO2CzwmyD9X40G4fnDp0iSgOP4H6paSd~bxsV5ikcikfXhEwqvD3etCCSD0DpuXj0E1XTIaG0uN8rPoulZzeslTg9GWq7MiobOafk9LKNvsNGjM6dzhoZcRttw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf234/1/m_btaf234f3.jpeg?Expires=1796402762&Signature=YwMub0T-HaJLjqGnhzIrdiNnB~O~XZucaiVpQWN-OPbsYHvFzfJrG4q71ONfMVBxIWrWQxOLjm1oS9ZlNVUw9qHcFWFAkBUPalZd90JH4e0eZY53C5M7Df4nn0hH6~KURIBQ1UIgsF9oiH6jNOwDy6OYM6wgq3vbz-WVeEoANt~FnG5DrHTIlrhssoRebW50JIxoiwLytEGr3xSuyErJZuyEUcAr5dYYPECy6hGQn8112tAGbCCqYlFijy0GcDxjEHPuUWf6h3iC6c0fOy9dvnuktxvMHKRTA0VKL57AfBolNjyYNql5kr~LzlGm-AyCIRKZUeA8qkmJ2OmAr49xHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "paper_name": "PlasBin-flow: a flow-based MILP algorithm for plasmid contigs binning",
+  "authors": [
+    "Mane, Aniket",
+    "Faizrahnemoon, Mahsa",
+    "Vinař, Tomáš",
+    "Brejová, Broňa",
+    "Chauve, Cedric"
+  ],
+  "authors_detail": [
+    {
+      "name": "Aniket Mane",
+      "affiliations": [
+        "Department of Mathematics, Simon Fraser University, Burnaby V5A 1S6, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mahsa Faizrahnemoon",
+      "affiliations": [
+        "Department of Mathematics, Simon Fraser University, Burnaby V5A 1S6, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tomáš Vinař",
+      "affiliations": [
+        "Department of Applied Informatics, Comenius University, Bratislava 84248, Slovakia"
+      ],
+      "country_hints": [
+        "Slovakia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Broňa Brejová",
+      "affiliations": [
+        "Department of Computer Science, Comenius University, Bratislava 84248, Slovakia"
+      ],
+      "country_hints": [
+        "Slovakia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Cedric Chauve",
+      "affiliations": [
+        "Department of Mathematics, Simon Fraser University, Burnaby V5A 1S6, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9837-1878"
+    }
+  ],
+  "joint_first": [
+    "Aniket Mane"
+  ],
+  "joint_senior": [
+    "Cedric Chauve"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 6,
+    "h_lead": 32,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 323,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Mathematics, Simon Fraser University, Burnaby V5A 1S6, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Cedric Chauve",
+      "openalex_id": "https://openalex.org/A5063811688",
+      "h_index": 32
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/cchauve/PlasBin-flow",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad250",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i288/7210435",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i288/50741389/btad250.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/cchauve/PlasBin-flow"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.7807303"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/btad250_supplementary_data.zip?Expires=1796451738&Signature=S-AgOwRzBs0g5wKsMXm8-eyNDOPy0qUbX6frg4ubOC2DtHgvy5OhpWX7BEmnMfwlBWpocwI0qrm-rXTyuRIGOd5toRw3xLVHJMmXnH7KE0zQ3AJtsXEyycejHzfgQnXwe~1oui0yJ9RXyF~46MuYJKqWfdWAv-ibtOJ9J4DukVtyIYX4LWmuSdlJ03o2ivgOtDgxvxmRZwZJaLoxmkdMaY7jaGkG0azo--RfZ23hSrJkkPLQseUoK0ULCZwLkRa0wALeeUb-PW8Ndb2E0ky~gIsSXKJZbFDRy98Q6meB9Bty2MErBflrsEp7YJ1BH7Bfeae-ramh1t4o3nIUHlSGHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/btad250_supplementary_data.zip?Expires=1796451739&Signature=PCOkrq5HNU3VA0bBVSEW2cn541Q3ZfnGf1kCIQr63Ckm-Wh5Vc7-ff2HzeBcVjrNu3AZkTP-UgSnl4JyaKdBSnekIx23f2dSQ~~D3Dj-5vWBUN7bM8CiLU-TfiiDHsihG1GXrU81FK-uxsGCw6ivryu5HHwl9F7AEbpUB5zxpmKzwR5~m64pFMqBas4~jm3vA71fvoHCj5NnedxZEOGpOt1lFDb-Md1-T8rrVn4Z8XcbVQzb8fKK57rxDEAdfAaCU37SpJg9QKRo-xHKxOgVeRpMYzYxi7WVPTD3YsW0GO2-W1WDaePeaQZqJ2gBlKJFGNz9H0YdTyZBP236K2~jug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/btad250_supplementary_data.zip?Expires=1796912303&Signature=rrwlu8JJ~~d9scdpTTdLC8VDc~3sgSkAPOfUklt6GJqmuwQ4mImPJ--gVQgM4nKNfuZo2qa7sOWnYAwl9F18D~Nhou0WPw~U~RcxA3vQoZ7DFR8TTu4KlKHuzbKae-ccEsRkaaZ5hcr0Xu9Qvd3TaTuykLzvOpIkzfmu0ErJTab2eM2oPQ7e9IwfUzjVNIXdD7TXzPyMVP0VuM~~x4pRMUR-3xRKvxchLppRaEv4sCG~qIYdtmuMyMv5ui2H4qCCEonTte9rivA15ZHwV8BDIAWkcg7DkhBmxfACGl2mNr8jAb1Yss7j0RcLYuVeBMF2l-kbOuLjfjTj9WoBE3ytYQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i288/article.html",
+    "pdf": "files/i288/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/m_btad250f1.jpeg?Expires=1796451738&Signature=38SRG1e3rl9K~SWxPTtRoGrYiGgRyMknMNxeofKbI8MpA~jReecgtDUDxf0NOI2wG4KifZC589NXXcDMl6Od4WgAxiwSrNcPkHvHbAMC2mdD~m~9bJak2GQ4O~i0dsLwoDSUIKAMx3klJambQ1xacH3sVRCIUMCTGBPiwr3oRSgVQyN~oeB8iNeS3M1O-7mCW0Pz5YfEPJLeqMy~RZIbYYZjmcs0UEsmJasZqWhEaBKKe7vaXq29ptA4YhNxRI7xM9H2TydwnUq8QnuNqWepFfs9iKkgM0UrqQSf5CSxDzv1iI10jYH3zIXUae1Frud1zHDLEDLlzUkPAHFQEfu43Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i288/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/m_btad250f2.jpeg?Expires=1796451738&Signature=H7Ee60HG4hg3Wczpe4UvpGXZU48MJUnzSym4cNnbR0iQDdL-OSDiHTq4jeRyOR9semddaPW6DwURw84iho5lgaPDvtv-0zwQNHk0mmXN6FY7G5jSblpGFkUua1IiYishdbJ0Tlw60qQEAeiRaumi1WBgyClBykc4ghL3tKNKOY7yqj2lVc-fkClW2PvacxocFyaDFA7aMQnA6kQ9dhO1G3EGMvhTO7nSPzGGhUAkxcpdRAiGXd5gFKXaT7~Z9l7QfkNLGqHihjL9Ck-RBbIeaJxyF6t~SwDVQlhWKeyNQKOLf5TOzjQ8ZXU-w2y0IcjrdKVBZ7Xg7hHFLe0b1fVY9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i288/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/m_btad250f3.jpeg?Expires=1796451738&Signature=qXSrnB1Hy4GXsWR-DY1Nw7Y-Sw~40UJdBgtcgGH4hMq64fh8EZSdreLcgs7Kmfi3kt2hovFu3X9j0GieFslAgIf6VTiOJ8pRtj45SbBbQ0QrZJL3esaMsmgiAXWJz6C2wHrfCADo6a4pca-g9~UGKfv2nBeQpIn8X3KRnCAAZDHRKdlUXm7m4jXh6y6YexqAtNfaV~cIm3djcKkrkEcGu~EFFo8QBrpM2jBIEZIuFOHKFDOuJadyNNTHb2EaEEnfafBaJ0OQkV8jjjdfbdEMrjniQiC0d4OYO358ljqsb7snsvx0jepxPz9oc5Hn3epvrZ1rECn8JlWvntx-qMwzfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i288/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad250/1/m_btad250f4.jpeg?Expires=1796451738&Signature=Kc4Dl07QN4v~lCd4LLLBWAjGib4czGVvUjUPVKHIk8SYZNQV0QxuCIBFJwBzGmh1Vbv-PjDZcnV-dsPEsZCh3HCUJeg5nMQ1ppzYlUOSyABD3nyuEvrLJAHfUXHNe8DpBI-1EkvRZml13aD4NccNg~HBwxVVZlf6V6kby8ZVFvXYlNDyr6mSs-zdyqW2t0x6u-aXKrli19RoqNLzenjgUkJUZs8CZO0P1xV1ov8KE6Z3OfMuLh9zB94BBIpRj8pjSxOPoUX4L1PXLtAEuVPVF2zbynqrgE4eujqi4AMAiSwFrbG6On8vtDpbN4I7gnNqOgJaTeCzWWzzKR0upE3Z~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i288/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

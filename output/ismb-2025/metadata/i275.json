@@ -1,0 +1,158 @@
+{
+  "paper_name": "GreedyMini: generating low-density DNA minimizers",
+  "authors": [
+    "Golan, Shay",
+    "Tziony, Ido",
+    "Kraus, Matan",
+    "Orenstein, Yaron",
+    "Shur, Arseny"
+  ],
+  "authors_detail": [
+    {
+      "name": "Shay Golan",
+      "affiliations": [
+        "Department of Computer Science, University of Haifa, Haifa 3498838, Israel",
+        "Efi Arazi School of Computer Science, Reichman University, Herzliya 4610101, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8357-2802"
+    },
+    {
+      "name": "Ido Tziony",
+      "affiliations": [
+        "Department of Computer Science, Bar-Ilan University, Ramat Gan 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0009-0000-5738-0882"
+    },
+    {
+      "name": "Matan Kraus",
+      "affiliations": [
+        "Department of Computer Science, Bar-Ilan University, Ramat Gan 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2989-1113"
+    },
+    {
+      "name": "Yaron Orenstein",
+      "affiliations": [
+        "Department of Computer Science, Bar-Ilan University, Ramat Gan 5290002, Israel",
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat Gan 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3583-3112"
+    },
+    {
+      "name": "Arseny Shur",
+      "affiliations": [
+        "Department of Computer Science, Bar-Ilan University, Ramat Gan 5290002, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Shay Golan",
+    "Ido Tziony"
+  ],
+  "joint_senior": [
+    "Arseny Shur"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 9,
+    "h_lead": 15,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "Israel"
+    ],
+    "M": null,
+    "T": null,
+    "S": 11,
+    "C": 140,
+    "I_open": 3,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Bar-Ilan University, Ramat Gan 5290002, Israel",
+    "Department of Computer Science, University of Haifa, Haifa 3498838, Israel"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Arseny Shur",
+      "openalex_id": "https://openalex.org/A5063068146",
+      "h_index": 15
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/OrensteinLab/GreedyMini",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf251",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i275/8199415",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i275/63745752/btaf251.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/OrensteinLab/GreedyMini"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/btaf251_supplementary_data.zip?Expires=1796410784&Signature=cfk9BZHdQrvhTBs6CCxAvNnOQwFDbHjYbzRHzsim0V-1X2~IL584R9vfVVPuhR6yrgHDYUfQgK8HG47ASNLxzqEkXgMGXLQXzb4OFWtV9FqwD0kfKQBGGt7l3-FlCvqCVHqkdsgUk8T5q3QFGfgkFJag9jMjCh~7mIJdbzRXn4Fa2GggtCnZu2ubKf~lRNgupk9BCVzB9wOce2yKcX9a2guQYpyC2nu-llPi7wf9ehM96a-H7-vv4f~srpi43G2zkb~g-lVLaZHKKV~AUDJ3SbVmkDFy55KfVswG36taTQXM8LPcb5h5Nbn5GSL7uuX0T4olyvJshuDHSVn0tmpyTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/btaf251_supplementary_data.zip?Expires=1796899015&Signature=L-2D8EkG9bqGfbvN6kJwDG9CwnoWvx1IVMEEkYRBgwhfd3Sj~GkmaP~eXF3r4G-ORq4EKYg3iH6RCAXOyciW8uqOAy2pEpaX4gotPTLONoCVSBiYZoYrgyJiXanxm05F6eqp1rHDUVOc~XTbnAF2CT-jnVz8A9CAfo90YxVX4EgA7Gijts3CeQkCooCbcJadTPg5OeCKpUZikJoYmrbOKY~PPxVGP1CkhBf0RkZFHZ560cM5m9sg2DhgMWfyvg8z8Pu-TiFY9r1tEcrQRKA2FoEkPg9dSzChppZT6QhfI3cDsTLSFdmmZ5dmg8n9PSHB~KF6vLNSAwfDHQV5sesgjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i275/article.html",
+    "pdf": "files/i275/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/m_btaf251f1.jpeg?Expires=1796410784&Signature=fFF5xtvu91qyUCG05VmFWynGsH4m7NuKun4g-dIO3i0EnDv-NTkxHmIlgjXM6L9WX4tVvz699prhDpD9KTdslFlU7uUa0NmX6QsFqZl53xASYfGYe0pKZzRH50cntIrPKFjJkGvwAXsIstogrFpQggiD4fiRVaMDEeyTFlnd39CYWqs-lgqMxHFuum4~MXYiLfImaKVXj500xZOelJRRvcrZC4F3ruCX7fSuo2Se7hvGQN9xoaROX~dWhcdZl32BdzXXy8CPN05n2-YvY9F9Hht3wCUcMno413Kzu5pZW0XOaGCuPDav9UYCC9KpPWo7Uni0jsrCb9SpgYaEJ3PfMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i275/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/m_btaf251f2.jpeg?Expires=1796410784&Signature=MqWqETbD0vXhQjXmulk0zJrbBtaydRLnG4X1Ri9mDh-Q0j6kNgZoH2KMdpOu2rQrIMWeKz8KjgQOxE0ApY~89BwfOUXs7bTsCzEvCLH4lVyVACNzJrxibPPbW9WoaQVpJeodXu03dTOv7JRXgFzn4-mb~aQQaOqHhacOng5UjyPBBscma0mlAiJ~Ns5KVJmtU-xPPrylj2CkWf2ZLDLXEJs53UxWBY8Q7BuCw5K~nTEPb4lqm8lUsdFmHBPxj6B9OpYVr3LVMAzkFtKEK6JqUiRGxnO101woqf75mKuVIiG-D3VZsRrgNud3Rc4H7s37LcUpBv7aboqT589C1sicdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i275/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/m_btaf251f3.jpeg?Expires=1796410784&Signature=gAywRXrGK7H1Y-WIvnbhHfMCA3KXMt3y2sSzGZDA2mLO~NdDOzfoV4BaBblBTuVuFsyUS60YuoCN6eVCpz4uy7luxIH5lhdNZ4hUH~hAMb3W6eYlp8H4IX631BVfTQmLFJwSVm5rSSRrVgCpXxXUrB4A3T-OBPdn6dFpVs4JrNdVTnB5Of~TOvSMbWZrElBnY9W2OjLakv4tTdKZyosl3xvnNPJ6eleBuGYA3fCgbFWq-lIP4uQ32Vw1uR20NxDFcdN0nTwXTloKbagS8beWXPdt1v9ikTUHuXoVgRvxZkQlsQv6GLd7dg2qOo-wuvOyfa626Mh48zfhBl3~a-MWhg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i275/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/m_btaf251f4.jpeg?Expires=1796410784&Signature=VoG0r9Wvkb~pQc9Yc6-owkTiJs5i8OILZYk9zMXxZZKRp3X~0A1cc1OExYuTmQfyr8e7k6-ixHR7BPk2o-YQTDsD2hWnPh0OBZ3yRFBEXQLtGtd~rbXQePsMG~9w9RLIL5YO1zDgxoeVhrXdx-lQDve3haVj9AM~fClR85QAIGXbdabiGn-~U650KbaTtQYwcLDF3G4VAd-GOyXf3NXGi9fA-W3YzpkAWYaWgV3HSZlzJbdcd4dQXD7rf07u4yj~xuA9j4W0dBD2AKpf~gQZdBMITuOVninMGls-8I--WEH1ENdexrOa99Nujk~5WBNv9y62PvlY0qZ-1hMTbg13bw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i275/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf251/1/m_btaf251f5.jpeg?Expires=1796410784&Signature=SlEg6EUi2cYrWZFupaWYuwvwLB3d-hNsGlkkVP6i~YuYJaFOiDAS~n686zqjYiUx4o18wCxkVY6cSJCf9ylLpSVD-A7Ejghga~BLQ4TLS8gWYqoA07xI53AIbp~jpASeojXFwwKDNVNmEgqair8Th5qmdfkkVkgNv06E5P7sFOD9WaCWeSYxA0tXosJMffyAy0DILgbIRYRuM6VPZhnJFOzUsF0gpwb6Q73TXByBA4oYbGZ6dFVXPcG3-0Zty8BVgdfu-zEtgkXh4fknwu~50Q-3Ydd76Qzn-SxyhQ0MppxOYhVVig-iQon-MXZaNUKoJeoJtcN3AQyakQQ0AvNMIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i275/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

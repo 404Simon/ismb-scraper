@@ -1,0 +1,169 @@
+{
+  "paper_name": "Unveil cis-acting combinatorial mRNA motifs by interpreting deep neural network",
+  "authors": [
+    "Zeng, Xiaocheng",
+    "Wei, Zheng",
+    "Du, Qixiu",
+    "Li, Jiaqi",
+    "Xie, Zhen",
+    "Wang, Xiaowo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiaocheng Zeng",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zheng Wei",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2060-7486"
+    },
+    {
+      "name": "Qixiu Du",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jiaqi Li",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9038-9010"
+    },
+    {
+      "name": "Zhen Xie",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiaowo Wang",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2965-8036"
+    }
+  ],
+  "joint_first": [
+    "Xiaocheng Zeng",
+    "Zheng Wei"
+  ],
+  "joint_senior": [
+    "Xiaowo Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 6,
+    "h_lead": 30,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Ministry of Education Key Laboratory of Bioinformatics; Center for Synthetic and Systems Biology; Bioinformatics Division, Beijing National Research Center for Information Science and Technology; Department of Automation, Tsinghua University, Beijing, 100084, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Xiaowo Wang",
+      "openalex_id": "https://openalex.org/A5008093795",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/WangLabTHU/combmotif",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae262",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i381/7700897",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i381/58355061/btae262.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/WangLabTHU/combmotif"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/btae262_supplementary_data.pdf?Expires=1796484116&Signature=pd1lxVm30LLCfEm7LtdpO1ekMFrUlTQDcYFQA5Cf-Xc5vhqlSVyIrkGF0BF0CaXmLRCHML9VybnnagJURUk83RDVm0C19ZLLD0SU1mUcwVcoH23jc2El4Ohh7jQJSzRHBM3kxfJuDi~SW3nT4Udq64TpwNYK7QCqa2EMwlP4DYzVGKNOdz1QQrhc8KqX25ceFGfiTtUtT4yJSocBao4sfV~0oDCNXo-bhBd~xkb8OhCai46MNPCYUFWnw3EymLA6ZWaQIafs80JO4aPv995iT2iWbzdVJAMJWOz5K3QBAUUNSFcjUt59xQvnXJ49CZhqu2XvjqegKMpl622tZCBSIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i381/article.html",
+    "pdf": "files/i381/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/m_btae262f1.jpeg?Expires=1796484116&Signature=CZikTFPUOJ83UqrjHcbKHM0RHULs~MsgAK1oJiEBOoxTl3VmDuuNi~q8GLVKTVFVxZanRPcI6PqghaJJicsB1XoC1Rem1kp0DR-OeQYpStB4Kkol-Jj14tqf6AN3p0NXLKmGU~OwAclHuAfFTqXpozzU49E7FavoobUWlOyLq4pjcExPPXQwShU8VWHSXRcpBqshZakvkRHGnINDtO3kByQxG--bqCPw6xmcGuBzzh28G3OvH7n5YwhjUxoFuBAycDzxKWLscUC2Dp1z-X77T9OlwdcEqcBTMOILoE28KhA0Bu54dUtEmdjCZyFILPZGtMbfPz2vffAmh7DMAxYsPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i381/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/m_btae262f2.jpeg?Expires=1796484116&Signature=dSUy92fReWEvC8hNCX~T1JdHMJ8ocHbvlGHp2gtYsMtERd~ymFrYFR7kDtCC~7QVgzpG5VojygsVAQV1lCxQeGK00QANBHkvMLDvXwz~2LgJzAnZGx~PQvDG6nAOIORoBG3kBaIr7PLAOnt5gDBhK6HmMH5EubYG068DiGbqWHSPC3Gy96QrpFKX8AsKN4juA3y5vENnppDlIBboOex~OnFAhR7Hz44MlgZtHI-lsXLJ9OA9w6UIW4OhvtSew4ydpxc6bI6W2s5tjfRydnPn9cSAbtkhYR-~keqwJPP-PfBl43cyuVoGnxaPlJOFsUvmoynACEnvs4PrCfl0wypRDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i381/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/m_btae262f3.jpeg?Expires=1796484116&Signature=TuMeUHSHY2CLe~kLshaGCjPWX7CT~ulRfhMvALO68wH4wPDHzP3Wjw6RvPEIuqvgjG4M8KRv0io6hQXeytLSPIxzSjBn3Vu6WhI-53e-QmHyJ-wdTtLKa58L4F-nxHn2X2I2~cwl5zlVmGrvtLUrWdwee~8ARhamXcWV29Fu2q5rP2gNgJPxBrHgkyonWbaQWIptMTQqkJLe98xjqXpjFZfD-8-vPP6XDjC~1llx0vJDDnlolyHIlRBGvSSzGO~YF5W3gOXri4JFqCVXpETNdknY1xkj4jpYBpL9jmUoyOQCXGhkPR-eWgCjGZR8k1UaxtfGBUr1d4-YlrMZtcDxfQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i381/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/m_btae262f4.jpeg?Expires=1796484116&Signature=FKCjw5WpFD2U4lL3YLrtwVQLCNnlgBXlmDaPAyYCeBNgO3EUte3evIdxP50vQiTSVYNcbFFokAfnLyFg7osC8C1ZGWR1wu-dW3OiaZuqjaD6N0xhlLIfKMbKl8cp0UnHELM4vWnqSymHug71oBhdTg4tWceXIiTu6wVw1gQpzjG9gdPxuMOCdPJfmbYWIRukzcn5Uvn4SbHMt8jS8Ioq1MPrLkB~dV6xRRDYvWNYUNSJcegyAM0EmuD3HqvoKuOCJ1d3WeSqyN4JWS9uzs5hafYsoXqfgHCPQPCHcm9ktpHK17du6cI3M5koZvPi1Kth7lI6~k45tVoVXv1XrLRcrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i381/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/m_btae262f5.jpeg?Expires=1796484116&Signature=WVzECevVhQevglrd9sAIuaRXTL9LMymdT3OHdGAkwJ3rPebccT426FTxkZ6G~BdwCAzqYh1BZ0jhEv~ySkxM8yf8D8FZy6iWrDpeDkKpJRkRW7Nlc8EwheEs~MdTwTohX7splF7fxpwTBLpmUlb9~wy4IBB0L7qPdBBrtUxXS1WzrrAT48UmhXOwm9wglwwNgETEeyfthUMO1UZDXJ2X0HAy2nccYwC6pAwtijlcUic8JrG1s9WHORIc3lcPOWZIuL9ZDuIl3ZYKZMX5wjNVnbKf-40Qz6yKXspCqd3~Ksgvd3SG4~L8WtyBf-ZHXLwEAcN9tnvWPS8fYM4CHmOWZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i381/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae262/1/m_btae262f6.jpeg?Expires=1796484116&Signature=lPxc~tG8vP6gj~3WNmnNaBulp3XfRbiRTAO2yy3Hj03vjZeBORiOv4b21yJALsqMXHPmSP3H3c2mCGFEDPkkEMOcCk2MKZzbBkq9OIUNabggzqQNmBgRqS7oSCbmTiYWinD9dU39Ou-dgnvrAb2Wsb0zxtyZqVA7HrJ7ZMB90mPDEeBUBi0~60JNIEivxRXuXO7EbDKmYunlBg22WO9Zff5xUGv6MScqK1SqS5J-UIxQf82bvwhU4VVRD09~lwhNzMJ96mI55ZviMLWqbs4CVJHtt1E6nL3RmPz0dsX0XuWYHMiCri4-a6R60OlJbUjiADFv5eqo8BmsYkcd0iP4Lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i381/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

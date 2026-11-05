@@ -1,0 +1,146 @@
+{
+  "paper_name": "Generating synthetic genotypes using diffusion models",
+  "authors": [
+    "Kenneweg, Philip",
+    "Dandinasivara, Raghuram",
+    "Luo, Xiao",
+    "Hammer, Barbara",
+    "Schönhuth, Alexander"
+  ],
+  "authors_detail": [
+    {
+      "name": "Philip Kenneweg",
+      "affiliations": [
+        "AG Machine Learning, Bielefeld University, Bielefeld, NRW 33615, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Raghuram Dandinasivara",
+      "affiliations": [
+        "AG Genome Data Science, Bielefeld University, Bielefeld, NRW 33615, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiao Luo",
+      "affiliations": [
+        "College of Biology, Hunan University, Hunan, Hunan Province 410082, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3914-359X"
+    },
+    {
+      "name": "Barbara Hammer",
+      "affiliations": [
+        "AG Machine Learning, Bielefeld University, Bielefeld, NRW 33615, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexander Schönhuth",
+      "affiliations": [
+        "AG Genome Data Science, Bielefeld University, Bielefeld, NRW 33615, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3529-0856"
+    }
+  ],
+  "joint_first": [
+    "Philip Kenneweg"
+  ],
+  "joint_senior": [
+    "Alexander Schönhuth"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 8,
+    "h_lead": 30,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 164,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "AG Machine Learning, Bielefeld University, Bielefeld, NRW 33615, Germany",
+    "AG Genome Data Science, Bielefeld University, Bielefeld, NRW 33615, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alexander Schönhuth",
+      "openalex_id": "https://openalex.org/A5001148638",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/TheMody/GeneDiffusion",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf209",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i484/8199400",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i484/63745659/btaf209.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/TheMody/GeneDiffusion"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf209/1/btaf209_supplementary_data.pdf?Expires=1796426099&Signature=hQdp8ni9VFWBn19-qEk8a5e6ywTO-VhkiuxIEVyjYCu5n11JBkmf1n4CA82alITAqNy-N4sn44fW5rlA-LeCnBjEr6srwwlDergNDPMObdRmWOisVTChiUMvR0ILkyWh65aoCGyLVgNnBkAi8Hrr9k8KEs8i0Anfb7I8my-z7b9QKwvdiflVJkyOI0EyEWfe7NWwTghPfuXPK~5aRYa9d4eWYR1-hopMPEg8wO0Fv1r2x~jl~MZ2QtEoY6S4RoRwLkvBQerkJu2E82xyiUmq9S7~NjyLluAgE1jVP0pzbO0jcIf5ZfqwbPpL2WXUMiHRgE9O7Ofk0UWvMf18RxvYwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i484/article.html",
+    "pdf": "files/i484/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf209/1/m_btaf209f1.jpeg?Expires=1796426099&Signature=WpKrJJVShpmpv0~sZrcbpKLreNwVzokgbFNMgR5pNdHJUK0zbdOkUkvMz~XhEdlAcR01s2hkUKG7uRC4HQBywuCOWKSuTptTWR08a4DhdWsCiBAoVQUaWU5hGa5KTC8Mgg4JFDfN9gpUgTfCnyPxG0Cz8ArHrSOEbbeLswivKDkwcRsxPpNBMMz3IQLe3GGvC8d~iZ7kIcshnSmbe-6bTqJgbC5hOsUo8YPppfA7Fg3gikAd0yNOsDKuR7~1rFdNxE9oDeSDXYu-E02mRKzlXD6-aEdwNOUHJNFaQV~Y0Rz8bgfj963ICJCT6fBbVRNEhFcQ83hEEzhnQU59Bn9gIQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i484/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf209/1/m_btaf209f2.jpeg?Expires=1796426099&Signature=TCfu2CrjKvFXHMSWI~2nvJJIDn3yvSuCfuW5GV4j08MMr9wZWHWEHJplmk-NY9rIbA05~2NKDzxeuZrjTx6xdihshPbXiKjJlCR-9aHCF7stzrxnwV-4iMQ~M3alr1T~b~cYmkkbiggYc67QNbHO8nWZiZnQTcMSNFAdpGJ-vc80xdBiQfbyDGz1aIKEiiRzOgrmH4H4oeq5I6dPo7H1bROAaWk5Vws-Lsc97H4NdllIMbFEiRBGK8j7RPsXJdjZ5u1fw7ZdLvdn9th11-ZfoJOfMT1iIuXDh-Fn8fuP4Ryp2jq74V4mD7BQU1uCRW7jWDUtz-Ci8isaOSELmcSwXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i484/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf209/1/m_btaf209f3.jpeg?Expires=1796426099&Signature=xDpc3Jd~i6JnkS70vZyFkSdZHi9487gOIvfRcr1kaFB8JdrolKfWEEB~asIcMvHwtzb0l8G9ApKER3tb~m9pFgR0Uei9B6EdLSFybgOL3jcaXUpOZXFYCPSMWSuRAK83op9~auDE7ZYsFeuuyG8Qu0CTuXx1AVuD6-7tN3Ii8dP8gBQP3zoBL4BwTV-Htqzk9qMvfxbIRZabtMHXwbiEFPv-O7c3P8t6CEQ2bSVvp9dVMTlxgpmydidvliIwyxBsRkB-2DFkKepBTZvA8YsdACFLCGpZnF8B3kAUrOiHH7SZuXxhyAh46k03BMTHALcK5x~wOfMEaIe2GX4GZ-vqGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i484/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

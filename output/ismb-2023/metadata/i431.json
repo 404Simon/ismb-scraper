@@ -1,0 +1,161 @@
+{
+  "paper_name": "Foreign RNA spike-ins enable accurate allele-specific expression analysis at scale",
+  "authors": [
+    "Mendelevich, Asia",
+    "Gupta, Saumya",
+    "Pakharev, Aleksei",
+    "Teodosiadis, Athanasios",
+    "Mironov, Andrey A",
+    "Gimelbrant, Alexander A"
+  ],
+  "authors_detail": [
+    {
+      "name": "Asia Mendelevich",
+      "affiliations": [
+        "Altius Institute for Biomedical Sciences, 2211 Elliott Ave, Seattle, WA 98121, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Saumya Gupta",
+      "affiliations": [
+        "Stem Cell Program, Boston Children’s Hospital, 300 Longwood Avenue, Boston, MA 02115, United States",
+        "Department of Stem Cell and Regenerative Biology, Harvard University, 7 Divinity Ave, Cambridge, MA 02138, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aleksei Pakharev",
+      "affiliations": [],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Athanasios Teodosiadis",
+      "affiliations": [
+        "Altius Institute for Biomedical Sciences, 2211 Elliott Ave, Seattle, WA 98121, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andrey A Mironov",
+      "affiliations": [
+        "Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University, 1-73 Vorobiovy Gory, Lab. Bldg B, Moscow 119992, Russia",
+        "Institute of Information Transmission Problems, Russian Academy of Sciences, 19 Bolshoi Karetny per., Moscow 127994, Russia"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Alexander A Gimelbrant",
+      "affiliations": [
+        "Altius Institute for Biomedical Sciences, 2211 Elliott Ave, Seattle, WA 98121, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Asia Mendelevich"
+  ],
+  "joint_senior": [
+    "Alexander A Gimelbrant"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 5,
+    "h_lead": 26,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 28,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Altius Institute for Biomedical Sciences, 2211 Elliott Ave, Seattle, WA 98121, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alexander A Gimelbrant",
+      "openalex_id": "https://openalex.org/A5046221843",
+      "h_index": 26
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/gimelbrantlab/controlFreq",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad254",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i431/7210455",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i431/50741545/btad254.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/gimelbrantlab/controlFreq"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228009",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228002",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228003",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228004"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad254/1/btad254_supplementary_data.pdf?Expires=1796414347&Signature=zm2hgC5FA3Gk0taWXzngVmSKvReFIYbUYSXjS7NoVYW2XSd3ugIrTUl3L7twDgZ5UVjPCoTy-ybmFZTaqqcqqIzNKbusykiyxsCfMONNffaJsUpP5tQus0ghM3tO-DyY7dEJW0FE4qZ2ER6tcwys9UHfb7VUkcAEIpCgPIB-R4EjR98nZx0iG7L9pmylPtczH21xl1vs3wmWJFU3uP3zd0C5h0EIMxvSCNZUN67CI7x1X3ub-aRj5LjtJxTAwdT03QENkYaTLpY5UWrsdvwLau6t7EqOa5IHvhs1LeRV1Mkbxe~RB~QBjAyFY6QicU5uF0XCwtMSzKrhWKfBYLEFPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i431/article.html",
+    "pdf": "files/i431/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad254/1/m_btad254f1.jpeg?Expires=1796414347&Signature=Y93x-JZYYTQtHaVOoo~uwmJYDGQAg~GO6INwm6h3s1MXRZxRwx5xluKWi-dACqOk0VUIxO5YQUwpcFTstcDzbxofsYhSy0tJU9kXCA3~SfA58m6rjSjHtW4m63OxtA277vSKjAHERsU0qQQfs-i3Ghf3iIK328dbsgazXj-u9enn4gw1ws841aGvSW-Cfj4pxQIPEpHv8aecBB24yO5yDdVCBF9KI4CrVbvf-4IukQwK1QSTnOMyScUfsdsOyvxwYIWaNxx9k-V9HANX46u3xdaXqgF3aDBhQhiVqvqqbAvZjGlJ4J0C~GvXqz4N~7V0tJauoFOEoYfu7YO17wbG1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i431/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad254/1/m_btad254f2.jpeg?Expires=1796414347&Signature=YZdmiqotriI1zQ0ezpfe1GmDkV4KvqG5WoXSqsxsgthU4ZNAbNxMBTGnbcMKwt4uUL27AFyJLz-HbLqNBaaQPMAnb0HqIRhFI20~oNmu3mE1El3-y8Ivp9cewhqJ7xQw9JdNzscrZre1WcSz9mGlXAWJkzg6nMbkgY1P90mYkmoDVxNZgyl1w2ZCCFUY-w6N4Jitqy2PKEgzIOVLTrXUh0K7tHZMIh~yqjSIrrgEtPf~vVgWGhvSQptGfRZTVQdgvzz1joo~CTeikxraeIIAT0T7uUx3OwrYG0qW84rqLU4K56pUpURy3iRgf0LlkBeCW4HpTEqxmGIQTIoRl2k0gA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i431/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad254/1/m_btad254f3.jpeg?Expires=1796414347&Signature=OumQcsURd2BMJYV7VUqkld7jSXylEHQPenK4ojdMnfaZeJT1DhfTgtV4ZmXRi6fEvz1IZDYS9QyqtOuo3ZdWrKRRUknplA-TGD4RWBgHHHfQM3LRJrTxDUarvL7tON1rQZTG3nsBLe4r0qjf4V3dP2awkLueDukIxv4jM-A87f40bAjEMqYXftj5MC4sx4OY7n8CkHf4FSWYjCmIKBeoxWdvIpSha-9pc4LdvPBmgY34pA8lIsK3LJxSQOjwQlgEYpWifjJzi37MCKN2TfvGO7uQmVN2m9uIGP4uFANgpA489wbEXlrK0w0mWXIr~5lHwGa9ypob1TafF-Tv8kO-qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i431/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad254/1/m_btad254f4.jpeg?Expires=1796414347&Signature=JGtjvfNVIm7EEd6cRXcYqfBmTO6j39DuzVa1btM-KQps~ZkGuXI5M5QedENUOA6gbpI8UDmBaprSmu5GVKuh38oceMc3PYKtKZmts7uJxIaNGJL3FjXsFQHPAvKhc560HoO1Mrmu~kfCTvNLnzoosr~hD7TS24NNZZlkUJhOpZ70w3QpX8v7yfXKVqiz8cqHtZ5kpD~ueEhmnEDrlqAvMhs-N-NvUjZ4repMlPsfqXICGC2Uu7ARAW8LtPBqdvi7hIphZUcYYBdghYyAcUpCg69Ij-hWVdLeTwddcyQzp3PHXyG56ov2lkUDDkFdmKq8OEgqxe0vfPDsaKA3hU0RKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i431/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

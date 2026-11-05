@@ -1,0 +1,152 @@
+{
+  "paper_name": "Cell type matching across species using protein embeddings and transfer learning",
+  "authors": [
+    "Biharie, Kirti",
+    "Michielsen, Lieke",
+    "Reinders, Marcel J T",
+    "Mahfouz, Ahmed"
+  ],
+  "authors_detail": [
+    {
+      "name": "Kirti Biharie",
+      "affiliations": [
+        "Delft Bioinformatics Lab, Delft University of Technology, Delft 2628XE, The Netherlands",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden 2333ZC, The Netherlands",
+        "Leiden Computational Biology Center, Leiden University Medical Center, Leiden 2333ZC, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8274-8439"
+    },
+    {
+      "name": "Lieke Michielsen",
+      "affiliations": [
+        "Delft Bioinformatics Lab, Delft University of Technology, Delft 2628XE, The Netherlands",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden 2333ZC, The Netherlands",
+        "Leiden Computational Biology Center, Leiden University Medical Center, Leiden 2333ZC, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4615-1309"
+    },
+    {
+      "name": "Marcel J T Reinders",
+      "affiliations": [
+        "Delft Bioinformatics Lab, Delft University of Technology, Delft 2628XE, The Netherlands",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden 2333ZC, The Netherlands",
+        "Leiden Computational Biology Center, Leiden University Medical Center, Leiden 2333ZC, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1148-1562"
+    },
+    {
+      "name": "Ahmed Mahfouz",
+      "affiliations": [
+        "Delft Bioinformatics Lab, Delft University of Technology, Delft 2628XE, The Netherlands",
+        "Department of Human Genetics, Leiden University Medical Center, Leiden 2333ZC, The Netherlands",
+        "Leiden Computational Biology Center, Leiden University Medical Center, Leiden 2333ZC, The Netherlands"
+      ],
+      "country_hints": [
+        "The Netherlands"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8601-2149"
+    }
+  ],
+  "joint_first": [
+    "Kirti Biharie"
+  ],
+  "joint_senior": [
+    "Ahmed Mahfouz"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 9,
+    "h_lead": 35,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Netherlands"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 8,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Delft Bioinformatics Lab, Delft University of Technology, Delft 2628XE, The Netherlands"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ahmed Mahfouz",
+      "openalex_id": "https://openalex.org/A5006562407",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/kbiharie/TACTiCS",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad248",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i404/7210442",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i404/50741454/btad248.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/kbiharie/TACTiCS"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.7582460"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad248/1/btad248_supplementary_data.pdf?Expires=1796495471&Signature=q3en1TvAH88FyySE3rfBYDC~CXnW8BgOlFBJ92STv0-ONWBU-Vp4xFEuD~Ys-f--m4yc-2eUp5aP1NLSloRsWU-fN8pWoqtWrUfV~WQ8CR9iUpMymirN049WkSzMZ4rnWBGsWOdvgOMV0uHUJPgb3VycojXccokq~8oVDvH8cja8ec0Ijfj1r6rFGN9WvzCpX9VozpSRuJU2QoSTwYRRqq3S~hauOTvKQotT~xaAh7EacOsSbZrfqm5cx5aIhMxNaqh9jWJJkKNsXE63rVsTwfGuFU9xa1~EIMkK3GkSlbUd8MLwc-4wGpzdSYVB6UWNw6XT55kaoPu2cA5FR9RWKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i404/article.html",
+    "pdf": "files/i404/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad248/1/m_btad248f1.jpeg?Expires=1796495471&Signature=5H5S9EBzHFMSGmzr8TCtFwPYLjZ~cRbcm6cCAv2nW27P17eaw-RuRzRMVKWDfNSBshESFO4rJvGHPdAWm2H6fRXVGqUQzc2qs2us~-fkCkIyrbrlL287Kl1XHgkgQfTlHnRKtA4UsJSQkfGaEBaOdkk0IA~u6dzp8AbJI2442KrRG8pCzBQoxUAk02MXnb0ayQqjZglTw15YQDibALWeeuKZgpYvg0zzXcqisfEb5lyU87ZRE3Gqymfhc1eO-NlplaJSEjCVZV64~5FzBpvcXLAcXHsBmSrLdqPuOCDuWr7C5UWr9nCVQcIhumqZ2Wm0tMwHvQVPEYnJ3c3ygZWxAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad248/1/m_btad248f2.jpeg?Expires=1796495471&Signature=D0eZ2Do-h7PM9~dWuKDwhLPiGTigNLiDlGqJsSK~kcGPNc6M8uu8a-vcd7Te3bd1myFMovgbaZjOD6AxS14tp7uvcB5o6p7eAlF9IE38Mst5SCnZNJQ2h4gO1co3z9smBeb28g~sAVUNHfg856NClwIP2cVtuHevrFjcTh4uoF7wH3g-STYVvTk9KRi~O9a6ifQ28xeC4la1tXmpN8Y~UTSCduPdk4DyF9UIKr6HWJPJCfhcP-aQtQ3CAbmjttria0zyeOF40oG1JL5y9MScp0fSxxOSJoWXivzWEBIJNmUoxFrUWq~xvvKtvqIsIbc6GqelrzZvm8VQfFooM5fcZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad248/1/m_btad248f3.jpeg?Expires=1796495471&Signature=AFdTEICsViEhyLn3rYeS-1GuqwhVoYBijOEmKEaE7xeh8MUERsVT2kOo-TLOxX-VuEPNqKTPtdDrkVsePpUbSBUaTKI1hUrV~RZq1QjaKz-KfjLyvW2rBQU6-u6JPslBr8iWX3ZrpeDp9cCbgcqAWvh2QP5WcVAHTpOvRKv0sYBAOczEtbQMlQX5MEmciCWGkGcnEv19MbcpwI0NmrGTlUOTgT0OzsrDexzSjedX3-0QRy6JgV3hEGCl2la94TQQiDquWlNtFOX3p5PJ~~mtz08aHhER6Tb2k7PK2fD1-AQ0LRteIyiL~WlCiqtrI1DrbYQerewe38W~l32TCSpueA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad248/1/m_btad248f4.jpeg?Expires=1796495471&Signature=t2h5ejkxpe9NQDF6psKoYtOUU8WVlh87LZg~N3IoWmfw-yIV6osE4H1qI73wVyiwSTyJdR0bU65BGCmFII7gEYsEKqQ0kwiHxKMSmGMjlMzb66nPp3usBenHkrlE~DBmJaU9HxExUbrU47ok3F0IBFvZvVz77fqVf8gUASiWLLXq8VeNc5hUwLooNgUYvAvuZChQheTmmDlsTJevD7ubzUvhJ8HVf4vNKSGfUmkjkhRM5HJyIFnuqfk0Na6kJNO6kQTeMD4W11sxbSmqbWvGP2ApWnhW0L4k1oPLCeWHOF8q~YTNKwseX5TzSgFRI9Y~egtf7yat7PMXpnjvQKdKSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad248/1/m_btad248f5.jpeg?Expires=1796495471&Signature=nMBRIb0UJgBWLcw0eYW4hWNbWr2dqBPLJ71jNefez2SdktP-UiRFRq4Vz6bblntVqDwVX0tGQStX-y719YUxEdfLkX0-sKDEY5vnFTppKlk9isq7rodGMll4RM1SForHqRRGseT49MwDyI8oK7vInr24AJITq-bQsr2WLQlo1zIn6bc1kdj61AvBQ4cs0ZBcBCkBNK4LYZ0xqZ-8go-pTuQBNkp8UMyevM8vP4wTrytrH0D5nUgzgAF1RYZLNmPiuPmVaL0SsUImKRH6eeOqKyEJTXRPkcYmk3UwY1WIfDaleIOBUV3ri6T3pHgVdZgSUxHjAcU30bwt7Sngo2d76w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

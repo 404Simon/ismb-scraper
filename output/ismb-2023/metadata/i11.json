@@ -1,0 +1,159 @@
+{
+  "paper_name": "Reprohackathons: promoting reproducibility in bioinformatics through training",
+  "authors": [
+    "Cokelaer, Thomas",
+    "Cohen-Boulakia, Sarah",
+    "Lemoine, Fr\u00e9d\u00e9ric"
+  ],
+  "authors_detail": [
+    {
+      "name": "Thomas Cokelaer",
+      "affiliations": [
+        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Plate-Forme Technologique Biomics, 75015 Paris, France",
+        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6286-1138"
+    },
+    {
+      "name": "Sarah Cohen-Boulakia",
+      "affiliations": [
+        "Universit\u00e9 Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique, 91405 Orsay, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7439-1441"
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Lemoine",
+      "affiliations": [
+        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France",
+        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, G5 Evolutionary Genomics of RNA Viruses, 75015 Paris, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9576-4449"
+    }
+  ],
+  "joint_first": [
+    "Thomas Cokelaer"
+  ],
+  "joint_senior": [
+    "Sarah Cohen-Boulakia",
+    "Fr\u00e9d\u00e9ric Lemoine"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 2,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 21,
+    "h_lead": null,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "France"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 14,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Universit\u00e9 Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique, 91405 Orsay, France",
+    "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sarah Cohen-Boulakia",
+      "openalex_id": "https://openalex.org/A5067733747",
+      "h_index": 24
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Lemoine",
+      "openalex_id": null,
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/fredericlemoine/reprohackathon_ismb2023",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad227",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i11/7210451",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i11/50741522/btad227.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ncbi/sra-tools",
+      "https://github.com/fredericlemoine/reprohackathon_ismb2023"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/sra",
+      "https://www.ebi.ac.uk/ena/browser"
+    ],
+    "models": [],
+    "containers": [
+      "https://hub.docker.com"
+    ],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i11/7210451",
+      "https://ifb-elixirfr.github.io/ReproHackathon/index-en.html",
+      "https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology/m2-biologie-computationnelle-analyse-modelisation-et-ingenierie-de-linformation-biologique-et-medicale",
+      "https://www.ukrn.org",
+      "https://www.swissrn.org",
+      "https://www.finnish-rn.org",
+      "https://www.itrn.org",
+      "https://www.france-bioinformatique.fr",
+      "https://biosphere.france-bioinformatique.fr"
+    ]
+  },
+  "files": {
+    "html": "files/i11/article.html",
+    "pdf": "files/i11/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad227/1/m_btad227f1.jpeg?Expires=1796403543&Signature=I3XNQRdm~xeNuBWqk3nOp~osyNp7jTSZ~6IA4BOI2bsIoJh45FdRmRAHd~OoAK48cDoiD8nafTO0sYD3aZBdxOAOBEddJGDl8~a5sJNVm6o-MAwz4qlGXG~QBSGKKAj2sCKhJ1FPLqw7rp-1avbkCc7oJOMneXIhy9lQ4~jaZjWq-NVXetz2BJumvgX8LdZJpSOh32~I1IST7OAEtfCYRsE4CHaEe7FXofOU54wIYtP4zr2ZcpKlTV5WwE3qz9vv1qkC2E-fhZ0GyAYO9zedIpL6RSJAA9PKMmtAaox7sZsKZFDyXxI07p-X3WxdkLIIKcA-KHqvXhWCV~AlSIA-Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad227/1/m_btad227f2.jpeg?Expires=1796403543&Signature=RCL5gs8hy5-jpd5F4m6hEGvQ4th6F88~AUVJbyPEn51OJKvrXksdtbXbMx8c-6b~1rSwCFB2iNz1wvFDaNXpX9w45EsbgkWVyfvO9zrJZoDl72~0Bcu5MWzWo9o8Nfv7L28UD-f~P9r0ggaIhqGnfJfZ0ovFLKBX03gIUhbE7JyMmNC6ixCHpKwKn5VtGyKDPHe8SCLeFeSBDpFDPgctNxHRT9QkJ35O4E0EaM8D0nGc17fQwk4WdvFkPqU-uyPetXUT-wtiszJUpXNotOwdHEBC~u2GEQA7Rd7I9Fu0jGZnlGRDAhb~c8N6a2wgI3kCPQSOpMFyOiSHtcoCWctBag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad227/1/m_btad227f3.jpeg?Expires=1796403543&Signature=FTw-KfAuQZgbTALOhDUQoB2METYhsxCvV-Tak4l58CcPnSSlVgO1lerDvSmGz8f-Hze7Pnx7Qxn~uhdSZwsLvbY5oixeUblMOWmG5uifuGLyXTq1xLVzRRjZKKun639odoGTBVFqcUKuyZUWjhZL8AOblpkEqn-LjaToNuY8Sj9DekOlyrUJj6rvfbMq8YGkN5O2XjRflHHtoHs42~mHI8dvgq99klIsFvnCydQ4WhS5I-LlL3F6J~kGiDIdGYsWuSJgbfUy1AiRXTKFU7Mq9Q5cUyzCVzgROftju8oOXn60q5tI1H2Va~G2KIkTUuImobcU~DsbzfGIqW5MvrJirw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad227/1/m_btad227f4.jpeg?Expires=1796403543&Signature=oaSB2eeAhAKZwQYLUsGNo-GPWRgddgcTNW-g80jEAxLoutbISJHYcRGxAKiyeju7JZs1wfp1ZtrJuK2CPQpZI7s8~Zmho-Uy-fHg1AJfxkRr7sG5WwVWcHAzhMQSWwo2fFNTSBhN9HUDZS3UnwFe3J-3CCToqCu~rqhS-tqlSzHQe01rEU8mcN75ruRHKTkmIpVqOK0tkWZoPyxjrd0TRIaROGbpEU-uqWLdEJH5wXKWGDIcPQCev-Ddu4cJ63mw4scGokn0~K9B0OAAVyotcNr~0qv89NL5qNit5~I0miFsdQal3QUP7TVRSCsU58kAoPUsK~U0d0Vfh55OQXcakg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad227/1/m_btad227f5.jpeg?Expires=1796403543&Signature=HPfFT06uKxrTd1s~XopwQRszrrvPE-WTtUEk-kcgq4CGAPQwENcXTQeSgFXkrhMwk6IsMD0SD-kpH-99V65XJUVuJvMMzxKZTVFWE4FEi1Lv1NVuDupQCvLwHP5AK6IMTit-HBU6WQDHi228Vw3BtNbfx7zLAyr6GADVjXlACzRJJNoxSTVa4k-BPuRPXak~ggKYliVmuPEbe44qtPKXfQzjQv7sohMr1~b8utUxVrKzQhP5wGr8H-nBZxpFf2KIjaQWkFrRZHAJhUTuKIiyg7P3Mw0AF8PNluXUSYiMDhnJEUH607UTnZlhgjOIZqWXWp7Jkq4XBWuFQwS5iK4ZdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad227/1/m_btad227f6.jpeg?Expires=1796403543&Signature=1nKzW068wLcJkFB6WDy47tnSd~dUBfRuiFBRvgIfUtTTGBn1LGIA63JhyDyvM6kzA0d0SZsVbtaKAc6nBoitAmw8w9NqRnaOGIpci2CgvkoY18lVrLetrXhjOtSPP~Mwhe-TpprU7HWbE6KiHF~Nw6XNwVBIzUAYtrG3ZiwKBXw6wtOWrLFijkXTwiy31y0PWqnz2HyA2qA8oubK0UrwI2oV9RryJmv-TjwJEBWAtlOL2HqE4YPQKYbqQmj7x8XbXYNTooF2lewqAX5UipMD1KU5k7vPYNJawh8hyT9jXAPFClmIkeF3WPPSAGdLq07TSr2EzvsXkfmPXz1JbaqbrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

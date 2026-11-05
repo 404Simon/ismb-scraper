@@ -1,0 +1,143 @@
+{
+  "paper_name": "Fast tumor phylogeny regression via tree-structured dual dynamic programming",
+  "authors": [
+    "Schmidt, Henri",
+    "Qi, Yuanyuan",
+    "Raphael, Benjamin J",
+    "El-Kebir, Mohammed"
+  ],
+  "authors_detail": [
+    {
+      "name": "Henri Schmidt",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08542, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0132-3472"
+    },
+    {
+      "name": "Yuanyuan Qi",
+      "affiliations": [
+        "Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign, Urbana, IL 61801, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0002-9871-7415"
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeton, NJ 08542, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1274-048X"
+    },
+    {
+      "name": "Mohammed El-Kebir",
+      "affiliations": [
+        "Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign, Urbana, IL 61801, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1468-2407"
+    }
+  ],
+  "joint_first": [
+    "Henri Schmidt",
+    "Yuanyuan Qi"
+  ],
+  "joint_senior": [
+    "Mohammed El-Kebir"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 21,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 140,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, Princeton, NJ 08542, United States",
+    "Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign, Urbana, IL 61801, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mohammed El-Kebir",
+      "openalex_id": "https://openalex.org/A5089040838",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/elkebir-group/fastppm",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf235",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i170/8199380",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i170/63745508/btaf235.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/elkebir-group/fastppm-data",
+      "https://github.com/morrislab/crc-dtp-ith-analysis",
+      "https://github.com/elkebir-group/fastppm"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf235/1/btaf235_supplementary_data.zip?Expires=1796410025&Signature=gt8hVvYPHHOvF~3RfcqSq633izY8cOBffhL9kWYbccoEL0QQiO0tnxJu50Iw86XYfW9Xv1bYquOwehQ31mQX1SOS4zL-2ODpr3bkwARV55jWUDHv9hh8Hyp7X7p8XRnXGZx0D46KcSjzKuBs7yQ6wneewGCQC7lhTXWrhfebEaptp79~qjIdnYjroeKliWj6BrWmI3MJsNg5y89H5LYmCK4B5-a7mC09jrKlX1z7IC45Ok78vpeOGMV60vWD8wk-eWc~ZLv4dOE5z~K~LPVuIK2-xXLNwOczig~BwnI3ZSL9oNgVQHse1gyakqK~c4RHmh848iq7uD5rRMNS6ty~Lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf235/1/btaf235_supplementary_data.zip?Expires=1796898873&Signature=nYQCNEYWu94nRtE840~c0jyjnQequN5ZotOo7AIPAvGhz0kZPKVKJQy1cK5Gs7vor3873DEDUblFbSugRbpxvCq7VNRVNw3JcnVDeftYXjkmLNQRf9ZfDfdUW0odd7uDhwe0Eh8A-9nOExahjjdGQQTvbXzZc-WWLjcO2kfvhzT2UXpuFo-lkYDO3qivijUrjsnjb1b4P90LI~iHMiQujAhpUoXGII4ggaywuYs69f~X9EQzNnCjZwhDVALWYbnfYXJaGFBV8zg1YUCmzEuQ9pMbYUDfBye8phAMFvC8sdsBV3Vmn4-T7kri~0omG-n0IZFcMsVyKBasXikl4zMjJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i170/article.html",
+    "pdf": "files/i170/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf235/1/m_btaf235f1.jpeg?Expires=1796410025&Signature=eU7u~OFKXzGL7hrr~HXwtyOjgFEZ~hEBZRl4gH9clCJ1-alRoPas4xKtWsDN6q-rOkdTsK1Oq-O87Fn9t4fHw0qag2rvPnSSJTrMSkdr7N~ZZ4C5ElVd0l5JaqrZc44REGwhVfX~xus5zG4-r4IEIitAHjFVY1gG2RL6kPpps3XcvNUS2LT07h4Qb7sJXIZNrdt92HPFxijJOXwzkmICzcp9VjBP7ftp1VyqmOMLQY25Ac7x7CtJwKLlOrHEHB6we~jzJCUXXecyH3sQAIvhkJ1jX10Dx0XOMEMRoALepOQq~bUucoha2vV7g0ocxwuyllelNoU0K3iaA627TdelNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i170/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf235/1/m_btaf235f2.jpeg?Expires=1796410025&Signature=F7TAe3Q8D0uF0eeMG-lHTW1uvrsejke8CSvFfPhgKE3Iywbe0vBPKeCDvrSKYdR-3PFHarRehCKmXjtEKYVdj8p6vj1LSSvBHWyqFV~famfdHVKiAeqjybXUk4GNlxm2cPLCXCxKGBkB4s99owcUNX~V4sxoWGRp3bG-LYeYK87iR9pz68Yz-Z3wBEiWdL3LryIolm5jSkuD~A7McOEYCiLEYFnJr8sAFdUl81OmEUTNOYjGhQwQpW2YM62ultM-ETagqXncxMscDPIwy0hRki0uyFxaLie~-HqSYoqq6h3CNh2brXhR-1I1KA3QiVR6gN8jclo7sqPSqtxVZPr09w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i170/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf235/1/m_btaf235f3.jpeg?Expires=1796410025&Signature=cPBvQEy79iLa5Z58V-zVF5D-0ixjKG0QRfu6zizFtwYYjeLzuVttKNRTKK0SO90NUvLh7XXM7u2qRJg8JDfNwd-~W7uRZQFCf5qXs-N6VK3F0C25rdv9bpKezd17gtmULjqgb2lHDi3cEszxl4VzlEdbHE36A3n6-ohnG0BiH9uAZ9mTzgMsrOf8QS5y0D~74BKv2tEq817MLPEdqNjxECloDtCHeDhsVjGewzNuem6cldyQ6h3eTf-ocQ3tW4V4aqNjfotCAGti6FZpJq-XCt3knB4FY7bWK3sWo7jPJI4BRjnbkimXCdAH9Fz6QaLM1uHlOLuhmFeIiQdgQmfYog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i170/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf235/1/m_btaf235f4.jpeg?Expires=1796410025&Signature=drarbIKLKBwj6yYf2uu7lFzfIWC6FCXKAH15dTodFSBWD~ZmHq~b3XbaqsJHJ5THeh-C~SL1AtS6N5vJHXTRtw4v0PmZ5z7LRgUN3zA64wQcTRIg1kF9C2woJi00c6jpho35iW9srto0oSwMXW4b0J5JQSNsqFKhpCCwWEQ59gpzXda4AiLgTrHDv0qiFeey~T4LuGdFxtmF2pXk41vHvpm3zTnF7vo2NFKcL-~-ebqpt98vM~5LVExSb~IheLgJfFPMpJH0DlVjlhgNT20evaVMwST1OVd9Bj9RGbwsPplL4ruwU5E~Z0qdK5zpkTCIcH9CNZFjqu51-P~CanQ-pA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i170/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

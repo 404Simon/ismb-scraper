@@ -1,0 +1,155 @@
+{
+  "paper_name": "Exploring automatic inconsistency detection for literature-based gene ontology annotation",
+  "authors": [
+    "Chen, Jiyu",
+    "Goudey, Benjamin",
+    "Zobel, Justin",
+    "Geard, Nicholas",
+    "Verspoor, Karin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jiyu Chen",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville, VIC 3010, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin Goudey",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville, VIC 3010, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Justin Zobel",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville, VIC 3010, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nicholas Geard",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville, VIC 3010, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karin Verspoor",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville, VIC 3010, Australia",
+        "School of Computer Technologies, RMIT University, Melbourne, VIC 3000, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8661-1544"
+    }
+  ],
+  "joint_first": [
+    "Jiyu Chen"
+  ],
+  "joint_senior": [
+    "Karin Verspoor"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 2,
+    "h_lead": 49,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 12,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computing and Information Systems, The University of Melbourne, Parkville, VIC 3010, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Karin Verspoor",
+      "openalex_id": "https://openalex.org/A5067214173",
+      "h_index": 49
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jiyuc/AutoGOAConsistency",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac230",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i273/6617491",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i273/49886800/btac230.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jiyuc/AutoGOAConsistency"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "http://geneontology.org/docs/download-go-annotations",
+      "https://www.biocuration.org/14th-annual-biocuration-conference-virtual"
+    ]
+  },
+  "files": {
+    "html": "files/i273/article.html",
+    "pdf": "files/i273/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac230/4/m_btac230f1.jpeg?Expires=1796489748&Signature=fgdLfin-mvUzw6NnZZ9RqjHx1kEeLvgomqKgiX9e2dgP~m3xR4dOWMsgLNnhvu6EZGEQbhys21Ocv9KKnvosal4EMCUi-5H25ed3-JHllrld54CjV~sDcEpQV8S9Ii~NboyABnptvWk-5QGGV2xB6Se7Hu~59TbBpCzj5XJLJEhQgjBbZYM~QE7LzLMosxrgvDDMPXgkFHqfOizWnn5Nkf43mEz440CbOZZhzjfBpeZui8I3jdpF87xh8-xJEphB73M-p5Neyf0FjfA8wZiVCnX-e29ukWLgus-PujklytxShVorjGrCsT8f95fiant30eCmPm~Ni5~vaXLgte9yKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i273/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac230/4/m_btac230f2.jpeg?Expires=1796489748&Signature=ECU5lXQ5b2JMshgBsyZgEf-nmYC2lN0qpKZ2rd~AEDD-UMH9XuzWiPsIVKSyjxpdsaFVgc4jRgPoElWbu469JBjHMNEFRD8khg4y6-Nj8HhSUdDt46g0oG3ktCx0kNu-Ay5n513WSxBgMu8pRE66tRo0w~2i0DQNcCoBEHM7F0Am-sQqQB3c06iYmhQEfgklhRnrh-o8fSLRM5Gx09MymIv2jncF3EV0QonBPzscppWRNNgHlPsWlrW~u2mQy9r-xWK9ERc8u6BJdTN1xG02ZVEoI0-~ajQHJBpg-f1sQF0MD~8OL8~ZOWzMbGpLqCJDuYw1H40Ub7JNHRNyjtH4PA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i273/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac230/4/m_btac230f3.jpeg?Expires=1796489748&Signature=SYlKHgNE2Hoe7zehoFIseM1XJsHiFqMG0knN1SqQBAErrcFIhfkh6bDOBkWE8Z78O4075xI~SaKOAg7HdQ7bt8E8wgchrZEAY6oDkeGaTpYAUJAnSm8L41GX5G5EuMqwefV69Y3C-e3KLV1HvA5Tt2SqPhtKRQgzf5ARC8hHD925NPB5O1B2yY6W5rAeLApbOWBrWqz9ZJzB5LcsL3Tu--IwHjklLxYaQm-i1RTlsC0oV7WVs7vjtPaTGe794y11QjvTp7GUy4dhSGWKuefW9kkQilSsS2zeVX7zVTr2axUZfsksMPnCH9CjAlS1erbVCcDb-jJfSLu5UPK7Zc2bYA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i273/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac230/4/m_btac230f4.jpeg?Expires=1796489748&Signature=tlha2e-utUyXVBYNcp70dSxC4y-F~d3aUkOo1EvDf9Fb3bL3J-kZHkc1JzK-A9GYY~k9-5CSLWOXPEcQJ-5PdEovtL9r3g4yyGKP6PLQWJq8Hp8nxKNkBWTBi0meiyg9KqkVnZZwXuFVBZUBvkuch7ILflmW3HlG4NyToZkgyL2Jtw5SeCgdSbvgNeQ~4Zrn5le~YIN3BYIZrDYey8N8DMmLUcRPckDdQBG~BQX9pV8Any~-Mu0aCAJdsrmNvb88xYaFnVtN8SYSZVv3ptc1sfOfqmKHEkyqC1RVSqhG48Qcht6~fEFAfBFysOAAIWvpwuOXCWFj9ebhOo0YmJl0uA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i273/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac230/4/m_btac230f5.jpeg?Expires=1796489748&Signature=R1Hf5lISk54obDv2bvY7IGPrCgLET1m~KP8a8sivOxnXg1gvBIJH6aDbdMmJy0CldzYUx9NuH19rGjrLQwxVFVRCRwAcQQR4JDxOL0aAD8juA5udr-VGjpL5-DPWNYOFfNn5viBNlqWrHSo0mNAy7s7T6Ck83xhgkKA-GkIv6gucE0iX1yV~~tzrqmTj69QdlCqnC3k-Tt3fzXaSo8UxpPjXMa38DpJfFxIDAub024A3fshZUDprLJtF2cXDr42ZZFkIjwJSvFhbCRvF135u3ipi9lcWOsoD9Woslkmup7A~IifUjLFBsCBIHFspzw4eF7gy4WbWXLJh9h4W1WUEkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i273/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

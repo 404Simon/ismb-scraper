@@ -1,0 +1,139 @@
+{
+  "paper_name": "SPRITE: improving spatial gene expression imputation with gene and cell networks",
+  "authors": [
+    "Sun, Eric D",
+    "Ma, Rong",
+    "Zou, James"
+  ],
+  "authors_detail": [
+    {
+      "name": "Eric D Sun",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8805-9864"
+    },
+    {
+      "name": "Rong Ma",
+      "affiliations": [
+        "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "James Zou",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8880-4764"
+    }
+  ],
+  "joint_first": [
+    "Eric D Sun"
+  ],
+  "joint_senior": [
+    "James Zou"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 9,
+    "h_lead": 89,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 6,
+    "I_open": 1,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "James Zou",
+      "openalex_id": "https://openalex.org/A5005779176",
+      "h_index": 89
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/sunericd/SPRITE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae253",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i521/7700857",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i521/58354760/btae253.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/sunericd/SPRITE",
+      "https://github.com/sunericd/sprite-figures-and-analyses"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.8259942"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/btae253_supplementary_data.zip?Expires=1796417768&Signature=VZZdmUbfSU1Mm5x3Js7bdNR57FQBhAJJPovdgYkgpma~J208t0cc2uRJRvwWpnzqk5jz9IPl7TKlKRWWngzI3xh8a29dY86tObRss0hS2aAp4DgOvxwTaip-0Dwlb2~J0e3WmxvDDvkSe97XakocfFzyocSRA8tFGob2JGA9Ct~7sZTT5lx7HW2xArftIKqCJhM7xlu80Hvux9RSrHFPDoanbrSVEDLaHBmtMb6YiST78sMfByt3In6kn89cpP~1sXaktjfHJXqojsaFbtigSo6ULWAYR1Qhv4iAJHXkPdFaKLSLbeFNZJqsCH57SWy6ulMIJ6wCbWaplzoGlwPOJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i521/7700857",
+      "http://linnarssonlab.org/osmFISH/osmFISH_SScortex_mouse_all_cells.loom",
+      "https://content.cruk.cam.ac.uk/jmlab/SpatialMouseAtlas2020",
+      "https://db.cngb.org/stomics/artista",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/btae253_supplementary_data.zip?Expires=1796911782&Signature=YK~vdWKF77sjSMY0UnkPgAqgC2ikTducd9wsD5kxDsNWb6KaAIlkcNJZElxqgJLPx1wglZnrbCGF5arcHifZh~bT8oyaFxrAHBvGThSm10uViagdBG4Q7Z7vl5seTVm7T2jfPZ~m0jBTXwi47My0r2rn3xSgbZ2MoZm0Gp~q51SHptRk-DwgP8e~Bd46RDKoNSbjo8Kg80Dqiluu0nXbxuL9RCNrE-Qwlu5pxUfdXEfdzz00G2DfUp3F5l4idzWt3Wijlw2~RgUenj1T--k3f4SsTnC5F4-D3qOeY9-kGi9kp6Y5dVglXVHUMYDLSVv06WjZYKtsxThLKbLCtX~5Xg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i521/article.html",
+    "pdf": "files/i521/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f1.jpeg?Expires=1796417768&Signature=mrkUWxrw9qTwD5-JhQfWocwkO3ZAATVOnWBrtjroOG7IzY9gA3ITrIXi14TRKamykNvgyQMNzlGpIww4wF6Hz39G9w~d9S1hVvZ82R9UjV9zSHHCMaV~wRHho5LyVb0yfj7d4rKVGa~SV542gBcqQiE7uvu23YasQTeY8mjFTy~dC1ygkluP~Gi6iptnYm0o9w57Ng6I13pDHvjrTRs0m1fu85seG-~A8bbI77Q3LKdfHaE3YNyiQHdXxPVVFE9-7hz263sbqrndMPo1kA5lO~kiCz03Mh0QohUqw6haU5lF8KgeQiEIjg4jFROPj6w28qJj93ZF9SwXvBhh4pH-Dg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i521/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f2.jpeg?Expires=1796417768&Signature=mG4WPS7pnalm6Ibre3zMhJnJFAGAaM3tgtx2F9onZz0zOxqA5bZ~UL-MP-1XO14AL3u7QySmMIDQ481G1mXpUAsPCc~YMVl3X8AWZKowpA-gHU~iT4MhyRMnv9-a-3v-cC1yTtFjWyHQr14Ku7svyXVuJTNupsvEChTmSy2jgFbKvnGnHpCUSoBsBYEF4Ktb03mbeSjZNj1kVjHaOQAzpZ6nfr1Bw6njF~CvACdL9DcAJxLZozPHfUWno~2xMfDh~KNFVyRQLI-UJphUGTJeeIy45IexueDy0qHSLG67XOZ~GW-7JKFSRqFI1g804SSzw58KBLIITQETPX7EEmB2gw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i521/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f3.jpeg?Expires=1796417768&Signature=KyEW~WlRzwOeSX2GQ7dstZA-lpBkzl7mPR2HEYah30APq-UVZOIlDj-S1UvKme1HptFE-NURCiDyarXK7tqG69YEAYT~60KwNkG3GgjWMh5qL3Ydr2ICRi~2RYt83JzbsKQI8BHR~IX1sZ7aWKPrf2cbBJqRSrwyAFCPC-mkUupeiRBYXOq5xJfZgrTKu7dO1iTCS9yxnCqohxotxjt1beodmK8yNANQFLRidSEAwHrGYg9yxv5LUZ1rwVr1lW-o-jVdxhNAYMm2GGGoDCYksnmrCG2O7Q7-6h-wmAlXOQAKpO-qMPumLKo3xcLamNpGCUasOvZ~DFdFq6ADy9~JUw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i521/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f4.jpeg?Expires=1796417768&Signature=SXffEUkBxAkTmCcS-bjnroGWtuAdn8RJIUe~Yn-ykEoWEEcRNhmWBWNGBYkQBCajjIykMmvl5UJUVYs-AZJhBboEu-sOy6INBALvmxUrDtAIoiFHkceWXjJH~cijdpZrh6UQTNdK2vKdScRp0jVPiIR4yjsHf5BE-eC8vrdI65anPn7C1TBAujWrHibXkh63yLupzXSmiJ2D2CbYrpFPi4mY7bKefHRHIN~yWysJPYcSwVtDuBdXSd156GGMDWFsx3HWkKcFYQ~3u9OCeXvukPtd80qSQQm1ZoSu94HfWKQ61d7gLdWmc8HtgFwPnlm-fEkkHioEl0VKrrH1j5RIog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i521/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f5.jpeg?Expires=1796417768&Signature=r9YHNUR2prhXtvvfBu0G55RN90G6bsEeI8bbvxcnKk-ww7SN~n2vklqCkg4a8I3HzsoShEmDL8BP3kV-e7vEILBY2PI5y5hzr6wkyBvjlVVVzxjz-AI-jiEc07x4kHfyKZQFYhGbiQamdImVZqDKxDZZigJ9VR-OUzseukgOVchVTtULD7AsIpyQJAuKvPLKTR4ARixh6NGsaT8~ux5FBpfpPEJYA-vBp9EmJmSKMbBL5XYNI09k3k-kSggvI8zu-GqZE6rIxYW2kIgYhtesgwK1LGW1UWveer7m3oSmA360UGtrXQOcmvG0h8YmptGkhu~YOnlTsuTPFuTUNLV7LQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i521/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

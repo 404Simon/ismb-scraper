@@ -1,0 +1,136 @@
+{
+  "paper_name": "Higher-order genetic interaction discovery with network-based biological priors",
+  "authors": [
+    "Pellizzoni, Paolo",
+    "Muzio, Giulia",
+    "Borgwardt, Karsten"
+  ],
+  "authors_detail": [
+    {
+      "name": "Paolo Pellizzoni",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Lausanne, Switzerland",
+        "Department of Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Giulia Muzio",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Lausanne, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karsten Borgwardt",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Lausanne, Switzerland",
+        "Department of Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7221-2393"
+    }
+  ],
+  "joint_first": [
+    "Paolo Pellizzoni"
+  ],
+  "joint_senior": [
+    "Karsten Borgwardt"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 4,
+    "h_lead": 62,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 13,
+    "C": 14,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Karsten Borgwardt",
+      "openalex_id": "https://openalex.org/A5074540538",
+      "h_index": 62
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/BorgwardtLab/HOGImine",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad273",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i523/7210485",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i523/50741731/btad273.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BorgwardtLab/HOGImine",
+      "https://github.com/BorgwardtLab/Genetic-Heterogeneity-Discovery-FastCMH",
+      "https://github.com/BorgwardtLab/SiNIMin"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad273/1/btad273_supplementary_data.pdf?Expires=1796591436&Signature=yNvxnYuktxXhJQVyNnIY8DshV9gVTBrFcT2R9fUoBtM3x0FvNRvJ6uhLasu0ght8stT3~EuIuDjQoszCMbmTkPg9qSWDOEU87sFnFoJ54QzO9Xubvb6D~r5Cwa1EuChRo4DMH2~m~5TU~HHODz1Msu52P-d2WX0PwDBJZXHW~13l2eYLDHq~0rmGOjVPkTvqN458eAg7hixfd2w0fp4cQVXFufLA0WFm7seYRPrIjs9QGFLxRaKdzwRfSliChH~wAtRVvduAX9LdcrPNV9W03yGMAMTuYXDWi9rqbJAhxjU8NwFf-KkHinrQr5v950g6ZU4ukOLy2K5tuuXiH5OB8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i523/article.html",
+    "pdf": "files/i523/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad273/1/m_btad273f1.jpeg?Expires=1796591436&Signature=rL1LBXOBgEgKWQcxT9wSi6peNw3UzStDIIlaEIoAk8nQOefywRLYNWatVQuhw1QrKj3VjHtGONUJRVUlbcHEv7DSJJZla2cBWn4BmlCkT5yMlb6eJsmiNPvKS1mmXM-rphQhrmyEUCrwj-ogzAKkXFubX2jzY9eBCrmj4BrTeW50Pi6r8FA6HmuA-zd31gjac1dbO9~iTfSYwWVB7eeSjiDAkLrkR3aSLjaSEl1GQ6D5ctKC-ecC7KlvXnrAlWcEYq6Su2cRoqCO1uL7IQbWP6pqFPsOly0fus2jOfzJZB9JN56vP4YHS8ZXb13FIhWYfEFH4OSQBkJ0ZgxYBqN9rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad273/1/m_btad273f2.jpeg?Expires=1796591436&Signature=jyxINLjyqDrpJXSdywYKsvhdRWINmTTV0~iWEGTXo6bnK6SPTHr~kW4Hjk-2M9qQ5SljEvZzFmNpFCcR~hjYSyk0UMqN9miuP6lOFMRZIqz~nZJJpaTvrwHGFLZg3K06zF-N1zy2Dz9E~LyEL8x5nyzcQH~fx42-9Ghg4Rx1nY5RyPrxlSsNjFqQKWYS~Y1AJ0LX0q1VYR6AE6kvvJr2NBoJ2EqRZDjiF~fYpsQZPbHn6Z2jnNtDg2BuvWo0r~S~YXyPBXGysnL43gQpi~GP3UTrTx5~5CnSf4FQzkDxY40Mg8wMKYY5~UuQteDoPI781Gk9rr5OdIZsrEXXcaDn3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad273/1/m_btad273f3.jpeg?Expires=1796591436&Signature=BtIM72f2BNgVUFKSelpqy5xZciA721jODDvgG7GvyeZoIf-irt1EWzMF05IctSZrh1lfkUZkNc5oWsJMgbbMQYxuWnMn6KWz0NSVlHmuYsMAtR3KAU2NDiBG7~qKcNwq9SXa6vzbpFelkwTpNu2Rdi~LysxXIryjf7ehrVwwhBlQX7DA5V2ngxAa7ex8MWy7knERLqbnHn4SzXjH86OgOc5URFEE0TF4C2bXqb52BOH0d6ToUmcfqsgHZnqEw6qhZ2X8JF0MjPqiUWIPMJ~9wfK3EQGCiFby~YVmvJERua6Eb67pojrYZENAmBByqJnzugLlR3nyAr73Lu2QN5FZlw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad273/1/m_btad273f4.jpeg?Expires=1796591436&Signature=IvaheoSuqD-k1QbJznDlt5aqysNOHU75iSNRq49Dlg-Y6klv8qGZiq4xSpyAKnoqyeBHfIU256JATZ3NKOgnWPMBE2NeJZRhqiwmxW6WJDBZQrdvy3CAaTHnX351XsaUMQAy47jz1KDZksgb6Ujl8Pbj~3tix9nHagDowfzHVrM982qGZpDWNS4twxdDZZKM8O3kuYkh~PpIvDduvnniVOK49kLXniAB4n9kB~rQ5pr6CKftc508fWWadGGhdXM5cSt4~yUixf-dlkoNh~ZviEkpKnHqlA~9WoFUIu~t5fnltBesKvgIehRKTr13qNQIiymYAdzQiWIe0RiFCoZ96A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

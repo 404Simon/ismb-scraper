@@ -148,14 +148,14 @@ export function parseGitHubRepository(repositoryUrls: string[]): GitHubRepositor
 }
 
 /**
- * Choose the most likely main repository. Preference order:
- * code/implementation availability link, repository name matching the paper
- * title, and finally the first repository in article order.
+ * Rank every distinct repository candidate by the same evidence used to pick
+ * the primary repository. The first entry is the primary; later entries are
+ * fallbacks when the primary no longer resolves.
  */
-export function selectPrimaryGitHubRepository(
+export function rankGitHubRepositoryCandidates(
   candidates: GitHubRepositoryCandidate[],
   paperTitle = ""
-): GitHubRepository | null {
+): GitHubRepository[] {
   const titleKey = normalizeKey(paperTitle);
   const byRepository = new Map<string, { repository: GitHubRepository; score: number }>();
 
@@ -173,11 +173,21 @@ export function selectPrimaryGitHubRepository(
     }
   }
 
-  let best: { repository: GitHubRepository; score: number } | null = null;
-  for (const entry of byRepository.values()) {
-    if (best === null || entry.score > best.score) best = entry;
-  }
-  return best?.repository ?? null;
+  return [...byRepository.values()]
+    .sort((a, b) => b.score - a.score)
+    .map((entry) => entry.repository);
+}
+
+/**
+ * Choose the most likely main repository. Preference order:
+ * code/implementation availability link, repository name matching the paper
+ * title, and finally the first repository in article order.
+ */
+export function selectPrimaryGitHubRepository(
+  candidates: GitHubRepositoryCandidate[],
+  paperTitle = ""
+): GitHubRepository | null {
+  return rankGitHubRepositoryCandidates(candidates, paperTitle)[0] ?? null;
 }
 
 const CODE_WORDS = /\b(?:code|software|implementation|script|scripts|source)\b/;
@@ -332,6 +342,25 @@ function normalizeKey(value: string): string {
     .trim();
 }
 
+/**
+ * Oxford Academic sometimes rewrites underscores in a linked repository name
+ * as separate path segments: `owner/rna/_small/_parsimony`. Join that shape
+ * back into `rna_small_parsimony`. Normal deep paths such as `/tree/main` are
+ * left untouched.
+ */
+export function collapseUnderscoreEscapedRepoSegments(
+  repoSegment: string,
+  remainingSegments: string[]
+): string {
+  if (
+    remainingSegments.length > 0 &&
+    remainingSegments.every((segment) => /^_[A-Za-z0-9_.-]+$/.test(segment))
+  ) {
+    return repoSegment + remainingSegments.join("");
+  }
+  return repoSegment;
+}
+
 export function parseGitHubUrl(raw: string): GitHubRepository | null {
   let url: URL;
   try {
@@ -353,7 +382,10 @@ export function parseGitHubUrl(raw: string): GitHubRepository | null {
   if (RESERVED_GITHUB_PATHS.has(parts[0].toLowerCase())) return null;
 
   const owner = parts[0];
-  const repo = parts[1].replace(/\.git$/i, "");
+  const repo = collapseUnderscoreEscapedRepoSegments(
+    parts[1].replace(/\.git$/i, ""),
+    parts.slice(2)
+  );
   if (!isValidOwner(owner) || !isValidRepo(repo)) return null;
 
   return {
@@ -447,8 +479,15 @@ export async function fetchCommitCount(fullName: string): Promise<number> {
 export async function collectGitHubMetrics(
   repositoryUrls: string[]
 ): Promise<GitHubResult> {
-  const parsed = parseGitHubRepository(repositoryUrls);
-  if (!parsed) {
+  const byName = new Map<string, GitHubRepository>();
+  for (const raw of repositoryUrls) {
+    const repository = parseGitHubUrl(raw);
+    if (repository && !byName.has(repository.fullName.toLowerCase())) {
+      byName.set(repository.fullName.toLowerCase(), repository);
+    }
+  }
+  const candidates = [...byName.values()];
+  if (candidates.length === 0) {
     return {
       repository: null,
       metrics: { S: null, C: null, I_open: null, I_closed: null },
@@ -460,20 +499,34 @@ export async function collectGitHubMetrics(
   const metrics: GitHubMetrics = { S: null, C: null, I_open: null, I_closed: null };
   const failed = new Set<keyof GitHubMetrics>();
   const failures: GitHubFailure[] = [];
-  let repository = parsed;
+  let repository = candidates[0];
+  let details: { repository: GitHubRepository; stars: number } | null = null;
+  let detailsError: unknown = null;
 
   // Resolve stars and the canonical name together: a renamed repository still
   // answers `repos/<old-name>`, but `search/issues` only accepts the new name.
-  try {
-    const details = await fetchRepositoryDetails(parsed.fullName);
-    repository = details.repository;
+  // If a candidate is gone (404), try the next-ranked repository instead.
+  for (let index = 0; index < candidates.length; index++) {
+    const candidate = candidates[index];
+    repository = candidate;
+    try {
+      details = await fetchRepositoryDetails(candidate.fullName);
+      repository = details.repository;
+      break;
+    } catch (error) {
+      detailsError = error;
+      if (!isNotFoundError(error) || index === candidates.length - 1) break;
+    }
+  }
+
+  if (details) {
     metrics.S = details.stars;
-  } catch (error) {
+  } else {
     failed.add("S");
     failures.push({
-      repository: parsed.fullName,
+      repository: repository.fullName,
       metric: "S",
-      error: message(error)
+      error: message(detailsError ?? "Could not resolve repository")
     });
   }
 
@@ -590,6 +643,11 @@ export function parseCommitCount(output: string, fullName = "repository"): numbe
   );
 }
 
+/** A repository endpoint 404 means the candidate is gone, so try the next one. */
+function isNotFoundError(error: unknown): boolean {
+  return /HTTP\s*404\b|gh:\s*Not Found/i.test(message(error));
+}
+
 /** `gh` reports rate limits in stderr; only search calls are retried. */
 function isRateLimitError(error: unknown): boolean {
   return /rate limit|secondary rate|too many requests|abuse detection|HTTP 429/i.test(
@@ -620,6 +678,7 @@ function cleanRepositoryUrl(value: string): string {
   return String(value ?? "")
     .trim()
     .replace(/^[<(\[{'\"]+/, "")
+    .replace(/\\_/g, "_")
     .replace(/[)>\]}\"'\.,;:]+$/g, "");
 }
 

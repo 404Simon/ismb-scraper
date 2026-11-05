@@ -1,0 +1,148 @@
+{
+  "paper_name": "SpecEncoder: deep metric learning for accurate peptide identification in proteomics",
+  "authors": [
+    "Liu, Kaiyuan",
+    "Tao, Chenghua",
+    "Ye, Yuzhen",
+    "Tang, Haixu"
+  ],
+  "authors_detail": [
+    {
+      "name": "Kaiyuan Liu",
+      "affiliations": [
+        "Department of Computer Science, Luddy School of Informatics, Computing and Engineering, Indiana University, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3404-2802"
+    },
+    {
+      "name": "Chenghua Tao",
+      "affiliations": [
+        "Department of Computer Science, Luddy School of Informatics, Computing and Engineering, Indiana University, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yuzhen Ye",
+      "affiliations": [
+        "Department of Computer Science, Luddy School of Informatics, Computing and Engineering, Indiana University, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3707-3185"
+    },
+    {
+      "name": "Haixu Tang",
+      "affiliations": [
+        "Department of Computer Science, Luddy School of Informatics, Computing and Engineering, Indiana University, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Kaiyuan Liu"
+  ],
+  "joint_senior": [
+    "Haixu Tang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 9,
+    "h_lead": 57,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Luddy School of Informatics, Computing and Engineering, Indiana University, IN 47408, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Haixu Tang",
+      "openalex_id": "https://openalex.org/A5078007096",
+      "h_index": 57
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/lkytal/SpecEncoder",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae220",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i257/7700866",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i257/58354825/btae220.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lkytal/SpecEncoder"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i257/article.html",
+    "pdf": "files/i257/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f1.jpeg?Expires=1796411305&Signature=EE3TGxXQGHeNbhlNe1dxG3Ao2ydw-d3fms7l6bp1a-18OxlK1kFcSy1GE-778lgLhmFPKO~2JUhtxQq53I9PbRji9~q58YRxyu3qJ-sP7bq-usvCk0EvIpd0upaFTUcQAkE9V319aE3HUMU2XwyF2EfvXbm9tlmmOPj8ut8M~N8y21KaDfufkTf7PvmqkzjOKYNeebCRraHAKjkAr8y6IzOw7hIj6DFjU0~s3xhiO4pe9qYCwHo~U~eCH-optblxoXbqsZKYXPlSvxZuwKcwMpnnHUZMWpCPHGZisxEs4ZISMX4lQDl7SDNmRz3GCrSQj177BrfJP9zY3lSIlgHSRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f2.jpeg?Expires=1796411305&Signature=XudkSCqRe0sUQVPEdZDE~5HlLLztxCneSBjfmQHYPl8pLVgAMtD3KUP5bGiqtWAiX15vwj3X4bNvpkAiqPq8VsKN~vZesuo3Qe9Q8PfOaXJoFanebB4x3ppfQjVeQ35ewi1qTawGY~u~~PhdoP7DzreWt2aPTm8yv~pkr390~YRLUSM~dMux2INaJhpIGj5DbwcLHMXZC0tmaUVNe0kBWpCZUccvrCAr39fJDXWgmjEA8QdDag8bBr~A-Z1JkbiWakqaYhQWcTAVbciznqP6kIdWJj~kJAOMh3GpNZ69Lq410EPFPMGvhfirU0eFnxb04wTJ3BygWDgDjh-6Z~zFog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f3.jpeg?Expires=1796411305&Signature=MakNUURPqOVfIIi-JjmbNc58bXpgVqcA-qh21zrHNKZYVYtuxVZd~nUwm08sKbVS4nXVS~-kRxH0djQzqNpcEXA8XW6MzW9YfQNvhfrOE7gPbsi1cj2tB1aQH4uKW-gxkFkC-SaAxJG1HjSMN8i2MC~7dTdHuuOLaEhi~sGEUalzbk5I-De~N68696Oyo6R571ccEXLMX1P1EBYO-yfZVAYWh4XeikCczpNXViDunl9XWfa-m8vHVXG4Pd~qbpPFFxIe-0qIGDK6ESIi~tWu4a0YLtuQLjTBYCeMWjQV3pTiZuF-59lW6WcQk-5kRvLlHy85jhE6av-rqK6wIwSkaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f4.jpeg?Expires=1796411305&Signature=VDB9SycIJiJg8xhcLFeVCLjR6jAz6ygbgxBbOKgVPd-Oig2oa3UmS3TZIOgAvSJw7KW5o1n7CPXaW1h62UOmTDP-sVX59gkYcJirZ-cU~5DpDL83p5h6u01OYljDoVcnIAdprsMFSsC129lQFFbDXIoDS2RTPvCY8HPOj7ISUd9a~d82lvutlcA0ivgED17gnDitOP-34HNVJGZjNv7z7TAd1jO6KY2JZJDy-rayshMi6pgI0Q0FWfLnIX5P81LCb1qdZM4H~ftLl5S7oMgidVsjSRirbYXvfU60SiIwtPPsPHDSrtdCV~G1auwW2G8Qj5r6XdrxNSd8thucUqe~4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f5.jpeg?Expires=1796411305&Signature=S-o34kd~TJxrqDv0Q5TkNTaW1kFDu9UijHOiSTMMHjcL7YjBrREB8dY7nmJi2hjEs9N64Z-BAYdFhg5fck3vBQKOPQlA29-NMxYHvU5AM3a4vQa6vrf1JjYBZzM4zy9AILhIREICEBb4pqJemOhsLEDzuqq8bWC5aSTVRah3dkqttBy~6TWuPezVdAegCDzNBrjimnBN3eCGeO5sXKdpoFQ0xPf9KBgvZ3MKq7xLMew6ad2ZtXvkjdDakBdXqUjeuvGsxI2O5ugzaXJcRIHiUB1EZBsgM1hxWoAccjGfjqfgXfEwD31HzZt4edm1Mn8oV4A9vWpW-VrXA6pdFqE1KQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f6.jpeg?Expires=1796411305&Signature=aCLs97XOwVUTnUayBr7UMhZB-YPlCGA~5by1wGaZRMqiqd77OyEOvKbusWvEotPBF~ZBPqXtGbk58q3KJBIIcam58O3eqn-NIOQZTCdlnTaS6o6pP9pYCPBuB~pbUHgMoaY1vzOYUe9RAghhE5GCXr72QOiz6Oaq1RxuoKlyZnVfDiatmaJ4H2aah8V9U8EEkuDWuvA1hapEHedDs2chR~RlzsrYW7TcrdwcWodM7tmixQextYeJ81Bhqcm-0QdYm0Zq4ka3H-1FJqLQuvN6vWfKGcx40c5q~TPjZouvnRrfKjq1iFhzfsqc4cCzS7EnN4TXtBLH4S9HkAqbOMqcdg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae220/1/m_btae220f7.jpeg?Expires=1796411305&Signature=k~Jo48VAYDCKOGyMMQVHE-He0ZcDM7EcHFV0YWrySHERdsEUhAj7-BoxkTXXesDhJpGHejb~0H6gyMb7yCtjB5nMr1KlNTUej3X~1Utk4ZxW8G3eMyvqgghPGD5MR9WlZT9--DzdX3NPj5zrK41W03T1307S8Ew9~UBI5U4UkEpRwKrdM-3k9XEQy1fBbseSBS9zUL1zptKA7Dl6ssGOzCR1AQaJyorEvi~UuBQrWFqO2tEEiWHRM~unOnrq3n17cmsEFYp-a2RMIjVfIxaL33UD1bLCUZ1IgFs57PUDeNWQghb1uaz6yCc688mptLNj5JG5D9uiMx3kNCyt~uTcyg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i257/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

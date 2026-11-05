@@ -1,0 +1,153 @@
+{
+  "paper_name": "Gemini: memory-efficient integration of hundreds of gene networks with high-order pooling",
+  "authors": [
+    "Woicik, Addie",
+    "Zhang, Mingxin",
+    "Xu, Hanwen",
+    "Mostafavi, Sara",
+    "Wang, Sheng"
+  ],
+  "authors_detail": [
+    {
+      "name": "Addie Woicik",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mingxin Zhang",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hanwen Xu",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sara Mostafavi",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sheng Wang",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Addie Woicik",
+    "Mingxin Zhang"
+  ],
+  "joint_senior": [
+    "Sheng Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 1,
+    "h_lead": 29,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 54,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sheng Wang",
+      "openalex_id": "https://openalex.org/A5048356362",
+      "h_index": 29
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/MinxZ/Gemini",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad247",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i504/7210443",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i504/50741462/btad247.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/MinxZ/Gemini"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i504/7210443",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad247/1/btad247_supplementary_data.pdf?Expires=1796543593&Signature=d7REexj1VnKBK00Da-kyiGS0s4Fskjigu-tfXnr-bnjpi1agEmxu57ktsl2LjKn~dIa38jTPNyF4mdTvv5OM~khsvfumujNmv2gcS33vlAIkWTbqF3EqcR8mugC-bibkJiixu8W~UEyoDVN2Tgq9Mu0uzn8-vqYewY6xIJe9CG2uqqtKs~cFGFwrrVc4Kso~COD5LQ2mYTgS~oyyVXR0aSGE0T~rDLeWvUlaffHZymNSG7xapBLS4MT1IxgeRqB4rt85EDDwhb0c63dKAllMgTADQpibKcapvOvFpKQFA34PkcvKMh1yHdwXBga4o8KOYcY8wvlrZ0H628yTuf48gg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://groups.csail.mit.edu/cb/mashup/mashup.tar.gz",
+      "https://stringdbstatic.org/download/protein.links.detailed.v11.5/10090.protein.links.detailed.v11.5.txt.gz"
+    ]
+  },
+  "files": {
+    "html": "files/i504/article.html",
+    "pdf": "files/i504/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad247/1/m_btad247f1.jpeg?Expires=1796543593&Signature=YwDGjtVCahzTJ83-Hi-x6jLVlXEZiGpPojn8zl8TGAE5SMWoKbA79SEB7INDpsgcHABCgK2vwa83yvjG03~GF4OUEo04sCRMoGN48oiUXoIAJl8Qr1Et8L4xNinYvYeBPKv5dBbDF58F7T0oDV4~PdqDI73ynpDQ0iEWx8-1sv~vWqB2R0yvSqpfnCzTQwapUVM70tZdGCyvw9osIJVZ5J9zsTHotJcY47EjHh~xkF6n9f2JKx~773p3fqXcSW05WewCPtsEAc6SRx9rZXZbjJk4zmZZvwORkbRtRfdR9yRBM9uSjq4ojpp7HkUYTLzq7CvFY49ZoTbaQuK~QfdJBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i504/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad247/1/m_btad247f2.jpeg?Expires=1796543593&Signature=uCq~L5JwS9aS2tlRUhkHfnSOscLodGGqqYmlxBU4A7D4jWhoY0JXKA3MnbJKVZdu~hecm1pRqDsLdoAaWdq3A-U9FDSKG~ZJ65193ibw3Q-kSlYSzonG8nWYFvscDb8cv1zjMXFCJ1-BUgLUc6L~tzU1wSeYquN-KZC0X8bUUIcg2G3W8ACTtef3iVGWAGAeMQZktZ6smQfYj0ZSwWTzWhxDsvRmBqvKkQg7uh-UiaflK4HCUa7qID3lB5L-QLlt80p5bbz1UGMw~yLH6Qdqm4m2N530mT~4KF7yYnArK8YDucmX2Yz8jjpSuAE6h6U~FdJLWMXIXCutFIQf5eQ1Og__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i504/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad247/1/m_btad247f3.jpeg?Expires=1796543593&Signature=eOSmr6qYWrCZwVwnnb6Tho8uk~2hEibF-cSEgy3zJYHspXjeFTBShNnw2YDNRSq52Wi44cNR2HAaf8YFNcdOu5yKgJyNuP3coRG1rM-mAC5zSpi1BbFBLon1ZdJvzggNvyjivKVpTDlS~tXV2qhL9cchWgs~9P7XqVcYKtErNfXTTQc50hq4ofTGD~Kk74xeFr04kmi8pxZ9hFnGTLSmjnAQm4Mdf~LvvZJ1pNArvsuIS3W90~dvfuUobdpszEey5Jn3g31B4GAK9kYI7iK55zt1VnlajuLWMrM-hiJ-~ZdrTQ-GYFG05PANnWCOk5-CIC2xLXFc35KWc7VoKpXlfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i504/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad247/1/m_btad247f4.jpeg?Expires=1796543593&Signature=3G5z~-Rm5KBmkSfVf1-xrMtImnrZBP4qIuZHr2yzCBvf3NKQVf~AvQtkL2DY9hkrM0LUUUTci1eSog8UYdnoFWclBBS4EDb-Jc1K-HpbpteH9RgHkMkOJL-0yBGmI5hBQdfZxkw8UeaNo4tODDhADMhqiZZedX-4SwY8y2rOXBjw2A1QkInvIawql5-Be5i6ZPEIQSq~lAKP54~RV787xU2AN9Z7iFb1hSKBTdSFRi1vcRn3Dsq0rraci8XZTCNJfdg7mbCqvMn11SMQS6hBUuYC34EaEpz6mEJ7Teq-Yu8Mzsnbx9NQ1hKtglCS8AziBh4ZlzvXHqstDVrzsIvcLQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i504/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

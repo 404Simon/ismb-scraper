@@ -1,0 +1,139 @@
+{
+  "paper_name": "GRACKLE: an interpretable matrix factorization approach for biomedical representation learning",
+  "authors": [
+    "Gillenwater, Lucas A",
+    "Hunter, Lawrence E",
+    "Costello, James C"
+  ],
+  "authors_detail": [
+    {
+      "name": "Lucas A Gillenwater",
+      "affiliations": [
+        "Department of Pharmacology, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States",
+        "Computational Bioscience Program, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States",
+        "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lawrence E Hunter",
+      "affiliations": [
+        "Department of Pediatrics, University of Chicago, Chicago, IL, 60637, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "James C Costello",
+      "affiliations": [
+        "Department of Pharmacology, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States",
+        "Computational Bioscience Program, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States",
+        "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States",
+        "Department of Biomedical Informatics, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3158-9682"
+    }
+  ],
+  "joint_first": [
+    "Lucas A Gillenwater"
+  ],
+  "joint_senior": [
+    "James C Costello"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 44,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 171,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational Bioscience Program, University of Colorado Anschutz Medical Campus, Aurora, CO, 80045, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "James C Costello",
+      "openalex_id": "https://openalex.org/A5035378993",
+      "h_index": 44
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/lagillenwater/GRACKLE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf213",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i609/8199376",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i609/63745481/btaf213.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lagillenwater/GRACKLE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190125"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/btaf213_supplementary_data.zip?Expires=1796461461&Signature=2fK3WurNLqrci8oK6sQY6Soijv-iyVcOlcqknDP0ZL2K6mH-yu8CVRJ-DdmUsXo7yyYIqXUb6GateOLpObH2lPorxotep~K4UgDhyzztj11soYbLs0AIR3rZPvuBTPi1gDyaYc3yCpVLTlw9OJC45xBHinpgvcJUS5ChxyP0Cst6pV6eDdbPB3Npxa-DjIwyya4JWnKLhmFJ6rVSxYriIvEr76Jxb4QGi2l93niaqo~oVRbUV8LIePujtJ1sQ502ipcQvyUgbxPa~ipd9ZZaBHhaCBjNRNbwChfLuHWEbw-r0Z1V8nfbjXD537xakUonIyvn6xZa5~~TedTNooPdyg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/btaf213_supplementary_data.zip?Expires=1796910579&Signature=nnhWqjInqXayIurnRVkbgNu0XjR2t49EUv~TM6rsWct3x1oR6-yJcrbJ7EMADfN15obNUu1wrHM9KLHkBPfuIS~kwlpImSH90DNKKNhSW56tKAVAJth70x~fRrf3pTVk63H7~NXbZ45S1m9Xh92yEDC7PRiahtGNt1rIHesSxrAgXkM-~o9~aLDyIn2wja1el1JSrB3xGCLTEuBmpkxz-DbKDj0VEQ10N2utF~LcT0rmnheovx6hhimgyThUs0o2~utk5vQdc-RldOFgAsTlE1AiBR0guGupOrZPo6LfSB0Xxw6sruKtGndbngNhE~kP~K1FAy0L2rf6qiM11BI28w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i609/article.html",
+    "pdf": "files/i609/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/m_btaf213f1.jpeg?Expires=1796461461&Signature=rXiryBJESZRCQMb6d9iZ9k84A9An7dEpHMlN7v~iDM-AHEGQZirTx3d~bzk~9jJCAwpVY~ZDSPTqZqC8jkVNDiprSkVB1~HkZsTShSdJz75oFn9UDxPIk1ObaBz2auI4xkaU~iTZWjGGNbfoik7fmY0UdSuNVFFWPL5O1UoJ5wC-2GqDqvU3TCJh9q4mxoiS1Hen7MM7NyhrMUCX-Wqqy7AvzhayEYCctFx8DZt21Cyd8y-RuwBwkB3cUmeSXEeGGkVSCAqVQg0YrXi2nx8SsJyWP0dLKfqaZMNhK5RLN7oySp4WUnxpcEpAce1UiveFsyL~9NF80SaIbRwcGXb4cg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i609/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/m_btaf213f2.jpeg?Expires=1796461461&Signature=XT3iblvUGsU~Xbfl066Did4JjSXcEw-D4QJSYMa-J3pOQo5i58v6lqgzgf-B4YeG3ZAbfohlyeB3J86GdaJRJZxNJqdlyJYitK6A64QymmPVrxygDKcwLQ~PGaeLfWbfotMrE4vVzIcVIV80ECvZikpTI~ZfVkckJieh9Gj~bNvT-lgTU-MKFPRyuQwhto6ea6Qnc9HEFS11sS38wjV2uFdFntpB6f7MvTQNTNHpsuIrd3Bvr1hHMmQqtCbBwLTbrukVJ43GdMFhoyQp7o5e15mvsz1Nq9r2xlof0Tvm6umpna40O~nPdDWA-L31-DE5Kwu-yxWFv4AmAaVt-MAo3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i609/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/m_btaf213f3.jpeg?Expires=1796461461&Signature=wWTzM9cmagTh350ZKQcTYUvkQEAQXLXT~qIyjO3WHMbPKbFoKA9uGZp~f2hQPgQN7y0xfv4WuXDbBaXXc~tHfXm2A0GoJ1~~opAFRb74XHGxUf-zDyBJb71G0hWZmZq55vX5GpSHQ4o7KW3NlqyvXBZ0piGNX8WKRV4XgTjU6YXV7rW~CED57Ppl5Cf2p4UtFKHDloCIaKNByMS8QgZsJqa-n6SzV-ZIVcEUCn2hOHACfW8UHo58BOZ4BxK-q3myptSSVXn7FxL~Ei9pTKCSOPPLTbxV0oKv9awQhzhRkVryvm3WwQdvmQo6FszbuvB1WD~PS8KAmY54MMoG5kxMtA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i609/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/m_btaf213f4.jpeg?Expires=1796461461&Signature=w7kmgvbXvhs5uHECae2VpnGk4t1~YIrTlDCLIj-jj3xXALvH8Hu1Or5sCpCXhclBqZ4dYUbTLkJvz0kIg-7N6IkhWL1GIoWci1DtGWNzf235UP7M~t30nZIC24AC2q19mdOznt0s5e2J0D3tiV2zPGn1uK5FDKElTSr~CtMUce3XOhG1l3JVk3B3fjAChKK6c8igeb~mfF-BmQl51DxCaCdyEBEy4L9EnBSyxQVWRE5HofAWUui7UGx3AXG2AtZyTuLrlu7miOYtiaqh5YYWarutmpDCXAY6ZxXY~gkhr4S1rUlXLAuLo2AhGBKzGzUMJNZBh3O0GTrApDKGsXyogQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i609/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf213/1/m_btaf213f5.jpeg?Expires=1796461461&Signature=qLMitVPTykUucoxhvJvSSt8FxRu0rraLmGBnzh3IRqDNXonS-N4YJTwuuLYSDK-EhXWMptprEnBv3F-f8lgsDwiDc3UghIKyeNKFlgjyW-lMnWbtcPkq4B2pyHzbwWwJ0n-bOuHPmDQf-5aawJnzUOnYvFwlY2U7icewLKPLEdPVZVeAFkaQJV6Qa2tywYG5caIftBY~c4n~-bbnoklM9VdfO1Tan7SOLf1CaoWmRGtUF1kp~d~ooP8-Y3OikCCIRojkZgyIfv77D7hkZEw193-ddZyDzgrNi8HtaRG1D1HunwT4MKj30CiFENKI93MMbZ4CHQ-Gc5TRkJl6vEZAWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i609/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

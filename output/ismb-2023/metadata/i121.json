@@ -1,0 +1,152 @@
+{
+  "paper_name": "SynBa: improved estimation of drug combination synergies with uncertainty quantification",
+  "authors": [
+    "Zhang, Haoting",
+    "Ek, Carl Henrik",
+    "Rattray, Magnus",
+    "Milo, Marta"
+  ],
+  "authors_detail": [
+    {
+      "name": "Haoting Zhang",
+      "affiliations": [
+        "Department of Computer Science and Technology, University of Cambridge, Cambridge CB3 0FD, United Kingdom",
+        "Health Data Research UK, London NW1 2BE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Carl Henrik Ek",
+      "affiliations": [
+        "Department of Computer Science and Technology, University of Cambridge, Cambridge CB3 0FD, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Magnus Rattray",
+      "affiliations": [
+        "Division of Informatics, Imaging and Data Sciences, University of Manchester, Manchester M13 9PL, United Kingdom",
+        "Alan Turing Institute, London NW1 2DB, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8196-5565"
+    },
+    {
+      "name": "Marta Milo",
+      "affiliations": [
+        "Oncology Data Science, Oncology R&D AstraZeneca, Cambridge CB2 8PA, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Haoting Zhang"
+  ],
+  "joint_senior": [
+    "Marta Milo"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 5,
+    "h_lead": 28,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "United Kingdom"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 25,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Oncology Data Science, Oncology R&D AstraZeneca, Cambridge CB2 8PA, United Kingdom",
+    "Department of Computer Science and Technology, University of Cambridge, Cambridge CB3 0FD, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Marta Milo",
+      "openalex_id": "https://openalex.org/A5030562190",
+      "h_index": 28
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/HaotingZhang1/SynBa",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad240",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i121/7210462",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i121/50741599/btad240.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/HaotingZhang1/SynBa"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.4135059"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/btad240_supplementary_data.zip?Expires=1796433268&Signature=h3oheezU2o7xmTOBxJQUoYCZNWMhGDh3F9jUPGL6dITAUbPXuchC0v2qVPSfYSBQPGYtaH~fYZpqNek0NgS2n8nA1wxpyiZFkJDGMiA0lJN07~vX6SqzB4qxmvtihJIP5K8UHU5uCbuz8iD~kmGR4CfyV3pVdJCCpWAmvZHLsUquSmFIBTnVF4a4hnE2dRLYhv8MxnnvLBo8a0adSEYX5pCKrAB5jV3lKKDRC6ugSuqGuMMtAb43OpyLbYbiG~T3zTTnRxUHIQYacjXkCc5RhiozMzykyNCt1Geyi7Fyvej-behrlZmWLnj91eXFI8Q10~R8L5x09tQ7xfkctXdRag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/btad240_supplementary_data.zip?Expires=1796912054&Signature=ys5aHK9lhckG45~RdHfHxm-XxepCt5gYBIEeJIxn3YNwtm5f8klDMBbdv2GqSbP9nOjcoFddg4nGdWEFXh9EHaW7r6X6gYBC1oipOm-MgZ6JO74U9iTL4TDOInjFBOyBPUU5lWFV6RCZL7hUfv8QKtkbG9RggyqDmMH7YgN1paZX-KedYPj210jv2paBB6UWJbCVwX1RDnDSCW~v8F5VmwXn5cNlOT3vKgVOV6IOO3fIoYXmOc9uvkMl9hMJdTUm0tyb3egYyFHWdwbat8tRXtNxGoctmY6l-1iAIld~U7yvinclDWDet2NFxt~l4alpI5wIJo4eCjGFKpKLf-bh~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i121/article.html",
+    "pdf": "files/i121/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/m_btad240f1.jpeg?Expires=1796433268&Signature=xu5gVtwvleorLKS8JnUXakR9eouO90Z1f7BLj3dkF85P5Z5l1~N09YmPu6dvwpAoJRJBuXhRzOCYqbs--tzKpGhEMC0MUB~flh7CY9cjQvTUq0OBfxSkA1fa0crOCR3Teml1yFWTRfohnlsEF57afIiEwqJpgMJBQa6~EOWcS2e8yUn-Hq09WdU-JYU3A7u6tV-LXCv3L6KlXNDYkOgz~UI6upIJbkMoD3scRlvOPDhUWxNLZ2Lu1YEkQ71R8FWy20y9~bxcA-PMUqEny0D17mUHgVacr0LzzH1Tmu-Arla5ilAEJMiHEWl1TmvxFJO9nPVBYrnXhreUes3qQpCReQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i121/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/m_btad240f2.jpeg?Expires=1796433268&Signature=1PgfXmke9B4GMMP5HgtKD421p8W5Mp0VTjmX~fXccUlmBhlPJbBve311y2gW8s784~ppqN8ss7GkuUQzszfiLuNU9DjnKbRugzWDhg~toDj2U~jwySTAl3~rYex399OlR2J4MRaEPWQ69C-IhqywXQ7Pbf6Qx5wWieA64pJujNSosCAhER7Q9ZE-q9M0~bvBm7KNC3jzViC7XsB1sxiEMEXs3m9hSrj3pcEu4jUX1KYKsQnKFq-LCuEx-aGCDB28RwLV03nk9GuIMGUZuYSdzXTcgRbtzgafd7sPWu70lC5LRXvWNFlNwYoO3oB5~e16-bpKuSmSvqpepLB8K2reOg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i121/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/m_btad240f3.jpeg?Expires=1796433268&Signature=Klr4nGoF993XMa5XOVPw5f~ydb~aJjVMOZ3eiwZ4vfFFNcA949mt20DKJgfIm1VXcjLbW7Qw~7vcwwbjRNcNA4qcLmI89sdAttOsaZVgn78LxHwuxpv3fUgsd2qCtHjFL6GWqxPlppDECrXECpp2IU2mGavvcJ8dz0FPNHdBmdbU0Vmv2ZzuLpGifoMq4c2x0HmJRCieU-UP8NryyhJBPyRIjkk-F2tjlEAXBCQHPVGDJvtfsUHfT~zV58Ql1xwXy51DZCPnuwBgPyX2bV7W0t157fQvVY15TjILlT61HV916-inHfBW5YmQcpA2hoP-p5B8T3TA~1EH-bgziSR9AA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i121/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/m_btad240f4.jpeg?Expires=1796433268&Signature=xe9MeLAPVN-TcuNNqlitWzWTMlHa1IktesZwM2KQztjSrIRo9UuTU1omST~44XN622~cS3KUatUIQFmllsdO3nUo1f9U~IkGFgGtDxzSNLL7dVp8p2OxM-W8fCmwJFeJOo-ZIZDkYB9sFR2ve9sWzLPPqcVwQNVQwV9V-iehpId0VzdasOg6nmhsLsX3pFI1lTcga36XCSnBd6TaAhfyKbHXRDhWsf3CL8j5l-Zd49oYTx9CXIy8lWhjumxktBWMGoS6fPt3G53QdBEFuPkZWqOekRHExrvq0x52m7xJOXo9bHUr1eoPpN8CjRwugRBeyc7aQNYdO35Ao-BQIJzZdg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i121/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/m_btad240f5.jpeg?Expires=1796433268&Signature=Hm~yB5UaywVGzaeHPPSPxMxFcPVBy1-CICjG3taUkuiBrx2SR3bu3Th-E-J8Ezz0YnePTIEXtXELqmsD3eAkuyiyJcYExWJ1MQe-g1AZwmCLXT4-e52YMc8Wmarf8a~G7Z2feJp91tiMRt32av2noa8~lOoztTXyC5mcXREwsRGj1EN84SbONqlikawyz4eX~n4mkNuWH7ESctxcMP06hlwq6IHk68g4PYkUYiV2NN3L~~W-euvas-4x5KjVShVunARPd5txkEhYDu~tNXaz21Dq95GMRKq0inxNgq~CZgQ-DKd2lHupc3AEaN2SMU5d3998H0kt~yX4np8oDkQd5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i121/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad240/1/m_btad240f6.jpeg?Expires=1796433268&Signature=CKtOHKL9uK7OEE-kZ-a~eG4MiN6Rj25HAztaHG7Xv1U-bTT~PjW8lOTYsZ58kSZkm3kw9Kq88clcsr-eOCq7cqZHTZCwuSP8iU2j~NkNVJ6C6yKMds3l0fWac14bGU2R6OQLM5O8aVHWMEl5kQMjPXOQbgA4bd47ptj7nVgEjSM~PTSPD5buerXVtkj42uthhRf7wYup8MdcrsaB3hjkxlJZoAoIWSy12flWkqm9pHwhGZgICXr-vBaCZ0FnKXKvP-M0A3zEl-ZcQ4TcoqNLhyQ2Dt~K3pAXwycCQrIKZtdIH0c0iGtbxNQ87R29gIW~KGmaEkbEhbUBU1m78GvtSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i121/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

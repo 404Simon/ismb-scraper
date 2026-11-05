@@ -1,0 +1,135 @@
+{
+  "paper_name": "Recovering time-varying networks from single-cell data",
+  "authors": [
+    "Hasanaj, Euxhen",
+    "Póczos, Barnabás",
+    "Bar-Joseph, Ziv"
+  ],
+  "authors_detail": [
+    {
+      "name": "Euxhen Hasanaj",
+      "affiliations": [
+        "Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6940-8683"
+    },
+    {
+      "name": "Barnabás Póczos",
+      "affiliations": [
+        "Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ziv Bar-Joseph",
+      "affiliations": [
+        "Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States",
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Euxhen Hasanaj"
+  ],
+  "joint_senior": [
+    "Ziv Bar-Joseph"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 3,
+    "h_lead": 67,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ziv Bar-Joseph",
+      "openalex_id": "https://openalex.org/A5065673127",
+      "h_index": 67
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/euxhenh/Marlene",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf210",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i628/8199402",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i628/63745669/btaf210.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/euxhenh/Marlene",
+      "https://github.com/fdtomasi/regain"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/7555405"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141259"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf210/1/btaf210_supplementary_data.zip?Expires=1796403613&Signature=rKhsxebyCObPTzeCF5qiCwE2heutxBOKDdz6AgrpY-9Bj7fYRQ0Nwp95QYaMJIrKVw70twz~unBX9IUV4Wm6-THvELKcJzWfv9PDIUkAtjwLLdehJHcBvn2Vse3uBo8647C7Ax5NOg6Do4gQ7dMY6sRmcy8xKak0qhFWndAZRLQMTEh4syKJ82~BjrrBYgYo38L1aonGs9ItmY0dPVhA8oVPPp-f1SqpvwzXlIyRDo~cSbhEpP9ltkNSB9qYSLPNL0JneTlEzYMOn25R3ZxGsdqKLtuvV8767Q6XCSdAt5MiiJ9H5P~ZJZTLcReyFHduDzyPXzp6VcGR3Xpz9D5HzA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://data.humancellatlas.org/hca-bio-networks/lung/atlases/lung-v1-0",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf210/1/btaf210_supplementary_data.zip?Expires=1796858815&Signature=JtaA8pgLLxKDpVxyBnNVtsfuOqLfuIGCYsaPix-2qkDoJX7~a460Ak6M~YWTY9EYhGYHRj~u5fcIJQkbuiGkBtPr3V5-beddJDAt5ljEjaOj2mbTbWNx7ey70Ay-cFI4XW2ZCX7z3CKgtaGeljeRH4zSNy1RzmQQki6slGv0pebAfYxGrSLeB31fzdsgsP8z4uPFnHa2TgmxVPrMszWADhuG~Mezf43NiqEycfYdIB9W-4csxC1rKeYfC6fSgMIhyR5jAHvifYERUvU~KZJsqDizl1~150WF4LmVw1BDpKrAq9mPjbHbyzu5JwxPansOt~x8wXyw3CK0hkRaaLWuWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i628/article.html",
+    "pdf": "files/i628/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf210/1/m_btaf210f1.jpeg?Expires=1796403613&Signature=amFI0icDnOKCzp4wPU9AlqrM6KWCOW0qSD-rXIIb0cUERKn9Qcfu0mztOVC~8g20NgZ7m9f5olTdpmms~A9ahzBJr1ghj6nnRerNThThwxfsmJLaUgDmGIXrAck6YvU6vnw4n-xiifLZBpUjaxEzlBut8f3Ey6YtP9ecxmJ15Otn~QPDIA-cqfRZGst77lqFYslOycRbCrx~gWOvU0LB7r9eoQldk~x~UtdU-na3yNHNqN4A7vdp5BCiJwpRocdt7aIBCqn96BbTikEVqDN4dXkryRDA96Jnd2~M4e5b3y~NltnrRLbF5i4bwvogwIBZETBJl5l7vjjS-AXc6QRJyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i628/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf210/1/m_btaf210f2.jpeg?Expires=1796403613&Signature=jix2TdIbnl4mgfsPaLxXFzb7AgorsgHu9~ZefaoIo0YHJihyYIYz-OceG7N6uRCOR~rwgwREh0uJNP8kEkdEpadFAiKQcJurTu4ZZeW6Wif~L80ezNlX0rBzgkdt8emTGtCNWOIwQn~wgrN5gQ-xxv18pVg7FsVI1zaQnVLASDnhiJB4InxTyLb7okF9g~w2nQHzsaeg10D7L5tdiwKKWFxNp8751jha6ZEzZzSrKY-AdRCKdrBgG5aP5WS39rWjQKRDAZdNbe3jgN2WrI8gKJhZAcp9UncFXkZ3MZle8J~pB6lIlVZz67BUM8sK0H~k1i2CHS-Rivw2OmobYO1b1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i628/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf210/1/m_btaf210f3.jpeg?Expires=1796403613&Signature=Z0sUfUVzF8SfhY00DaigetNH9BvRDP1S6HD~LZkvWEbHjde4ILLwBQl1jyAQNeKmPBKNbox7EsLxrQAjHRKzqEmBP-cYZLZXfwYO-3FovhGjttRZACAzoD347J7ETy2erE8Wh7AkmkTpfkctgO~EXlSfGt~Lvwgp7~EwtpGu23ExHEc5mcZpDdZfZqlCbBN5KkJ~el2vex4bflpNE86iYEeABac9tKALidypKY8HJhq5P8q4-o-tdrsCc-iJhJqoL4gNyx0tQjzYGuIoQzdls4G5vS5rTFpP9aZxfMm19kbw5J4DsgEWB4-F7PyOB~vSmVPGj292Q6iaI1oR-0NMjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i628/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf210/1/m_btaf210f4.jpeg?Expires=1796403613&Signature=bDX0V-~cM8~eXzQWQvHS2N2sjqomRc7Rmm00V6cQFYrV7B3mR9wMHVPAsH6ZEJOgUhObfP6JHeFcLoajX3nx4IT8dAyInje9GLJoHZ9hCJnHQOQNSgHAj0MXHJ5OBNIFnjDUVqwOud2FH3G-JJkOIHXX48F2VrX7QVjacvnlFFh7~FETBhTQ~z~U6r~VDQ2jqPbFSmIgs~wsrdn~QxFR0xjVx4HNt8OKnZzkYrS3cMXKc7WoPh-tjJqoVunCbP~UDFvx4UX3dBEYN6MZAIJsL1yRdG3U17vYlwu4BroTawezI54nkolpVa2zoKmqtxt-C4lDEuMMmgrTlKp0qXqPHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i628/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

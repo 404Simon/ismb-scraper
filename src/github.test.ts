@@ -8,6 +8,7 @@ import {
   parseCommitCount,
   parseGitHubRepository,
   parseGitHubUrl,
+  rankGitHubRepositoryCandidates,
   SearchThrottle,
   selectPrimaryGitHubRepository,
   type GitHubRepositoryCandidate,
@@ -98,6 +99,29 @@ describe("live GitHub metrics", () => {
     expect(result.metrics.C as number).toBeGreaterThan(0);
     expect(result.metrics.I_open).toBeGreaterThanOrEqual(0);
     expect(result.metrics.I_closed).toBeGreaterThanOrEqual(0);
+  }, LIVE_TIMEOUT_MS);
+
+  test("falls back to the next candidate when the primary repository is missing", async () => {
+    await requireGh();
+
+    const result = await collectGitHubMetrics([
+      `https://github.com/${FAKE_REPOSITORY}`,
+      "https://github.com/lubianat/compbio-on-wiki"
+    ]);
+
+    expect(result.repository?.fullName).toBe("lubianat/compbio-on-wiki");
+    expect(result.missing).toEqual([]);
+    expect(result.failures).toEqual([]);
+
+    for (const value of [
+      result.metrics.S,
+      result.metrics.C,
+      result.metrics.I_open,
+      result.metrics.I_closed
+    ]) {
+      expect(Number.isInteger(value)).toBe(true);
+      expect(value as number).toBeGreaterThanOrEqual(0);
+    }
   }, LIVE_TIMEOUT_MS);
 
   test("a real repository exposes a positive commit count", async () => {
@@ -366,6 +390,26 @@ describe("repository URL parsing", () => {
     );
   });
 
+  test("collapses OUP underscore-escaped repository path segments", () => {
+    expect(
+      parseGitHubUrl("https://github.com/bmarchand/rna/_small/_parsimony")?.fullName
+    ).toBe("bmarchand/rna_small_parsimony");
+    expect(
+      parseGitHubUrl(
+        "https://github.com/fredericlemoine/reprohackathon/_ismb2023"
+      )?.fullName
+    ).toBe("fredericlemoine/reprohackathon_ismb2023");
+    expect(
+      parseGitHubUrl("https://github.com/owner/repo\\_name")?.fullName
+    ).toBe("owner/repo_name");
+  });
+
+  test("does not mistake normal deep paths for escaped repository names", () => {
+    expect(
+      parseGitHubUrl("https://github.com/owner/repo/tree/_branch")?.fullName
+    ).toBe("owner/repo");
+  });
+
   test("ignores non-GitHub hosts, owner-only URLs, and malformed URLs", () => {
     expect(
       parseGitHubRepository([
@@ -517,6 +561,25 @@ describe("primary repository selection", () => {
     );
 
     expect(selected?.fullName).toBe("org/first");
+  });
+
+  test("ranks all repositories for fallback in score order", () => {
+    const ranked = rankGitHubRepositoryCandidates(
+      [
+        candidate("https://github.com/org/fastppm-data", {
+          section: "Data availability"
+        }),
+        candidate("https://github.com/org/fastppm", {
+          section: "Availability"
+        })
+      ],
+      "FastPPM: fast probabilistic phylogenetic placement"
+    );
+
+    expect(ranked.map((repository) => repository.fullName)).toEqual([
+      "org/fastppm",
+      "org/fastppm-data"
+    ]);
   });
 });
 

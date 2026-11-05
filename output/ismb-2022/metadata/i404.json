@@ -1,0 +1,112 @@
+{
+  "paper_name": "The effect of genome graph expressiveness on the discrepancy between genome graph distance and string set distance",
+  "authors": [
+    "Qiu, Yutong",
+    "Kingsford, Carl"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yutong Qiu",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15232, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Carl Kingsford",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15232, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Yutong Qiu"
+  ],
+  "joint_senior": [
+    "Carl Kingsford"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 2,
+    "h_lead": 37,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 12,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15232, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Carl Kingsford",
+      "openalex_id": "https://openalex.org/A5113653378",
+      "h_index": 37
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Kingsford-Group/gtedemedtest",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac264",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i404/6617532",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i404/49886388/btac264.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Kingsford-Group/gtedemedtest"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac264/3/btac264_supplementary_data.pdf?Expires=1796417853&Signature=Fw2R1KBxieKUetk6TjgPFe18eT8lt01bcBluHYd4HOf8auKb0AaR7gTA92YrD7cXbcxX1Dksep1bgYp2c5BYoJgZnkdXE~gdEIDmHv4kpiTVPBcHa6Mvdeh5yh1YBPn8fwhrf6sOiS5JW1GrHCrBMHr~Gx6urM5o3qQUOzSli7PiCrUzxbD8FlmeetGgrjQyJiXXs37iKlRJJBbTmkE2IAdN1k6GRObAmRs2qGmn9Y~rvBYNTs4JJHuPjDvqXi2yoqYn4fcf8JrKpaRXqGHmpGnSrzvu4jjQ8wY2jjrt3CMqr~95tukmdh9JyuxYAluLYKIZYaYLUqgSVG~EOiOreQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i404/article.html",
+    "pdf": "files/i404/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac264/3/m_btac264f1.jpeg?Expires=1796417853&Signature=xrYHuuZdArpuHku8-U-RcSSUe3a2sHO53hfajrNlEKkNlY1eyP2j7xpEEAxnJyhvlZqBLH-9LBApXurWi3Cpcty9VHgQyNmIgd-ZXf46BmdcnubPoa3CUzQxZ7ePB4kTA5siifNOf7VM8Ey6JX6udeMqjszKj~FB3zEIuohFe9r4o3bybUsXbpjvKLDzKbdUCi2bCYsRJlm9YJ7z59QepiGz7HZzSvAwb6NS8l-vv7URbxwv~uJ1hrST9g1sQRwE8W3o~XAOA~dLfm60~gjqWiPG7le9A8N7xpRs1OA0oaXgMpF~WPW7UHen3Uh3tEhZPmjuS8xkyuE~EO7G9~0NjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac264/3/m_btac264f2.jpeg?Expires=1796417853&Signature=EKbsiVJtC5a8ngqqbMx6coiR~Fj6GHu9rJzgZdn8Hs4l1I96rdvLB-hq1z3O7EFmD0ns2phstakOL8GRDybZ5D57~cg-6APIzv3J9frVeLEOpslW0JMKxSubSO4CB5zEx4FNBhbbF4MzFs404399T7R~KOo8ETX1LOOQw1bjSrEyFagp9XlUl8z0wv6pQI2m9MNLozjMLS9U9yOdP2TH11vEPnw2hpSEOv7nKfYqG9SAmEooDmFyRIGBGmEL6IUY0Kr4wbFSjbqphVvq6EgQn2CP9XnZEiQcquTvXYHn-tqpV0A51mrfA6WFMcZTyIzsUBnMZ0X4avjFEhfwsuPhxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac264/3/m_btac264f3.jpeg?Expires=1796417853&Signature=azTKSf-hODcA7QHaQ613Dku4YIWa9Dif9PQq0qNwZC-4F1o6dBuKwr3EFfvNNjYeb4XWSzuXR8d1GiZ69aF5fh6YTUGTc8Xo7FrPjPRSNyLjSTP6yKVwRvsfBmqW~8IeOmMjjX~7YpnzvLVkU-pf2pKCuwSSYxzw-1IwxVef5N2Aqzq-qQtetSC6EVC8HPnaQepyyyFgkHRNQqX0D1Ho-brOenpQnyvSXBy~hc6bSAt16GI2yoYvkbxiTQFjt-X4ibRGxC125ge5stsJkjxtgZjozrhcLqHgmGHXkNJ5ZO~DnSPch7ntHB8hMSQr24pBiPIJfoIX33-gBcn9HxY0hQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i404/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

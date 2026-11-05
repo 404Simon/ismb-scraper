@@ -1,0 +1,155 @@
+{
+  "paper_name": "NEAR: neural embeddings for amino acid relationships",
+  "authors": [
+    "Olson, Daniel",
+    "Colligan, Thomas",
+    "Demekas, Daphne",
+    "Roddy, Jack W",
+    "Youens-Clark, Ken",
+    "Wheeler, Travis J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Daniel Olson",
+      "affiliations": [
+        "Department of Computer Science, University of Montana, Missoula, MT 59812, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Thomas Colligan",
+      "affiliations": [
+        "College of Pharmacy, University of Arizona, Tucson, AZ 85721, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daphne Demekas",
+      "affiliations": [
+        "College of Pharmacy, University of Arizona, Tucson, AZ 85721, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jack W Roddy",
+      "affiliations": [
+        "College of Pharmacy, University of Arizona, Tucson, AZ 85721, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ken Youens-Clark",
+      "affiliations": [
+        "College of Pharmacy, University of Arizona, Tucson, AZ 85721, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Travis J Wheeler",
+      "affiliations": [
+        "Department of Computer Science, University of Montana, Missoula, MT 59812, United States",
+        "College of Pharmacy, University of Arizona, Tucson, AZ 85721, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2004-1785"
+    }
+  ],
+  "joint_first": [
+    "Daniel Olson"
+  ],
+  "joint_senior": [
+    "Travis J Wheeler"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 2,
+    "h_lead": 23,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 353,
+    "I_open": 0,
+    "I_closed": 5
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Montana, Missoula, MT 59812, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Travis J Wheeler",
+      "openalex_id": "https://openalex.org/A5073174813",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/TravisWheelerLab/NEAR",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf198",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i449/8199346",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i449/63745255/btaf198.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/TravisWheelerLab/NEAR"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i449/article.html",
+    "pdf": "files/i449/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf198/1/m_btaf198f1.jpeg?Expires=1796412336&Signature=ddODCxpEqi52TAfdtP81uzeD6Aq0Pdg6g4tRtjbhs5tpa9vJajAMljOE3uHsOK87d6qZ9ZziYcYOlzdKCst5wqcNgYyHlZWNARruteCbX4ERD56Hkd5TDBnkznjAMLZYMQNlzcVvwBMtBBaBvmPLY35qVZHMw0VJH6BF3CkVJwPti6OfKalRcTFSI23EKz7zDm0hdR7pxdhwtJss9LiVFE5Px-BRrokGjIVUGN2WTXztx8G-K-hbnQqKvzkJ3OzEhyhQZpGZRg2bo9feqE59b21Vd14DwxRIId-BrMVGfQtp0-3gpaSF-5Brf4tQWkR--~OsZ30xK2Cl3ID6UOSqmA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i449/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf198/1/m_btaf198f2.jpeg?Expires=1796412336&Signature=ctF~nuAttzPhKm1Sxainc-6vOlvgy3DEmh2753z2JFXggb2yAVKo9zGlhYHEEa-0Tcr3JldX1a1s2n3uz8TWJeqD3HcgtQp4nI1bk08kzZxLtrErAYugyXTgZSfxheaurcd6QPuH8A4TJrjydv3jr~dSEr-GIgrqEkOe5UHc6pzSXEzs0oNMkBeYajTYU7K0OqzAeh5JUZkrpLzwmpKAprbU0m8EM5BNWO8VJgaH8RbV5DeNUDk~xtk4mtLxcy9yXCLOyalQSPr4BwjJ8RBsPNK7Ks8sewV1FcoZuDgWsWKOdPYVJVbjUDCy2JpW8~MOC9sFsadGtssxED0WikO~fQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i449/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf198/1/m_btaf198f3.jpeg?Expires=1796412336&Signature=iI6OvaNyHf6ssedXPcaAdDi3l8aHDzTxT5ivHr7fVf-oz9621jUjwH4UDTu6BvMNboSu7Il~m3N7d60VlmotxY6hFyIAFOJUu7wzEEx4KAALS3hSkzMxdlFBdIoJitor~2a1mTQXFlLhcCEPOkSpKS~67p-wtG-lLrB-~8ku7Fqp8z5lBCaiZv-d9H2wHDwI9NoD0OJm2Hv85-i5wfwVQLE4z5kjMNUavsk0Qnpp3jIH8ja-2N0fDzfWpC2uInQXWJrRCQgBJekgOinDTay-KEOoou~iaLGI3MxniPcehi5H2DfsrFVoQYzxtPAMcTdBwtwS1pdy~VoSaY~hxrRt8w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i449/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

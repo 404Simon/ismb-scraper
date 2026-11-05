@@ -1,0 +1,168 @@
+{
+  "paper_name": "Deep learning models for unbiased sequence-based PPI prediction plateau at an accuracy of 0.65",
+  "authors": [
+    "Reim, Timo",
+    "Hartebrodt, Anne",
+    "Blumenthal, David B",
+    "Bernett, Judith",
+    "List, Markus"
+  ],
+  "authors_detail": [
+    {
+      "name": "Timo Reim",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany",
+        "Department Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, 91052, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0002-7307-1347"
+    },
+    {
+      "name": "Anne Hartebrodt",
+      "affiliations": [
+        "Department Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, 91052, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9172-3137"
+    },
+    {
+      "name": "David B Blumenthal",
+      "affiliations": [
+        "Department Artificial Intelligence in Biomedical Engineering, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, 91052, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8651-750X"
+    },
+    {
+      "name": "Judith Bernett",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5812-8013"
+    },
+    {
+      "name": "Markus List",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany",
+        "Munich Data Science Institute (MDSI), Technical University of Munich, Garching bei München, 85748, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0941-4168"
+    }
+  ],
+  "joint_first": [
+    "Timo Reim"
+  ],
+  "joint_senior": [
+    "Judith Bernett",
+    "Markus List"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 2,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 13,
+    "h_lead": 23,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 12,
+    "C": 32,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising, 85354, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Judith Bernett",
+      "openalex_id": "https://openalex.org/A5032713341",
+      "h_index": 9
+    },
+    {
+      "name": "Markus List",
+      "openalex_id": "https://openalex.org/A5035928806",
+      "h_index": 37
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/daisybio/PPI_prediction_study",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf192",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i590/8199378",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i590/63745496/btaf192.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/daisybio/PPI_prediction_study"
+    ],
+    "zenodo": [],
+    "figshare": [
+      "https://doi.org/10.6084/m9.figshare.21591618.v3"
+    ],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/btaf192_supplementary_data.zip?Expires=1796411116&Signature=vDtQTqlzyRvkzqGnbFr9jB7wXb5f5V~XDxGoNEwxbvfNL0u5zDh~-IQozgnhLbrEeQItBBGAImpNHXBUoyGq3xtCguOScCqwp12iZXB3hbizGyhicjrOl8rnkUe7jBJW8Al6MDOMoutIIvM08Y9mkkJn~jVF-B5GtUVPkO~mfjl8hX7n5~3tHDRjI6C4-BSy3-BeM-JdOY21nO9i0OQnBxW0UqYsB~Y8QddDzLR25DVUWTag7CFaQPdxxOT6uDHBZEzpq3irZhdyhcCf8kCJrxhGlh~uFcjJYbN6t2z42lbU4Fv83e3p6RBu1lHgdE~JlGyPLnC7d~XQMTuIFYLIzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/btaf192_supplementary_data.zip?Expires=1796834539&Signature=2JgkTeQ~rGu7IXF26Opk3RfieDZxY~ySnpSrvDg3uiEi2YgkujpHO8mWFbdqbvxn78Hgb-x4PBpplZ7QFVEgxLUlcU6N1hY4C4BQqwiq1g1MH9b3BRTLg5b0admbH5rhd3nZd~xP80ktjFR0O5nknXFSZxo~anj-3YoUoOMOCxeb7HwuJKxux6-Ey1fXEuVks5QjJtQr0-pe2LFiJdl6moda-W4rYw6YGRruFIP7UEX8O2yWur1pES75a9nXiXSs0dkcwkRZRhJ4rQcdji6B~E5GBBTyd-X56tv15EcitEqCVqfied760DFyvm7UXRRGU8OIqA5HsjOemLOpLCCdwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i590/article.html",
+    "pdf": "files/i590/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/m_btaf192f1.jpeg?Expires=1796411116&Signature=yN1CJNeuFJxOv3ousndX9XS9EyysJRKVayyfPqjZHCrMZ7aSbYYQsZ8t5PFvfr70YRFZ5aQJ0Bn-i2A1q0UAkmStey9BsF05uhf~vbtrOy2ew2bqoj5vXtHLUWQkNZ9UwUG42y1E5asApCsTMUKiNq7jR2Oskn5hU8crAfHZOjEnCtd9-ofBIapED9Ae~KKjXQzgNhWbqQK34g7Y0XK7-HFpf~sZJmHZxOmNBiwkUZPIUsYCTUVPJqoROJNKeNW2Rhrf3lid5zOj67-Va~tnZdZ16cMHSIL-3Jxthfl5YohI9NkbNLGfSMmEDAB~oGGWuNK9kxKIoKdYe2bCpiGP0w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i590/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/m_btaf192f2.jpeg?Expires=1796411116&Signature=ItoXmWLGbGGvMe4ReNgMxIy8SgYIPBLlRG3MXIlqUxhMD2StBXlEBGX2KjeRMn6MPtiCE0AEmyQFaFUMqc~wPQqeGq1oyJMRVRxvYDjqhUMbC0tnNje5PXBA-iLPh-CAh8dimRRPmtSyPiTdnSnlKoJqzb2UuO0xc0aWoDqQWuntpbN14KwxOQ6tvP1rZikx66uIDDInUThaMrW~KSCbXRA1DyvC~r5zjoShXZC~GL3smqk9rmOW5SLzWKx15T3oRHT5-NCahaWLkbrek3qy57J-x5bYKiBxGi7mGaDjS0p-N1QSZrV0Kmq3Z0qIACvHuYWVoZ3Zg28G4-pW9ooVTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i590/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/m_btaf192f3.jpeg?Expires=1796411116&Signature=r7Oj7hts-izzHdyLj28RVHvwXoBwaH48fOWzc4~ZrI~esarYtzslQDRLLJFQAnzQx7~zEowS-XvHou~0lSUab~urV4nTbuD2Xb4k9CvvDivNWDNFpCMTkSxngQP-xYB~YArQ88IoIhTml7ykEAatPy~sR0M~R-9HYuXxTsWE-Hr7SoaJsHHI2rA~1lpdiAooyMN8oRrV3SQ2R9hnwaD0ZJkGGm0GRQDBxuCBLbI~wGlqmJ4euKEDFposbSMFnRtb5iuHFedYNVriK6da2s~Uw1aTJg0~dJ-Q-GXm~1qdtSF0l6-3QHYP6KklWYKf7heiM20BieQYavEgabDG9O6jcw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i590/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/m_btaf192f4.jpeg?Expires=1796411116&Signature=xct-hAu~j3MYf5plB2sHSbtF8xXesuaZTWPd6L5gl6hhpGF3F0vnxvHcho1VgAON7jXzQhYpcSCBgSYueKFfRWY9xgA9L-AiPfocb-VWHvSBhTF2U7aoQsXTi~oMZTmRHYnvcISRzK1nICknYk47FcRHilqr0lhxL48CGcH~EkhAGj0disHmSq6dZkMxn1ny2LI7H3nHpBQh1HnACyubMoH1HIzaXr2BZZnEscqRKlY53luxpQTHtjRlBUFqiZp7YCMWyIJxSEFeH7Dmjt4rMpbGL~fVK2qui5yb88pDi8C4Asu1BMCiATy13vwPK0vjnxNhLapTDO-hB9xB4IqIyw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i590/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/m_btaf192f5.jpeg?Expires=1796411116&Signature=xgg8z2xQhJdVKaVREoAfnnzOqGRN1kRupDpLHoNp-vUmICNQ7NkZqEuHLrgKN0KIclBNSrxZmVMyWSBxfSsAMkvSLoCpSKbUrIyuNjpRtoiO9nkaBJKKk93iiEZnscl5u2BdpVNgK0BFwCB2G6tVroucrHwEl2KNifVWERpyynz77HI1dC~XN0cShqlMBT2n9jk-qZIajIfU5qyvlEFxyfiDr60Gr~S4A5ANfPtJbuTXTs-bGhAoC5zw-PrDa8WHqiUbQwWIcqGFiVkNNAV-f5XMIPEwqxXkjH8mzMk3nIBTrFaJyBSdkamCVH8yrKcEG2NSeE0AeMCr84g907772w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i590/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf192/1/m_btaf192f6.jpeg?Expires=1796411116&Signature=B4gmeQy-oe2-X0Yub0YcgIk0F3is3HEnRReRkdesIuc9UTwgQjD5belCHp8YlmbIlCPRqSmzUMgRGgjAYpV5yUIo4hWPFcrNQDJg3agRQSNHeR4jReL3a241O5bGwdYWJrsZEZmRM6c2yCfDZ03Z1KhdXFCFMUEbHT7DmaGYE5VWrJneATMyRmGOOe760HmxQoWKoIl9bDS5Q8pXjckydOOEEn3H-NO7ZvoZDZEWz63n9rktgh9BQwaV38lB0dse4VCajHvi02FSqC2CkG0EyfoUU6cC9dz3G4Fnjm8uVos5j-JNnkjK5RsjwpB5x07j1MRksC-EHdoonziZHDsvXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i590/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

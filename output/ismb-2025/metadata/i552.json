@@ -1,0 +1,163 @@
+{
+  "paper_name": "Refinement strategies for Tangram for reliable single-cell to spatial mapping",
+  "authors": [
+    "Stahl, Merle",
+    "Straßer, Lena J",
+    "Lio, Chit Tong",
+    "Bernett, Judith",
+    "Röttger, Richard",
+    "List, Markus"
+  ],
+  "authors_detail": [
+    {
+      "name": "Merle Stahl",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0005-8652-2356"
+    },
+    {
+      "name": "Lena J Straßer",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising 85354, Germany",
+        "Munich Data Science Institute (MDSI), Technical University of Munich, Garching 85748, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0007-7881-6818"
+    },
+    {
+      "name": "Chit Tong Lio",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2297-831X"
+    },
+    {
+      "name": "Judith Bernett",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising 85354, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5812-8013"
+    },
+    {
+      "name": "Richard Röttger",
+      "affiliations": [
+        "Department of Mathematics and Computer Science, University of Southern Denmark, Odense 5230, Denmark"
+      ],
+      "country_hints": [
+        "Denmark"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4490-5947"
+    },
+    {
+      "name": "Markus List",
+      "affiliations": [
+        "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising 85354, Germany",
+        "Munich Data Science Institute (MDSI), Technical University of Munich, Garching 85748, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0941-4168"
+    }
+  ],
+  "joint_first": [
+    "Merle Stahl",
+    "Lena J Straßer"
+  ],
+  "joint_senior": [
+    "Markus List"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 5,
+    "h_lead": 37,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 9,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Data Science in Systems Biology, TUM School of Life Sciences, Technical University of Munich, Freising 85354, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Markus List",
+      "openalex_id": "https://openalex.org/A5035928806",
+      "h_index": 37
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/daisybio/Tangram_Refinement_Strategies",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf194",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i552/8199362",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i552/63745368/btaf194.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/daisybio/Tangram_Refinement_Strategies"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf194/1/btaf194_supplementary_data.pdf?Expires=1796424061&Signature=HhxkFPQNT4KDIGaLqr4XpHgDEZWST9NjNt0gNjtS0YvGW5ifDIrkpa~TfOTF4vXjYrEu4Zih6yhwxrlRPtwyJ54rNjgeexT4UQks-O-hGGNrDDXVuUOSw7jWDuvasRPLmhfhQ7~oc2WLKIEFjBr4gs0WZkh4v7M8EGA3pWG3qSLss95AiWebz9b2LKL-GyuuaklDX4SnMHHqYC2oZE1JQbBg4rUySGLugG6RB47ZxjQ3wReujMjtuT7eyJolT3mlKUOGBzhDq5f6a~qrjhNSIIfl~~cPRgQwr7Jptbv8mn3ORdTvw6HEd3lCOShfQ2Y9VvuA9SXQ0bZoO1m1zG55yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i552/article.html",
+    "pdf": "files/i552/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf194/1/m_btaf194f4.jpeg?Expires=1796424061&Signature=lV1DvQGytqJoTCEgADuh0xe3staKD5ITE-m3dywMBI3vuBcI7sbDLRm6dp~bO0rXAbCyMQ2XREBcukPpyqj3mqW-tGXFIVxflYWvFRcMzEldXiRvMDEe9-WeGtlietnmU0K3ID94HOAWbySps7iNx3Xqb-cEmqRpRUvXCLNBEYSYM~I-Hv~nSLbsFYD2Z68qReoigQ21eWP5eeoHSdW4M18FgSBbwawyWrXDS8~mE4SmGxu0OXNapRVuPtDcnwsXZ~7MkDfHOIDIub6y0h4-jGkDz5lARbzblHW82A2KiaaxH5wzyai1kPWzP47YtOYlMNdhHAcOmdmmhWzgTOIL7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i552/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf194/1/m_btaf194f1.jpeg?Expires=1796424061&Signature=rTqYYLUIT-EsHzdLOHO9RYA9yZfDOgwLP5bCUatgrRA9oK3rLE5z7RolphiXWsxrUOTZeyA3D8ATdVT~si~bCtjrwT4BYGWIab-Jhf4t~MPkStlGmyaiCxXeCfHvLqIfiitvCnxw5Filr2I~PT9OkW7yHVdvk4PHuHs1YiTiOitIgZrFEOkAgBoVCW1xGpz~MU1vAi2TTxa47F4wRBZ7xIktsEwIQs5dQziZ7-WI2nzd6s2GIHWWrpbSqqqKCNpO6u-6AlOlaimR2kHC~4AHIbVWJ5ez7qJt8vQTaz9o-YjfM3zPSlTFINqfdyw6eFXCFznp42aRFlCE5t9HWCiiVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i552/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf194/1/m_btaf194f2.jpeg?Expires=1796424061&Signature=BGuKyuWhi7-lBgvWP9X6W65j9KMxeA4pWGPeU5ZlwaRX70whtIdwZx6qRKIAkuGqwATCF67jNU-s9TpJEsptB1bZ88xd0UUez41ZAthzN52oikx3eFuG73xPjAyrZHvg0iLWypVednR7NjNGswN6vr6kL9ty1aBoqtK3bC~mFSDpodwUuChDOevSps4ezPO36oIFI1uyStt-AegzbtxejXw0L8X5fdg2JOOWMlQQnfQU2zjmkAhL0EhlfUcdwRjqy9FpYd7Itc3Py-i2ExK1UmtjJjbFdNuzpp5gUOKKuuZDYXWSkypiL250HQuvEXtZuoU89AY8PVtspzeNLf152g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i552/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf194/1/m_btaf194f3.jpeg?Expires=1796424061&Signature=HeS7Ie~AXPEqsNjYFbV-JJq61S6KDmCO-O30xmgO8I-Bpq5Fs3rZ6yJ4cvOYKJz98ZdNZr5RC2Sdhikq3lz2~04io1WkOBkHRHPNpHu5PvSYTRsGk7lzIHeKN3huoqSAx5Zb5KPGUbGjTOnw07OhCMxxahu4AD~bp-g19TmNYT5~AOxpzj0x8H0IUOzQ51afZtCJL2IAsxBlcVBZdZKn7QJHFHO3FhGADwNbxgt5ByRU-maePdWcv1HcwQ1hQZHjJfTWaudeFa37Bg9FPY67KX99CPapi6c0XZ1B0xSZ51hsh3RnOpP2QInbsRHfJY7Q1mJnQND6ZXvK8ea8hQv-cg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i552/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

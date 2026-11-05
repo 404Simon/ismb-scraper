@@ -1,0 +1,131 @@
+{
+  "paper_name": "Exploiting uniqueness: seed-chain-extend alignment on elastic founder graphs",
+  "authors": [
+    "Rizzo, Nicola",
+    "Cáceres, Manuel",
+    "Mäkinen, Veli"
+  ],
+  "authors_detail": [
+    {
+      "name": "Nicola Rizzo",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, 00014 Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2035-6309"
+    },
+    {
+      "name": "Manuel Cáceres",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, 00076 Espoo, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0235-6951"
+    },
+    {
+      "name": "Veli Mäkinen",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, 00014 Helsinki, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4454-1493"
+    }
+  ],
+  "joint_first": [
+    "Nicola Rizzo"
+  ],
+  "joint_senior": [
+    "Veli Mäkinen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 1,
+    "h_lead": 35,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Finland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 14,
+    "C": 46,
+    "I_open": 1,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Helsinki, 00014 Helsinki, Finland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Veli Mäkinen",
+      "openalex_id": "https://openalex.org/A5043558409",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/algbio/SRFAligner",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf225",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i265/8199399",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i265/63745652/btaf225.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/algbio/SRFAligner",
+      "https://github.com/at-cg/ChainX",
+      "https://github.com/lh3/minigraph"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.14012881"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf225/1/btaf225_supplementary_data.pdf?Expires=1796481195&Signature=epGO7v9My5XNFVP1tHcq5ksOFtQRGOeg0CID8WEjbzVQdo7y6VYdGkbg4p~WxoZ0kT777cfYtc7xFrpRk93Gv1KGDZeJIFUbWKoEMCfLeRSNuanSdRpSGSmc8cORiQHV8CspUFAYt2z~FE5e0pZWlrwDQXTgdGx2huh~2Y-Vx83m6J2PNmqPDKfYfKBYBj7qN3wciDEcZmY28ZCQ455Fl8uWGBhSDiV2D4cQqeZGghTeRi561qMEDDM27qw~tye5tW1pLVy8ypfIgPEBHyW0t-N9Hdg4zMDXiDAi~fFxjnqhE~2yODyF~ZzvnPG9ezZRyowxLgH1EzZIY6evBTR2cQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i265/article.html",
+    "pdf": "files/i265/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf225/1/m_btaf225f1.jpeg?Expires=1796481195&Signature=nsRrz3Ng8FjtJ2iB5bW0bR9HnLBtWyy-zm-b602NFOZTddWrcrlaL--j4eQneAviDT3kXBA7WMF~uSUt14i2sJsUGtawzrJNGX6PUHamhug4aZtmS5dAyunuZMcg6cYNXD6eML653QF0dZbaCcj5aeOl8mfNCyYqxC25H0ZZ4WuGLcJpkCFa4z9Yv~5lIz1-ub9YjWIJh7~~mLvlQ~FNNhAZywsvrFh66LmrmJgpyQe3aZDegjrL0zXIvhxpnR8hrEAKAdkm5zIgUl-Ts~zA~6oPdnSpASGOUmNc0E17p7f3boet93j-4DetPpRzPvb-tFt2m8LLrlSyinZNGV4clQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i265/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf225/1/m_btaf225f2.jpeg?Expires=1796481195&Signature=GK6fBg3Tr20TVlvqEzSGuDsxJUKW9HZXi47x3VlXFjphIPY3PaEmlIUDZ2rGCxwxQ2RPsE-iNhw4miSrLER6Wx7t0M-PlTxhRIakCcDima~NhGCXgFnEFbylV12gDkWwi98-qk-rDNlY6hCqXJev~EvIPSsgJKTCT7~zz~Fjb3ZDd-AZNhnbXRWH0WFaZXepby~lCRn4F316lwnn3OnDu~40KKPiPJEMSwewwWjy9TKmbULo8Xo6NhUm6PwLU-OIBjVOhfzYEwdkCJ1rCF9XDhM8vJ5VKTpkhC7hSNSavBE5ZqpwP~sqamDt3oDR27QeiKfwcsn0EIRrGcFH3owiKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i265/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf225/1/m_btaf225f3.jpeg?Expires=1796481195&Signature=aqntP8npu1XAi9GSIhRsstU6iS9YdRA3ieC97kky119qpTb-OkQ2GFVsOfET4apE1DD5b4xPbuXZ4BD9p0qNCzGyuVg~kVa8r75Rs2dJD8yOYYPxPK8ZtTiF~VadyxxsfTU~ugUpcR994t-pePqi2K6DA5AjzOwTmP~slbTx0Mp2wFIm7dOhB5pPuaV88QWBgTZCT-U192s4iX24GHnlIC8Ud~cASOnRdbwuNcYSjnHqLu5T3b9bo-eKiSNbWza3INf3VTSzfDhe1q8lW4tMQ5ls8OzMGdu3b747E~JPgAID2U8cp~RAG-iTbH4dfJolS0ipaKhRoWo3NTCbhnSaWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i265/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf225/1/m_btaf225f4.jpeg?Expires=1796481195&Signature=oLteuLPW0QS3edAbVqkiRgpyTCqhu1K6jU5jVboYpALFpvJIWO7cRIc2-BI5vp9BBaPfi6At3b68HzW0az95iBhtZKVaHNRXvxbSfwWHG9klsxTzoqfHZnjPmc9kXRNAL~HCMvFypiRzLoakHq4z8Gya2ebj9yvQ~-D3ohaB3MVrTeS7SPZwNxzMk8acKTTK4rMVnFZFiwQmZOdaWClW2xA3DMlfnIfmsjMkztlwUKspv0VCVi36adeZdAtu1BDnvb~BkUitgKVnN4IQzn2l~NySE8qMDrtq5cv5wXlR4zMs90szC7IQqOuML5ek5EHjmcf-4seuzNLHcyX2NOjd6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i265/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

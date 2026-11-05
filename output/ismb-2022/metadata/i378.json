@@ -1,0 +1,251 @@
+{
+  "paper_name": "High-sensitivity pattern discovery in large, paired multiomic datasets",
+  "authors": [
+    "Ghazi, Andrew R",
+    "Sucipto, Kathleen",
+    "Rahnavard, Ali",
+    "Franzosa, Eric A",
+    "McIver, Lauren J",
+    "Lloyd-Price, Jason",
+    "Schwager, Emma",
+    "Weingart, George",
+    "Moon, Yo Sup",
+    "Morgan, Xochitl C",
+    "Waldron, Levi",
+    "Huttenhower, Curtis"
+  ],
+  "authors_detail": [
+    {
+      "name": "Andrew R Ghazi",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kathleen Sucipto",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ali Rahnavard",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Eric A Franzosa",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lauren J McIver",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jason Lloyd-Price",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Emma Schwager",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "George Weingart",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yo Sup Moon",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xochitl C Morgan",
+      "affiliations": [
+        "Department of Microbiology and Immunology, University of Otago, Dunedin 9016, New Zealand"
+      ],
+      "country_hints": [
+        "New Zealand"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Levi Waldron",
+      "affiliations": [
+        "Department of Epidemiology and Biostatistics, City University of New York Graduate School of Public Health and Health Policy, New York City, NY 10035, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Curtis Huttenhower",
+      "affiliations": [
+        "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA",
+        "Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA",
+        "Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1110-0096"
+    }
+  ],
+  "joint_first": [
+    "Andrew R Ghazi"
+  ],
+  "joint_senior": [
+    "Curtis Huttenhower"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 12,
+    "R": 86,
+    "h_lead": 143,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Curtis Huttenhower",
+      "openalex_id": "https://openalex.org/A5008844345",
+      "h_index": 143
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac232",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i378/6617508",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i378/49886995/btac232.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i378/6617508",
+      "http://huttenhower.sph.harvard.edu/halla",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/btac232_supplementary_data.zip?Expires=1796406688&Signature=aTOmyIEFMc~wrfKXufVQEzmXxYCuDHEHlVxn4ehPAaQPn2G36G45oovcAATEfor59KW0qe3XIrRbGN6KvPUuPPvlXPDpCrSU1ix5ELNyYTV91HcFp2h~KFJxh356cyRh6Oz6aA3JKhqYyoJ8sg6q0AN8JSWSlZuG2-8xlP01BB8-EcxYYR0AScBcsOH-dEVh7CdCY1CkvbzmBmySggXMmxCk9klWrd9ruepfHTvLBAMbFg2HF4ZH44ljZ6--D-QZy20fFgNf4yWYfbq7r92BV5JVA0BExrjx26g81LX~skHzgCjVxj2n6GLlIhIhWp3oFf9X7oiQZF~3PdTnkMV0tg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/btac232_supplementary_data.zip?Expires=1796913022&Signature=HZ4aFYHaiUzL5zhNdIVZ8SfACCv1eJGISeYiZgJBj7qhPjXfN91cZ8LIZ2tpc0heseKCqGlyO26niTwUAp7q3n01jPl3giRkYEHabD288EtIKUZ4AXvpFyN66w8ByZdWje-rhpHyDmzm4rSyXY7KPVlHZ9cJrqoFbaPf3q1iyfxR-ripzp7lv7uzG9tKLVqb8zwZpdgP8FyrSqepV1ecU7IZjHeo1123rSau85P7E1KvbXEHvmq4~426Y3lG~X5FY4-kEix~FVOcSEGGHKDFvnTF2MhxbW~8FBWw3QtsNTeMHxBwoxZqNKdddodkk-jhxDxHSDUsuXgh621esUERJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i378/article.html",
+    "pdf": "files/i378/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/m_btac232f1.jpeg?Expires=1796406688&Signature=LstPdw2Crk6hrZXNxXaMVAGuyuX3Ka4A6~GetBorfcYATg~zhNn5YZRAwaGeKVv6T9UUTDw59QjNWS693R9GTXAFedhngLLrRJPk12j8rK3WxddwhF~-TC1n8fWsk0h0nLtX9oePblwybGwon6qSm-oZL6Dax0nI4oFpnzqLiBGr72~FzbwvtQpcvd7Osj2Yvc1l-Il8JJtxeD2JIVN8rRNLbVUwt85-yLPXIExKqukct~zniTUHwTQfdYLsShTB7k1tu3rJ24KrgoDi-AVAgyKG-aGuxC0PGP7MClw84r9Bb-ExDJAvfpggFWjFKHCufBaEFwMzV6b0qaHU5RFMUw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i378/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/m_btac232f2.jpeg?Expires=1796406688&Signature=geCNyx1ONVdc13wtHjEvUpY6OdNIELJkPTmSRNqzbI2RNnaETB3byDXt9TOi4OIBsWK1WRsy83AGVMHqIoagHF4p~dzkk8kovSrn2lnvSRcB3OszTbb6AyX-YMmDNO0XTfX947SE6Rgoza~egmxgkrithafZBOMHPOlbVjrKc2HXvRhyzYV3zyTIQrXL7dMLAh-H5JfuTXRHLUyl-rAfsi-D3LJR7YrdRYDqIDBYrKbVOCHXsjrckOqOKKUlVtSQ0odcIpW-Jd8jviTFOqNZ3GcLLt23Yura8OXYJDIM2J0VM2Ic9KEWT8zZz4VYKz8Qww5mVj-b2z5AF~TnbZ6ssQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i378/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/m_btac232f3.jpeg?Expires=1796406688&Signature=OoSdNiYQcoKBt1rbL5L~2dFRWtG3wx-22UpAsFJO27lh8hlxSXIrQtYut8UqdEzWrEFh6z3iQJy1QPSUzL2jWmABiCjZFGVXhC1BtYAwDlv~HW1FLKF5uVH5JBPzlsEraTmT-u6MAlpT7rndQmqeQgKVXBj04JqSdLcZgVVDpF0uxH3ZX2b1h-2XpTX9P3oKKmAfsaqG7T0~u1kgqqQ5kVM1p9Zuq-5LwHJiYYwaGy40nYeE~RISALygnElTdR30C8KjNYiXwUo-Uf~eiHf04D8eb9cRXAdFFgulj2QebiioCiXEDjQb3sjaJVoRYoFajrQ1z1pnFl8ZLc2L0gBsFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i378/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/m_btac232f4.jpeg?Expires=1796406688&Signature=JxSEMWkTY8TZO7ypopBXVzInaoemri2YKaTapRmetsDB9xP-IEX54auu7mnwX7glH7wLQujSMhsVR6i3xkDMp8yX8CBA2pPOJ7q2vvd-7yI9Enmn7BQHfhv-TasQu0AbOVRmntOLABNuenAW-k1yqMnMOczKVUXSmCsXFDnzndE-v9W5tvr4PpTC1ru5zR8VNJUmaXJym0hTSIO~af0qPNWeDzGhc5P9zCvxFVQFb4tzU37IarOfQivkgsxTJZ6SY3aDMfHfS51nFWau5vqbwN6SG~UD7qHflz5FUUihnxRpM1PyB3JmEHjd5roJ~Uio-vObUFlT7IZgzZ7eSQb-5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i378/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/m_btac232f5.jpeg?Expires=1796406688&Signature=tAc7Th1786W7D8y8Fr75oFpx~5RxHrrit0NT4X67eEwnwe05fNrgzcvUVeZM1zAwRkgAtv8y10Yc1WwwvZXalSpUlYzc0LiFgoBlhS8dSgLdyj4q5iurxtVUpOxpruza2AbzDM2Hd3RVefubvPzmqMTJDQvGRqKGFETU-deSTIueQEgqHssb5ArKU~RlyuL5B1J4TPgMkcP5lsGfNuMLUNKXy3tMslENnaDgSvk8IBe-8chtEqyS517lKXmFK7MFDZGZiZ7VFY3bK2qK6NKDTD~x-ln7FV8Oqw50CJx7RW5fFSVOqUY2UUxiEHVpFQvnsZMfs1U7Qjh2q3UCEeaaHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i378/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac232/4/m_btac232f6.jpeg?Expires=1796406688&Signature=EwECFDhSMaqKgMf4zU30-HkfoKKinPFqG1bTrK01r18DnwYoW6jLFutiUbIG5wHdbI5IVM1Y20739zslUycc355IGuRucQOsgQNqHd5GbNdcW6GjuZ~SlTMqC6g2iKOebga~k1rRkIAsl2Ata1bJ-CuL8k4g6xLhFnKZC1C8gYj99wKDH2S8fDhG9FlQJovCRZd2rOuY1R7~LmthAF6uWuVF1mpDGAV6kAsx2sxot7Inyy9MDfV5bRDgN78L3he9BltdHBn3fda5ct8OAquJifSQREdjBSYgQ-zQxCJyPz9Xa-IZS9jsgLZ7IkC~BK7XuPOde8gNHbk13JQy0FxxLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i378/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

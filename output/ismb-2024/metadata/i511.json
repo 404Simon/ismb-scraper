@@ -1,0 +1,161 @@
+{
+  "paper_name": "Identifying new cancer genes based on the integration of annotated gene sets via hypergraph neural networks",
+  "authors": [
+    "Deng, Chao",
+    "Li, Hong-Dong",
+    "Zhang, Li-Shen",
+    "Liu, Yiwei",
+    "Li, Yaohang",
+    "Wang, Jianxin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chao Deng",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hong-Dong Li",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3438-739X"
+    },
+    {
+      "name": "Li-Shen Zhang",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yiwei Liu",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yaohang Li",
+      "affiliations": [
+        "Department of Computer Science, Old Dominion University, Norfolk, VA 23529-0001, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jianxin Wang",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha, 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha, 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1516-0480"
+    }
+  ],
+  "joint_first": [
+    "Chao Deng"
+  ],
+  "joint_senior": [
+    "Jianxin Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 14,
+    "h_lead": 84,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 15,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha, 410083, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jianxin Wang",
+      "openalex_id": "https://openalex.org/A5100438360",
+      "h_index": 84
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/genemine/DISHyper",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae257",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i511/7700842",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i511/58354644/btae257.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/genemine/DISHyper"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae257/1/btae257_supplementary_data.pdf?Expires=1796419707&Signature=VzqCtXzbeK9sRLxUzb7d5MY6OV5DfhObP-O9krtXWmWBELz4PaaakACQFnaJ8IsU69dPqBEWUfPRHIuhScSTlfrUJzRKXGmpBfvOuTDLEYU~vRHNWFYF3vNTmKCdqNLxlXEapLXfCrdiIegWGrGyDcEi4OXm4ARsUXCCm59uSUebA2g6XWtqrttwQpCkrLb8HAiadmRBYwLE5p3heZ0hs0wtFLLRzMjbEv21uSrSG9~A7W6A0levXkd~fJijvVtaK3W0ceCA5G3ubYAFkCz4fV0C1RZqbFISg385JH8eKybLlb59m8bXQpc9~9Y9K9DnBb7yYJF8KC2XqJuWc-5BUg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i511/article.html",
+    "pdf": "files/i511/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae257/1/m_btae257f1.jpeg?Expires=1796419707&Signature=RueLSqGGeMAt0MMsiPcJiWTVB0eUIYIs4ysrciiwgja6XJoFE4MtURZ8ibC-MY1aaRIAxZ-pOZNl63qwSfUT--m52e7HDA5Bp4YfjeNKY~k5ywdKoUXwFKYLX3HeNcLywmiVbODBnT45HunFlLZnlia4vjeCUdlAhdnGdhzJOQ8l9ajYsbc6IirIKwz3iccY~BkAz4~uIfOMZW6DkCqaR-A0wPTDJyhHj-aQnavuig8PQP1-0PbSiEig4rgPGKTw~r3n1jW4IkTb6iUjCkOEcNtlpx~7WyqhWefoJP8oB3OYK7vxr2yFKuiWahcW3N-TpHl9hs0Y9uA9THae24Rl1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i511/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae257/1/m_btae257f2.jpeg?Expires=1796419707&Signature=cZOftMLyXG-3vAjFi9IUU1duljDu163z3~JUad2hUoj6ygbIozBvjItfFOzCjsbTnuWe1ByrJL1yLKwROq0OIfXQIpfKfT5QHjnPU1QeDP~i4QaJ-cB6bJw2VyhpUGRd2yjMsRd-yEbu66MZUOEBKLIH3RsMlESJwefTCHnfT2wimstRIgJEoolIa1o~cgaLpIJHMVOodcqRPvemUWWNAPj~Qpk5-IP7KYbl~VdyQZE8vNll~GlTDyPC7XWge87KQH2~QVXc~Ajt4C1wfRRG6cJALn1HrrlHD~aqe94jBOkvKpL~lvf7wNjdoR23zwk3s2uUMmnVQLwD6eq2JR8ThQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i511/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae257/1/m_btae257f3.jpeg?Expires=1796419707&Signature=lrK6I7YLhgVmpj38MN70QmFBMMZMlPHV-7gQWRVRRsbvdE6FUACMoFEJ5YtWhFSOQxveIw262ai8N~-hU-ZNeLAzn6p8jj2D78w5p5F~2S13x7DiOFEDwVF28TeI5LWNBrRdBn8IQwb2ciE~-LivXLbSFthc7MFOttPWH8~534ZJ4SFZlt6fsIWrCpdRFbSOLARPWAdo5yUsOpnvRRlneYRX7SAqSnLcFcPyRZuyxJCNfo2a-Twq25ld4JNw5Bqr3QsMc5Hc3t8nakHkWaXNJr9YMXaksn3fLVpQeaQweL4VKgyz~qr0UGIR4sHI4vizHydZj7x74RtyIAUulTRNyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i511/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

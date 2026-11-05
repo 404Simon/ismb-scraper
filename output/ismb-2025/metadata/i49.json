@@ -1,0 +1,199 @@
+{
+  "paper_name": "Predicting coarse-grained representations of biogeochemical cycles from metabarcoding data",
+  "authors": [
+    "Belcour, Arnaud",
+    "Megy, Loris",
+    "Stephant, Sylvain",
+    "Michel, Caroline",
+    "Rad, Sétareh",
+    "Bombach, Petra",
+    "Dopffel, Nicole",
+    "de Jong, Hidde",
+    "Ropers, Delphine"
+  ],
+  "authors_detail": [
+    {
+      "name": "Arnaud Belcour",
+      "affiliations": [
+        "Univ. Grenoble Alpes, Inria, 38000 Grenoble, France",
+        "Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1170-0785"
+    },
+    {
+      "name": "Loris Megy",
+      "affiliations": [
+        "Gricad, Inria, CNRS, Université Grenoble Alpes, Grenoble INP, 38000 Grenoble, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sylvain Stephant",
+      "affiliations": [
+        "French Geological Survey (BRGM), 45060 Orléans, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Caroline Michel",
+      "affiliations": [
+        "French Geological Survey (BRGM), 45060 Orléans, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sétareh Rad",
+      "affiliations": [
+        "French Geological Survey (BRGM), 45060 Orléans, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Petra Bombach",
+      "affiliations": [
+        "Isodetect GmbH, 04103 Leipzig, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nicole Dopffel",
+      "affiliations": [
+        "NORCE Norwegian Research Center AS, 5008 Bergen, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hidde de Jong",
+      "affiliations": [
+        "Univ. Grenoble Alpes, Inria, 38000 Grenoble, France",
+        "Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Delphine Ropers",
+      "affiliations": [
+        "Univ. Grenoble Alpes, Inria, 38000 Grenoble, France",
+        "Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Arnaud Belcour"
+  ],
+  "joint_senior": [
+    "Delphine Ropers"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 9,
+    "R": 3,
+    "h_lead": 23,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "France"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 74,
+    "I_open": 4,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Univ. Grenoble Alpes, Inria, 38000 Grenoble, France"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Delphine Ropers",
+      "openalex_id": "https://openalex.org/A5062022864",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ArnaudBelcour/tabigecy",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf230",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i49/8199388",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i49/63745560/btaf230.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ArnaudBelcour/tabigecy",
+      "https://github.com/ArnaudBelcour/bigecyhmm",
+      "https://github.com/AuReMe/esmecata",
+      "https://github.com/gavinmdouglas/picrust2_manuscript"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.13354073",
+      "https://doi.org/10.5281/zenodo.14762346"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA390944",
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA449266",
+      "https://www.ebi.ac.uk/ena/browser/view/PRJEB49822"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://usegalaxy.fr",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf230/1/btaf230_supplementary_data.pdf?Expires=1796408149&Signature=wkYt3CuFzSJLHnsRuS~x4hkYfgJMUhPRS06DclSrleVFOfv6eT8q3085iTeFjHEYAq2RNaf4Y4mdqTW-cae7SswOyEPJjSAE5xSaUvg6WyIMEhMjVDg2DDaW7N4Gwsmuq9fjxgpj2JNbksuB2yVexVB9dM2a2RBEScRSWaOIpXoM7xyGWdA5pxsnoPvVsJ7c1lOnkEFHRDwsJgWGRO40q3FL2T54-IgbivlHXMidHl3H9dm1V0~~2YnpedBbB-jfuKg~yf16InCxctWIMvYoNfe0FFz6AYKdkJq1FuNXN3fC~IrjJt-DilWSxCZVfUgqTzfbfeXW~teErbyUNlFcWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i49/article.html",
+    "pdf": "files/i49/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf230/1/m_btaf230f1.jpeg?Expires=1796408149&Signature=wJKApXDAhnDgcnCCwG3DaGI6n4vPR4RKaRhaOP4mEqyb4cMtUcW331WAlCcX0h0VUjzN~8iCDT~V3EiNQ2AIVsv4NobYcikRFFF221Pbl1BZKHFYrd4HEECusTOocgrm97MqHoBGtlJrwGXFglM3wyGXT6Ku~M9aC3nq1Cj5Y-Ht6G8pR7TX76G9kJ8iJbANOqehT8lNJ1uUghApRu9NkSwtWd-uXUjp7M4-DKO~-EUwvttKKCTEdBbRV2Kt67zhFDHiqCSnjplM6b7w4ZBKyVrUdmO~g2WPIx3xNYeAsb8ZqZU4Zs34eNszb7TSiAF6eCuZBam317a4T5mrqhDMJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i49/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf230/1/m_btaf230f2.jpeg?Expires=1796408149&Signature=Bo5nMwA6situq4lQBsbUl6~VN3aKnsnSfIjRXzpUqj9YW6rxnd6O3skqnQdZjevMCnpI~bi~BwWGVI-XEMMBSCtHfuW6jTZVtLnt9tsZeVyzFfKdINUlCKQAC6RmYr-d57ZZmw1lqf0Q-ag5qXZVv6705bFUnCKT~mnVaDC4QMOuJIQP798j0RRNC1yFY66rCo~tu1MPGb1s4abcCRGhLSaatnmcucyreup9NWyiqlbB2CstJ7W7jkUTe3hyeLuE1TJ1kNAVujfCD30cpBMyAx5SltazDo1Osrh2YSdHBdv8RfKzP53nOaht7c1ixK9WtF967hNznvO6QSTNFshnJw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i49/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

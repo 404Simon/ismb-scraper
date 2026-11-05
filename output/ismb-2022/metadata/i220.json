@@ -1,0 +1,151 @@
+{
+  "paper_name": "DeepMHCII: a novel binding core-aware deep interaction model for accurate MHC-II peptide binding affinity prediction",
+  "authors": [
+    "You, Ronghui",
+    "Qu, Wei",
+    "Mamitsuka, Hiroshi",
+    "Zhu, Shanfeng"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ronghui You",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Sciences, Fudan University, Shanghai 200433, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Wei Qu",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Sciences, Fudan University, Shanghai 200433, China",
+        "Shanghai Qi Zhi Institute, Shanghai 200030, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hiroshi Mamitsuka",
+      "affiliations": [
+        "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji, Kyoto Prefecture, Japan",
+        "Department of Computer Science, Aalto University, Espoo, Finland"
+      ],
+      "country_hints": [
+        "Japan",
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shanfeng Zhu",
+      "affiliations": [
+        "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Sciences, Fudan University, Shanghai 200433, China",
+        "Shanghai Qi Zhi Institute, Shanghai 200030, China",
+        "Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence (Fudan University), Ministry of Education, Shanghai 200433, China",
+        "Shanghai Key Lab of Intelligent Information Processing and Shanghai Institute of Artificial Intelligence Algorithm, Fudan University, Shanghai 200433, China",
+        "Zhangjiang Fudan International Innovation Center, Shanghai 200433, China",
+        "National Genomics Data Center, CAS Key Laboratory of Computational Biology, Bio-Med Big Data Center, Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6067-5312"
+    }
+  ],
+  "joint_first": [
+    "Ronghui You"
+  ],
+  "joint_senior": [
+    "Shanfeng Zhu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 36,
+    "h_lead": 38,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 17,
+    "C": 7,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Institute of Science and Technology for Brain-Inspired Intelligence and MOE Frontiers Center for Brain Sciences, Fudan University, Shanghai 200433, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Shanfeng Zhu",
+      "openalex_id": "https://openalex.org/A5045866167",
+      "h_index": 38
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/yourh/DeepMHCII",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac225",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i220/6617501",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i220/49887146/btac225.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/yourh/DeepMHCII",
+      "https://github.com/gifford-lab/PUFFIN",
+      "https://github.com/pcpLiu/DeepSeqPanII",
+      "https://github.com/gopuvenkat/MHCAttnNet",
+      "https://github.com/s6juncheng/BERTMHC"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac225/4/btac225_supplementary_data.pdf?Expires=1796446104&Signature=Suv1YnQzRcQoIgZ3IgGag0XLjJnfFei8gO2If2surl-lOpkm8ElZZQy9vc5Esi9xqgdRUr3H7sLPAgMdamfaMEeerm2vqOSQuqGo6vmlNwky8EQgIVXS8O9M1xE0qVMK1cu-cufNdTG2iL6X0zgaa5S2nySOHgY6PFz7iIgurkzZnlmlJqRLw4Yt1u~xwYx01fK6VpWx2gXPPAfmXSj-taHflJuqOx0fFitYYLfSRR8cWCuwHfdvb9wAiUhHYfy5Ev25A91KMFB6CauyLmKaRaPy2VT2FDv7R98yEt9Os-HLk91R4l3HwTs11BgDcdGEWk7PV8c6nOI1TIl-lqfssg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://www.cbs.dtu.dk/services/NetMHCIIpan-3.2"
+    ]
+  },
+  "files": {
+    "html": "files/i220/article.html",
+    "pdf": "files/i220/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac225/4/m_btac225f1.jpeg?Expires=1796446104&Signature=39c~2pUeGx~vr09CVieZPd~CbR4Jq3ga2Mvg0hwXsPejLFmlBnmLOuOc288C4HGR50UgPP3excJeOKKBsZ3PhcqJQGv7e60Ji2blZQ5v2zu0DXhkoiw13kCZaJsHcUKaKedO8-RLBr4Xm7hO13TXRvkXZIvH172GiggBgERM7em1GlCnLSVx38dLIHbVMuJQITM8GFYyZSsmStnImqRw92OMjll0d-gd7fPc7aUJuqW7tTdsmYmINcF3~2LUAmG5DKz10QqARENeEzpQs5ztq5l14jSjS5b-Pw9JtUGY~l~UuzC2PYr0toK9eBFWvRbMSGHPmMZIgfqZac-Vv9bChQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i220/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac225/4/m_btac225f2.jpeg?Expires=1796446104&Signature=hwG8dmHAhvyN3Tm39urA5DinGSN7ftRVAGgDR8UM9brJzX9dn0SG7q0MqDxGiVXPw0hEwNvn6COq7UWbx~vDvmpiORWdHwZ3NqUTAE2VnE8C5RNRoatU65dQh-yJiClxHHRLQXvfJe8fpSJ4QwCRzgEHbEMe9iLgCdJnciqNUaCeJiluFNmlNkDouIYanoghsLSA52Db76hZNQBnjeF4U4oXAqa~q9-f2nUmJNBgcPkoqMf4JZpn9e76qgmt7gPppq1uj7XNClytSpyX-xllOWvTqXvg1ZhQj~sFXCMuF0qdUyzBmtclfFCphAErRvegihTRNml8S1cmknm5j4veDQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i220/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac225/4/m_btac225f3.jpeg?Expires=1796446104&Signature=4Kzkq7YPyM7rztaIioKPe62RAY1btp-Gu61z1Mp4nLkG910EIjdZEbDI89RiRfZfUFdqXT41vD3QIrPFLVG6ie9SojHqgCraYPWy7cgu5dBJ2NEAb~A4-Am2u-zG~VdjRyP1jVJX-Vnq9TM6ZAhP5JLrxE0kB6lfIZL96IguQScmcQfl7IRfiQ4qMX4zLIG5z5YaLluohJbAWkF363hHFyi5uBwkgVE3uQemNAufmNbU6sVgev3SEuOs7NMb4FqDd8aocKD8BVhD0~l-TOSmOPz3DgpQyGfJ~v~E6rFHfVsKWWBVkQ-ZNo83mwGnMLh3qbvRvFNYtrG-g0UY9iyz~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i220/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac225/4/m_btac225f4.jpeg?Expires=1796446104&Signature=UjmRL5un0PZYSyunVUnMy4~r7fWTgYMDq~G~AHzdBrbXoC5vuHaz~P0~WGj835wlCWmlt9bMl4j6O42HLax0cOyBW2dD0E0lEAIUXT8rAoTHBU1xLaGe8ntgXqR7xH6XpEYLsMkyyDTe2HYOv5bsYEdI7hjZg2uiCe8tGJfW3qacH~3fDW~CPYCANfQQqmtZGlZlDoIlHGDEuA3saoQu-pkDS1rZ741GI3qBEuQOL068srSfSgOFcGjc6HnT~7BOsBVVzb0-y1nFWj0Wf5xo1y26gC-P-2PGaU03kIHXCCAwFmEtFw8Z1lsGXC1SPffwbCGBmFTWmvsbQZykoQ-6EA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i220/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

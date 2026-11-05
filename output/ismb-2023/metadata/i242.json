@@ -1,0 +1,203 @@
+{
+  "paper_name": "Deep statistical modelling of nanopore sequencing translocation times reveals latent non-B DNA structures",
+  "authors": [
+    "Hosseini, Marjan",
+    "Palmer, Aaron",
+    "Manka, William",
+    "Grady, Patrick G S",
+    "Patchigolla, Venkata",
+    "Bi, Jinbo",
+    "O’Neill, Rachel J",
+    "Chi, Zhiyi",
+    "Aguiar, Derek"
+  ],
+  "authors_detail": [
+    {
+      "name": "Marjan Hosseini",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aaron Palmer",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "William Manka",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Patrick G S Grady",
+      "affiliations": [
+        "Institute for Systems Genomics and Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3003, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Venkata Patchigolla",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jinbo Bi",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rachel J O’Neill",
+      "affiliations": [
+        "Institute for Systems Genomics and Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3003, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zhiyi Chi",
+      "affiliations": [
+        "Department of Statistics, University of Connecticut, Storrs, CT 06269-4120, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Derek Aguiar",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Marjan Hosseini",
+    "Aaron Palmer"
+  ],
+  "joint_senior": [
+    "Derek Aguiar"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 9,
+    "R": 7,
+    "h_lead": 11,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 103,
+    "I_open": 1,
+    "I_closed": 4
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269-4155, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Derek Aguiar",
+      "openalex_id": "https://openalex.org/A5083334761",
+      "h_index": 11
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bayesomicslab/ONT-nonb-GoFAE-DND",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad220",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i242/7210445",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i242/50741480/btad220.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bayesomicslab/ONT-nonb-GoFAE-DND"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/btad220_supplementary_data.pdf?Expires=1796421964&Signature=pv2cFgXOtY3ssAuOmWfNDM0XP00YTPtJKhEWfZBMTIfov6gaAT9okM5oAp9VOEqfLf2rXC3EBsqNnZ3bsT1BRKinGzjsRWJ9fjRoS3jZlj30g3cRrT0spezRja12Sh3dYU79lGwSPpylSXDqzdvPtw8RqBbPhdiiQWvu7go7-Q-ydosSqGIJ3l0sZi2GI3TqoqJMSE6kxjGU~spDH8CPDIzyHXRipYF~htgpOZKjzDTFdUQRijoDxuRKEOBfs6f5p6NcBfqh9sQur4RGw9-XS7XFPuZGmZk89oCOGOGY78vR4HCWRKiUdSlQHKcj8XplZhHNIFFA1xxxyIdCaz7HaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR15058166"
+    ]
+  },
+  "files": {
+    "html": "files/i242/article.html",
+    "pdf": "files/i242/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/m_btad220f1.jpeg?Expires=1796421964&Signature=YUbjx1yu2Gs16mUjfYmDKkiI7SSVkVf2HYN79XpmIXsQIxlqx-Pnj7PLUHUR5HBtlV9-9EG8yerX7IvQvXPFdrD1YTcRXnw2~DDwa5gmX-KDKa3OnLUq-mN0wmYVGiJpqCjwJ9IuvaqzawZhG~Ak~StBYdwlnyLY15BPSRQQDOf1ylDVCqancd~7dTobl3mRtt4RQSajB2OC6mVDJGVoDTylTATuIEbl3VCbeA8mzY8wvNTUiEFuBMVef71MOWgXPeg65geRnohTBYc8ZezoBiuvrMoxS6q8~B~RYVOO9kLJcbjumP6TiaEyi4Dxo-uWpoHoPXSKh77FhKoe6vdyqg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i242/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/m_btad220f2.jpeg?Expires=1796421964&Signature=k1JqUiG5YLv8oIxiNLW8PFm0kGfEzB7h3pCyWWclJFbfzsTAEX2qCYn7x7aGjb7EYaAgkL1ifEMFXdnSf2lNNqK5ou39AJo9~nG3E9Xs8lp~HFNtjKiX9fN0xpT3BZS2lOJ85PVJOiCFNA77AtBLBeptBTIMMwSFqccBnCuTxL~8hweKAEHR9YA52s1COYNGIQoLbMY0Fj1UbmICCi6Qpu6PKTMP8Z3ILMPmdT66AP5mlIhFTdk39ysGJj8N2JeVlsIFKTQvJ7r6EcCs-Lw0U~QkJ8Kts9leG7k1ff5140zHXjz5F72Bgdvs3d8ilNeZa~TDuhTMNuDAE~SEGkpUlw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i242/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/m_btad220f3.jpeg?Expires=1796421964&Signature=Cp3RZt6MnJDdAjWYR83sQIuIV~OzFDlbts-JFScto7ew6d8L7nc2JncEcT9ARAvgHmipNzZ3eggrOc8gLBgyB26po30JNG7QsmtolOfeSdbMpnuIjgz-VT3Or1-xI81i3IjfrI-LAJ4bNPr7wVlaS9Tp29Nf3BjrnH6fWTfsWxWJa2g8ox-x06OpASpShxkrQi3JL~3X0DT3J46rFDrd94fwfwxrLLgZus~NRaz91lq5VNy7kjF1waPUeLbqge7FrrGLZ7WHcXFsDDcSTJGTXCVEVLilwxppctj2AIywzCV7Ki5tJLpUOhWkotHEJ5J5-u~5nOoC4AR9TCWU-~1YiQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i242/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/m_btad220f4.jpeg?Expires=1796421964&Signature=NBWr6FKkbAoqFCkHxNGm1Moz56lBSx8iEi9TIhcaZDfzHRJhmEGKTOXKTWr3A5DfUFxHhvnfzEynWVAcvRD5rTWYV7tojC6NYd973ldVP39v9fRN80Aievm41wNCKzXC4Ml3T2JTqpffx5nrXZ3-LE8FNl2PJSEMH1N8TkbfgL6XcBDH-gbpe7h29-jfI0Pn8MbutLsRhSTEFFKsy4YuleEdjCfBoysFD4X66KxWjZ7pdXXHvty5oNO8-OmOV~uPvGzsXt53mX1kTXIM9STkzudv6y67Xob~XK0f7BZ11KrDeYcN7ycCLxz6xUsU5FqQjYCLYh1DbkSxCHjmG~CVxw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i242/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/m_btad220f5.jpeg?Expires=1796421964&Signature=Eci0tzeuk6rfcl3gwwtY3xFyEi4IxReByyAKIB4xoylCt2IOyzokz2mTiWA9383hByxuBeR9swTudbX5UaETnCi0dfPXh3XeQiAT2d2o2OnePhQcL~SjLSUADV7O1c7ym9pPrZKs9b0AJDznY9MoTxj257r~Xaw4Mxb2w0X0MmWhnfiLGA5AePKGhCmsJt9BTa~eK9~OTPIgocqB3ORcDDPQHrORGqnY~D2sYMz7RCqbNJPkC26O-1EZtJSewBpVjGHGel5WF83dKwDNeEM1QaKmQhLlOYU~Rav8~01dHxdX83BAxkTh7he7scoMHLDqFiJws-KKzzVF64BZ~UN7CA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i242/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad220/1/m_btad220f6.jpeg?Expires=1796421964&Signature=g90cjPPYWiQFqq4oxSREW5ZVzuX5XMwbK1QPsiKzfuu-YT8cduFwqKDBMA4P7CmmIRlYWROso7H1ffZ6gXA5jcOOgQr6C03czWoXCbcLKkVC6jnl5oqvvExLrdMdP3ZyS2Ub73CIaQtE-SQGPg5Y8koXi1ytARrSn2K2kCMjstZVsIF~qcCC9Ziv7fJ8BYAYMZ61JZFxitU3w~e1nbOmDwVYGaPgf3QIt88GtkNemscNoZxJMdY8W9I~SvmQC4mPXa6iqL1ff6oLpolbmWi332vbZBpse9xJemO0dKwkHYrnmOJ0pX7AKPYzRYx~GOf7Ze53BmETzPoE410cJQUgRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i242/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

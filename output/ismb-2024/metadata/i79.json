@@ -1,0 +1,170 @@
+{
+  "paper_name": "PhiHER2: phenotype-informed weakly supervised model for HER2 status prediction from pathological images",
+  "authors": [
+    "Yan, Chaoyang",
+    "Sun, Jialiang",
+    "Guan, Yiming",
+    "Feng, Jiuxin",
+    "Liu, Hong",
+    "Liu, Jian"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chaoyang Yan",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300071, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300071, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jialiang Sun",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300071, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300071, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yiming Guan",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300071, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300071, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jiuxin Feng",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300071, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300071, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hong Liu",
+      "affiliations": [
+        "The Second Surgical Department of Breast Cancer, National Clinical Research Center for Cancer, Tianjin Medical University Cancer Institute & Hospital, Tianjin 300060, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian Liu",
+      "affiliations": [
+        "College of Computer Science, Nankai University, Tianjin 300071, China",
+        "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300071, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5516-0157"
+    }
+  ],
+  "joint_first": [
+    "Chaoyang Yan"
+  ],
+  "joint_senior": [
+    "Jian Liu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 11,
+    "h_lead": 16,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 35,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Centre for Bioinformatics and Intelligent Medicine, Nankai University, Tianjin 300071, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jian Liu",
+      "openalex_id": "https://openalex.org/A5100414608",
+      "h_index": 16
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/lyotvincent/PhiHER2",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae236",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i79/7700888",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i79/58354990/btae236.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/lyotvincent/PhiHER2"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae236/1/btae236_supplementary_data.pdf?Expires=1796424341&Signature=VwI9t5HJYBPS~VYmYFZWAHIa6AJbtjWQvlEU9YXC0bNPH157G-c7BxBUKHwUN4htTV-cP2sK1M91MY571T~Pn6eNfaSW6fETfEsFUOdbq2FeEaPngq4T-WIK7qBqYXyqRwhK9IIfXmhMKXBMiQQD58xzX35CtDlZKZYTyvPefIBl7NQZ18djJyCWbfscsc14wg27LHeJQ~lMq2k7fMhEJ~FGClUptmRaC~FtQpBnaLcnQm-NCMJYLXl-g~yKXutwTZG~1vI0XDUH05eRCUK-hKev6gYmlZp2yYBXVPAP3eAnb2~WffaHLyb~UJyxgdWiIUhX2K1--86TRkBKM2-56A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://ecdp2020.grand-challenge.org/Dataset"
+    ]
+  },
+  "files": {
+    "html": "files/i79/article.html",
+    "pdf": "files/i79/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae236/1/m_btae236f1.jpeg?Expires=1796424341&Signature=3g3oiNKdXiFos2bhE~w-uc17PmJRnhTyV~fGTm1ltoSlIuJQERDgl~fvnN5EOGDBRqaSu~SfxW2o-5yKc09jurtWDD8Xp7sFqsYoAoPRBTvUT3c8Zgam2-uzumeRGH9oFgieXbV8a2jgDat9kotbtcZoHg1U1uxL2S9GU77p~Uu65XElnykB08g9azHtQyxPuZAjAUik~33A9F3T-EOhEY8vfS3a-gJeYVEX~7~TyWrvEvmo7-xQpqlvdJ3WrbYM5rsbJWRyulWb4I9yp~oErZMlJSr6IovxjPIvmyNLpG1xMdYzxaHNyS1gDclYz5DcJhzX4fe3lgMX8Ylt3LhE5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i79/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae236/1/m_btae236f2.jpeg?Expires=1796424341&Signature=swj-YFGoQkdkNuNcgkpm4KhCZwJucsHjseYXOaNiReLWloxZ7A8SbKdebItIGoCDh34GfFSbT8paqItxJlhw1Za4cAFlk2NIfOcdDrgm6UlszgQ0ax7fvzFrmBCIqkw8Jmx5ABKUYCy5Ogn~lzDbDzGd201qWsAoKWWD7ayFEpPpbJXxzKRB4Akw~k6af-6Zc-mynwclWT4Thiy6SdDkb2fZexk~0FWzrJpL1fji5YLtlQWGciUVUYYR3eiSIKtepG-D9L5o8wC4CuepDBHAglleL7WYq44yKaONSlPqRXgqwSG4vM9P3zhUsivDVsn4~CixcquyatFeotste-lp3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i79/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae236/1/m_btae236f3.jpeg?Expires=1796424341&Signature=S~pgW12CgWbsks83snCSLywz72W60Ost0wfTW2zInKv2WIH~ZhDw4or1c9Uk9s2VWnkm3k3zlxY9G5aAzZG6rTSZtKNBffC9E6ajDkkZOQ8jW2FxJ1URMADEJciHKxSAzGzWvbCWZZqs3WEQ3dInnchnauHLNP77hh-xwQ6sz3YrGeCvWtoTH39eM1Jo1hN0A2WuvLKxplU96RitQJ5gx30im09FgOzM2x1J6x3-6y18sP2zTDvmGIWOGiFjQOeVjWcLaD3hvUx0gEZufrQnOdKENy51Cqps-j1Te0fFEVYNGCMy15pRvxZzYJU1~-~Gpcz41O7IW2m1dE9Qe~Hqyw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i79/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae236/1/m_btae236f4.jpeg?Expires=1796424341&Signature=kS2NFMJ8YVrY40BfqtXl~-DG~k8LZmDiSffyMCudnylM47VDlVVFfvlS1Zs5a6Ud7OUZl3nJiNfotbArRma65wSnBb0WE2DyzK6wojJ5FWWZWXy01arOm5z7Bllx4B1ZLWJlBeOjQABv8HNa~LYfyrxt93ue9KgKwbJL6tzjrnXWPyuVDCY2iJlz7u-ykZUN8Dszsbk9mC4iDixqdLaQIMgLtVS6DDmwAK3cnAhv4D4TIzitWZ~7u9uIyGQupmnYTupW02Kre6Ly6~fxdfP79jCLmknjiF-ILfn1TlKheEKWFgyILzy6FR7iUImxY~Uset1BlcpVMBdG6b3btYY09g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i79/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae236/1/m_btae236f5.jpeg?Expires=1796424341&Signature=ZgB2QvDbqIrAuDGN-hGiVKDogLvnMs4GrzRavu3vwlLSF7r5gM-cpkXn7OQ0ufBycMtoC3uEXia2gTIoquHDO22gPG76QNC9w-NoC8BkUZLoBLpNRkxjdXkYBGUd7LAAyTSYGMKZmwGBQjdlcfFxyb2DGrBww~DHuY81mt4RKzna9fA30TBdXnrOic3~UFjD1sGyy5YUrTyZTo2-2jmYq23Di2fjdTFhRv8GU0-c1YiS4SdIM52pH5a-yjkHlaYLmXjGT4olFOJXEH3U66lO15X-oS9Ms4h0wAInISlY4K7yy71LVBXKrG5P5VbHRoFXf6RG2WAQxBff-1ziZBS1dw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i79/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

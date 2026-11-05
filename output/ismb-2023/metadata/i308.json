@@ -1,0 +1,143 @@
+{
+  "paper_name": "A gated graph transformer for protein complex structure quality assessment and its performance in CASP15",
+  "authors": [
+    "Chen, Xiao",
+    "Morehead, Alex",
+    "Liu, Jian",
+    "Cheng, Jianlin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiao Chen",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65201, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alex Morehead",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65201, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jian Liu",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65201, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jianlin Cheng",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65201, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0305-2853"
+    }
+  ],
+  "joint_first": [
+    "Xiao Chen",
+    "Alex Morehead"
+  ],
+  "joint_senior": [
+    "Jianlin Cheng"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 28,
+    "h_lead": 68,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 92,
+    "I_open": 1,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65201, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jianlin Cheng",
+      "openalex_id": "https://openalex.org/A5044354277",
+      "h_index": 68
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jianlin-cheng/DProQA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad203",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i308/7210460",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i308/50741583/btad203.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jianlin-cheng/DProQA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad203/1/btad203_supplementary_data.pdf?Expires=1796454482&Signature=gkvByccuJHPUIQ6M4Qbx8bdc3SdhPHP1zx5hUlNne1ELnBtRXHDKFITK8yRxrKeotWG27J5I64JVZjiXiqoFUBXRbCcKus-rVA41xEbOtlzz-VSMcwyZdNfZdGrBwf1pzb-3W57TiqQXgaMXdat62TjdQTqUzHPiQ~wvxdfYvQHxJI0uMdj6CtR01WSAvUPKqHwVJC1tMfsF1SzD9ICL-YXyGjlwjVKb8UQFQO5BCw4P6eueyeUmp9UXTxJ2lVXFMNcHD1cbbt5T5mB232hIT4a-4a6A39o3C4HzEL-4Pn6zXuiGjQWNll6nV8zf-NhH0n2HLCoqt0lb4clq7eUHPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i308/article.html",
+    "pdf": "files/i308/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad203/1/m_btad203f1.jpeg?Expires=1796454482&Signature=SY~nfe1cxdqMWHbQ1ntBYdYBeW1AKX2z9iCil5zGV24nGt8DyFDJtfY9ziayGVhLNS1P5s6-BWILFcIjX76TGNS4j8r6gDI6MFbB7MRtu8J6quifxvpHlJzOKacvqHyU-kLwVW0wWd5cg1Zy36mLo07I4n6mA3QsfROD8YE2lZLFP91Vg-FEhQrQ-QMn9VkUMgArPmdUn0Ye9BOotCDdZVLWDr0o09nyVHfSBMJiGhLhzzGb9ib1ZUikTcNeA4hlBA-y9qD9eMwE5iJWEs0BrTGCWXqlrYibBzfgdiYsjPB1JuKhYAkQTgH9plBky1QL~ujFgvWHGkLlddpWutLFJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i308/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad203/1/m_btad203f2.jpeg?Expires=1796454482&Signature=4U2Uq6oGYblyae-DBoAFS-x3U4d3dOsamiXnK45b397p-WNMYcGI3x4xaEErzm3-aMOMOS-5IS99LK3cnD6Il~OLmZN3qj79YCZtdNH061qcMxxaypSxJv1v8VmfuLrOstuV7OkVIyEylZkd8RaSknbW8ghr3Js8t0tTchX4fGviP9XpPwoj9aS8cCW~bmCu9PGkDfKVTSpX9uSJWpoSllLUKnm5CgAn-rOMef6C0xguYRKBgCytUTwi0g34DSCtDJqt6kDUsCBCr7RMb1AubvjkF-lJ31g9UEU1wnbnNeRIELro8hpQ0AHYBr268NQVpbISeLCCbJ2kPTbTa25E1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i308/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad203/1/m_btad203f3.jpeg?Expires=1796454482&Signature=0H3iq7XaNyROdMm6Kzt0xkc-Kg24b1X4XNfipYiPYbwAV82MmVgPUCSD7PctYbAtFMhGxMvqniqkqBbfBPDHUEj-DcviMDtJtoSRixsCY1vKlMe3~WrjnmurdiEbaGouQX2Pma2gucuwuG1xjb8tZSzG3V64pf-8-YGpqYnJO2KWpyLFBFSUC6l482vA4E5bhKi~5DNZfCTURwPB4TTdR6UZ5oV~ZAZNThK2BoWRbGQYQa-Qz8AI6O5igpQaKDmZoL89Sth81aD8HvWPYklzVOLwZm9UgzT2elxIwBNX8P9xqMVWUECdz~TBrY1i8DoBbNBImoqL1g8TdrNVaG4wDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i308/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad203/1/m_btad203f4.jpeg?Expires=1796454482&Signature=Bf0SAs8QJ5NrNKFg2qRL0~G2f9-aXjSh5idEM1wlMRSpcNZuyiucg-lwiqzmQwkUECzj6QzUYqW36cwq40heGmMCUYuAX9YAd9CPZQCithU0nm5sMt~FpZGoX~qcgEEfLuKrWlCI-xdSgCnnS0CEvnk~uTM73SOh~tZPFE9as-tDhNGCeBwAWfAxbcbWLgH0WOaZbYePvbKrKs7omKWYjqc17WpykGLz7FuZAmi50KXUQBtHzeI8kFVxlvrZY-m7nM3kRFu3KY1qQZ-F1XzuM~V5T-ap9dUFGVaD0IDWW-1QNh1A1tJWCm7asgY9S4FAGQbqNs8rXpe8Zza~i1oqgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i308/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad203/1/m_btad203f5.jpeg?Expires=1796454482&Signature=IennXDEQ98o6YtWJhylo6ygJhF6ZsBVTgGr814AG7HhZHWNhh5gayDZskxWJPBx829jGH8mAEUiWozo1Yrw2wOSI1xLEt26WlFUA7-5hXc-KAckTECRp1UlgA2M5dxKywuoVF8yr0OQyUIk5Y7CifAnBilvNCCPwSdGpxR8JZUsKDoQ31GQCjcTI5r265CFutsXjW5KCO-dGtyyz7tlr4W6hcUn04TBxHNJC-XeeVMmxluCfZSLjkdXUvBKGlWk1yEONmRVZCv30jjuy~p6iGQEIaRTwRLbtoQwbdlC7zB2Yco0V2h1D57UNRg8UYxn5W1iDX3QNzLmZl4o8WbQTSQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i308/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

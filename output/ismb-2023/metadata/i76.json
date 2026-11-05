@@ -1,0 +1,132 @@
+{
+  "paper_name": "COmic: convolutional kernel networks for interpretable end-to-end learning on (multi-)omics data",
+  "authors": [
+    "Ditz, Jonas C",
+    "Reuter, Bernhard",
+    "Pfeifer, Nico"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jonas C Ditz",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bernhard Reuter",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nico Pfeifer",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Jonas C Ditz"
+  ],
+  "joint_senior": [
+    "Nico Pfeifer"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 6,
+    "h_lead": 32,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 20,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Nico Pfeifer",
+      "openalex_id": "https://openalex.org/A5076705834",
+      "h_index": 32
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jditz/comics",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad204",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i76/7210453",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i76/50741537/btad204.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jditz/comics"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11121",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1456",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2990",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE4922",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7390"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://ibm.ent.box.com/s/ac2ilhyn7xjj27r0xiwtom4crccuobst/folder/48027287036",
+      "https://www.cbioportal.org/study/clinicalData?id=brca\\_metabric",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad204/1/btad204_supplementary_data.pdf?Expires=1796880853&Signature=RSIugfIy5aCb8RyYqUdMOPfINfmJ61xlBybcR78u~7IXHvAlkV1zaUhyWmatdOXVdOYzUXdZbFiR5uBV1pdaWm8vYxsH5SqzJI8Vyzx3naPPuLceKwoaui5eOOH79JUBbf4LdS5soQJ8W-EafPygSUEp4u3IXNt8-yiBnydKdG00ktIrl1U0zgjTPDIPr-P4M2Y-Zl0~6f9eg-lZVOMrvGbhCBQdQPV9uoioklTo989xzb9NmEA-qa06WK1fjyB2UBIO7FWB2~LpR0f2h1dq3Kzji1yawdyA9XbwsIcptrEFSDZWIlaKIrCMJr2MRw9AIlyLa7u1sL0wCeblj4K9-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i76/article.html",
+    "pdf": "files/i76/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad204/1/m_btad204f1.jpeg?Expires=1796880853&Signature=TLEANLX3pRm-9KegnS5Hfor6RgA1MJ5zqVC38sdWHLOwigjOUA9pHrHhmFJE21~Trvpp1TcFbFxQzS~duocbAelpuVbOw2AgqESQPhp130phvcY1AKHSWpRoMZbp5PuKGNG0YBRIflLzCzcIrWeONMZiAlspdHAJj2jbO6ixGZn8Kr9mXWwArkGpfT12VJIQiikOYYX2lSDyDh1EyqSSsQGIEPFGCtKZVvY-eUwcocYVm~e6n-tphKnp0ZT3DSUuCmvH6zWPo52WxRMUPkBYu9QcRveMJZCby42qEXgQK1BzWfa3KyST8LLR-Z6clJAYR4aO-L4x8A3JCFSWITzglg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i76/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad204/1/m_btad204f2.jpeg?Expires=1796880853&Signature=g-UAlp~xVudu-mXD0qV034mzSVE~RQAU03yfY3TQiC3bbUOZ1m-qwvjmlwPNmqxVVl1dkQ7ZjT2ZSWI3Asl3elDlvjjTOiYgQlAf5V3tND9amR0eSB02HgtIQaisUhCtHw8wy0aCqp~9NuFn56HNfguA1cnZRIMcFdoIFndHW0i2qCdw8quIbxQidqKEqheYC2AAma0Hi3f9tsTqRnjBEe31q1D~Vro6LAH3158c5EHkeYnWebeqB2Mzq1HiCPGQFD8DfxMpW03ZyU5u8ivork9ZrOur9Z9ZknF4uzp93ynbtNUbZKj9siCftDTjCZPlHKIc4jxLORG3AEUqCsty8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i76/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad204/1/m_btad204f3.jpeg?Expires=1796880853&Signature=NYxg0pi6Zgg0YfFe1FJVX~a~JRyepLCYFA6LE6Jb3WOptKhfGC~834M7fEk~wdTKv40663GmmfeyRsWp-xAmFKMiyBvJkdamg7o2ninIEOEQ5jCcDc8R9xnQsNmhwYllBwjFN5R8eSHOGi6fu40a5R1SDpvNwN5S4wDKXEmXIUrFiJcSOv8~w1TTPHMZixiIPGClwkUsy8TGzQzrPairqPcfUzhlC3rwsufafcEhmXByxmRgjGmcUo~gsh2uvMjbGT1skjLNXTSlfcWAsDXOvWfesAk7SOH4WYLMo6NXOkcVERrSSSiSHh0isOg6mP6bMftrh5vBEsBEVTYy8K4glQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i76/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

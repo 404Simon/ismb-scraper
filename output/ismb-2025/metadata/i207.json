@@ -1,0 +1,245 @@
+{
+  "paper_name": "HIDE: hierarchical cell-type deconvolution",
+  "authors": [
+    "Völkl, Dennis",
+    "Mensching-Buhr, Malte",
+    "Sterr, Thomas",
+    "Bolz, Sarah",
+    "Schäfer, Andreas",
+    "Seifert, Nicole",
+    "Tauschke, Jana",
+    "Rayford, Austin",
+    "Straume, Oddbjørn",
+    "Zacharias, Helena U",
+    "Grellscheid, Sushma Nagaraja",
+    "Beissbarth, Tim",
+    "Altenbuchinger, Michael",
+    "Görtler, Franziska"
+  ],
+  "authors_detail": [
+    {
+      "name": "Dennis Völkl",
+      "affiliations": [
+        "Computational Biology Unit, Department of Informatics, University of Bergen, Postboks 7803, Bergen NO-5020, Norway",
+        "Institute of Theoretical Physics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Norway",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0001-9550-8434"
+    },
+    {
+      "name": "Malte Mensching-Buhr",
+      "affiliations": [
+        "Computational Biology Unit, Department of Informatics, University of Bergen, Postboks 7803, Bergen NO-5020, Norway",
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37075, Germany"
+      ],
+      "country_hints": [
+        "Norway",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0004-3026-7061"
+    },
+    {
+      "name": "Thomas Sterr",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37075, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0009-0001-0839-9664"
+    },
+    {
+      "name": "Sarah Bolz",
+      "affiliations": [
+        "Institute of Human Anatomy and Embryology, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andreas Schäfer",
+      "affiliations": [
+        "Institute of Theoretical Physics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nicole Seifert",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37075, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2191-523X"
+    },
+    {
+      "name": "Jana Tauschke",
+      "affiliations": [
+        "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, Hannover Medical School, Hannover 30625, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1771-9818"
+    },
+    {
+      "name": "Austin Rayford",
+      "affiliations": [
+        "Department of Biomedicine and Centre for Cancer Biomarkers, University of Bergen, Bergen N-5008, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6298-1591"
+    },
+    {
+      "name": "Oddbjørn Straume",
+      "affiliations": [
+        "Cancer Clinic, Haukeland University Hospital, Haukelandsveien 22, Bergen N-5021, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8867-3645"
+    },
+    {
+      "name": "Helena U Zacharias",
+      "affiliations": [
+        "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, Hannover Medical School, Hannover 30625, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3633-1330"
+    },
+    {
+      "name": "Sushma Nagaraja Grellscheid",
+      "affiliations": [
+        "Computational Biology Unit, Department of Informatics, University of Bergen, Postboks 7803, Bergen NO-5020, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6410-1749"
+    },
+    {
+      "name": "Tim Beissbarth",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37075, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6509-2143"
+    },
+    {
+      "name": "Michael Altenbuchinger",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37075, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1102-6532"
+    },
+    {
+      "name": "Franziska Görtler",
+      "affiliations": [
+        "Computational Biology Unit, Department of Informatics, University of Bergen, Postboks 7803, Bergen NO-5020, Norway",
+        "Cancer Clinic, Haukeland University Hospital, Haukelandsveien 22, Bergen N-5021, Norway"
+      ],
+      "country_hints": [
+        "Norway"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2015-5766"
+    }
+  ],
+  "joint_first": [
+    "Dennis Völkl"
+  ],
+  "joint_senior": [
+    "Franziska Görtler"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 14,
+    "R": 0,
+    "h_lead": 4,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Norway"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Computational Biology Unit, Department of Informatics, University of Bergen, Postboks 7803, Bergen NO-5020, Norway"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Franziska Görtler",
+      "openalex_id": "https://openalex.org/A5064922206",
+      "h_index": 4
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf179",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i207/8199347",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i207/63745262/btaf179.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.14724906"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf179/1/btaf179_supplementary_data.pdf?Expires=1796419616&Signature=3rT5XvOrA~WZfWD~iLhVyTYGXb~2vZ1sWX~V7rYEFejF5Iy5AqB4sRhuus4I3HqXEcvTrMn4qAeLvXqE3lKoJtH0CEjvi4zN9ep1YQGzrvjuoUxZ8774dtiQj4T~y~fE2BDPASjK-ZOTs-fVzRs~0KNp5Sim8DL~dlEb7WgxCa0l2zw46n4-Wyplc6~yC0nSgUddm29Y19HJ01UEfb1XPldng-7Q7UAStoBh90ZEh09YHuMPPUfWwnsp~tEp99M3LLz-E~rTdbKxl~leo~AMwsOu5VlX16BgkoCrn4Kirktzd2Bp0kNWXN~vnsraMe7y4PgXBs5uQ4dOa7vj7cDFZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i207/article.html",
+    "pdf": "files/i207/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf179/1/m_btaf179f1.jpeg?Expires=1796419616&Signature=FH4eYwVadnsenIb~wccF4gw3gsMIhxUW1~2P1ah178cWFSnkqcYMrbnOITH9e3mm~Z8o20fmkOU2y7IhIofHeWcKkGtOYlaxzEMJKAJ8zIqnr3O0yeqLdM4qVsqeZ2XiouKXNzEXyJhT8slfexpZzHloxbaf~wfdU0-n7gJgtpnPXwyQyi2I7vtE~vMSE12XXQFm-xEndiriDDrWrLrNSF1RyK5enVmw5uLsXZvzergaaHlxyx5sz19yVFPIUjq9jrIUJ4enFFYwdBex-va57n6skYhdKDgXtVWddH50Qac7BbJNMEh98Ja7XZ4zhxOFYfgUCalr2O2ec~fdTpirUw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i207/figures/figure-001.jpg"
+      }
+    ]
+  }
+}

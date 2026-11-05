@@ -1,0 +1,150 @@
+{
+  "paper_name": "ReadBouncer: precise and scalable adaptive sampling for nanopore sequencing",
+  "authors": [
+    "Ulrich, Jens-Uwe",
+    "Lutfi, Ahmad",
+    "Rutzen, Kilian",
+    "Renard, Bernhard Y"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jens-Uwe Ulrich",
+      "affiliations": [
+        "Hasso Plattner Institute, Digital Engineering Faculty, University of Potsdam, 14482 Potsdam, Germany",
+        "Bioinformatics Unit (MF1), Robert Koch Institute, 13353 Berlin, Germany",
+        "Department of Mathematics and Computer Science, Free University of Berlin, 14195 Berlin, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ahmad Lutfi",
+      "affiliations": [
+        "Hasso Plattner Institute, Digital Engineering Faculty, University of Potsdam, 14482 Potsdam, Germany",
+        "Department of Mathematics and Computer Science, Free University of Berlin, 14195 Berlin, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kilian Rutzen",
+      "affiliations": [
+        "Genome Sequencing Unit (MF2), Robert Koch Institute, 13353 Berlin, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bernhard Y Renard",
+      "affiliations": [
+        "Hasso Plattner Institute, Digital Engineering Faculty, University of Potsdam, 14482 Potsdam, Germany",
+        "Bioinformatics Unit (MF1), Robert Koch Institute, 13353 Berlin, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4589-9809"
+    }
+  ],
+  "joint_first": [
+    "Jens-Uwe Ulrich"
+  ],
+  "joint_senior": [
+    "Bernhard Y Renard"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 54,
+    "h_lead": 40,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 114,
+    "C": 181,
+    "I_open": 0,
+    "I_closed": 24
+  },
+  "lead_affiliations": [
+    "Bioinformatics Unit (MF1), Robert Koch Institute, 13353 Berlin, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Bernhard Y Renard",
+      "openalex_id": "https://openalex.org/A5005996110",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/sirselim/jetson_nanopore_sequencing",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac223",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i153/6617484",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i153/49886565/btac223.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://gitlab.com/dacs-hpi/readbouncer",
+      "https://github.com/nanoporetech/minknow_api",
+      "https://github.com/grpc/grpc",
+      "https://github.com/LooseLab/readfish",
+      "https://github.com/sirselim/jetson_nanopore_sequencing"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://pypi.org/project/mappy"
+    ],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA742838"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac223/4/btac223_supplementary_data.pdf?Expires=1796445276&Signature=IhntpFnK9xZWijH0a6jQy2JHnsfMio4qfch3POI6wddArHO2f5erNEgDgXcb2XIMNoY4xEr~XyorOCKg5A~QN1LmZb-FsZafSR0xRFjDhuenL-lvhfeC4ZZDHN-OfvvBNtxQFJZG~wVDS59YEZTbpASv5-zis9dSzSt7RmBNzCQVTMij-uyT~KJJWd88PkkDUlTqJbx2511ndWOrrdRRFBkvLmwr-7sdjb5KJOp2CuwET9F3IQXQ7h-lN8hnQw6yQCPif66P6jVcn8a69JS1QT18iBUVKFt4uo83lZ2loS32c8JyiniCLSOul9mXzH0sqCFwoeERR8TSt2d3SPlZdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i153/article.html",
+    "pdf": "files/i153/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac223/4/m_btac223f1.jpeg?Expires=1796445276&Signature=nEy-e5AxdHbD3qrIvlmZywz6ICGIL9k5ceb9VMvDO6OswHRMLsiR~WbM9ey4qg9KbEVfdH7SkRk3B7BuHxewBz22BXqhPiqJ2XK4D-fSAIPo-9Qh3mPZPp1xCGO-o69WnhpAnLmASI~NwVNgJSTVqfNEK6qVj9ezhe82utbvIG8XfR5DLS5ju4zDi~2ugcmKK~EhowiCqFk4xyp0ec9H25zutpaSlkMFNtxOHFRAruPT2jb56GeYz8AOCNJeFb3Y4GI8tQStkkxwGgjThd1VjoOeNxlq11-G31ZrGUDlvIIJLgaetYg5UjkpJRPUBEkzXFrjwysaPyk58KQn9GTglg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i153/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac223/4/m_btac223f2.jpeg?Expires=1796445276&Signature=YfyRbvD6IYFGj6aI~PMYyxC9T82~yN69jM1QfoODR0vjcjJrkSh5HM4hrd4azTRUgQ2yuawXVjORoGCkO8xmCuMCNGLulSS6A9Si8uyEQXriz0lsVMi0quy~YQcSO13EQS19LQr~MPCkAXs5G~2DXeY27TecvvKLkU6PkjU5IeyvnJPH34OGxdj5q8fuftPPoMs6iLlx2E1x7VLYX5~qF7z-nHiKvgH8grb1CjktARGKmRb5DT81Sr3FAFggcP7a-YZNExizSqIzVd0FT5cX4VH7N4xLI~sLa3KpDAb1Qf1a5~U9H15Pj56iVeaG8v~Eg6VgYXxaKc3p6bUYRGCxNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i153/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac223/4/m_btac223f3.jpeg?Expires=1796445276&Signature=4DzKN5mU6~8to~osWuLp7OJp2MXSEpoh~phZqzq6QBlC7o9rQoSIGeb3Df8LxwnAfymHQOKYOaj49TXFYpUYvE3UDC11qqhqJifc-3qJqAw0z0LavBVqsT86OXNS8Anr6TUrWKMDIo2IEeAmda-MmEjSPR5g-y3UGZP8vrisoJ-TftxGPcWj~eh6uBtIsEupvJEySmiM0RkdN-w4evxnpBaL9nnU0J5Wrzia6Y~bXz6V~ZC8VJkguA3E8Y8LlgLsPYPlGaL2vVBjjsTk68JdSdkcHdLGfKXnv5nDQMSrsvTC0AsI6Rlhemkg7to1IEE84vMPEPVZRt71Q5FCRJOAxQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i153/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac223/4/m_btac223f4.jpeg?Expires=1796445276&Signature=47Met1Z~NPqXNQ6GkjqYPFzb-xfBNvxr4Dls99k~sVA3EYxsMQqdmzPLUzz3IRHCLWrO6VT2dCOwHCLDJv7sAS48zPjdnkMWvKSa8CNxVktW4s3k9qXI4HRfTcyT9L7ULQ91Gd8XBXE659rCOBq-AxIIgi6MUTYg9JyTVM8pLR-C9t2I79zKQIxwW0PfwhHUKqe8aBymLUoINKK6ijwJQluzsEcJ74xhcPXKuFKRp436~MNcoAf-k4YCr7DTBn0fC3VX~yhndgrV5gmD6iUUqE5DM3hzrHv~GCGChLg5jdaMMALaSIRG2naH3xn92s0yKyOFsShnj3obDFYa~jqJXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i153/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

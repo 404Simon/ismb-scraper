@@ -1,0 +1,126 @@
+{
+  "paper_name": "isONform: reference-free transcriptome reconstruction from Oxford Nanopore data",
+  "authors": [
+    "Petri, Alexander J",
+    "Sahlin, Kristoffer"
+  ],
+  "authors_detail": [
+    {
+      "name": "Alexander J Petri",
+      "affiliations": [
+        "Department of Mathematics, Science for Life Laboratory, Stockholm University, Stockholm 106 91, Sweden"
+      ],
+      "country_hints": [
+        "Sweden"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kristoffer Sahlin",
+      "affiliations": [
+        "Department of Mathematics, Science for Life Laboratory, Stockholm University, Stockholm 106 91, Sweden"
+      ],
+      "country_hints": [
+        "Sweden"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7378-2320"
+    }
+  ],
+  "joint_first": [
+    "Alexander J Petri"
+  ],
+  "joint_senior": [
+    "Kristoffer Sahlin"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 20,
+    "h_lead": 17,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Sweden"
+    ],
+    "M": null,
+    "T": null,
+    "S": 48,
+    "C": 422,
+    "I_open": 1,
+    "I_closed": 14
+  },
+  "lead_affiliations": [
+    "Department of Mathematics, Science for Life Laboratory, Stockholm University, Stockholm 106 91, Sweden"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Kristoffer Sahlin",
+      "openalex_id": "https://openalex.org/A5082939519",
+      "h_index": 17
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/aljpetri/isONform",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad264",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i222/7210488",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i222/50741745/btad264.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/aljpetri/isONform",
+      "https://github.com/aljpetri/isONform_analysis",
+      "https://github.com/nanoporetech/pychopper"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/btad264_supplementary_data.pdf?Expires=1796596944&Signature=3CGTpgvo-Y4pQsThLD1HnuVl0kVzteJAGF6~Nk~x1CV9X03m7Zyk1Bc1KvK2lVH63iPYaT0i2XOGXUsAR8hkGQIhLUojbHSPeXneNRHSZDcCh~ClmzfyC7mxGQCstBphr3i2lKwSWogYLSlARWtdnAFC~Bz-gv4FFCMdqg1tAvse6XzSTNYY3VfKO7XBWWlvI5kLo8neZe3AjqlCuTmo93bMWfq~zPsR8EPiUjIZ1Xn3LyoueV2DFzGFHrUj5-olZJXYMXSxJJ8-bsoOz2AqJyUu4Txi~9arh~rxb3liON07kFwc~fuS2dcwnkMYz5pixUv8LxU3BZE5d76bpctxAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i222/article.html",
+    "pdf": "files/i222/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/m_btad264f1.jpeg?Expires=1796596944&Signature=twnQcks1rAD0stYLljv0HJfVfZ-FuEcl3h2h3Lj79w7XDjYhtZQ30BDl1sVvlkriWVoMaNAKPyhz4TiXMlO6ptrGHT6ElBkgMXXk8X7JSrEIQ~rDDCJEYptb1zSK7dqXE-VUQUMCPyj5fBZ00hRt0kK46LQ8AyGcgMjykK-Y92hFpxVVIh82jRGfi~OW-k66gHJk7kXdGMUsNH3xe3FdAeTt60SDw512l-am7bZ4FIX1M5kFZqmodHoRomab5IH-xGJtlJxU5PVtzeBUbOqGqH94Li5X8r9ADyYuRY9IoyGF1EfnPFr~0TblGHz0M~91Ca0L2Ffd9IzGq3rxM~fSfQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i222/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/m_btad264f2.jpeg?Expires=1796596944&Signature=aciA3D2J4HN9n5MdLYVK1t-Dmf~vjt0AINcjxoEf8DJ296KUhdLjR933owUM6014~jrUpmrlin-BzYEOa9c1L~1FUN0rl8njNdrnt1VTAZRr~0PX36Cp8~tWUKoRrbRNE6lrkeu0wflqqQzArTNbDZCCEwXfoZL4HKe5Ek7MXLAWI1RWG8soVsZhHVO78AOWyBvrYUvw4Jgez43OvBbcIkH6DyHum65PQrsYGT5HFWCsMgkRjib1NpTkYJBnLIctiJohJe2b9p2sGqHWcndFwBkekrT9NKe5ACNdyp1sWoLhMu01-vNNklUpjaleLuPDs1WWD5mUBASjVkVmCKatOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i222/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/m_btad264f3.jpeg?Expires=1796596944&Signature=w-SGYzULOxV2LDmz8N0ANyt5EHrb7O~K7WZaBHjoyZ74wXv67~CPn9VfegpCqMC2Y0tzejTekR3BTBngxxCDUIDfTYj8mpVrvvRw2QkGuV~zkdV7djGZktjJCmsdHdAZoEGwHVReIbd4YMzdEDPKEOI3kox~Ju63jj3UtNxlKYwdnZ2JTWY7PRvn9~uHoXIjCBUY~bmn-hkvPXCceQEgbJ34YiuC1zl5qe9ktnJk0E4f4uD1P6B2Yb-t84EiX9ncn-A3vv-qtrhkYeOkq~8doN6jeDzxlMIT4TpfpdH79JGgYcf3UNv2t1q4RzGS9h4HBKMR9DJDq1wJaUNggaApTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i222/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/m_btad264f4.jpeg?Expires=1796596944&Signature=LNnVE88DszfviARsM9oV9AMk4hLZPvDNx4Y~GtQVSyjCbqt6jg1idxcCSELLDXvLzvVAHYRGyrB0IUt6PKaDUM9qRSMy8qMx4OEHdlgwksBaEwWIGHSqSfVKBtbJ5MuATb0N1b-CTPty047nhyJBvAiGyAX0e3IGC0K5rpa--2w18wel2fm2ALwCyEe2heAb-Vkz5Gzb6673ngFDrRPGv7fOEv1FKHa-kIoQJgHqYgHqgaF2-S1b2peoYtwe3IyKYJ4vdUrsWWAmA~ZI6Zey09IxAvay3mSbYo7iuzEzxz8jQp89P0xxNnEingn7kjEoSnd2xfgqSTJzAjA8Q5a4JQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i222/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/m_btad264f5.jpeg?Expires=1796596944&Signature=2lZKvIaPcwd1swvbClmLI5rEk9025rH5ShRapeuv27TIKdd6COl03nqrwB5UNRurNDpEoRqx1j1gTCgFhV~9C15LcgwwxLpStY4Khgrb77a5I6T~ElMKQyTkQVKhl2CjRbTQSJquunFZ1w0YidgNg8uq9iqz1NfXHFw~AznVYL-NxNNY4dkbM3rLRqO33NXg5NfeZEKQ1TniK4GWhYC-Gp4rN9N4s0iqvKgnA5aF106XboPHsuwrjZBib-YVMDvZFcxLtRkykrcIoSrndSpOtMgadNHdswrLKlg3BJgzf6DXoBRHMVbkWzZBeqMWcHfGmv-U3~wnv9ewsNynhRGhlw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i222/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad264/1/m_btad264f6.jpeg?Expires=1796596944&Signature=lcnejcs2Ak2yV0pS~cr-Sx1L~TYu9dvYOQBISusJI~V~gMJog49OQJrQFpXRTPli4EOw0tpQVvikNd5rNVdU1SpvqZT9VfcAD7CwujiO9qpvVT2KRo4DkS6Vt0J82L7UwOUnhADXVjWAN1FLom0IyCyociUkI7WjzMW02jS4J2r9YmHUzgfUqYsVL3MGdQtMktvRFg2epjwlJMaA0edM6a6Ikart1AuPmfNdeQqEYciVXILZNfEMUBt9t1ZD2ZNbcOPj2sUR2o19DqjmVoVAcTM7iCWW9a4T5Bo9mg272yPDYmuMr~EGt30u3ycBIMhKCk7D9Hd4Hy4u-FbMKm0cwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i222/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

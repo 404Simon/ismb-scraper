@@ -1,0 +1,127 @@
+{
+  "paper_name": "Semi-supervised data-integrated feature importance enhances performance and interpretability of biological classification tasks",
+  "authors": [
+    "Kim, Jun W",
+    "Altman, Russ B"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jun W Kim",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Russ B Altman",
+      "affiliations": [
+        "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, United States",
+        "Departments of Bioengineering, Genetics, and Medicine, Stanford University, Stanford, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3859-2905"
+    }
+  ],
+  "joint_first": [
+    "Jun W Kim"
+  ],
+  "joint_senior": [
+    "Russ B Altman"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 2,
+    "h_lead": 107,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Russ B Altman",
+      "openalex_id": "https://openalex.org/A5084043782",
+      "h_index": 107
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/junwkim1/DIFI",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf190",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i373/8199353",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i373/63745304/btaf190.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/junwkim1/DIFI"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/btaf190_supplementary_data.zip?Expires=1796425839&Signature=rv8azX6siU0FPrDHa0e9uOfh8QiDZ~ph0jrBtwkeUOujSo-CZDnbZ5v1FmPomu5M~-j0jNGFKYoY7ru8qb0gW6LrvRGaRH2-d0A4tcpubhWUv-CL6ULcN-GsvXNaywz0Y6MT8BdvxpEd7k3bl7zaG6C06ykH0NC20CBezSanJ8H9rW4zmAGwl39He7QYOZnK9IJsToFmCddW5UnwZ~ASYCRapAZfWiI98YIv~DIiRoVNLBh96QDSHrtA0REZA22rdUWiGi1F4ms5OQ8rTgSZfqLZSrcF2cz1d~LVc1Df1cZDAgYUWC2ckiNhs-pxlSjsGcRbN-tsanNdh9THfb5adw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://www.coursera.org/specializations/deep-learning",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/btaf190_supplementary_data.zip?Expires=1796899638&Signature=3Y~rLNqe0U9ftfQXRiqtalfLt5nSZFDCcPGiHzO3QyVTmpPbLTb6cIt1-hWCtphnQuZUs-NTOkaJlDaFA4S732zSAp2IDE9cR2U2ETEfxJ-FsAY-YwOtUmpbEJcgoZXwWFrs~~wuDlv6KIlXMRTftvO7vClB72VnCMhucU1UZpJPJ0EwBpEu9bmOrpNY7ade19mHGtwO3t1E3fnltkjCJSSGKVK3HFLNlBtyezW9OSaSjXE2hBh-iEbKWMT7I6TMzE90pv4LkeO357XG~W3oIvtveJD3x11hLv~V6bHfxpdVT2J1Q9HEwxz5hpHiqj7kQvezfCmaWMr566JJj1zzqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i373/article.html",
+    "pdf": "files/i373/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/m_btaf190f1.jpeg?Expires=1796425839&Signature=HNeuvXkqwLVds504v75n01DkClUM-3z-B0ixXfgfpYXtn7HMP8Bt6gcW-xOm-XexmNezbQxO5~~ex1P0YDe-0OwCdwuzpt2XfH1ifiI3eFgIIWvQMO5WDcVfYWvh2aJcz7Ml3b1eusC5ZVt3otoKb2h9mTnW5rubkDWzddwLowQTF18pniMvy1fpS5zObrhSMoNyrkgCUWG~nqiIPrOgAqCBN2jQs6eFAA-gC~tlH~Z1vexpwqwOP3Hl9bpn-qo41yeU-XaXZc5qpALxkW2Vp8npW4mVWOSxrNOlJEPKE5REZj4j0q1Kd21cAK4WD~uhXC0w-NUisjjxnS~m~KcpkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i373/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/m_btaf190f2.jpeg?Expires=1796425839&Signature=wL5BeZE~RTSVcbgtECEkccbjNizNqgrTbnFkVCOJjt3x1HnDV9ZlQVj562ruFnSIvQssF0ZSNACwrsZAntxQxjgHOAjnZlpMK3iWlZaymRcyJAOoF~Q18frS3XPyArLg9NMekRyQWPP0iCTBXvG3Xp7JcblMYleBoe0UseJYiWlbghu6NuWGINjbEES7KoaYE3jc1~o39U7SegbnKd9980JH9H1Ht~MMla2z1d4Sj~M75M8ZkUMQuMA-~1B1N2MKqzcoaAf0879mdQRBpEX~pFNiwVv13FAVxOhR8jZ585-iP2JKdU9LZd~enaGWjdTu3rim3KOsg5OFHAuyGS3HQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i373/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/m_btaf190f3.jpeg?Expires=1796425839&Signature=kXQBASLnLb5HO2huUoXCHvjXhrQKE3KV4xC8HPtauEdiyuWlvHwTcil2CdodXO37VelCG1vw6M6rfWUfywWTf04StToDIM5PY1IbBLnZUUnEFG8dXz5QzniQHV-JVfRlYfqr3BUpdoyS5u8G-ZzdSWQhzs6NC8P8Vamm1I1SKV-W49ABrso1G05WqwP7B4rJ~LCApftvRWPcKUvCLZqHXq~joi3pQXmMbLc9SdDzdaT2i2NybiFWLuUGSCfbdQBEWXev0EdQ1pxRpspzkI2ZPAZDXJtfQ-R1m9vHT1jvISMMfCHfMQtwzWUF~IqBzKzmVsfVkWkvA3DMiVl6cpSt3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i373/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/m_btaf190f4.jpeg?Expires=1796425839&Signature=yhC3PqRvzosV~Q5uxRwxSHvLvFVNMYku9~NeDAVzK6Wi07EEggIqPQTg5mMBwsphbhbi91Ta5HlCO9nICEj4W5XzlRQOt2uhBTXsmzXt6eFqU58k1bN08TTS8Mv-2x5JEBHunKguqU3c76~khg5yi~11k4Y2nX7IwKknztZXhK5cVouWH1sWSDV28WpC~vobG4G1GhqsJOE0tPt3i2X-omyQgPMM4HQ-uxdJ3NfI8C9kolpgmi4f7LWSA~Arm6bSVn-1P28PaY9iXj1FIFYOpl8hcUuXwhNyA4VN7BavgXWvUTpeqyGPnV~lndoxTmTsMtr2FRuT2sIm2N8j1mjBhQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i373/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/m_btaf190f5.jpeg?Expires=1796425839&Signature=BZnvpP~yU-mHU73~TQK86Bv9M0eDCqyGyfjpINGhL1110PDhXrbqlQ69vghyDC~tPJwZz~K-Od2bQbs2qUE4W36l8YyJcCr-ND1ay-Aff15Hc~6QwombW3uzfWZvqMWgqF8chlzjQ2S8MwoL3NB8mVh9jf3DmjHRLLdvZ~Yi6pJki0~0wYEXKEDR1KqJQfVYIgFdmD8yGQ4LGQyvw1y7CeMq-6in4u-HJWk4YHzvxj24P3jy498LKsNjry-L6owVVIfucYKsQtETGpun4jaUO0qLs7Z3Nc3MOzQiwtdRQfc0mxbyf~uYDUyeM-KMiOnONAyu-2AoaoD1RlZKcq849Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i373/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf190/1/m_btaf190f6.jpeg?Expires=1796425839&Signature=YPGhTl1UghH1vHgDPhVScgAdm8cWJ6tIotpwCjeugTJat~YVOB66k19jH57EgVsw2v1J8BxTNGMUs3vCV3lGG8KArspJKXMrhkBI~RE5ABVyasyQ8Qg2HEQGwS7YN1ETnP4Be9UEF~hXPGENF3E0FoBDtv9WI3NrMnFjJHvjq~26StE9mqWvjfb2OWX-Y9jFTq~uOXoJbSzac1R-1PXAPXfKXm~46qvkkPjA6asFn6FsOpz1ZUt5xRUzAKwhF9qv6ehE30E1Cw~Yts6~cmUCvGJ9CTGXcD2XlQ91fGQ6R4NsoMe5K7QICZ4OEO0BKoioLLGWWsoJAH3shlBDll8dfw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i373/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "paper_name": "Modeling metastatic progression from cross-sectional cancer genomics data",
+  "authors": [
+    "Rupp, Kevin",
+    "Lösch, Andreas",
+    "Hu, Yanren Linda",
+    "Nie, Chenxi",
+    "Schill, Rudolf",
+    "Klever, Maren",
+    "Pfahler, Simon",
+    "Grasedyck, Lars",
+    "Wettig, Tilo",
+    "Beerenwinkel, Niko",
+    "Spang, Rainer"
+  ],
+  "authors_detail": [
+    {
+      "name": "Kevin Rupp",
+      "affiliations": [
+        "Faculty of Informatics and Data Science—Statistical Bioinformatics Group, University of Regensburg, Regensburg 93053, Germany",
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Germany",
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andreas Lösch",
+      "affiliations": [
+        "Faculty of Informatics and Data Science—Statistical Bioinformatics Group, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yanren Linda Hu",
+      "affiliations": [
+        "Faculty of Informatics and Data Science—Statistical Bioinformatics Group, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chenxi Nie",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rudolf Schill",
+      "affiliations": [
+        "Faculty of Informatics and Data Science—Statistical Bioinformatics Group, University of Regensburg, Regensburg 93053, Germany",
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Germany",
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Maren Klever",
+      "affiliations": [
+        "Institute for Geometry and Applied Mathematics, RWTH Aachen, Aachen 52062, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Simon Pfahler",
+      "affiliations": [
+        "Faculty of Physics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lars Grasedyck",
+      "affiliations": [
+        "Institute for Geometry and Applied Mathematics, RWTH Aachen, Aachen 52062, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tilo Wettig",
+      "affiliations": [
+        "Faculty of Physics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Niko Beerenwinkel",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0573-6119"
+    },
+    {
+      "name": "Rainer Spang",
+      "affiliations": [
+        "Faculty of Informatics and Data Science—Statistical Bioinformatics Group, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Kevin Rupp"
+  ],
+  "joint_senior": [
+    "Rainer Spang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 11,
+    "R": 6,
+    "h_lead": 50,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 514,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Faculty of Informatics and Data Science—Statistical Bioinformatics Group, University of Regensburg, Regensburg 93053, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rainer Spang",
+      "openalex_id": "https://openalex.org/A5003217898",
+      "h_index": 50
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/cbg-ethz/metMHN",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae250",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i140/7700849",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i140/58535842/btae250.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/cbg-ethz/metMHN"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i140/7700849",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae250/2/btae250_supplementary_data.pdf?Expires=1796742828&Signature=1kNLNsasSL98qhIyFzCHhel6B6GH~SxluLf5FY65MX2fHuQ6ERXOJDeinb3wBY~BMenf5SG-c1vpYDmSvxhlGbyc3TAlsuAJ4vMlBlsLENcQ6jelZ2~84vfdQu8b10qcc~1lPeTecTdgiBlWFNKnvAqlVeNzsiyJbgaAjqOLuUi5LJoZsv~tDWJ3s2YG7Sp45Bpw~qXoFYS4GkCmyDbPrd-QJIMSb4CYj0gwsrmS5gt89qHpQcxQ2WjyMEOoXPJKQo5rLobZ9j-1N6qgfHos9pE2Tup4d7CibeW3HccrLvhgPL9cQcG1r4e7wVsNsLdX2uVLuDRX4VpouxWHVDkQFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i140/article.html",
+    "pdf": "files/i140/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae250/2/m_btae250f1.jpeg?Expires=1796742828&Signature=p72FbT2gUHAxGFBURLAVAwouTlXqk6uPBa17ywNIKJs5aqqu3QpV39rp4ck15inBGa73TnXweLjS5~Y8rhDZyvHMbaTw2LgGBBNl5kXwNISUBg6vwrXL3xH~yZu6yWeH58mege56Rvcly1u6SOGnJlwDmNKeyr4DMs5zzYwa2DKOI9vS0pRxXLGBW~xkGsxx7rRQAZ9LS5~L2SAgKkOv6~Udgjw4uxpP3y-~7czww9~rdwmQaYyzsoef7M4O9s2TEPpPHxOQQ61gWGRBaBkYFT1PP0GPWaCAQ6jFL2NoSxPcREeRYydr3Ymo9vqOet-y7TQC7B4f8SObttlJL0Z-aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae250/2/m_btae250f2.jpeg?Expires=1796742828&Signature=dMiFrCeDRUfFVgxoQNNTsjUzFy40CwoVjiAdXNbND5eizMIaxmzeHCEqahqcp37sXjHblbYHR7HVuA84UczI1ZUhQTVqMR3IM7zM-Sq-GEddyaMx91n-qvoAyLONpoLthzLORnBTEaSJ0~h~QpO2-XM1uQvyN3gwsQ5Y56uvDGWBqDPzMrMbjqoJIpeY~tIhtjeblsAtdTah79RQ009wy2G05X4BoRLMsqEYjwCZvgJIKuhNpgv5bt4pNXU5ImLxpv8R-AJG1n5~igBipRDLdkhYE3aTDl1UeFIPFv14jQt144LFVLnobZG2lVdDOpGkGmmT2nJ5LPWt1zt01gu3kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae250/2/m_btae250f3.jpeg?Expires=1796742828&Signature=MgIZTbJcbc4xSyRKrX~uklnoT6rJPr1UHxp3Fn6dOLzmN4qK3rakMIeoIH40zhXa9L4BLUbnD72rGhkobfgnkuVMe~sieFGM9syZ1iUEiyrFJ3aDNwmUirxklndtFha28XfODmwd6KlChA5J72TPuePGITLQNyujRyqdzULNGqwNkv0y62N6eXeTgGibcEbRAV28FmvlvPLHrJO0~vch9YXaYbz0Nt3HMblH-8jrbDYzGvCAeQcaXeCyRk0slCap-EPaxecAE0l~oKW-baWftwU4YYRr6t0rcg6R6~PaOK0iYf9VS5xr4z9bJX1qXxD79A~22dGzmSEvLax0HrYU6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

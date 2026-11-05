@@ -1,0 +1,168 @@
+{
+  "paper_name": "BioCoder: a benchmark for bioinformatics code generation with large language models",
+  "authors": [
+    "Tang, Xiangru",
+    "Qian, Bill",
+    "Gao, Rick",
+    "Chen, Jiakang",
+    "Chen, Xinyun",
+    "Gerstein, Mark B"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiangru Tang",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06520, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bill Qian",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06520, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rick Gao",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06520, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jiakang Chen",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06520, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xinyun Chen",
+      "affiliations": [
+        "Google Deepmind, Mountain View, CA 94043, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mark B Gerstein",
+      "affiliations": [
+        "Department of Computer Science, Yale University, New Haven, CT 06520, United States",
+        "Program in Computational Biology & Bioinformatics, Yale University, New Haven, CT 06520, United States",
+        "Department of Molecular Biophysics & Biochemistry, Yale University, New Haven, CT 06520, United States",
+        "Department of Statistics & Data Science, Yale University, New Haven, CT 06520, United States",
+        "Department of Biomedical Informatics & Data Science, Yale University, New Haven, CT 06520, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9746-3719"
+    }
+  ],
+  "joint_first": [
+    "Xiangru Tang"
+  ],
+  "joint_senior": [
+    "Mark B Gerstein"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 37,
+    "h_lead": 189,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 59,
+    "C": 42,
+    "I_open": 0,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Yale University, New Haven, CT 06520, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mark B Gerstein",
+      "openalex_id": "https://openalex.org/A5042321575",
+      "h_index": 189
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/gersteinlab/BioCoder",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae230",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i266/7700865",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i266/61025768/btae230.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/gersteinlab/biocoder",
+      "https://github.com/CellProfiler/CellProfiler"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i266/7700865",
+      "https://biocoder-benchmark.github.io",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae230/3/btae230_supplementary_data.zip?Expires=1796460305&Signature=FSUK9h-LEUglv3QMEwDBahHmUH6rpCgwGrcTui5pFueW3DJ2ZgO1KKSpcqGjHNLp50EDxN-raUwvRXoGu36RsBZM4aucj~veDhQyr01k3AEfNp7jYHGgq0AtsrSLscJumWDAj0IdQn5y0StHl3P1n7akxOftEMNWBioBurQLOuKfAvEnnHZE1MQWuoR-wKjuOxcD3Gn-zAbcihacCULklosRZBaqpfZmlmbXddWbBO8jOXSNiB9YqyTE~YyCJOnMnRLD1ishKpFn-1-aq18ZbLCSTEjPq8w4jYXBYMwj2QKBzo2XLELzNZZ8V2PsKbSTx4tfKzMurvqoo2-ui~zuuQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae230/3/btae230_supplementary_data.zip?Expires=1796911369&Signature=y0PGB2cr9PYr8A-WBRFfGhwiz~gDp3UzXZYmFKY1qCqdTrQcGpq2wgE5iL1ZMl0c3dcHB40g8kXL0Tn7qIQTiloHqwwzxRraZkImJkeLjwuwg~VUrAFR5X45DjY3aRTmSLcok~tbjKedNojrSgFaThPp9Wo5yCmQXuAIUcsjDkGQSbxaYNHwgm9BjfZLQ54cJe3wjkzyerrU0MRpuwhlmodCd7U4ceu7EIYoqFXyzZoVbLkif~f-JxQ8SAj4P7Znlz~bqZcV~YBwitGKet80z-V7G-pmrim-ehClRRj-47rjchADjZgSdtFKSPuUIhz2DMd-XAQIenyF2RB0FX66EQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i266/article.html",
+    "pdf": "files/i266/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae230/3/m_btae230f1.jpeg?Expires=1796460305&Signature=V9jXF44zSWGX2DI4wZpTHf~zMv90qGdM0yZLWCPFznlQvu1Fc3hVT6gSORmSzYiO2ivyBKtfWu3XjnUcwSTZZf8Z~YuO9kr4gWjhVI8TtyHZ8UG33SotzSAvLqGXBqbxztZZa0QabujCNbgH1tgCLYt0T5iTz6D9yYi6seZ96Nlwk4F6pahM3bWxFsQa62NrtECWjYvks9zDTsX4QALkdkheckjWTLZEFB9cfBLSOdDJjmkDzEWIlALwLYvYkty38dEC0EaMbaGUfhdIgex9Td45teztO2QV-jdCxqZDERkAfN1vPfj393rhA~kqatMtdShkpOKT1HZfEoPm-KRr0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i266/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae230/3/m_btae230f2.jpeg?Expires=1796460305&Signature=Betv~qgs2I2GBmEpLaTlXtp-lImg1rYhfxlDtUzh9otPlZxIDBJ~FAXd9-rI-N2YKcC~vktFA4joYfIAt83HicT2NeOEu77xgLVvSdVTdnlF4qsj~NsZu5biOIJFLxqvVMXbH~hXZffZYPC7sXAqkvfWktNEMlKJVa0sYIeXSggUKhGmuiMKnWX966sia7~Up645orLhvhtWtEuUgvcMKHJ2ymLRLhe5~aDuMGYxTqH16pRzaL9s9wnbArXvVSmgNESmE24TpQqMnNd98vak7kRiX690SOHxFRtB5iDgSXuIKlfketcC69m66TEdG7ufVUeXiI~qlFcy7nmfKb~8WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i266/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae230/3/m_btae230f3.jpeg?Expires=1796460305&Signature=xqQVDXM~FkKXbOm9XdZZcwb6065vmdylJmKePuNhAXLH~DLlrwubsfLAOGyb5GMEFjtn7XKMSCT-1n9cWOpZLvEkNN0UvUqI24GlSeFtuS4oYL4EsnC3yAh0joiMPEj5DX-8G3OcH-INKN4nGirxDDkxUfXfsFW0NYx2k7erFAbmHsREZcKMicMSBbNLaZlgpqvC97lknMzz0cOpOnD2oyxlOGF4tyXv-4XHNwc-a6yQvqMyy9t~Q3l2pmmBqiGXcDenJvzYTxSP~lGve6w9DRxD9XkpDcUB8LjxS-jCJAdFvox6xAdqBE3ASQjyV79z8K6dXQ1YaIzjbZKbbVjqCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i266/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae230/3/m_btae230f4.jpeg?Expires=1796460305&Signature=iEzcfxecaelp56PI6X2dCLXimzJ89-ZM~9fw-19Lbe9NbasrMmyD4WFkrVNU9KMaPOeEGrQWtAkvi9eBWqgjGbVb3yHKb6Ebz6yZhcVTfYbBv2O0UUa-x~9TwVC0-6i4AGa~BRqDi5t3zWBifBIGRw~UYJb-pSnm4D6HV2tXVGajpbZZ~rFVqnPhDin1FuicW26Bx2VO3aipFMGUpYYdeT98WnfvQWIVi7vaAxeCUt-N1s71mbqvAo2sYy4V2dBMbVpLSuIWmYX2cZrtfaOVvxvN2BBCTLWRJUpVeI3QzGe2icWL18Ym64y1k2KptwiNPOyTAbLKNiOIu4XYFiWcfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i266/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

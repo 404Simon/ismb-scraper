@@ -1,0 +1,202 @@
+{
+  "paper_name": "Optimal adjustment sets for causal query estimation in partially observed biomolecular networks",
+  "authors": [
+    "Mohammad-Taheri, Sara",
+    "Tewari, Vartika",
+    "Kapre, Rohan",
+    "Rahiminasab, Ehsan",
+    "Sachs, Karen",
+    "Tapley Hoyt, Charles",
+    "Zucker, Jeremy",
+    "Vitek, Olga"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sara Mohammad-Taheri",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Vartika Tewari",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rohan Kapre",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ehsan Rahiminasab",
+      "affiliations": [
+        "Google, Cambridge, MA 02142, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karen Sachs",
+      "affiliations": [
+        "Next Generation Analytics, Palo Alto California, USA",
+        "Modulo Bio Inc, Los Altos, California, USA",
+        "Answer ALS, New Orleans, LA, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Charles Tapley Hoyt",
+      "affiliations": [
+        "Laboratory of Systems Pharmacology, Harvard Medical School, Boston, Massachusetts, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jeremy Zucker",
+      "affiliations": [
+        "Pacific Northwest National Laboratory, Richland, Washington 99354, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Olga Vitek",
+      "affiliations": [
+        "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Sara Mohammad-Taheri"
+  ],
+  "joint_senior": [
+    "Olga Vitek"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 6,
+    "h_lead": 47,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 64,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Khoury College of Computer Sciences, Northeastern University, Boston, MA 02115, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Olga Vitek",
+      "openalex_id": "https://openalex.org/A5088073215",
+      "h_index": 47
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/srtaheri/OptimalAdjustmentSet",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad270",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i494/7210500",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i494/51550937/btad270.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/srtaheri/OptimalAdjustmentSet"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i494/article.html",
+    "pdf": "files/i494/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f1.jpeg?Expires=1796421091&Signature=QUxWVGa2gHikznhH4~HRh3~cvc8QEBKoJH1yOeZN4cSttDGXKISaW7ZY5fQ95GS3lCCiD41a7cloF8Luz3k2wwm8VAO0XEoELwDlqTKCbq8kt3z~rOrkl4nzcp5ZXKM0fFA8~6n~KEGRypf8kKwRRm5onF3PtlEbJNMKUn6MxbJvczbwiC1pfbuivDmOilyHkeRlps8Z6XteW1DMkaRuhlZ0D1-LeWdWD5jfPUGiFdbHT4og2RI5PUd58rbQEj0kKC7uDL09GozBzXkMfOx6nBHQUi5MwVcpv-PvRaqukZouJGva5ertp2WPPaqh~OuYjucEME-9C2r1rJZ35W5Y6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f2.jpeg?Expires=1796421091&Signature=poN58LaWlHS7X9JI7LjG5tompacJGxJ5ajTaHSy0J6ZxE0TaIBcxmLx~EIhFHo1UVj1aWfw38zUhM6K2v66lMnl01qLZIdyQ34WQn7XM9pPkRmcpC9x93aol-Q8pqau-wtywFuvVYGAmo4i7n80DcTgm1rGf0c6HUPDU15eyg0o~MJwMtMupjosSIGLG6I0Nrev15Lg3CpxcJ-rIVKB8mLT8ttnu-BUaRjbv4z6UKMlplg3aJzDpyh4CthxlLlgzjdgyqvHFRRPOdENnbsfR~67--Axq3kRiTwd6d1ycjxZFp7vdZ3H19Y0ZS31KSQQXRFMpzdqzQG5qFjrkwSucfw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f3.jpeg?Expires=1796421091&Signature=hAYfwRn4FxLFsr0w6fmV2tfGgeASGJ~I4R7-e6VuHb6MygQCF3HkaXLxpDGo1BzKYpW3zKJN6y594X2lctbOh~~o9Hy3c0ZSXNtdaoZmKezRtIF6MMhWDpRf1qVPqSRzMIiPivBG5ebg2apq0FxNSJaAVWcF0lhLOYO8REhxWjzpcMeiYabKEGLaPW5ffKgThATLOL2tMNEg3bSI6BPagy1ZvRzoziZslbFWvC8kFiLKhWTDi013VxofA8M8iyBzQQ9aC-IgQsxDqsU2HstFow-HdblmJ4Nb6TvF7rmoGc-RmaN0BvLEIfEBy9liqMydIKrwoNImuLGRd~WcM-x0rQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f4.jpeg?Expires=1796421091&Signature=O2LFoPleINqIAm43n31Jt1A9vEL~Bn15UhjBS9PsLybea7lsyIJyhalbpcpQq-rfDMggMUFOxyEedLwl6n6Dq4hueoMo4RorDfdW0i9wFdqSZCegaq-s-jESDU6MXSF5p3NHAdT~nJT-HMxxojWu-vkJ7d8ThzQ-vFQsA8IYc7oOmOUild0fImkNYpwlfN-3~y4gTTTfjJ3j9yJ1JYWfaEL-n-pIYnZONMwgpGL6mbjHFX5NkyJVMBzJv0hiBj9RTGfVk~zOg9nnzXcngIXab3Z4dXkYE1pgkqGrsAryS56X5pgBTe2hTwrCSgu0GzXCYDh9rmNxVGOdU0Ul7B8Eiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f5.jpeg?Expires=1796421091&Signature=eIKAxYgaaHbKjUMFO3k~Lnt6zg0xmp8i3Z3WtzeviF1wrrugkY5p3URDXjJpotVF9THiMyPTN8vp-rMarkOFYVTvF-dasqXudr95exnV7D9ucKM6i8tuy0HLmp42S0151qPupVKtGmnsbgj3Q0OTeuBLKDJWfydbYZRKqcBS3yAK-VHVZiSikH6tJqzWyo-DJucqLjNAc9HrBfXshKE2xX-9~IMJvPIlckwdSq4XPSxqFr-JbVQnOEjXUm~SjxOTtWTriAF1-9FR9n-TdKv-eEF8ijPJKyxGXJExPpSMMRRMkG007obFEA96VynpAuBGIlGzeFBd9vNrNSwctSC~eQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f6.jpeg?Expires=1796421091&Signature=Kfa7dEoGqXjUoz8aFjZjwvalfMarWrujViXhXobaF3M8wdh26k7daUcAI6Q3esJHHepkzIj9VkHmynox99MO~06dj-bBXu~3H2Zc1wvZO2TShzq1pJC8-N3SdHkBRQKnW7WKeFD0d798HDozrNYzhj2gm7JJmbXUhuvb9lAorHzUhSSiMkuEAK7j~kocADUIBCIb-YHfNL2MSHGvQ9CEFXn95CNWYA5UIR8ZBpUGQVMRphL9zOQQPAnjZboWnWcs6r45cXyO-IYUr3ajamjSq7eOOuT-jPAOWl-xrk5hxvYU8EkYqFUK2kz-9TR~eTNiG98Ul3zSO9dmvXs10B8e3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f7.jpeg?Expires=1796421091&Signature=cAwxUU3nXJSEYhJnJD7NI8CCputaE-FoNMsG-F6bCYy-EEsi-h28DiZFwqrQZAlvv9MdYsZGQTtNtJN4aBiOZMRqENImva2U4-eJt1rrve~xDgH8eafhltJKcuNS9wdZxLawfa9f1qiV2oYsgduZd85S2BIleUsnxHwxYdPqOcxxD81JZMKdSB3AlMeYl5Jd7wDEc5zceJnqQqbMphjIl~8hPxc8mxJ-OuDGOoph8Yw1Jpv1cKDbjYGCJlguF5Gt-YpNLdxQF8uyGljgYa7maMXswZ-wJAru1TJmHWjMcBxFF~urMcADmdmb6vV68SnfQJLZROUDx0lCFnhheL9WMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f8.jpeg?Expires=1796421091&Signature=CTQ8QBRU8724pdsXWBaEEEardnILKWNUfENduyrpjgFDMSBXsJWgLcYsq~wd4GLaStWAsYA1LlUmTAtycq6nHSwioEJyO~8b~fY2FJFtKb2NoYSU6TcPdTMkuN4yTfHS1yfAPH94ECPLvop4b4YJZqrpv7bXM3OKSVyMk0fNlf~Wu5Kqckbn4L5CitS1bWDDENcQ3TJXaCO1CjTV1OdTVyLN~Nlox~rQgph0pp4xFsJznLCy4y3P8IpF7Zi2ZMgOiWMmTvPfSMEQqX0EchtzpspB1zuf-hWgNc6p5tt3ul7rqsQNwXnly7id5RpsEQLPMHT1IRxaQxoZ4NAo~LA9xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-008.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad270/2/m_btad270f9.jpeg?Expires=1796421092&Signature=q026iXRQZcGakMIPl83-AH8nzVKfFVcsFWqM~1xQyZJlAeNp0eByBbw9z6fmJf~-GPnLpj4LBp9QV49XFeX7HHyDQenTSZCo4NbNZDg5vY9J467IikWbttw~E4R2sVXmY9i9XRTRivBsAIljxZ96prHAbBEEoMqREgu0Z0iFJvxCrp24OmMmfXKlmi2isOtNMx1Rqf1nbgbLXlMvTrF0pxzEFad1VkyW-KZVecXGoQOCqK9eeNes6gPB-acRhVM2SedsXb6MPWEVxAzvBT-IcEVtlch6Ki6n-HIyJe1~OCgSns10FUl08LcK0~UEFv9ljSjMRuWkJpMdBGFYmtQILg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i494/figures/figure-009.jpg"
+      }
+    ]
+  }
+}

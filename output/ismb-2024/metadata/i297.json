@@ -1,0 +1,153 @@
+{
+  "paper_name": "Forseti: a mechanistic and predictive model of the splicing status of scRNA-seq reads",
+  "authors": [
+    "He, Dongze",
+    "Gao, Yuan",
+    "Chan, Spencer Skylar",
+    "Quintana-Parrilla, Natalia",
+    "Patro, Rob"
+  ],
+  "authors_detail": [
+    {
+      "name": "Dongze He",
+      "affiliations": [
+        "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, MD 20742, United States",
+        "Program in Computational Biology, Bioinformatics and Genomices, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8259-7434"
+    },
+    {
+      "name": "Yuan Gao",
+      "affiliations": [
+        "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, MD 20742, United States",
+        "Program in Computational Biology, Bioinformatics and Genomices, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0001-7517-588X"
+    },
+    {
+      "name": "Spencer Skylar Chan",
+      "affiliations": [
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7061-3695"
+    },
+    {
+      "name": "Natalia Quintana-Parrilla",
+      "affiliations": [
+        "Department of Biology, University of Puerto Rico, Mayagüez Campus, Mayagüez 00682, Puerto Rico"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Rob Patro",
+      "affiliations": [
+        "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, MD 20742, United States",
+        "Department of Computer Science, University of Maryland, College Park, MD 20742, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8463-1675"
+    }
+  ],
+  "joint_first": [
+    "Dongze He",
+    "Yuan Gao"
+  ],
+  "joint_senior": [
+    "Rob Patro"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 4,
+    "h_lead": 35,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 7,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, MD 20742, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rob Patro",
+      "openalex_id": "https://openalex.org/A5014584023",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/COMBINE-lab/forseti",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae207",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i297/7700855",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i297/58585828/btae207.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/COMBINE-lab/forseti"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://kb.10xgenomics.com/hc/en-us/articles/360000939852-What-is-the-difference-between-Single-Cell-3-and-5-Gene-Expression-libraries-",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae207/2/btae207_supplementary_data.zip?Expires=1796508435&Signature=NHf0qfsDlBMT1YWSve5pqnqizTd0rnYBSDL3Gda7LwoNAdkBF496r-eVUt0OSG3dMVWn2DElBPS3XZrFVNUgXhbSnlKOA6nePhLPnULZTXGolTIeUv6VL97b1rk1aGJurY3OAP7a3BnlgxHY7iL8d75p-Dp9vdCsHgmcb25NBFWtWO-RY5gD8zIgmip5vYGs8ZNkrXK~ivCphnQJxHwn2Nn2v456UP~AC9DuCsLp5Vc0iYvm03X9sl5T07UXuaPwLJ3swj7Eicc3cwpjzyZ-aFHquih6ldkAItc--HsRK2Mb6i14Kdg0ksTCxzgpDRTNKnRfZY3nqKhXCMfxEC1DHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/7.0",
+      "https://www.10xgenomics.com/datasets/1-k-pbm-cs-from-a-healthy-donor-v-3-chemistry-3-standard-3-0-0",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae207/2/btae207_supplementary_data.zip?Expires=1796911418&Signature=BMTETf3Zqfh1HpFH6SLau2qo1gGwx75JJ80e9m52jfwSl0wSLJM~tRTz6AcqpZxmra-5EFj0Ft0ZLe9ENbwiAb00epqUWyViuPF7HyApaalTDHUb2VlMOTrKBqe3Ozrfu6BUzMi2KGlDBGshkTCvl~rDxIQ5P0c7GWGita1Mr6SoEfcohUmrPXE1NgYZDLOKX2rAoapOmJ2INRxOl6Uc94~RGn5MM0c3I~AQwQYVT9FcF0IItOj1RDchkSrhP9Y8mxpjgHFz-KxD74mHSoWHrI8-UM0j2cp7wiTf7F2omHCD15GPa7ufe-HEddMcQLBEDlODfmKGuw~RC1NxvFu96Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i297/article.html",
+    "pdf": "files/i297/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae207/2/m_btae207f1.jpeg?Expires=1796508435&Signature=skeEq05CDsBTgWxFUW2xGCk5m~z4m6CTkUgqd65Qq193r7eWJ8Qt1OUgdKhT9cfK6lYz-5pSQsMZZupBcfIiKQyZJ7ZKJTduxBw1lcdYnxPdaHPGFJiYoHJQuj3ARaTm9wgwG2kUPg9UDQVs2fN57OgwWHl3ogI3BheuZh0CSlfws8GIO2vC~at3XhDnrTkLKC0AItBiWuO8vAAnudMRDC8P1tFdW1nDrfqaAh1CEW8FNEV45~VOooKQSHvX4XmWg4Y3k9eXVUzVnEdQX-7GKWd4iLlmONtQOBKTaCiau-EMFHI~STfVpe~OvJkL6-MWdCO0z3zYknyB1pFmwIzLTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae207/2/m_btae207f2.jpeg?Expires=1796508435&Signature=bRV50PrUcgSlanzuVNNKLEo0MdERZxfiTFcVQFOnJAsz9DyAPL0EdSbNptINhdoyBW6oq0jZhqnqzNR8OM6kLOTH-lSf9nWhtIb7G3Q9hARsBbLrj3wDQLsqVYa4fwI79BnWLp7xVmSzA0grByG0y7NGekbUDOG7Sqq4ZOZarVF8KV4cJEm8DOia9da6RLNiVU55SEEo~QRWMc0Ed0ZgWWwFof5icj725XjZDBRE0Jc03PMA35x6ouMNaoE~EnJBULzXDGioZMo68lQn9ppeGR8QeiV4e9tT0iJZWKTJV8CgcArdOd7IWmRObevhQY63WEbntc9fAmfcY6Ka4M5-Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae207/2/m_btae207f3.jpeg?Expires=1796508435&Signature=37Ure1lkZRrOucCb-XWtpEV-t2~89TPncU~701akOccHp1bhvX0v8avRflztMZMRtAFy2LfyE5GplTEEPpiNj9mRMv2ka7bMnxRDsszcq5SIJ2Gm1H9CICCSmqtjAvbWOf8ivjkpRRWaN9eYbkftsrqYFgMzB33edHqacv9XMsJlCi4VtBlIJVgDXKHQXS9DM9Y0ptw8CAHZvbtStLf1X~vsLH1SjqMFa1Nnr~Q-v1MvGYBaJsFtfdBFhPF~Lxln81R6PgPC3kQEFL7MkAx2ljgwoDnp3mHcYD-ldevMVfv42VpUAjp453JK~RW~PDDVWkRfsQ3epnji4IgU4LmI0w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

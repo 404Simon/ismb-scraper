@@ -1,0 +1,142 @@
+{
+  "paper_name": "Teaching bioinformatics through the analysis of SARS-CoV-2: project-based training for computer science students",
+  "authors": [
+    "Poličar, Pavlin G",
+    "Špendl, Martin",
+    "Curk, Tomaž",
+    "Zupan, Blaž"
+  ],
+  "authors_detail": [
+    {
+      "name": "Pavlin G Poličar",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+      ],
+      "country_hints": [
+        "Slovenia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6462-9372"
+    },
+    {
+      "name": "Martin Špendl",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+      ],
+      "country_hints": [
+        "Slovenia"
+      ],
+      "orcid": "https://orcid.org/0009-0008-0796-8985"
+    },
+    {
+      "name": "Tomaž Curk",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+      ],
+      "country_hints": [
+        "Slovenia"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4888-7256"
+    },
+    {
+      "name": "Blaž Zupan",
+      "affiliations": [
+        "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia",
+        "Department of Education, Innovation and Technology, Baylor College of Medicine, 1 Baylor Plz, Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "Slovenia",
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5864-7056"
+    }
+  ],
+  "joint_first": [
+    "Pavlin G Poličar"
+  ],
+  "joint_senior": [
+    "Blaž Zupan"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 5,
+    "h_lead": 50,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Slovenia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 12,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Blaž Zupan",
+      "openalex_id": "https://openalex.org/A5073792028",
+      "h_index": 50
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/IB-ULFRI/instructor-notes",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae208",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i20/7700875",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i20/60276966/btae208.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/IB-ULFRI/instructor-notes"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i20/article.html",
+    "pdf": "files/i20/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae208/2/m_btae208f1.jpeg?Expires=1796423452&Signature=jEMPdofQEmbSDIdFP0Iwjl3VovdS50dQsF3fKjlrPD7NXNouJ2UQe-AAmFAtNIZ3lOR7XEkkX7290NjMIQ5gLytd91gMlfYcYbyKTLpWlN48N8cxQfAT0HQ8M8UmqQK-xdMsw-SyMl~E91dvhop7gu-kfp24WJkmvwvnpuew1LGE9fIodarE~yp-XQVffVFfPK3-QLUp5GWidYUXiLnwZnztuhlCyIVWK4JA6UfErv9kPQqMmc~6v2bwXPKEDYbFJT9varBTcLNHUo9rWBM89JKZtONIpbp1~XexyIopORd-RQRIwhfzpH86EUrVJPD3lW2uDuQ~LColjyTiWKRN-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i20/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae208/2/m_btae208f2.jpeg?Expires=1796423452&Signature=lUpkPceZI4gy76ayaEkEeKqiIY3ZswzcIm2KZVX5ODTW0pUxFz6nunUXiCntJY0tSg6Sz3iFiR49vfp-z~7hIbVQaIL3m-FfYwHgNV7Mzifios1CQV4Y2LyPMCBOX~3lRbZ1sRA6S9lr6yrb4koZMRb6DVk4wP2b~ki7P5iAJ7d7SjsToQaVNtPCcd-QsvgMZ0YcY7Qg5mMAhulbvVpihBONM4wY3uTmR7BtBcA8NuyOwbL6b50BQEOlDhVXRwepXjNmIlDkBR8stNzRftonMbHetGja~gkrf99FF05VgRjkaFqFdIjQ4PHz6NQ0j7j3CmDnw7tkQ~RjrPkXn5Nfzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i20/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae208/2/m_btae208f3.jpeg?Expires=1796423452&Signature=Ga4f~uBHv75jTXrXka4f3-HhwfOhET2gMzk0PC9T80ul4NynMTGhc7wI-JpvqwPi0aPCVEvopz666wNou9iXfrCKmo6ia7s8qK51WuqKs8qEmnKCt9U7RvQtB86lYN4A60VNADBuuSvfkEMnVrQ0Dn29wEIEW1LECNOKoGk1Fa~cZ1jVhlzffZoYS0PiMG2~HZ6gteYW~LPDuzRsTsEBd5JbWEUGQl85ydDywpg7SCDQDC61jZdNDGRiEDRev-pKQ~ev-4qCtQH4j1b2NGRD1hokWU1ZXfM-o8C6hD5MPELG3nD-T1ZzocW2qB81V1zwiWuE8wlaDhSCa8MKNB52hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i20/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae208/2/m_btae208f4.jpeg?Expires=1796423452&Signature=4RU2A39wItG0AG0WKhYDRBE3F9KgkC4Au6QVVQZuTPx-dSrP0MYqRza8Y6~OsiS9IVbbj7uAV2UR1-p1QL1oZtYYBz-sUEykB3vwuFID40C9xxliaddsR-GDqhA-12~u7k3-fT1sgle4C9R7OX-FvZPIBtFsW1d1ynABLrPWKzfB0ep3m7S-jM9JySPHf4BmXir3zwDTUF3TgUpQVA8bjRA1dpgGK0125XQpTocjfZ7i1u4VESagCIPNdiVtsvFEXmg5JTC~-ag4OHkeTBR9u61Nx9~qdnxhxQCzgxu4N6GybcO0F7FsB7AYVMGLe~eJYu2fw082SlfvzP25ef6IIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i20/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae208/2/m_btae208f5.jpeg?Expires=1796423452&Signature=3c1Kczdyroi~H9Nl~c7X3OvuniPdeCZLG65CcpjtpjvEoc27t4~nAm481M57VMtKk4WqYXUv5jpwThM8VEOZcefif8qHX6EbimG3ztUD9tplsPHZxZ-EphFNHBrCAINh7S0pJX~HwndC~ALg344SEJEhXwvJbRth0s24TPdsU83XX698BMnAXAcNPEaE0M6E2OrkYvlK0p3Gfdxp2uadh0v3EeUg-JwjnxRKYm8rzn-sY5E0RvTtBnKGhiSY1mj9ys4ezwnbpVpiy28CDMCN2v9JNS~5yrLHHKsVrrWs6o~-sfUFI6uxi85fH15S6wKW2LvkjMjfu7vCp9iRAtiGAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i20/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

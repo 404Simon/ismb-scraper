@@ -1,0 +1,153 @@
+{
+  "paper_name": "AttOmics: attention-based architecture for diagnosis and prognosis from omics data",
+  "authors": [
+    "Beaude, Aurélien",
+    "Rafiee Vahid, Milad",
+    "Augé, Franck",
+    "Zehraoui, Farida",
+    "Hanczar, Blaise"
+  ],
+  "authors_detail": [
+    {
+      "name": "Aurélien Beaude",
+      "affiliations": [
+        "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France",
+        "Artificial Intelligence & Deep Analytics, Omics Data Science, Sanofi R&D Data and Data Science, 1 Av. Pierre Brossolette, Chilly-Mazarin 91385, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7199-5242"
+    },
+    {
+      "name": "Milad Rafiee Vahid",
+      "affiliations": [
+        "Sanofi R&D Data and Data Science, Artificial Intelligence & Deep Analytics, Omics Data Science, 450 Water Street, Cambridge, MA 02142, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1785-0234"
+    },
+    {
+      "name": "Franck Augé",
+      "affiliations": [
+        "Artificial Intelligence & Deep Analytics, Omics Data Science, Sanofi R&D Data and Data Science, 1 Av. Pierre Brossolette, Chilly-Mazarin 91385, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5641-4152"
+    },
+    {
+      "name": "Farida Zehraoui",
+      "affiliations": [
+        "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6278-1680"
+    },
+    {
+      "name": "Blaise Hanczar",
+      "affiliations": [
+        "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5606-8296"
+    }
+  ],
+  "joint_first": [
+    "Aurélien Beaude"
+  ],
+  "joint_senior": [
+    "Blaise Hanczar"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 10,
+    "h_lead": 20,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "France"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Blaise Hanczar",
+      "openalex_id": "https://openalex.org/A5008999121",
+      "h_index": 20
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad232",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i94/7210508",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i94/50741889/btad232.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://forge.ibisc.univ-evry.fr/abeaude/AttOmics",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad232/1/btad232_supplementary_data.pdf?Expires=1796535021&Signature=PRVv5doz3GWA~Y8Rz0JtFeC~AxsWR8Bxh9hWgVyZMvqDYcoPHQkyQqaBNtDhH9lIjMPsEm~E-VbXx5QsV0Rie69gqXcXwvvEwPNDDtp0PyEbl6-yspx9-vZTC1g0gE4R6rNX7zNIuk4rkvSEm~5~nZYEySPU9E91a-2dSS6TsLSkCIYfiwRj5oE7yiYWBrCsN7I0snF2aBeis~gejkqZzH0z8XN2BVvJJ7r--x5hOEEyjKXLxs9pcSo2hZ7jwor~rSoBfqXA8Uj4Ow8UhBlKMkw6Le1Wb0d~MCPpip7xRVe-r4bkYTt~Ivsh1joUK7uUSkUtJqjEE26Z1u48IqSykQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i94/article.html",
+    "pdf": "files/i94/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad232/1/m_btad232f1.jpeg?Expires=1796535021&Signature=2fXSiaLfY1-TELVY8R0rKIDaCnci~ietw-rtciuLCMPd2G~rd3pCGeWHVRCh9GH-ziDwGqyTr6RU4GfT4ZxLLLMhIkrx5f5fmhbqQOFy7dFIgtP-iQz8jUaVJjQazZRL8ZrgZR02RIjQHEVEA~EKIJwnevbw07QApVwFt0B5AkYB-Vo-rVztaebzMEeVVpN-SwOwogTxQ27xVAzTLAKhxyqpfltvqJ8ldV5Ya~4JL21E6gZw03BgyWYyLw3Q3YFtOt5gvoWjeb3Sdm8K2xHHPmfqk8p8l3EBVYFWbFCjPLyJM9tp8wyxhC79BnM6UjomC15PYlSz6w6QF7F~PeVdrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i94/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad232/1/m_btad232f2.jpeg?Expires=1796535021&Signature=Q81z5Jw3K7-m~LJPsUgA6l3DPHckMvJJPlmXsE7zKIRXkgnFdKTeG3XYbM4I4vJcpCo9XWLMw5DojUJm9dgrSU0nfMm3R4nYQJVv30eHsyr4epJpJprIBvO3F2ZxQbMTpr0lZEogCYKBFc1gCAz-CjPQTLmUqM8SiqYPUTqBMyi7VywjiWzU4u0UnGCzHGslPRFDgtIQvwLKxvcbaCePhbY-9ci~4xP9K7y23ptyQoblOgs5AzbAkFZQBl2f7YPjNqve5d4r2vcTKbHxIura-KojahgiEKq6v4eONOQNMxE~Beqaa7Jyb6hfv8st9OEo9XKxtXNHeYKJ-7ju0ui5Rg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i94/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad232/1/m_btad232f3.jpeg?Expires=1796535021&Signature=Gz3GiM8kGauiV~kDaoIwbmMK8DcIcONW6nGjohXFhlJsVHmiGRgiiw~Lvd4LR~pEJz~mtY~kCWgMgLgSjTeEb9msr6iC-AhuQWcd~UeSyYzMxfOeEcOThQan6LUb9ylIVtI6S5jr2OrYRt30yATAC8LmXy4wNOqavfabmRSiKRbJMohfFrLxYPl5PbajK~STUCZbvEuQyA8epchioQWTXREXD28nnzv7eqBJ5H2IzNxXqm3HWWymBrYqkEzQEOcvhvb1S83UPw4BQeMk7Kc8IJwDVjzpNaM~qhIWe82hBUiwwy9s~5Shjb2Y1wwqi0Bct3pGhLTo2XkRdyPQV9Cakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i94/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad232/1/m_btad232f4.jpeg?Expires=1796535021&Signature=R3WhZqameKXKoU-31wis9emtWhtp5J3FIgdJq9j6xnTcYwEYUo8pXWb4~CzAQVizcjabpTHSPTnnPtZZfN0E-ZSh5S1hv2zR8okuvE4qVlJNz7uj20e7eEeV2Y3MlvdlCDPPzf4j0FZ727HK-1d2KZliZcCWa6lDqzjX93IVOROrQbPsZTl6Vjg5sUBvIpy~CUOgxgNjaLtSjDFs2FfMcbbqbTqIwIo69E8VGe~pkq7R098PAPlsxb5VSThjyFOn39KKv4CKaWBRa8QPpHu4vkai8eWBsOudAk6-qGf4TSY-EAuJilgfBqZKv1yY6ncDJkbWOeNpE~I26LQTcp1lmg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i94/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

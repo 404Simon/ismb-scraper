@@ -1,0 +1,114 @@
+{
+  "paper_name": "SVJedi-graph: improving the genotyping of close and overlapping structural variants with long reads using a variation graph",
+  "authors": [
+    "Romain, Sandra",
+    "Lemaitre, Claire"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sandra Romain",
+      "affiliations": [
+        "Univ Rennes, Inria, CNRS, IRISA, Rennes F-35000, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Claire Lemaitre",
+      "affiliations": [
+        "Univ Rennes, Inria, CNRS, IRISA, Rennes F-35000, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8675-170X"
+    }
+  ],
+  "joint_first": [
+    "Sandra Romain"
+  ],
+  "joint_senior": [
+    "Claire Lemaitre"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 12,
+    "h_lead": 23,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "France"
+    ],
+    "M": null,
+    "T": null,
+    "S": 17,
+    "C": 126,
+    "I_open": 4,
+    "I_closed": 4
+  },
+  "lead_affiliations": [
+    "Univ Rennes, Inria, CNRS, IRISA, Rennes F-35000, France"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Claire Lemaitre",
+      "openalex_id": "https://openalex.org/A5087524785",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/SandraLouise/SVJedi-graph",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad237",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i270/7210470",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i270/50741657/btad237.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/SandraLouise/SVJedi-graph"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://anaconda.org/bioconda/svjedi-graph"
+    ],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad237/1/btad237_supplementary_data.pdf?Expires=1796466891&Signature=pou9BSzJkEL7H-cwWzbWjlgOBhLThmQ1JQNdrbT4PKVp0X3mEXip43xtIQjZmThw2CqcF7goQk16D1Cq3HEQ5oW3qr~zwjp5zlaPRJlRn8hITHNHu3~aF5CqGtgM3bZKeKINzYJpYpwVfRXvjd4~~whR1RWER5rVwt~rlZz5XMe-prcR-gZdNuP0vOFMO9j8naQWH7698TskAbjG-enWmzQHUNRC5w-C4WhuC8hj1RMqh4Jla2-a3VOjzkK9RFX2XAs3A7Np-UZtYyWhuHw69MF~t8ke~09KQqwBiA7daLiCDRPCw-sj8ZaZ9-W3v3PRniJPveJGhGJ68N3iNF8OsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i270/article.html",
+    "pdf": "files/i270/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad237/1/m_btad237f1.jpeg?Expires=1796466891&Signature=0vpCUa29BBBMLA9SMpAHBOiqR7iaEAUnYqPt8vqKp530gm~UhyW5WaF16syFgekqzi7sD92NBcRcQjLGmdK3z1~NAd-6SWA~byPmjoWAntUysYPAb1sSpigHO7GdRZH2jgZWIxiekismFeSzqFvmdSTfqPRgHN~xL15qJGMcYYuhSdowBYm3WuT4qIR7PZAZykUvH5cxtlfhV1U3SxADA-W7gdYWNUlPMgCQbm7gaXEifmuR299yvkp~RkuaTge3XnxdOXxRZYjl~GJ5Cu9BBtAUohJ3Tsnmtl-viCPUVfWkygAtEUVHBHoznohIAJBYeH9qJpQjz4afpO3Dr8dlAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i270/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad237/1/m_btad237f2.jpeg?Expires=1796466891&Signature=m~p2-vIFKvocOTbO-YNiGcjOI0wmeGAfH-~hSkvmxnE1U3E3kZ6XRe2nlSKWL~tem302Sm6qZQLvNc58emrrGUYSL~PeXpB~vx-2fYD8~ZjMjy0lT5iFTSwfcPuQwy1XrQfA8YEppk-ju1DKylSYkdfxIOkCBKkNcHPtrn3yElZfEyk~Fzf9v8lNNgIIUskmLbTMQ7nuRJqNtDx0SNAQKRvDA23aYvlh~yyoPFabl9Xlv0cqy~fEix1cegNIKTb6VZvC5RcKLLl6difoxjsOU7hOMx~XCVXgyTyvOpT01Xw10uz6fXmdnpVcTRi0qY22izdYWZjDF4YweiTcjjrSjg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i270/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad237/1/m_btad237f3.jpeg?Expires=1796466891&Signature=Hgy243ikJH-m3xWBQdhVHjK2JLr4wA0k03AtE3w5~jaKW5i8T0Ajj2Tot-naig3HIHj6kSb-T6tpP5S-z6OUYTFT0GoGdOw0n47vYJ-Adt5dciCVyScbJ6rMTLBUGlcRm8nJKvugU4p8tcgF-hkzV2R8wz9aDLvVM0JO4nxBRsvV3O0GSjZ04fimpNIp7paMNHEI~mB1yHHiz3fhzq5DRcuxmVdmDdBljp5QiD9QeV3IQb-kmSKyfYvCt~AIK7hD1GJ-hHAhu1DBwH95jlt8sAeysku58AjQcc~YXe4E-6mJWAD0hzohQaTB~GY1GRSBSznCcOwgGXVF1Lsy19kCcw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i270/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

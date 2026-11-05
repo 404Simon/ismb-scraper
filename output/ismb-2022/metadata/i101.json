@@ -1,0 +1,211 @@
+{
+  "paper_name": "Prediction of recovery from multiple organ dysfunction syndrome in pediatric sepsis patients",
+  "authors": [
+    "Fan, Bowen",
+    "Klatt, Juliane",
+    "Moor, Michael M",
+    "Daniels, Latasha A",
+    "Swiss Pediatric Sepsis Study",
+    "Agyeman, Philipp K A",
+    "Berger, Christoph",
+    "Giannoni, Eric",
+    "Stocker, Martin",
+    "Posfay-Barbe, Klara M",
+    "Heininger, Ulrich",
+    "Bernhard-Stirnemann, Sara",
+    "Niederer-Loher, Anita",
+    "Kahlert, Christian R",
+    "Natalucci, Giancarlo",
+    "Relly, Christa",
+    "Riedel, Thomas",
+    "Aebi, Christoph",
+    "Schlapbach, Luregn J",
+    "Sanchez-Pinto, Lazaro N",
+    "Borgwardt, Karsten M"
+  ],
+  "authors_detail": [
+    {
+      "name": "Bowen Fan",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4058, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Juliane Klatt",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4058, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Michael M Moor",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4058, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Latasha A Daniels",
+      "affiliations": [
+        "Division of Critical Care, Ann and Robert H. Lurie Children’s Hospital of Chicago, Chicago, IL, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Swiss Pediatric Sepsis Study",
+      "affiliations": [],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Lazaro N Sanchez-Pinto",
+      "affiliations": [
+        "Division of Critical Care, Ann and Robert H. Lurie Children’s Hospital of Chicago, Chicago, IL, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Philipp K A Agyeman",
+      "affiliations": [
+        "Department of Pediatrics, Inselspital, Bern University Hospital University of Bern, Bern 3010, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luregn J Schlapbach",
+      "affiliations": [
+        "Department of Intensive Care and Neonatology, and Children’s Research Center, University Children’s Hospital Zurich, Zurich 8032, Switzerland",
+        "Paediatric Intensive Care Unit, Child Health Research Center, Queensland Children’s Hospital, The University of Queensland, Brisbane, Australia"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karsten M Borgwardt",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4058, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Bowen Fan"
+  ],
+  "joint_senior": [
+    "Karsten M Borgwardt"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 9,
+    "R": 15,
+    "h_lead": 62,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4058, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Karsten M Borgwardt",
+      "openalex_id": "https://openalex.org/A5074540538",
+      "h_index": 62
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/BorgwardtLab/MODS-recovery",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac229",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i101/6617486",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i101/49886735/btac229.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BorgwardtLab/MODS-recovery"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac229/4/btac229_supplementary_data.pdf?Expires=1796762120&Signature=m9ScvpEgWOUaSnCTEfBDmvH8KiRYYnoFF789-TnKxvul1AcEkzNhcNP2NX06UQPGL60-DVgscEENDIo5tlYyGqsDLaz2O~1UzjhdmNOcUWE18K1RK0Gi8rbCjsaqnb9V28BiLcZ6ZAS2pEZO8v8idGp7xXWaJb603IDo3j6qDe6AyKhEyI6oG53PP~Ughnjm4sAx7XDtMaqu7C4mMI4EXwsPq~VMlvH37kfZzhj0zplngWkfQWrA91lUxtv-KO0Dsvfqeo7K3Slj2i-9BTOnrHBr2dYkRQBsjRw~iVAIMPlvBo7a6M-PEJIn9ze1tuCchh349ehhvI6ixU5X7hyYMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i101/article.html",
+    "pdf": "files/i101/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac229/4/m_btac229f1.jpeg?Expires=1796762120&Signature=DCyMhqgzBH2ydddCHy4u4puloTM8ND1ZKCrWb1Pq0uk4ny71U4ykM9Vep-FMXzOXrZBmItl~rf4M7TIrePVx7-mMLJdHVVHbm4mrhj9r0UUOBBBy2TgRt2mKdCiPIl0WPEIG0eSV2R04tzW7yYQmoGv5HWqz-MALl2edz~TXeoGM56Zr89e~Ag2c3l1y9IXSuxYALjgERVn1MHm6AKvYwNRWSAoyILpwiiIU1rs6nFgUEZipXhoYNQfX4MX9r0xGsVQH2Rf2hA4sK-uU9e8-oPeGJDAx56pI91zkQ-wefQAXFaPf7lUwS2oHonVsis2Ivoh3wHes522yCmRBAoMQ2Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i101/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac229/4/m_btac229f2.jpeg?Expires=1796762120&Signature=HkeeArYdZdQ9nHSTWp3xSaw6I6~-Zv~Kwefw4~UuGXOxdsRB51mQu6J~j-Dovt~HUjxprHPzViwEDuoJpGzY3AMQwy-DnokH58THfB8i~jzzDOPaNzVUiLt6duAm5HLsVl8V9NWX1F7S-aUOAO7wKR7vyOh4k4qwGvypsbhTR9iZ5T3cGZDoXkSADWwn7BOxXJRcvV~lsuvQa3tqPX4xbXWbKVFqQBHatkUmnecRV3hcspCzn6apT2m6nZGggXVwMaWR6Q8JYAvIkJdnoxdsO~VsSjAoFDR5kTwyajD~kFkgOc~Nru4o7Lk2qK8Qyrd7xd-A5yR2bzf0-E9rL77uPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i101/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac229/4/m_btac229f3.jpeg?Expires=1796762120&Signature=CW4d0GzmfwlVW1lacSGjsh9OOemXHECPraN4dni753tcU~ojlrTSiffXpXyO1YMa7rxLVaWGv9sE9hKMd9O01w59p7X7NAqZtZPylYn4MIhpTFm06Job1BtAAsb3QpvUdUStFUbV~VdbtG63ZwgbtONgC1VOI13UC91tr1zNTbx7JIOovmC94H40OzyMxc2vanqMcWlsrYsFATjej6-0W7e7PWDs-OO2~eM4JutDRdI1CMzS9qbeYNZgsPaEBcRgLvXgranWHP0ZBmwTtYGnrzelV1qByI5Lkpc4jMM7OLAVNsKB~uRqIR9EMMgswmQm6xop6TRr90ikWM0up6sJ2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i101/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac229/4/m_btac229f4.jpeg?Expires=1796762120&Signature=GwDcziG61~7Hx4xApacEAPReFm5ElpuWNf8qkSzRvnBMCJEuER9efGVPibiTyf6DBJcW2deUe0viOOFU2FAm4caTOoWf8M219RSvoJTSwgxN5ne4H~LxbSV7XoCfqYbD9AGY6MkVn893l4gswg7OmzTx78wq7Mksupf1UWYNoIi0al85fuYNZXZ0PCdR7oBG8w8isQ~voi3wonx-sbAUlyj-i-Ek6kzKCRsDgmEfZDZEJggZCSOXUWymssMgP1NeYlscNCxSM7d15W9vIciWFj7jyFIL7CZlqRbrefOkhnJVmN9z-DtQq66MnzWuwCXWpTkbc~sVJ9hwxLoucnXYZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i101/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac229/4/m_btac229f5.jpeg?Expires=1796762120&Signature=YUls7uMDkwdmBrLqsP81~rHCmF-r8LsYN06I0a9qxiwcaacJsaXWLuUDxbojMnHUvtYtrsGOgVZ5QuzWc8kycd228-VzKvUqHIGuI4YyV3hpCSs-2vxt9z7mMQRomBGUQDMJPuNmMJqyMDCme2VZAJqStykaE4btdbhlajWYpF1SOwjdphah6xlmKCgc7SFt8MpsB6hCNf1EoZ9xZg5Xpma89NcazBL1WvZYsjZvzzRb7U7GvfInUwJNmEEcC0mn0OsHOUgfA5lM2f6BS41t3oL6226EE2LLiYix9JdCWU4xXswCFIK24wSoLlrfWahpw3LNBG9~SbWA5QQr2fBAjg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i101/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

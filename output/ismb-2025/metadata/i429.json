@@ -1,0 +1,145 @@
+{
+  "paper_name": "Iterative attack-and-defend framework for improving TCR-epitope binding prediction models",
+  "authors": [
+    "Zhang, Pengfei",
+    "Mei, Hao",
+    "Bang, Seojin",
+    "Lee, Heewook"
+  ],
+  "authors_detail": [
+    {
+      "name": "Pengfei Zhang",
+      "affiliations": [
+        "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ 85281, United States",
+        "Biodesign Institute, Arizona State University, Tempe, AZ 85281, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hao Mei",
+      "affiliations": [
+        "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ 85281, United States",
+        "Biodesign Institute, Arizona State University, Tempe, AZ 85281, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Seojin Bang",
+      "affiliations": [
+        "Google DeepMind, Mountain View, CA 94043, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Heewook Lee",
+      "affiliations": [
+        "School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ 85281, United States",
+        "Biodesign Institute, Arizona State University, Tempe, AZ 85281, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Pengfei Zhang"
+  ],
+  "joint_senior": [
+    "Heewook Lee"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 19,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 34,
+    "I_open": 0,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Biodesign Institute, Arizona State University, Tempe, AZ 85281, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Heewook Lee",
+      "openalex_id": "https://openalex.org/A5017723224",
+      "h_index": 19
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Lee-CBG/BAP_Attack_n_Defend",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf224",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i429/8199358",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i429/63745339/btaf224.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Lee-CBG/BAP_Attack_n_Defend"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf224/1/btaf224_supplementary_data.pdf?Expires=1796410039&Signature=19BKCLuHCj7ZGhtDeiRyZDIrgh8qdjZkM6EkCvR6a26I0rUjeey-JPjHcH9umbb4bKkCfNT11RB2I537WJ~4O7boaAtFbLoIYkedjPF5yxPlvXUrcIr7eGCR9iCp-mG6d~NVO50Pa5Df2ml0MUhibaSUClfIy4UFOF9erY9N9-4DzHOE1~FyUl7RoFV36gtmrpqO6jt6v27ugygPpY8RnR8rmuCZwGhF-fWa5S0CmxzVIC8aY6xn2-7LScoRWIJWrsmPDNXdRrM9S0NZ7fSAm4EwVRPfdit8vIsq6M1E1ZNduGpiOlnkIDuO2LQrlhSOq-xMp5GyvjtKZYlD1DIlIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i429/article.html",
+    "pdf": "files/i429/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf224/1/m_btaf224f1.jpeg?Expires=1796410039&Signature=RZ4-mj1ZMd39yTGXUxnH2Gv8mUjxzM3aoqvoaych9ZFMs31hA-LYiq6TSH9u-9VSJ3j33PsmJ~ZR580bPCW85F-FPrfxjuLmeNqjbmi1PmTM9xFqoEXsFjXboUrE5pjtIEwOeJVJtJ12o7WsT1qN1~tlY~2hVvxouOFnoORR~f7pnViuZDu4eGqhyFMmoy~kTlf2WfVNRj7S7FeFFkFnTfqsIN2JqaSAf-hoWQnZlu0vOomTfdGhDBxrLf9bvZxEIxhOKbj57ZckG1MJQfsLvVm7djgeJ4mBsPEYD~K1U~MboOzCuQFWqHjQgKIVlJ3VjolzByoGafVpcJVWUdGf5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i429/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf224/1/m_btaf224f2.jpeg?Expires=1796410039&Signature=txlzzHmiF1ozNh1bpzxd8tlnPUgRYWL~Lwy6eRpOfWiig4WbzyWhcOe2WrA-TNVisLlYsV~4FJn~y3L1LtWwi8J~OM5daib4C4mGs44Iy3SqV8CLtTw9Mko-ASOYkA9jp-r7yYMU5ygEeba5HNRpTtGwWPt37iSqRrMug~64~pyja~Cp34nIcvSu7HsYxBHWHuv9p3hmWMRPDeayTnigTwgI31jAO1UZZESt~PZm8RY81kzU4pTBPCjEJgj3j3LJmiwkNtpdia0u7LOAZrk1ml-f~Yx4ywYQgtYhvxKHg6UWegKSYSQbx4sGeUA18A8G3aLOXv7sOYjNaHc0374c4g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i429/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf224/1/m_btaf224f3.jpeg?Expires=1796410039&Signature=bFaS0fxMBnE3vIL1onvzG0jfe8h-Nuibg7YKaVNrmPLISZlUoh23P77ItcTx5AR77E9rrXE5clu5YIBPoAoyz9lyFwk8ki3oIdxvZr02Avd1KAX~lUxo1~TeaJHZJEi8Uemrb5-7dXeAphTCMAoNWGDQgjvTGIICj9hLau1qMBhMUifyYZpDuivjqJgCzHWxE0Dd-VmMmfElBmhKuSs9KUw-J7v1aRptvbT1Q0EKYKnlm52U4tI-rTQvdbZBFXUIZBrI2nG6LpJkRBV2IKXaT7PbzHoBODrfiwc5lExnK49ZJWXIAdWYsK-yIdQwjGJ0ZzHvJdKTtFUhDRLd0Ic5Yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i429/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf224/1/m_btaf224f4.jpeg?Expires=1796410039&Signature=P79dYJS503dPHBNtNFVajQVhgxHRjI3eEntGz2K2~MMZTfHMt7q2C8sq9UIR01wnCQtS5wTusghsdM96ORoxMnANhskhw54L4AzcIPgpJlQnZCBDMQSD12hvFzmny~OKd8-1ZXyGrjzsOEAHBM2NA68OeXCtXhcNfS79XP12NHreogmpPRR0IIbsyOqpz8GVbbkTHUET-BiZNrX1Y~UVFQrKZ5p1H7qi4ncCPEWd4f2t~TOscEo3WWaPO8cx4-LNg05bGh5M0GqaqZ-JJ65yZFbGUYx-o5bsARgSnoodlgq-wVllGDrFfJlSenoUAle3ER4lQI-Fvh5BtLnUMwxFpg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i429/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf224/1/m_btaf224f5.jpeg?Expires=1796410039&Signature=wZVRm1XPJVmFjGRZTBHneT9bx3sNN~wkNfr5nsRw4grZNVhjngPwD9EFgwFnp3kPpgYqnimLPOir6tbqcthzeKtJtr-yex6PtlkWd3WyMB~68MdnUm9Itk1d42hfUbwgOhSWVaQKeYvVXPVI3ZMKk9i94TEcGbZpv7AxDDIBxiG5CSIHipOFkjjYSUben~snI5TBZxfgb52i9Xv7kHUpUudDxLnKjk3UD0vk-RMmX-qe~AQ8hICWZvBUs4JNFcbFY2UaK-~LSKsOU~GOMCu5X0o7V2NzPo0sRC-GkZuOFR752OmHa5k3EVKtJerzegP90rIYdf-1iuxuxIayrToCuw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i429/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

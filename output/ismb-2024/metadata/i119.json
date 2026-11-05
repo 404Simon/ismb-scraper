@@ -1,0 +1,143 @@
+{
+  "paper_name": "Improving medical reasoning through retrieval and self-reflection with retrieval-augmented large language models",
+  "authors": [
+    "Jeong, Minbyul",
+    "Sohn, Jiwoong",
+    "Sung, Mujeen",
+    "Kang, Jaewoo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Minbyul Jeong",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1346-730X"
+    },
+    {
+      "name": "Jiwoong Sohn",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mujeen Sung",
+      "affiliations": [
+        "Department of Software Convergence, School of Computing, Kyung Hee University, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jaewoo Kang",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea",
+        "AIGEN Sciences, Seoul 04778, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6798-9106"
+    }
+  ],
+  "joint_first": [
+    "Minbyul Jeong"
+  ],
+  "joint_senior": [
+    "Jaewoo Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 142,
+    "h_lead": 52,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 63,
+    "C": 38,
+    "I_open": 1,
+    "I_closed": 4
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jaewoo Kang",
+      "openalex_id": "https://openalex.org/A5076917278",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dmis-lab/self-biorag",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae238",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i119/7700892",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i119/58355028/btae238.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dmis-lab/self-biorag",
+      "https://github.com/ncbi/MedCPT",
+      "https://github.com/jind11/MedQA",
+      "https://github.com/AkariAsai/self-rag"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae238/1/btae238_supplementary_data.pdf?Expires=1796439318&Signature=SmDYnhFXP1SW6uY32viollE-lMJ4szt0LH28nPNQ3M2VUn03egkgwJthXJbBY74uadPRVfpNIOTNQMRIdEnXYf1dhLE6C2gl~3wDfh8qOIaQCqFhiE-1nwTCva1qZyKDGpUYyIY~PH-1cGpltPjCt7tgVAtyIT~NQoqHco6Sa~~CYKrTa8ai5Ug5-pY7707~kf3HYR2FCS~2V~oPhKwvB8qe~H6LrfKPafcpytKA6IQuPUwVannTBZg~g7XbCjC8VoIXNxCbqRUYU9XISqk0tFMq7i8-Xsw8K2BMQsmkWm-xz2PluRV2WApb6vc7osSSMtzGTBur837N5qu1LXlT7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae238/1/btae238_supplementary_data.pdf?Expires=1796439319&Signature=a-BvKzkdAkif-rPqMOrzAjJIj6MXuN0B8zVlfV5mWpYFPq8f7Kh-alMzCwmbwh1K7UnAZ-uEtWaJwfDfWHt0kn7RS4~h7m-NWHkaKqDsfu~WtxebxEujDMcqq-qTMLeCE8umigzxpjo1ublN2SwAHR2he44hGySMVRDGmv70mqOMGtYZExax4lj1NUleyLgcQkA9gAlb36dd4Qxd11AXYBx8ckt8RylP47MXI9-wVNu9ixgpXuAn7bFDLc66caMPjCH98~v8u-8heoOiApTXPjn2L-YuWUT0XtoQvOG95kBHB1hJwNUrK41FQcmLQ8ApKUp9vJGzsmHPMGgESOPGwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i119/article.html",
+    "pdf": "files/i119/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae238/1/m_btae238f1.jpeg?Expires=1796439318&Signature=KORmh566Byw8fAq2zIStE6bH7lGETek9NZm24vEhnWonBQMU~eXVVqrAArP9SXF2TuMNVQ33m62YURQeIw6dNbw2SeQzwkCgxLVLBVs65NvtdtlrNg~sOEBCrl5ocCr9IGa1uCKSZRFiAU1uRQdoDOEkdLGgf7ceAz7jskbL5yhIO~3aRj9CYhnaEXp5Kj5ffaK5vXKrliN5XmpPokryXA-rrTh5Hcf2QYR3YldXvKJULqx2Yv3BTZKZcywSvhT7jjIBF~UHZiDqOjajrA40Obw3zmi1MELs1COLBTf4ZRUX5JYv8COKVdeUJotBob7opBDYksfmzyDmSxxj4k2kQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i119/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae238/1/m_btae238f2.jpeg?Expires=1796439318&Signature=0vH6~67dMOFiGyK~mb3spTP8uUir-zEmGVLhoQ44OHK-b0GEjbpPgrjhHfErAFUQu5VnfnndOaXjSvWaBUN2ozp~E6vNiPW6-cDiqEQgusrgeKavdu-p8l1MJvX8-wRDc9Rb2ZBs1j~GF4eTMMjZ9fnoktf3AP9znrjO-F2c89gYHlu5LL~7RSK8TcMXBCfUWU0iAX8uY2NCZrzYFWWepY~BxTwY1eeSWxRm8umhiz0uNxKREbzy~6qFV96pJ9xfZul-G8gPRrw6AaTMbr4cbPojR0BXYvfiHQVRb0bhKrAH2TeXu6ZykgILE4gF81MYtj8MrQJfoiVK73nJ~9ewQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i119/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae238/1/m_btae238f3.jpeg?Expires=1796439319&Signature=QtvVzjlf~oGKhNQh5eo-oS63rZO5JxcXzezvkO85K0prK8UtX9epezomRtbvJz1SQd9L~G4MqAb3Q8dPzdgEMbNWB-eLg8nljZKy8UQ8TP8RCr2VvjmQNVO3Rr7kYt9EDWusAKkujeXVA7wDsJ3-JAavCZt7zOFMC4ASbh-CDUSKWrGgd-896aKVHkTc9kyES9fGXL6DiVf6Prz8aDlDKAUbiy3ov10S6feWws9a58APX6VN8ExKKq75fjQnL61ix4ts3eL8PtF1PaLVBAC8BqDMxi0utsD5EVqG-V0k8bxL9X5P8i7278Jx0udBkqRo8YvakP3HMAs~sVOVVUnxkw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i119/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae238/1/m_btae238f4.jpeg?Expires=1796439319&Signature=f0PtwnUx8wm1ppCUtsjaD0voPRLJtwteTvNb4XWNXyxngsbp5XypLF48FAfo0ynBtJr6dyAQ7RcIlI-PqNaEO2JtbUMyCk9uiQwONPuHQDAW0CU3iAk9LKMUvCm0MZXtzTyWOI4rmB3iXsus1UVishVG6BhW2RnYMyJ~mRV5UbdcKaQ1NNv0mGVoL1dc9kxk~sjunOuKJVzQd9DFoe6IprE5HYlbxDL680IXbXG1h~91wTYll0BIwEt-JFS5qY0r7T0gFxLodhqFLOOg7KtGwxZPzeKrF2s6YXrkhrnjpjvpp2gNNDoHvzH0FQBuqBf9DlTte6ETR8QxaraJ6S~v1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i119/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "paper_name": "DeepCoVDR: deep transfer learning with graph transformer and cross-attention for predicting COVID-19 drug response",
+  "authors": [
+    "Huang, Zhijian",
+    "Zhang, Pan",
+    "Deng, Lei"
+  ],
+  "authors_detail": [
+    {
+      "name": "Zhijian Huang",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pan Zhang",
+      "affiliations": [
+        "Hunan Provincial Key Laboratory of Clinical Epidemiology, Xiangya School of Public Health, Central South University, Changsha 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lei Deng",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3340-2431"
+    }
+  ],
+  "joint_first": [
+    "Zhijian Huang",
+    "Pan Zhang"
+  ],
+  "joint_senior": [
+    "Lei Deng"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 25,
+    "h_lead": null,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 1,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computer Science and Engineering, Central South University, Changsha 410083, China",
+    "Hunan Provincial Key Laboratory of Clinical Epidemiology, Xiangya School of Public Health, Central South University, Changsha 410083, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lei Deng",
+      "openalex_id": null,
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Hhhzj-7/DeepCoVDR",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad244",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i475/7210469",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i475/50741651/btad244.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Hhhzj-7/DeepCoVDR"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i475/article.html",
+    "pdf": "files/i475/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad244/1/m_btad244f1.jpeg?Expires=1796541657&Signature=HnHdv~Vk8~5wD5f6ATJB3E~46eHDQdmjYOpd1wg1~6mH9VrxruBvo-SL2xnb6eYvb4NA~hiYsBeDddeXkJymIREixoQ2jYDpQeqprASdYcXJnOAsAZ4SU3-ilzMBP9RAKyjY~DjqbdBvH6MLiKdx2pRTYC3u2dF28XaIMZS8h5xyKdzNuEMnwDOaceb9880vFXYI~b~Rt4IbeQcJg5FCpCw1fCJoSXpybCYqX7R7jgSllTeginkya2w8wKq-TvZa61QD3oM5aPgpX5cLlHDMyZo-EraBx0B-3EaLTiv1uoclG0mRlZk~~BVoNiPu8g2uha8EFKqbLFWZ7uZmSodl-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad244/1/m_btad244f2.jpeg?Expires=1796541657&Signature=GP6mykW58tkhV~I6Ns~Q8lJL6X7U0Wr3bnJi3jCaAkowjTZ5xMzpl3tOVi9R6usQ-0ukSBhdXaxAcNiD37hpw7061xkvWGgd4vg4KbamRYOaF61SiTLH7wmt6Cseg8~70-jnlNXPuxpnLwGFk9weVTYtffG8yKmhoD~61xONCAhPUsQMxSZ05hx9vRAW5gbeKHS05OI1dczjAWszSujY~vxG8OqWx~WgFXiJFfpEMRpHi~ka0nHpIcBKlrzKvtyJmDJOshE4wWqYe5oKhRrG-TTr3Xej3477t1rRDRmf0uSWBNtERM6XEP~t5lhF1hoAnLxl13856IBxgGc~oY2U-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad244/1/m_btad244f3.jpeg?Expires=1796541657&Signature=efqoXDFePxRMrVHzLN4VZgej~c9VySwWngyR9vgXdWce3S4Xh2uiNnJnRZy6MBgS~UhZKZpqiufKqArAHzkuhii5cokfRd-akQnDYewvLDKEbpoHJdBy3s2tqjCH-KU5rSG7uPX1~XkDW9elsj7a0XEqkAfWvss5mCFBzBJZL2zjRpXP1lciMENB1AtxIFRw1f64XAffVmebMZJakTTsQRDkJ42rmTC3AcYzMC0l~aY6Dx8zdCvLi3Jeoq7nY82S1ZLU29My85zdtemT9spP8eomCipysPQnLDz169tEGvL7~4iRB4nJXzuUgPM6uLNNeO3E4PVdnbUInf7v14sdzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad244/1/m_btad244f4.jpeg?Expires=1796541657&Signature=niOI3Y4L9GUlPB5Q97mw5gK~ST89Hk3Xvv8INck-ue1JAm8Wqpte9O24R52AgRgNjFRJk4APssHnBEPuJhd1yGysDW-6VBzcszCb4KXC5E0RU-UG4Sbbf7CncbhQaJHVfPtCMYLWV8shOBoITvDNXL4S4ol-yUKFvZSXGvD-U8Uc7tA6zdC7M3Lkr-VKhg9UrrJcg4B36sUri0bXU51k-aTDx97YVywBg0zYU2F5bdcR-SoQqtxEKuCuepf0O6gwbjhoXE3y6uXfqWSDTHrbiJWx0idiVFvDXwdTy0IBnEndkPLdqP4n2sBYa1U005WAgCfdE9I2aUzveke6x7Kj-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

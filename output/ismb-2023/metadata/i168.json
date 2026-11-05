@@ -1,0 +1,166 @@
+{
+  "paper_name": "Privacy preserving identification of population stratification for collaborative genomic research",
+  "authors": [
+    "Dervishi, Leonard",
+    "Li, Wenbiao",
+    "Halimi, Anisa",
+    "Jiang, Xiaoqian",
+    "Vaidya, Jaideep",
+    "Ayday, Erman"
+  ],
+  "authors_detail": [
+    {
+      "name": "Leonard Dervishi",
+      "affiliations": [
+        "Computer and Data Sciences, Case Western Reserve University, OH 44106, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Wenbiao Li",
+      "affiliations": [
+        "Computer and Data Sciences, Case Western Reserve University, OH 44106, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anisa Halimi",
+      "affiliations": [
+        "Research, IBM, D15HN66, Ireland"
+      ],
+      "country_hints": [
+        "Ireland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiaoqian Jiang",
+      "affiliations": [
+        "School of Biomedical Informatics, University of Texas Health Science Center at Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9933-2205"
+    },
+    {
+      "name": "Jaideep Vaidya",
+      "affiliations": [
+        "Management Science and Information Systems Department, Rutgers University, NJ 07102, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Erman Ayday",
+      "affiliations": [
+        "Computer and Data Sciences, Case Western Reserve University, OH 44106, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Leonard Dervishi"
+  ],
+  "joint_senior": [
+    "Erman Ayday"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 5,
+    "h_lead": 30,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computer and Data Sciences, Case Western Reserve University, OH 44106, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Erman Ayday",
+      "openalex_id": "https://openalex.org/A5028326739",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/wxl387/Privacy-Preserving-Population-Stratification-for-Collaborative-Genomic-Research",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad274",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i168/7210481",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i168/50741710/btad274.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/wxl387/Privacy-Preserving-Population-Stratification-for-Collaborative-Genomic-Research"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/btad274_supplementary_data.zip?Expires=1796652272&Signature=l1rVRDrxTh9Pe01D3qrXr~v4ijRWoeUsRfg4JncyoJ0YXToadFk-0B3G9vur1VgCa7w2AgkKCUIZ881z3q02tdceNdyT-kDJ40TdT-6aq3WDm0JwDbQj2edNxCCQEY4t83g168uZjNv5yt6gvb2Y~YIn-xX2UMQ4hl3UQ~h4lIn-k506RhRvVH1kzaI-LwsGEb7~l3oHIeIH14CB~o3F9NcmGVAJXB-rptF6G4kmAhXhk8oTJqwSYmFay28y3SAL0nJZ0x~tRbdzXudaILZioHBFfiGN99VxdWIQ9RbM4Jr4p03PkxPe37dn1Dgyeae0bIlcT~Og1ZBo~rOcMPnA0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/btad274_supplementary_data.zip?Expires=1796652273&Signature=crXqZdZZGIeaVdA-H30houMFjVN9Geqp1X3Y9nk3MO9soigr17fgwtDtREOgNcO~PzEulzqo3cfh1CPLbAxIj3l4fhgZvm4pzHh9ez3XKQRrCXJO4HaJRYxu7qZMOZ6e4m5zD1~ceUUL70nH68H3L2ag-IO0Z6FUOy2IqqQ1uY8a90S1mP4u~vIp~ac7lmYcCdxG8JVLPr~j6bKSW9x9-y~0EgYnd9gZZyAW1s0nu-fqBW8GolIHugdgYajQV0VRhfvJ98WuFTlEwzznbIkB7dRv2Hi29QcqA6gVpH8ZP1mD9TXXJbpdLUN5OwSjK9oEQIh3K7F8xgm6MHEv-CN1Yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/btad274_supplementary_data.zip?Expires=1796912121&Signature=3prZdcj4qpeD0PUtXErcVvLGXEZlJPBFAh-87~tdfHmMkdtX2QlCxuFHKJt4GMzMNNfcUrmf~WnioCou2wIedC1xmJwQK0gONzMMVZ0IKakBsnnLikZ2kcX3en2TJrq9rzcCeVZ5JfxTfX8xCbrBvLeGyc2VLRCpD8td9QBtexBV01WMjHFG6KUDiTy1C4sStfKT~mMltdIpS1wzS37lYwRAN2NdFH8cmHJMju4unwRvlppo9k1IRPVd0KFiSRj5h7J1KUeWQlRIylnGkFHjtsSmq51QYo9cty3-VYZgUkIiQBpKHxwjcTDnB5A83ejgfvoh7E1p0sZG0zMr4pqZlA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i168/article.html",
+    "pdf": "files/i168/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/m_btad274f1.jpeg?Expires=1796652273&Signature=cdgXPjLJ1UrW2mvfWrBkkyq3Hl2as~-JEhlF1QHY1Cd7DXpr0zTSwtNtMLwttf3YTpiTWTmfqVoxbgbUSk~rER7FRSI1YLQOGl2kmxjrcsYltB1XoVhZX9fj7NpGwtv-d~q2Sc0jmiemotAcTYYXGBGcfETvbvmMEcCH2PF6M7QAdcTTygQUdVjkFsrXnBM3hvHNfxxluahlXuDPX1hJuI56Y0LWGrKUWU9uNQakJdQ5e~n~op-fCp9mm03Kth0p3cIxJgvqRJw5QJzjCf8wh5ymQdk3m3~CTvmNHdXWQm6k9gSFjdrD0nK57~zeWTFl1~s6mCtfx6B5b~Lp5O3grw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i168/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/m_btad274f2.jpeg?Expires=1796652273&Signature=Oi1OF3UwrBWpo59GXgHvWUgTaqaBZkH7LbiKeQZhOwT3~y4cu-PcknNZf1pCPZUnhtyah-vAUV0rV91F4H9zqCbnbf5GjIqDiE9fBWlJI-zD0oh0L5jKc-NXrocyHyP35YCO67ym-ObJxZ2brNuaeCgiSjCfPas8iSrWs52d-wYQG1IYmwSZBCEshTfk3TXj3pwwsE6rdeb9vBdRzdYjw4Zz4erQDAAEr-graqQ5nSVITAj0cZavjBoo64hlT9~a09AGviJYh-DOhITEHlgW3C2PDElaKHsUqhA1BTGabe1FOF1MTMKWtXubn-ijryyJ7jeU1VvjjBx95szL4WaoMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i168/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/m_btad274f3.jpeg?Expires=1796652273&Signature=YRiMe2EIdABQRp~Hmehb1ceLzalKJ9Un24yL6HOL6rOFpX1usEZTeQQAm7SdEs7zKPyeXDJ5kyCp4DGmKfhBQauIoc8y9Acyv5tIg7qVhK3Du4L-4m4Cp6zcEYQNqQS8x5W69T6Qi36lfNQveIjDYRO-2pFqWMBn89UDVgKhgW0fpN3M0-~SDU18ZTbEMzuBhRjFpnBnHt5EcmiuSsMp2TSMDSW2wU1aDgrGaTXeAyCnFP-eKj2dmsCCmbUySxGi62qkVRHjbumSVPMHKgUJxLjeK~tFUbocHTBEbKl0JwfOjCAevkb92rwcat5Jvit7titaM7KYFIPs3LAVoAZVVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i168/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/m_btad274f4.jpeg?Expires=1796652273&Signature=n7NE0j0y6U5A3J1Gmx4vXUBM2YKKVCELxiYjPG0FzbzwFgwcGctsINDrt7CshjOyzoJMyW6huxYnIkPdIAswNh2FXtfYW7P1yQcZHyqKY~HzwCvgQpQMAHlu9Zcp6WfSUTS2CjgvhWTK7wm9jDCHb-7PqjnwLDJKMdSqRABPfduEluFs0iypfxNxcn2mdY-LsLOeQq0nZBCV-yF1NRMfvRCmUyl3m0SGf7FukxxQ3ulwXPRXqllZ4189vFljQXH5CWRjiWln0g4FQp2eyuNkHXyGMlGi6BgJmvTuclEYLqzT-fI~dThvY3aFZT5yGiaib1uWZ-K3Vjra7vNWiua3Mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i168/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad274/1/m_btad274f5.jpeg?Expires=1796652273&Signature=33XLLxblhwtiyJu~cQNUNtRyDsbV6eXGVlBmQbbzIVV3HSjEuGZud1QMcyqmjYsnHbJvBNdnm3NVjolOCruDb5SgVIN99v9SL5cfBdMf5HyEDopbHTa4qdpRdYhhwmvwK1S767-72qeXt9wNq57a6Ev6UjtiePZsFmDWs1Yk2mWmK0qxQAPWL5JFn2oJYlrGx9C2wrkIMUA3M89gtRGjMAOYMdjXT~aZDW4sklimZZvQRv1Bmeqx7VlKtJpZ3KUbQwq6oaEWI-fxQIdTIf0J0SP6JjEpAL6wwwVa6mSNVwdfe~aimXKMvd7TxVZp2RMYH1hlKVqmD47x8ytbZz7DcQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i168/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

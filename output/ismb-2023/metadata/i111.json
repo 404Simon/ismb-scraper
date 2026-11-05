@@ -1,0 +1,134 @@
+{
+  "paper_name": "GAN-based data augmentation for transcriptomics: survey and comparative assessment",
+  "authors": [
+    "Lacan, Alice",
+    "Sebag, Michèle",
+    "Hanczar, Blaise"
+  ],
+  "authors_detail": [
+    {
+      "name": "Alice Lacan",
+      "affiliations": [
+        "IBISC, University Paris-Saclay (Univ. Evry), Evry 91000, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Michèle Sebag",
+      "affiliations": [
+        "TAU, CNRS-INRIA-LISN, University Paris-Saclay, Gif-sur-Yvette 91190, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Blaise Hanczar",
+      "affiliations": [
+        "IBISC, University Paris-Saclay (Univ. Evry), Evry 91000, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Alice Lacan"
+  ],
+  "joint_senior": [
+    "Blaise Hanczar"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 39,
+    "h_lead": 20,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "France"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "IBISC, University Paris-Saclay (Univ. Evry), Evry 91000, France"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Blaise Hanczar",
+      "openalex_id": "https://openalex.org/A5008999121",
+      "h_index": 20
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad239",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i111/7210506",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i111/50741877/btad239.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://forge.ibisc.univ-evry.fr/alacan/GANs-for-transcriptomics",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad239/1/btad239_supplementary_data.pdf?Expires=1796467375&Signature=DLHwjOB60G6ZmrE5C82HhqIa~PZ1fPyMfAvN9eFi7T4wVrzX6yf6k1WUaFjdQ2La5DqX5P~GrlYQlQmKxJ4s5bpMNBirQ5T2Y9UXC-UUIzKGL77XwtkgmN-p8K6khrNj~uWnZa7Yxf69gtnyYWBxaYs4HBKaEeJEkbd3a2e2o5J7AGYAZ~Sdxg6hF5-bctgKt1JI84msiWuE5LpXs16n3j2HcLgaYXNcE7F-VJr4uQWKrRXERFqbqEl2rJ2x7HZyd7DGE8gbb3aVr9YmRbh-owsmc80NNX~RPi7fFGavYfgBwv8578lF6Obg47m8xEW1j-PpbthJu2NeuCLsP21rJw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i111/article.html",
+    "pdf": "files/i111/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad239/1/m_btad239f1.jpeg?Expires=1796467375&Signature=n1nYQfZbOWiWVKbKT36vnuehTI6pAHJCLqGbh8fwW5fukQR5sUL3RL2htSw1AqIOd98HNe0jp8UUHQeqcIX5qdnCGJz9~xLNtTyYA4NgPlmrOWhVheFOt2-0jo~1yYrCt3lXGb38073DS4IY9NG1ZRZZgP8a6UHB7A9~1VY1vrS7yLFxXhawQtNuRr5y98sJDorraNJlEWagjcdM1ZaiiXsmNRbtQIKX87iyLOonBIUFwlFlqIANs6uq5AHQ8K347~1keo7l4ZNvHa0k25bOCpy~aoQSI5N5whJxXEyFllKVTDj-uSLDKdGd37kB3DOjgIrOekUznL08u3s8d~xd4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i111/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad239/1/m_btad239f2.jpeg?Expires=1796467375&Signature=avuw6rFRzkX-qxPp7mFP1Umf6ke1lBY63rxXxtA1rW3IkfOk7HXh1bhCKElSdy0BzDKTKXXF8Un~Fm4v0dtRkXuAqWU1CcNBhYL220qva9E9SXpfOYAuHC4ImcMxxiXrz9svroF9c5YuZiU2w6o0oB7yUBBNs7wyIPrZBv-CR0jZtfjOwBZiZvzBnzLdROOJiAmZHkVahbywmPG7aOA5LFHESFWhFDrGaE20rULLYM0a~-CrWAvbE3MhnMIqZvzeDG-okzaToG-8Gau7WJLhjMJrfAWedpZiFt8jd9S4A~sZ~LcFrYS81x333Lkr7h4qbaosXuIamd~l3HuQMYGzGQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i111/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad239/1/m_btad239f3.jpeg?Expires=1796467375&Signature=yzC5qUdLdxlUECokKsHu~--OE2qThxeGnnc5DLuzAosIF0HkGKvLNeBaYTWz2ILti7LnNU1qNsglwtOE1zlKftTXvoCH8h4Wrx6LJuYxgEc5yjc51umYlSmhWPN7K9zn9PViuwdu-z5ciGSltNLvQ34DaYrsAWyiYxtQXq8c7s-RrCkM9yvzxbTo9Gwa4Vw43NUh52qzG4pWhy1sttZ6sEApE1K0E-TKXaSjwFyzAgJf37QMW1NMTyera17NdEBcghP5mzRk7yEiLaZ5ewHmU0y2JR-e7Z3aEe~Yi8FGXctEFD6VaaUYL9adkbzCP0mINrAGZdCGS3Ij2F6uiMM7AA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i111/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad239/1/m_btad239f4.jpeg?Expires=1796467375&Signature=Wr3wDY3TcS6hQhVJeeF7zpAY7vznuRxZ3P1a-Gt6nx9ClXJB5HyXsci6gGlR4DnThxaPwH56RUIC5FLT8TreridyH7PciyFz-CxycY9shFgdcCz0t1T0fUL6~ZxAtuJGGqMCIEZuz-giHKWFP-luaqsgx6g6jWaCXW9BOCN3G~bY9aCEycGV~xLKudvYAf2csTmQBCm33~7CioYdUn3V0XcDuUdet5OxZrnmJlTLUdL-Af0P501TVs4q1xS0gy8~tBYlMf0HpRDotmz8y2hYC8XPUTV5oGUxi2UlJcy28uKfEgv9BieWXJB13V3-uTWiRdcm7IES-b8ypkrgsFSqCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i111/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad239/1/m_btad239f5.jpeg?Expires=1796467375&Signature=Vn2X1xmGeKAh9Dw~t6rQgWTN8nlhLg9sEGE7YBBaxHwVjrcs3xBZUtsPMJd0BX-lNOJo30vfOnwOY1qZvp0OZLIr5O3baHJpOTvkQthTJsiLWb9ywlVSr0x6z3NNoK3ZglpsQ2yoDN6IJsjHmGSWrWRd0qukcmynjO2GZsl-0ad7Sm2EAORzjFs790Q1YnrPbuynGqKIg6OaZyxGiWmSgDnk85lw671VPDNN6Q2qukPCLqnL0BhZVRC7Wh0zqzO9aa56vtCpA5JFzJg8GojNRvy-X1gWmvDLOvdpRM4zZVrba7oAUCbq-ARgqlY2o8ceyJmTRxhpqBX6i0m-M4Lo~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i111/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

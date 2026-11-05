@@ -1,0 +1,182 @@
+{
+  "paper_name": "Visualizing hierarchies in scRNA-seq data using a density tree-biased autoencoder",
+  "authors": [
+    "Garrido, Quentin",
+    "Damrich, Sebastian",
+    "Jäger, Alexander",
+    "Cerletti, Dario",
+    "Claassen, Manfred",
+    "Najman, Laurent",
+    "Hamprecht, Fred A"
+  ],
+  "authors_detail": [
+    {
+      "name": "Quentin Garrido",
+      "affiliations": [
+        "HCI/IWR, Heidelberg University, 69120 Heidelberg, Germany",
+        "Université Gustave Eiffel, CNRS, LIGM, F-77454 Marne-la-Vallée, France"
+      ],
+      "country_hints": [
+        "Germany",
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sebastian Damrich",
+      "affiliations": [
+        "HCI/IWR, Heidelberg University, 69120 Heidelberg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexander Jäger",
+      "affiliations": [
+        "HCI/IWR, Heidelberg University, 69120 Heidelberg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dario Cerletti",
+      "affiliations": [
+        "Institute of Molecular Systems Biology, ETH Zürich, 8093 Zürich, Switzerland",
+        "Institute of Microbiology, ETH Zürich, 8093 Zürich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Manfred Claassen",
+      "affiliations": [
+        "Internal Medicine I, University Hospital Tübingen, Faculty of Medicine, University of Tübingen, 72076 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Laurent Najman",
+      "affiliations": [
+        "Université Gustave Eiffel, CNRS, LIGM, F-77454 Marne-la-Vallée, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fred A Hamprecht",
+      "affiliations": [
+        "HCI/IWR, Heidelberg University, 69120 Heidelberg, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Quentin Garrido"
+  ],
+  "joint_senior": [
+    "Fred A Hamprecht"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 6,
+    "h_lead": 51,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 1,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "HCI/IWR, Heidelberg University, 69120 Heidelberg, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Fred A Hamprecht",
+      "openalex_id": "https://openalex.org/A5020048224",
+      "h_index": 51
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/sciai-lab/DTAE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac249",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i316/6617527",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i316/49887130/btac249.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/hci-unihd/DTAE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/btac249_supplementary_data.pdf?Expires=1796469369&Signature=RyvcP3cCwzjJ8Hw8ZQnazWRYq~LedUVZZ5exsbKBekszQschrO~KwsV0FZnYauf7SC-CvLLaioA2442XExSwEO--2y9HloP-oF1gJJMD~iJoKu-xI6KAkv8vEw-AKV39v~qssVZQcuzCjxcrImEopisKcVOWHweHEzkXjf0jH8R6yFRVDd84s9nqtm4N62rzTbPez4ztTgHVthTcR~njx5Bu9KtLjovgqTis~BDrnJmvrP54sh5T~2HWrWmfmKKVdVrTQUYvdYyexA3KJBBY7t3~KJDgN20D8DyU3Pa-uVakhdAOoOP0EorRNIr2jOhe1qpSsPPm0suCFk05SrRSOA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i316/article.html",
+    "pdf": "files/i316/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/m_btac249f1.jpeg?Expires=1796469369&Signature=GmPhobKNG8f8Np97HVzA084m8yc1F1xJze2QavKA10NzJt9O7LX3QgdYOvlinDfONf6g-apx-i170q93HDroWzXNRelg~qqGD9YAS9FFEA7KGU~14ghwJ2FsGO2NSKGCLUswRAGwy9LPq55Tyc-xe8j4~Yvpm570hNwlKixn493gK4yr6iE5LYOtgle2WeANWPr3kp9rYy4Z3lMH9DnSzS86upcgyfUNh-ANQGUxRmi2CgsTi9Ngq3FgFjbpII7NINxEqvnQ-72wbcgMSGExhNxKP-BJDjZFk44Qx7pGojr2-BImZRbS~E9uhqJNmjEHJyzzF1Ovb-h51ZAFwrXCXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i316/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/m_btac249f2.jpeg?Expires=1796469369&Signature=n8AfCFJbv-xbGPKfdvdjC3AImVWaBzXzQREml6Zy-X1HNUj4DZC341~vxPkNXgTtY8AkiQ7BhrCEpsTRTw~ztpNRMdnGL0d5-8SocO4MFkx26Cz0qzqaWtdDfOkwLUiSSQhJW-9iuNoNfg5aDu2LfhnPLzLQ86Q5D0wRkp2v8fJ~9uakCm7OzhJCcUgV2EJwn4h-jub~k9VTrMuWWW4YRcTJWykTfedL1iXwcg1qk~03bphxpRcjoc0cVlClNmVNtkP6zylbt8JZdfgZ-bhYFzFtOnDFJVnU8P7R~0vNdbmCU~YTjQDgOW4GHSmv4pZlaDctgpieFbmUXb2gJf~urw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i316/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/m_btac249f3.jpeg?Expires=1796469369&Signature=Pi-jdRAHMnL8kfq-f5A8myq2a5I12S3~zEDwg9n6JwxP3VUum~Ik1fa5spNRKySBNboMmnftYDM1ox5jNYrY~DhgkPJ4LqK6qqx483tb5ktNejQk5jSgZXw9TVXmqfyI6wPZioZjW-PiXrh-Bl-3xJmnCn0h18U2qmYZrsHMtZng5z6zFtHVWOsug4DzbbJPnQ5FSHW9OM8EhDvfA3LVpnVu-MQsONYVVp1tgdOCn95JVeeqb6Trm3ZYp0l299t-yqSlZmDbI-JXRjqHuhaIG8ww6Y0bLbbMuFrA1seACY9pVakFvQgFpt-PdQEi1VsG5Yg-jhkVxzzLL4yyxV9HlA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i316/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/m_btac249f4.jpeg?Expires=1796469369&Signature=vsscLpsS4n3B0-8-hFtYoKR8g~E8o2Gp8eVawt-9on0t-IecchoL0YVfNvG-WH1NDm-nM8CcvZR8sdHUrjlKItDh5h8F7stuLn2mMaGwORG1vm1q-v206VGhU9JyrJhw7WINUzciCbR8CXAOe4sPYxYfbvl0cTGHoeRw~RlqAZ4RoP0XloTytb3cLkwV3XKhjsNo68ZE5OE8GPxrBz5fN45PERUrhJIBNRjRH7cpvbJZ88JBpHWmjizybjLQc5rLMoFoqIY8FjzO-3flVjUa4vF1vkFNkEWwtUAu-xwd-s5CZNALLXSpZ4vNDAWKmiQOX2gFV5kVZNAS15S2EZZRVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i316/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/m_btac249f5.jpeg?Expires=1796469369&Signature=G8aXC~51luTAh5SOQhT2aXmhkqmj0iC8ktKm0hlutXlgiEpQfgTtcq82FYNmZsTPg1cc7ScVJx45Udz49J24I~tA9Zv~XQu6Pm3RCHttrSUCwVvF1~O8oQ0M8sysBAIckLLmO6UuEiTQhUJk18HF77hTu4J64OHEf2WqA9mcJrTGnIdgR7a4AixvNWs6qWKEH-LEhtguFESJUCg73cJUmiurPd-bKrsdQ6uT5HH~XQ0Ei7i525~FL2hh6w4d-JvjvYmvqf5ByFlpLhC8ap2BS63~5nVEh6NjPKLMiXv7G-9TdRCLagHKD-WrcUxRFFfL96DSYjgDDGjo7bM3Jo91Jw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i316/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac249/3/m_btac249f6.jpeg?Expires=1796469369&Signature=fLWEXiKm-vqpxaajWGlQfX6HFmlX6FKn0DscvPompWuo75qRUehMxSks8bdbRrjXQYmJWSS5JjfE0WkU73l9wD3Kw5U4wOh6tnv3PjaR4nmZ348CCLZ~Qlzrf-2K5O0-3g7yvlUGXQOhdMRHSWvbOIX1M1FKP2YTUBHRKjtHX8oF3~3S5Zrs8PbrzLpTuMR2FgSDP~xr3v~K06xY16PJ2O2ssStXdlI6rHIvdP0ro3UnpqFfIXY3VDK~~cTQFOC60o~TtPs0yYiB7eKnBtHZzumLh5RPm4k58IZpeth-lJQXtLo1u~NOEaBmZ3lJauaaAYl1M8DGyLUAMrzYK93Jkw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i316/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "paper_name": "MolPLA: a molecular pretraining framework for learning cores, R-groups and their linker joints",
+  "authors": [
+    "Gim, Mogan",
+    "Park, Jueon",
+    "Park, Soyon",
+    "Lee, Sanghoon",
+    "Baek, Seungheun",
+    "Lee, Junhyun",
+    "Nguyen, Ngoc-Quang",
+    "Kang, Jaewoo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mogan Gim",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jueon Park",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Soyon Park",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sanghoon Lee",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea",
+        "AIGEN Sciences, Seoul 04778, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Seungheun Baek",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Junhyun Lee",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ngoc-Quang Nguyen",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jaewoo Kang",
+      "affiliations": [
+        "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea",
+        "AIGEN Sciences, Seoul 04778, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6798-9106"
+    }
+  ],
+  "joint_first": [
+    "Mogan Gim",
+    "Jueon Park"
+  ],
+  "joint_senior": [
+    "Jaewoo Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 8,
+    "R": 3,
+    "h_lead": 52,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Korea University, Seoul 02841, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jaewoo Kang",
+      "openalex_id": "https://openalex.org/A5076917278",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dmis-lab/MolPLA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae256",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i369/7700868",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i369/58354841/btae256.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dmis-lab/MolPLA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae256/1/btae256_supplementary_data.pdf?Expires=1796430238&Signature=XVz5qHAhlW51RvLmcPyEu~ZmKhu0YN~CZywcerEihpN29fd4jjNegyjmClvd2PioJhXYPP-QlXrqoAN5EBTYSJ17yn7NjkkwWKJIL1xwVZmaQzJNyPcCmexsCWGPsxJhbHOaw~4lQJiLF2h-Aq1GqIZEFzl052jx95PmAihOJCnP1SXaZfhrqQvbFihOQh0lGbOwCwJ4vKsVgEAKCjz1FfNOfXu8g39mR6s8mESobNz49lq0HN5etVB1NCJGNJA91vE1TGme6U9~g9EBLf~KQ1ncmNYD5722Foi2qFzDRuEHgg5g9zyEmBuDTMWfCZCj2jRgKPLweV1nTlHe01T0SQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i369/article.html",
+    "pdf": "files/i369/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae256/1/m_btae256f1.jpeg?Expires=1796430238&Signature=0-5aCjjd8CbEAxdV0wOKlWciE9eALrZP5IixelAn8-usLwGczRy-v3r5uNe7HdeBthgZLoTqvLurd7TYWlseZ3czmHoyToqHFWQA8ZpLn7oUo8jAnvdavqaSGjXY9UBkZIWGQhzRFILt2-7KpIZKWkOjgAuws8lEQyGzTdm4wUog80TuNd2RBUm~B84lyuB5OwHkWcQRVR9~~WIerowlYqHbHAQh2t8BaAIZ4bnE67~RQCTlsw8Q0hQ2fZhrkKkBEWNxQDjrMhitugegCOIttrRnYA0EASSbF9BVmaZr3wRYCsdOKOiGXJ4J3~UOM8dSvTNzXVpJgGFbOBGHq1-Puw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae256/1/m_btae256f2.jpeg?Expires=1796430238&Signature=mm6k8pnfLhVwzGajyRwxOXageYpCLixbXgG3zVf7EVNQml3S-wXVYJQIJ0KxOoAgw6KclIHHwEgR9JtXu2y0HQQvSGB6DsFxp~Scex5-9zErqxYv30HV0Z1VChlBCdL9jOVVAmIWzxw3u-u1vNdJwnTnrOEb6d37HU1lDPo-ldXo4GeAvVnERfppvu8fUuOlB5l0LnVn4QZ9DHrIJ3F-v91YBuRbnJ~yfpOhDGSLIErj-O5e9RQKZdTkX8bUK17FMwDoHQi1xElYJot-oeDUvfCdkzNjNfm54umOHfCaKPrRQenz3nQ7FIHR-vlAVrx6DTAu-vg01Q98WQBAO2lt~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae256/1/m_btae256f3.jpeg?Expires=1796430238&Signature=NzGt3VP40v2v00jRRFs9gTjVQtJIjWohoHaR5qr8iGh8rBMdzSkwEypg0W-rVccpprKm-kTmyvnkqkbMGYtBRMu~YGOA-BG-mj4b9Rrx0BN05LePIQQMsCXzUSor4NkAf2Al1WwqTJp9dsc4bJVdotktKwfNAXpWV8FtfrR-l1dNP24W4QeftBDqHify0Da34AzYjGhw~auFqxVAO1bQEpWMoZ6iboe99QEfTyW4CNSXcIm44yp4ydzNRSfFCWSQXqaEZ5urSE-jkkHQSmdOXRJ4wCZ1J9ETo07s68ZfdRGvIWXuaZK-7JqgNplx0GFPugwpyv2-qRqW2b1JVmn0-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae256/1/m_btae256f4.jpeg?Expires=1796430238&Signature=ayU2J54el1HCOSOW2H0DDRJikDmULFlUSugXNP67Py7C6eLbulMjkTthJXnlnvJYOgHu7joUdPeq8t9IUqKM6XxIi2PY1py~HgB-tLKS0DIvfI68XJbBgPj0ckMJJQfJi45XYijt0IjGszk2r4AWbOzW-sH~voZ77aa4E5APG7vp3BCEGKX8iOII--0tbzsb5ieEZe91yx5XSGCJxr71ySKb4rn5NMn2AVn2H50FkPdGLsWFVrlgl~rbUvOMg2-lKEd~WpZNZlORoPf1v2l-KEmfrME2KgK82fVcrb6zS6MyavzL28eSCc3FQRd~rMuu7qskbt28zm7e-b8jBZV-Xg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae256/1/m_btae256f5.jpeg?Expires=1796430238&Signature=BGpKzJ5jNf6Szh3xxShPdojlyd0H6N4Pt98XlQyCoIxijvbwJD9OWTjql3vP~knXoi1F4ugbOBO7KwnuGOWw5g1awQDmZJC2YBRByApezxoy8B46s2UhPnftxoYSveOhCzlklMbW8W41Q6lwrS-TFBn1AX18ZApP7zdgKb7EplVMbsH7qSsYs1eEBPZg1JxMlxgNvdsegY7-XwBt0pR1-8QA66wacxFifsBEA7F7EtRKAB8NHcFwJtpoxGaciAd3Wz4ulK1IwZFIdo5ULyzRHNGDhhuyjTy5WcjlGMm3KdCU2PMdpuhk0s3FrYQudTxrsZYfuNj3z9ooVBwvNynf5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

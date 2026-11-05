@@ -1,0 +1,129 @@
+{
+  "paper_name": "Soffritto: a deep learning model for predicting high-resolution replication timing",
+  "authors": [
+    "Bolzan, Dante",
+    "Ay, Ferhat"
+  ],
+  "authors_detail": [
+    {
+      "name": "Dante Bolzan",
+      "affiliations": [
+        "Center for Autoimmunity and Inflammation, La Jolla Institute for Immunology, La Jolla, CA 92037, United States",
+        "Bioinformatics and Systems Biology PhD Program, University of California, San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1004-4213"
+    },
+    {
+      "name": "Ferhat Ay",
+      "affiliations": [
+        "Center for Autoimmunity and Inflammation, La Jolla Institute for Immunology, La Jolla, CA 92037, United States",
+        "Bioinformatics and Systems Biology PhD Program, University of California, San Diego, La Jolla, CA 92093, United States",
+        "Department of Pediatrics, University of California, San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0708-6914"
+    }
+  ],
+  "joint_first": [
+    "Dante Bolzan"
+  ],
+  "joint_senior": [
+    "Ferhat Ay"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 2,
+    "h_lead": 44,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 30,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Bioinformatics and Systems Biology PhD Program, University of California, San Diego, La Jolla, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ferhat Ay",
+      "openalex_id": "https://openalex.org/A5036380790",
+      "h_index": 44
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ay-lab/Soffritto",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf231",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i580/8199387",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i580/63745552/btaf231.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ay-lab/Soffritto",
+      "https://github.com/4dn-dcic/repli-seq-pipeline"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137764",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96107"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i580/8199387",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/btaf231_supplementary_data.zip?Expires=1796474748&Signature=MKO97VSciI1V1vdP~UVRXVkiY7vEc70Qo1imkcz-ny1BjbkHmEBcMRHhDlddv50wHlmtXKHzVfMmC6WVZUy7-iBeZXZQL8x2lgMTP2AdzLYiLi4Eh5-7clQYmRLv-eMzprWHI8~WFUKdDV0P5l-l7QGZhvtiB~RT3sW3Ekg-3~lL55V4l3DkkwaLuh~rvRfwoj1s58Wyg3ca6HygibmS8XE5Ru8N0hcNoCyhUjipoIzORfro1NcDWeKUp--A9sa9AKiDK0K6C7mlLjsSBIPyibcYpyck2oPY0lLZmOb8wtXjonZ7wSqGuafd1B4FGH2P9jviwu6Nd3MBLLUwjsa0gA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/btaf231_supplementary_data.zip?Expires=1796910534&Signature=qCLH~tQCx8wc6heDd6u-De2pRsXcfXOqjvAp6kz8CPAmCkhQFup3JWZrrVTWilmDjaAsZQDVnGDO-PIYm27CdkK8SEG3DacoMYcTu0cGNJmO3UG7LCmoufpN97EckotKjXg2F7uuOAedN0sR0a9ijabMLzol1IU04TQaIfz260s951YsPCFn6wyp9lMx7IkOCPp0R3FcpnmTNrRcWgPVoRs~rrxXsWwDtIRoU9KBPTAT~FakcpZ40BvT7Qz3SBSIFOiV2uV5XtqjrFMb8KqiARWywMSL14TxoJ4Eb3s-XzrdqxYs6jMODdJe6i82rh5KxJLLbTFeUBq~7HgJqosO0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i580/article.html",
+    "pdf": "files/i580/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/m_btaf231f1.jpeg?Expires=1796474748&Signature=b-33G9je2CqqnbTtekV53Lj2YojeVRxe50XYxZnaY40cqXDGEvvP1GkE9SUQkEMqTXM2u2Y30qIVmAt-hrq-pSrwdKihkrOHMfxUSN8ShQV4t5zgM6CqOIYlzWKwKw8eeURYjKMgvqdWqa-DUiqP90UHIQqFDWqjBD1C7oA8ks7Xw2x-GlsUnSze7LwBHd7kgvBe6oP3V0S6UUtp0RuqwcXg76uNYAwLUpCdeGav~i3koR-24wRLImk9cEb9BFfumgJp5lDjQXt8r7DD9OQzzjTYOwACa68oX8tpHJ31vXnUPP8yn3P2q0ImVrPufCOH9G2QwQULQ-HPl-Qiuv5Vqg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i580/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/m_btaf231f2.jpeg?Expires=1796474748&Signature=lA5d9LffvK1zJRWVv6aoeUzCiBIhpZ1~6xl5RhzJwweYgVkgoX1YkxQx3b6-T8NrLZGAVB4IofwcCCWxiQw8S5h2sUlZTVFCMpVVhHhHMjvetlq2uSVQDohJB9biMAmXl1XoTqybT4974oteUCmAaBZDJHQ01Go0rlgS~bg6alP4DB2Must8b-ItxR4eD0EZ0sJCJCqn191bB~zqEGDq~2c5OHqdmsLCfcqyGyf4UVCuwZihKo5tQ-6tAje8j9eqoW~JDHnDTHhtue2tb~wDG1ouaBPwfD-3C17wEgBFsLxy8RwqYd78MFQSeuM-dE3cGitRoXyXrAmpaQee-O4n1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i580/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/m_btaf231f3.jpeg?Expires=1796474748&Signature=WEkXsvKRQcT2wq4HF-VgUdMqxi~br9gJVySsfs~CPDPODFF1shjs8ImEOSYAiGL25QnBPYBznGTBAuJ0rGx--1ptwzHLwhXmFYpkPPXXEb7lMpI0LX7wTxH~tcjWbnD-JKbjpvJEGnxstSRHaYK-X725-j2QnvTx90i3Q8pkfsvEMSEHS5qsvMjME1LwN4aIzTWHmL-VTUl7y-tjqZYd5q~Oh9BjZ0RErV--5UchG2pqWObObGllMMVukrcW3c8eOX~RkH4UaFW-n-N1dmWnfMFm~3t5A5LZDDz5pI0QfuSDGZ1Qj-GZ23Xy~rvOLabgMr8BqT7vAM1e71GsaiOm6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i580/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/m_btaf231f4.jpeg?Expires=1796474748&Signature=CXKn93uUGZs04DjkSftHht2HgfhQxNlNJHKrnfkJBINHJn7tAfhHD1-fQSvCqmg5C1x3YCQ-WJap9KAvS4iV-KgZIMt6gGPMl9qg3c~~H6Z-izMinQPuLTv6bpyUA5TqvA0B7XNYvQdAhajeFoLe-SESFAYl4xuiis3-w6r~ChYowcjFZ44iXKjWG~t8cdzbmY~1E-rry-vz4hAAbFG2vkTxOE81OBjGjzWfyBUVDoOq9iTY0zoupSOZBhuw3RqW4a-O-1Ay8dSZcqJXRINw8UoXw0w6Qs9UwO-QMxEkkebitHfhCvsKtoe1-cvg66FucU7xp3kLFWNoXFwfbBRXNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i580/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf231/1/m_btaf231f5.jpeg?Expires=1796474748&Signature=M62IVBaD5k3lJNrgxu46TEJbvRj4ZtgzGgac9GTjhP-wm0DT~sDcLODr-Y7fh1fnumYQLnrxxbdshSly5B3RSuUv-QZf8pUFM6NBI8ZwCqCnJsQIl-Da-ZjLO5l48Dtl1tKTW72eAI3sx3c4p0rvREutxvPYX7hVABrE14A9pEvAJCSMNbV~-OksWCKhcreiToHZJqerQ6ly1bUGxUJVRQKYHi5KpQigKtG3UbKZ3KaaTTT~m9XE5PRWzsYRbf4xtjqH8lsP~3wvgDuk9kCjuZTCQrl3AEDX2KNFj2FCroAa-sJWoAWbjRejRhbXKzUFgftUQjEkPAuZkZxxy3eN4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i580/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

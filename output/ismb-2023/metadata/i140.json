@@ -1,0 +1,201 @@
+{
+  "paper_name": "Deriving spatial features from in situ proteomics imaging to enhance cancer survival analysis",
+  "authors": [
+    "Dayao, Monica T",
+    "Trevino, Alexandro",
+    "Kim, Honesty",
+    "Ruffalo, Matthew",
+    "D’Angio, H Blaize",
+    "Preska, Ryan",
+    "Duvvuri, Umamaheswar",
+    "Mayer, Aaron T",
+    "Bar-Joseph, Ziv"
+  ],
+  "authors_detail": [
+    {
+      "name": "Monica T Dayao",
+      "affiliations": [
+        "Joint Carnegie Mellon University—University of Pittsburgh Ph.D. Program in Computational Biology, Pittsburgh, PA 15213, United States",
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexandro Trevino",
+      "affiliations": [
+        "Enable Medicine, Menlo Park, CA 94025, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Honesty Kim",
+      "affiliations": [
+        "Enable Medicine, Menlo Park, CA 94025, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Matthew Ruffalo",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "H Blaize D’Angio",
+      "affiliations": [
+        "Enable Medicine, Menlo Park, CA 94025, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ryan Preska",
+      "affiliations": [
+        "Enable Medicine, Menlo Park, CA 94025, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Umamaheswar Duvvuri",
+      "affiliations": [
+        "Department of Otolaryngology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aaron T Mayer",
+      "affiliations": [
+        "Enable Medicine, Menlo Park, CA 94025, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ziv Bar-Joseph",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States",
+        "Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Monica T Dayao"
+  ],
+  "joint_senior": [
+    "Ziv Bar-Joseph"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 9,
+    "R": 14,
+    "h_lead": 67,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Ziv Bar-Joseph",
+      "openalex_id": "https://openalex.org/A5065673127",
+      "h_index": 67
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad245",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i140/7210468",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i140/50741644/btad245.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://gitlab.com/enable-medicine-public/spatsurv"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.7796393"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad245/1/btad245_supplementary_data.pdf?Expires=1796428691&Signature=sqAEji9b~HQtv3dsJFgGiBd5bT5RWkvRHQ-Mgww-txNI7qbHMyYzzXXFs9YSolcmMXWFbE~bgrY37-7UJjrMKkduXAPqhx6vCwAm3IyeOrR658FUs5ouEaTc5ToHsbEdwp8T3E-w3eVH0XMFamH0IXZbN3CDJesi1Cwb5nGqMMp4pGNiBhhXpmTcUsCB1qDQT~VcRu7Q10fN3SUITxGnkVuWXh75nL0kpbmCQPRtsr9To0glrKD~OjZqkeFVdrHM3iIajPTWOUHM3GVP3JgzED83zDieUvl58CM9NQv-LFy0E4ksrRLH3Ckkw-h-7XU5eAyKut6jO~~HiujF7kjiDA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i140/article.html",
+    "pdf": "files/i140/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad245/1/m_btad245f1.jpeg?Expires=1796428691&Signature=DTsJwm8Gdqxi0IuC9m3xTzg8GQ2DNtkhSqYkTEVF3HftgR09ysH4TaaTf2y1xwpVYSY6F-FwAvnxNgWyQWlnbQcCXygBHD794Qc2ArApHFVjGanvVz0ytXPnxaquhoZyzjVViVSPvqR~eVUpNN8amZiiCz0a~laGk~RqNRSkgbUwr4f~GdUt2tnPxBycOFPcapfiC8vaFcO566ast8vGg3FPqEfQp-MwPzOuiY1cQmcFIHX5DorjgBY7Khim8-t5JVy~7wDHgr4lFlzxe4KiSfcOn-Pynd05ZOTwSUrpU8LMktKY9Hj9PTQnrObgTJFo6UMEC-l0aMM2wxwD220Mpw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad245/1/m_btad245f2.jpeg?Expires=1796428691&Signature=sdIJI2EDqUbH1z-i00HyRhSVGcQVXKORJ0a-xL7~u2~NjmWaoAit1BNOzl19F1Ky9vxPA0Nyg4w1W4Jnf-cjx~1OT9WBfvxTmL1k~wHfuSIHKSX-g6gH~NlBFJ-PWWNJz4s~z2NSqC1h0rGiEKx0oj0C5q2TYnqNLzGPKDQQqVb205lU7LfBV5A1C8MI99bGjkU-o8C3KDyEMm2nNBberX2RSgo9QMT9uXm7rzfffLPigz~Dk5t9FCMEpwIgina~O7CG3eepVECB0XcmsZ6Ka7E2f4urD6NeMGzVtE18h9IMCtPFRlZeRaLerR2M5RGjsokVDuQFU0RMltzEi~lMvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad245/1/m_btad245f3.jpeg?Expires=1796428691&Signature=a9qUg~u2xCpjRGjElST3jZF5cPMvixkAWwkAvLG3r3WS7xg3u823FC9i9IgE0t0PKPsFf6yGSusnaeCconOetf3I6fp1w4n-xfhofijFvlg~-ij0IDdpu2QzRNfUFsE9QELd3U9WtprsoAEe0IjDeoeLDKEK~UKEIq0H1IcJBff3YL3uSS2JEWXvm9Y0C2qp-Qz-vfJIGMyfUDti9JP0R9ryQcQQ3805xT21EssxXO3~QInDqUAiLZuyXAtPdzegim3BUsP3jWkeBQLlS3ko4OAITOcFnUIdnPTCpvrZiPyBRXGFKXVMo5vYrZoP4uf1C2cCx52GDnJlo0YuVFlkBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad245/1/m_btad245f4.jpeg?Expires=1796428691&Signature=EXPxAZa85WKavjNIJn9iiGyeBQATvvO0bHXGb3b97LLoYaTgh~v0MvVenGdJbP85fL0MvEM-3ahMH7zPE69j4W0CDPautpdL-qGRevNArIsZeYfUioWvqvKRPM-ymxrDiHE4eFwSc34TTSmiaDKKVXMUfbq3OF9JbT7HoS3pfArm757GLqpIsPN4~3~ioukQy9txQ4k5TKOg3rN7QUyCZbwyCfkIVKrgtqb8McMXWE6IA75CLJjCkie1z2iequlbVqevviFvW68dPJag3c21fNKMSjtMcctuWjdNkvgn8JnWc6qK7MsbkBsITLmeagGlc1vE5lO0rEdMmd5gE2ueNg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i140/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

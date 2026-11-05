@@ -1,0 +1,156 @@
+{
+  "paper_name": "GPO-VAE: modeling explainable gene perturbation responses utilizing GRN-aligned parameter optimization",
+  "authors": [
+    "Baek, Seungheun",
+    "Park, Soyon",
+    "Chok, Yan Ting",
+    "Gim, Mogan",
+    "Kang, Jaewoo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Seungheun Baek",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea",
+        "LG AI Research, Seoul, 07789, South Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Soyon Park",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yan Ting Chok",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mogan Gim",
+      "affiliations": [
+        "Department of Biomedical Engineering, Hankuk University of Foreign Studies, Yongin, 17035, South Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jaewoo Kang",
+      "affiliations": [
+        "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea",
+        "AIGEN Sciences, Seoul, 04778, South Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6798-9106"
+    }
+  ],
+  "joint_first": [
+    "Seungheun Baek",
+    "Soyon Park"
+  ],
+  "joint_senior": [
+    "Jaewoo Kang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 2,
+    "h_lead": 52,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, Korea University, Seoul, 02841, South Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jaewoo Kang",
+      "openalex_id": "https://openalex.org/A5076917278",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dmis-lab/GPO-VAE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf256",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i599/8199372",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i599/63745449/btaf256.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dmis-lab/GPO-VAE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf256/1/btaf256_supplementary_data.pdf?Expires=1796407927&Signature=d537GQH532AhBFB-kAshsn4mg9KjRnwMsyw6~rBWv1C2MxO~tTpRedzPz65S8~mGnictOtbfIW5~kfaixdFeTZhf1PKcBQHD-ENHxNx6hZTQl4dQJoQ9KDVNeA1Blz6LAE1EcpaK-67WLKrLSBUQOYwXmHAGU4HKziXbfukZd~W5mwMl7BtXWWcSxBhtNstb3QRDlIQfIdWgE7iB4-trPN3w8iC2fJhAv3Ke82tYA3Jw~-ETsETMRDP~wL1mheu34C7AEGHHLxzelyuszOboM8DgF1w5NnHfBkM-SiXDYMp4K31FVhw5-K6SEcOIXYSyACv56Cdzt0DT9fNJJFoghw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i599/article.html",
+    "pdf": "files/i599/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf256/1/m_btaf256f1.jpeg?Expires=1796407927&Signature=vIYDy1VCIr4Jn0o9YJcT~UvpF5NIUsI0-pICMZ49eiJvOYrtEeh3zd5vtBMiGYxbLGIenvyZ04nNK~ZYFHYuBtpjmxyQXgOwkwsHW4WsQdCTPhL2DGuG9boMn3AXiSvXJAQp3ep79x61ZREbJtDtcvoZ6KE7ymDI~XhwLg5xdTL8KwCZ4l6~zvmcnZln3yMPja0DIubpvY2y5f8x4uWbSMxswLajSGtdwMVP~Qo3t53z0Rn7OINWSCT8aAnxZ6S-dkcinGNqUU73DgeHsrNr62fK7MjbDq9ZAagvgu-mkwDd~xc0ZAyUUA3MANSmz8pe3W1OLCGHBo37Xt7ZQ8PBrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i599/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf256/1/m_btaf256f2.jpeg?Expires=1796407927&Signature=rBU2UFovAIDSfLWrLcSJ1pwJ4YBmFo8L2ZtVla1rXFSLRlyfYQhPfyzVpkXN1Obgkl2riTL-y3my~qdhqApd8lQ5-oJd1bMBv2cbkWq0TKIhzMwIm4kvT-HQKXpQzSp-fIwWnyYaeiwm2Onwy6EW9usCDCWgU-yBa6Y1ycTmJK2ir5J7X0Bg3AeE1h83hoRRntIZSIV81YAT-DN-t-a7JHl0F7IRMI7w5sudKZUMM-D9xKmxjHccxMgFpNT8nmaFaFn1IeoOr2U-NeyoPTwdb0JN3X2PLa6T1nblmOYI4qo3iP9UW7I4YFbheD-aVA6K3DcjcpQfQlTVmAZjBQyFQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i599/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf256/1/m_btaf256f3.jpeg?Expires=1796407927&Signature=RxfmVJThvxDXC0WSuy67asD7eRT~EpsO-efTJjSJmdFOjlXZrXmQLvbNZ~tNtuAM7guPd68WfhHjKbY8c-af7IRTzqTtr-xZGjRemwLQjfIO3Nzq2iOB0efhhx0pcrQBhQ4iiz~Vj~UK3V6XU9Y~qw2SyQPPznHa4za~ZjrgajLOqJLBxJDwxNceJM0228ESyamFQQSK6sajhpsMxMUeKO0u0fV1W8M8bTC59JTSVT6pHEFc1ZBsAA0LMWXOBoRAjRO4rht-A6uSL8BqsNIt~B~uNxexvwqK0JFYBTwJP5rYj~dzy66YB3WhK5FB60lntqJzZYx4CVL9zA-tTcuZaA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i599/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf256/1/m_btaf256f4.jpeg?Expires=1796407927&Signature=vh1ZB6KJsdgRkkGBCUNlK~WAjnC4RCOP5gOHsMENoju-sAMJOtsCqA76K1pMqhYENGbEkWAh5QwUymCmdoYG0WiRUwNI75p6dgQtwNUsxGrxri2kaZyrNgY3UuusdLXWH~ISsWEZY5MNBKmT28qtYG~OhBbRbX0F84GJsXGFui~yaUaZHgBhdDrpjAIwiaIEk3ESii-5ibKrXmwkJ8zmqXukR2dju4BJyB7gz6QxfgMUZ5Jk5KWxkTBvY9Kl~dT~yGtxbbZBPlYPiuNsfLmuxX4K76uJb-MOU5YLJjYOi-F7XfS7On416EidTlGhgDgVnG8RrqJBmPkHf4v6YLU7Wg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i599/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf256/1/m_btaf256f5.jpeg?Expires=1796407927&Signature=N6-7gWelO9pqgCquuYleUfX7uu7t9spkazU86UInFmZSIP0x6rCwlled1DUdzdHXseJiod43eQzpJ6t~TinZtoGHCxGo5T9~Dt9ErK~c0UKuzcEXo0bY4niRPrVf155ls3FogeAN1CcnYO3l4lyG-AguCpB5Us3sfI4Eol0uHJa~fpKs6uyCdNupUjKtQw5zqVYzYQO6H28CyJL4f1kfu4chrKO3Gh4N9xSZAGJ~DxM8Fh15sOIYSu3-r39shCzrSulWwxbSXIfmu-SKT69wl31rwLVr5YsI7Up2daMD1KiL8gi7ZxkmDmwzPlYaUVbBy32maQJtNfqW8rYA6Qi9WA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i599/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

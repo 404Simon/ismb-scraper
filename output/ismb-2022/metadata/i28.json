@@ -1,0 +1,116 @@
+{
+  "paper_name": "CMash: fast, multi-resolution estimation of k-mer-based Jaccard and containment indices",
+  "authors": [
+    "Liu, Shaopeng",
+    "Koslicki, David"
+  ],
+  "authors_detail": [
+    {
+      "name": "Shaopeng Liu",
+      "affiliations": [
+        "Huck Institutes of Life Sciences, Pennsylvania State University, State College, PA 16801, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Koslicki",
+      "affiliations": [
+        "Huck Institutes of Life Sciences, Pennsylvania State University, State College, PA 16801, USA",
+        "Department of Computer Science and Engineering, Pennsylvania State University, State College, PA 16801, USA",
+        "Department of Biology, Pennsylvania State University, State College, PA 16801, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Shaopeng Liu"
+  ],
+  "joint_senior": [
+    "David Koslicki"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 21,
+    "h_lead": 26,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 41,
+    "C": 318,
+    "I_open": 13,
+    "I_closed": 18
+  },
+  "lead_affiliations": [
+    "Huck Institutes of Life Sciences, Pennsylvania State University, State College, PA 16801, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "David Koslicki",
+      "openalex_id": "https://openalex.org/A5002668669",
+      "h_index": 26
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/dkoslicki/CMash",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac237",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i28/6617499",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i28/49887108/btac237.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/dkoslicki/CMash",
+      "https://github.com/KoslickiLab/CMASH-reproducibles"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac237/4/btac237_supplementary_data.zip?Expires=1796414548&Signature=nlVvTz2~EyI1hVYv5p5pqSv2vwvVQ1zOpR8cTq-mUK9JSc0IndFkNksYpn~AJnww0~hRyDPCOaHa7icSA8zCC36JtlE0u3EtlOklAujE1QBTndPsi8Dh-8bE0BkLECwWrc-EYlUwSe5ih-BPPbK8cYKqt3bfgwTqMT9vogMrJkuu0uvpNqPSxdX5o2cj8l9IqPlkik724e5nhM6wg2gryJMCGWkFlGHxM6AVddRrGbbtY2osX1QMkTtYe9a6S~49tXjrZgz1nYVTq~YZZKfqChcxJbLaY25D9iNu2OU5E8rWXdx6Hud88jKugSn~gkWYBVecAsx3LD9NKjIqZwVY0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac237/4/btac237_supplementary_data.zip?Expires=1796899688&Signature=lQhBdpMCm2EmTXfsuQpGkXj2prTaFUWGjfuhaX5fW-o4EyZnOdTrIBo0mn0DitFmt5wOybzjwwOq3KA69TZyCwfFt~MkJINnPD4BJ3O2uq-LI7Q777NVEjWegAZn9p9RbAA10ZsaxYwwkDsnxH0veKunr1Z6HudQf7CjBfiy~-Fj79gM6c-FcZEzSy~jTgFPpALTaqvfBf76SuFrtlwoQBrBxgJxf~UUNbxOv3RG8PLiDxzbrAR0oDq-ZTrlCAd9rlZW6U5V6KbI~yvIu8mEP8eyKULC48euCDEAKYfpiOgOfGHWkOyFKFgPfU4NfLB4GytSCQEVP4mxgGWrvyRD2Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i28/article.html",
+    "pdf": "files/i28/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac237/4/m_btac237f1.jpeg?Expires=1796414548&Signature=Yc9B~DL-csj6wQIOT4dWopc~vG3bwoqhIQ60Tcwq0ys6fPbKhnQW6dcvXeh30ejIqGrGGcWxvQlz-XPQvqOgu7esaZkYO2Jp8aN3r-UfECTit1DrE1CI9H-AYZZBevPpRvAxmvdgmChuN2CdUSfxr5~PKpw8CjyB0En8BWx-o1FzDH71J2RhLs0RgiQCOxDKWsZ6bbOosDKmmQMVf2XCTVhm7SA2hZ7gbRE5oIdl-dEoF9Co9hilJ46X~7rpoqeU5yIK~u6J5GOOyxWvBbYdUFi0MP12REKUGCHAEPfirilwhuI3DPhZbdERZDhlQEz~rVQkiuNvwfYIEHSlrl4-1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i28/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac237/4/m_btac237f2.jpeg?Expires=1796414548&Signature=cZj3c3Gj8o4KfS1PCSGH3r1sdReDXYOxlv5xZ22qiZHkpNy1uN5dYhXM0xogGmfLgaOrMwiGJaHL7H98IBDlYcvykM9IeLRbx7PLlEak8CirSlslj7385bheNIqOn-m6q8ayllB2fgP7rLO4mul2uoAAdGtyram2vm7TP8TkGc8fhpmG~giqR3w-tTZRXxw~iSUkeptYsJUh0OJxCKdI6ZDX0B7PS8njxpSGbpbcEcfqRqb1gYvX2-UE-YayfS8n5y302JVoJP4IuNMM~Z3rZHZLbotjKSbaXu1JDro2vkeuzarpRL1607zlpYOtgU3jsD6o8Q-EqGgzK1UH9grt3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i28/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac237/4/m_btac237f3.jpeg?Expires=1796414548&Signature=vfvgY8rpkDpBjf5P~LeqkTqV6aLJL~RVNhYSgBCbOhvkaxJ91Jfz~CXqr1IZO8AuCN9FDFLO9g13ekM54Cl-pAIG~yS0BLvtE5To7pTL-v3qRm8FefmQKx0ENn3xjpMANC0jp-3yQBNLlsC6Zv8rxP4t8ZOia4m03oG3dXGndrzNQmHIkjFL9QSsC5UYDcD7-Tdmi9ecOAsM7WEy2KIRKfdaAbKFJ7PVAHmLxY2Fc79MVtIshvF1lYI49UGxyQWC7a7Iz9qWqUrx9tE7~x9kYPO6aB3WZXpHEYfXsWmM12wti37VJU~tGkrQY~Jzy4mrbB1GolXrFn7aa4ivitLSQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i28/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

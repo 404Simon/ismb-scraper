@@ -1,0 +1,158 @@
+{
+  "paper_name": "ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness prediction",
+  "authors": [
+    "Bang, Dongmin",
+    "Kim, Juyeon",
+    "Song, Haerin",
+    "Kim, Sun"
+  ],
+  "authors_detail": [
+    {
+      "name": "Dongmin Bang",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd, Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9217-8380"
+    },
+    {
+      "name": "Juyeon Kim",
+      "affiliations": [
+        "Department of Statistics, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0000-1074-2102"
+    },
+    {
+      "name": "Haerin Song",
+      "affiliations": [
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0009-0008-3199-0138"
+    },
+    {
+      "name": "Sun Kim",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd, Seoul, 08758, Republic of Korea",
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea",
+        "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5385-9546"
+    }
+  ],
+  "joint_first": [
+    "Dongmin Bang",
+    "Juyeon Kim"
+  ],
+  "joint_senior": [
+    "Sun Kim"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 15,
+    "h_lead": 36,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 2,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Statistics, Seoul National University, Seoul, 08826, Republic of Korea",
+    "AIGENDRUG Co., Ltd, Seoul, 08758, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sun Kim",
+      "openalex_id": "https://openalex.org/A5100460439",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/eugenebang/ADME-DL",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf259",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i352/8199391",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i352/63745580/btaf259.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/eugenebang/ADME-DL"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ebi.ac.uk/chembl"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/btaf259_supplementary_data.pdf?Expires=1796410021&Signature=LTxempQHjdN~~Goy8VQHyKBZ1HnjdwhgTOelQrDCywJ2hvxK5EAq-vq3IjkMTXIGv75nOVDyKgskzMX8XTHtFpL7rTc4GjXrPZHbcTKQ-fm4wmsmldh-7KdNQJzxq0Ot17dx0Xr8BRTEsoSj3~DcKRFpUCcI~3E5LtEdXv1fMTwxPjG4e9zWQW-bOUqT7OSGnf2W~IUXESd4l-JtogSQDlmQU6r-FyC3~o9J70fY8-P938m2QzERv9h4gUeYxjXqQ2VGLo3p49Llp8AdBWMfq2qrz6ABzsyk6grA6iuX1qDoFL~zG68QUyi0~RXNYu8f8UrG9aGqQB9ykLbut0Ndhw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://drugmap.idrblab.net",
+      "https://zinc20.docking.org",
+      "https://pubchem.ncbi.nlm.nih.gov",
+      "https://tdcommons.ai"
+    ]
+  },
+  "files": {
+    "html": "files/i352/article.html",
+    "pdf": "files/i352/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/m_btaf259f1.jpeg?Expires=1796410021&Signature=3~mYrctg7~tXC-Xq2FKzNp7AWKnef4nCGYavjSwis9p5EejHBm6BRNLbQa5NbYcdea6cXPwpIb7UPKdqjN0MYL~7uDtSNHFPObdGMrbp9NNIgiBtLplgVT2~USJJMGaKdA5efpXERd9kCd06hwARGl-CYSPLfP8EAlyslQ7rlu9jokB6mZ1BewqxarQuSNvHpbk3HOBXSXYFYSXPZte57KoQTMzzeyuQceBXseNhRNqd4R0YZpesAJd7syvEXoOB9rlsEKUrdzX-PRLtrD1BapuZMKF~~TkQhQmNukNcn64VoUY~bzGqwDupQltag-WtlM6W8-5RZOgIT1qNDCWu-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i352/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/m_btaf259f2.jpeg?Expires=1796410021&Signature=hO5S~UUG4e-uEMnzXOIdzICL3pNwQVkzCXwXz~24ihMQwPF0M6nl5QsbZGpPh0Gnad8ubObujOIMhHvM9TG4HYua7oD0uo8Z-~JbA7BNZYday8~DzqRKzW-2W6UZG1Mku5DP6IHl9l~a7dOv6keh62OhMAxB0JVXPHVBYzXtPgQafTHD2o53j~3JWFvZqfUEDvOl9ordTYNUqxq0RBDUUEmmMm~GcmylM0~5UIO44z8GpPqixi5Q-Rjp~6~DcK0ItpSixjchxWGOEq2e~9vViHjcgTbzASvxUC-5kdiVJMRBWfga1ytRoAcdQCRFSuAdSfrfy75EKRV7khA~sdcpow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i352/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/m_btaf259f3.jpeg?Expires=1796410021&Signature=ZP06-FMyc5RtRTqM6hSQVCd~xMs-4t1yIpQvcfqHvMnS1tdtV3rrVs2yQ7kZz8OwN6~oWXQOawMRjTdUqz0FU0HK1cXUgeV1vAsFgPgEpk1mekv35r5P~89pFqHtXGWg0YdeHSp4KooeNfCZY1gqHvVc3jl~toHux7cb0nhqqGW6xTkiiboI~M2YFtkvk-3u~HN7Fv0IPOCLN1akMZ-AxtFj-hgOR7FikOpJIHwAxQD6euf1LyRmiuPprgBzwHp1i6egre~gKvo29qWTHh96veEZXWuNFJM1MCa~-GYMZe5K0ViXKKr1K~KabEkvpXOso8v9o-VlcGY47vOeJd5j7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i352/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/m_btaf259f4.jpeg?Expires=1796410021&Signature=01ibftT~kODB5IjLo8g5yv3H7YEsZvUg~haNucFb-IVdBmCkXkVUJrflhzUEugx-p6bY6a1NTKBXT7SAiLpf2ylxdtGl082jN~ZCADIUiLkfxM1NGa6ca4oSMmfUm9E48PeuS~1gms3cZKaVhzM0aoIjjCEkior2TK3kWAZbOQ~8WfUn3~AT4IOXh5u9q6LknSGEAGEPFM3HoVogNZMUK55kr~uKbEvZNFGpNCWMWqSZXrwfWrtAn4f1MPJusCvzp3aGRpzqABNUX3xNLBKWXhXrTMmrL8Z0QS-9PZpXkBihk8euH9l~htqyKyvUPaMTgA25xwimO4s80r0rqRAcFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i352/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/m_btaf259f5.jpeg?Expires=1796410021&Signature=o04dkFyi8NcYb3Ve70JhJTHWpgWMWkLIXTDA2jsQ5rQCV4Is5XYJHDeHus1tl76OS57zApzp0wul6hT-l1Xsx5jld2iVdsBoWnliA5uFHj3Zwyt7fkFc87tAsIQFgx~oyL2UBAOZ6JmaY6k-5fG6M~ZvPyh~IB1e40nY6avXgsNPlqqWN7ew-l2KJwglFDzNkyvmyDGBO~e3ZJb2bCSONcQTwSKdfwB06p~9CEl0MYwYlVQN0EOrNAsi-lSatrFL8fFWmyJDI8WyXHmwMOjaPKTXnSXSdokWf-WVifp1UZk8LGhtdHZCuRJGuY5BHvakACWqfowRQgJz9Sem8-d1rA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i352/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf259/1/m_btaf259f6.jpeg?Expires=1796410021&Signature=k1~iJ8IAzdnwKdOM7B3RO-4UGF~eYIBo0fdUqU14zE7e-kzt9GRGI9ePkZtDI91MtiRKe1nR495fvbJfN5Ky8JXpnyB-7JaemAgwDdVWTS3iTUIS6GnBE8ELn6cgY5KhlnrNPaMq-pSTGxmMD8txwtaPiQHxUSZ2HmCdVYMTqTVWFZEdRDMcTwQl1kpk3wTZ-8jaGKp3WFiqjL-VFV4uqhuFXuE1RG2GX3C61JZEGwci4R4uvtzviqN4E9CZAXgWdeDfIqc33LTd8J-p7Ivgk2srsVnMR1FjIsJb2gRhLRv6QEo3cNJF4k2QefYQN6HDybDis9-9Sm6GjxVm2utuvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i352/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

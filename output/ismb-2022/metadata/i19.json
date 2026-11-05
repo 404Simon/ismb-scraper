@@ -1,0 +1,385 @@
+{
+  "paper_name": "Characterizing domain-specific open educational resources by linking ISCB Communities of Special Interest to Wikipedia",
+  "authors": [
+    "Kilpatrick, Alastair M",
+    "Rahman, Farzana",
+    "Anjum, Audra",
+    "Shome, Sayane",
+    "Andalib, K M Salim",
+    "Banik, Shrabonti",
+    "Chowdhury, Sanjana F",
+    "Coombe, Peter",
+    "Astroz, Yesid Cuesta",
+    "Douglas, J Maxwell",
+    "Eranti, Pradeep",
+    "Kiran, Aleyna D",
+    "Kumar, Sachendra",
+    "Lim, Hyeri",
+    "Lorenzi, Valentina",
+    "Lubiana, Tiago",
+    "Mahmud, Sakib",
+    "Puche, Rafael",
+    "Rybarczyk, Agnieszka",
+    "Al Sium, Syed Muktadir",
+    "Twesigomwe, David",
+    "Zok, Tomasz",
+    "Orengo, Christine A",
+    "Friedberg, Iddo",
+    "Kelso, Janet F",
+    "Welch, Lonnie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Alastair M Kilpatrick",
+      "affiliations": [
+        "Centre for Regenerative Medicine, University of Edinburgh, Edinburgh, UK"
+      ],
+      "country_hints": [
+        "UK"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Farzana Rahman",
+      "affiliations": [
+        "Faculty of Science, Engineering and Computing, Kingston University, London, UK",
+        "Faculty of Computing, Engineering and Science, University of South Wales, Pontypridd, UK"
+      ],
+      "country_hints": [
+        "UK"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Audra Anjum",
+      "affiliations": [
+        "Office of Instructional Innovation, Ohio University, Athens, OH, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sayane Shome",
+      "affiliations": [
+        "Department of Anesthesiology, Perioperative and Pain Medicine, Stanford School of Medicine, Stanford University, Stanford, CA, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "K M Salim Andalib",
+      "affiliations": [
+        "ISCB Regional Student Group Bangladesh, Dhaka, Bangladesh"
+      ],
+      "country_hints": [
+        "Bangladesh"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shrabonti Banik",
+      "affiliations": [
+        "Faculty of Veterinary, Animal and Biomedical Sciences, Sylhet Agricultural University, Sylhet, Bangladesh"
+      ],
+      "country_hints": [
+        "Bangladesh"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sanjana F Chowdhury",
+      "affiliations": [
+        "BCSIR Dhaka Laboratory, Bangladesh Council of Scientific and Industrial Research (BCSIR), Dhaka, Bangladesh"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Peter Coombe",
+      "affiliations": [
+        "Wikipedia Volunteer, San Francisco, CA, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yesid Cuesta Astroz",
+      "affiliations": [
+        "Colombian Institute of Tropical Medicine, CES University, Medell\u00edn, Colombia"
+      ],
+      "country_hints": [
+        "Colombia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "J Maxwell Douglas",
+      "affiliations": [
+        "Department of Molecular Oncology, BC Cancer Agency, Vancouver, BC, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pradeep Eranti",
+      "affiliations": [
+        "UMRS-1124, INSERM, Universit\u00e9 de Paris, Paris, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aleyna D Kiran",
+      "affiliations": [
+        "Department of Bioengineering, Ege University, Bornova, Turkey"
+      ],
+      "country_hints": [
+        "Turkey"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sachendra Kumar",
+      "affiliations": [
+        "IISc Mathematics Initiative, Indian Institute of Science, Bengaluru, India"
+      ],
+      "country_hints": [
+        "India"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hyeri Lim",
+      "affiliations": [
+        "Department of Biomedical Data Intelligence, Graduate School of Medicine, Kyoto University, Kyoto, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Valentina Lorenzi",
+      "affiliations": [
+        "Wellcome Sanger Institute, Hinxton, Cambridge, UK",
+        "European Bioinformatics Institute (EMBL-EBI), Hinxton, UK"
+      ],
+      "country_hints": [
+        "UK"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tiago Lubiana",
+      "affiliations": [
+        "School of Pharmaceutical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+        "Ronin Institute, Montclair, NJ, USA"
+      ],
+      "country_hints": [
+        "Brazil",
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sakib Mahmud",
+      "affiliations": [
+        "Biotechnology and Genetic Engineering Discipline, Khulna University, Khulna, Bangladesh"
+      ],
+      "country_hints": [
+        "Bangladesh"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rafael Puche",
+      "affiliations": [
+        "Genetics and Forensic Studies Unit, Venezuelan Institute of Scientific Research (IVIC), Caracas, Venezuela"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Agnieszka Rybarczyk",
+      "affiliations": [
+        "Institute of Computing Science, Poznan University of Technology, Poznan, Poland"
+      ],
+      "country_hints": [
+        "Poland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Syed Muktadir Al Sium",
+      "affiliations": [
+        "BCSIR Dhaka Laboratory, Bangladesh Council of Scientific and Industrial Research (BCSIR), Dhaka, Bangladesh"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "David Twesigomwe",
+      "affiliations": [
+        "Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand, Johannesburg, South Africa",
+        "Division of Human Genetics, National Health Laboratory Service and School of Pathology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa"
+      ],
+      "country_hints": [
+        "South Africa"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tomasz Zok",
+      "affiliations": [
+        "Institute of Computing Science, Poznan University of Technology, Poznan, Poland"
+      ],
+      "country_hints": [
+        "Poland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Christine A Orengo",
+      "affiliations": [
+        "Institute of Structural and Molecular Biology, University College London, London, UK"
+      ],
+      "country_hints": [
+        "UK"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Iddo Friedberg",
+      "affiliations": [
+        "Program in Bioinformatics and Computational Biology, Iowa State University, Ames, IA, USA",
+        "Department of Veterinary Microbiology and Preventive Medicine, Iowa State University, Ames, IA, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Janet F Kelso",
+      "affiliations": [
+        "Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lonnie Welch",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Alastair M Kilpatrick",
+    "Farzana Rahman"
+  ],
+  "joint_senior": [
+    "Lonnie Welch"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 26,
+    "R": 6,
+    "h_lead": 26,
+    "Y": 2022,
+    "L_lead": 3,
+    "C_lead": [
+      "United Kingdom",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Centre for Regenerative Medicine, University of Edinburgh, Edinburgh, UK",
+    "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, USA",
+    "Faculty of Computing, Engineering and Science, University of South Wales, Pontypridd, UK"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lonnie Welch",
+      "openalex_id": "https://openalex.org/A5069844269",
+      "h_index": 26
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac236",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i19/6617513",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i19/49887076/btac236.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.5814765"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i19/6617513",
+      "https://quarry.wmcloud.org"
+    ]
+  },
+  "files": {
+    "html": "files/i19/article.html",
+    "pdf": "files/i19/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac236/4/m_btac236f1.jpeg?Expires=1796402836&Signature=x~MZHtJVEJt3Rbdfn1-WQlwu4FTuhT6FYLqT9iBmT4dbnQzuAase2k47Ahq1mhwPwUk6l~KI5IR0vRL-4zvbRCHaiswMEFQX37RYiQUv6xZugCp3qAPMKgRUpUJpQacqvYzf~j0iwvdXnbqQRM5nivmSMctFQwloEKiPKMe-zQ6yHdKQEpHEHPK4XxDQqLQOaJPGL2~iX55VyxQ2MJURkKtYWAyqNXICfeG7hl9Y0kYXZwDe-mJU-LMN3BfKcuXrwILNQdgTysD7r5f8SoW3fQ9RTGedzojoFQSLc4lg5763OTsRMzRNJrNC0GvPDLCIhGqfHFpXH6y91Pt1qnsv6g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i19/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac236/4/m_btac236f2.jpeg?Expires=1796402836&Signature=hp4fcNUiskoCer4CTRtC4YepvjVoYvSIkBP4xbkNhMDhgiJtY1ILsuZEjGQA7yGLPnyJ76KPbTolSJkBh0aAXwZUkrMO~1QnmXj8NWlxzYDJ4cAZAktR~wqlngikLkzyZYN6HnfOpH6E0IBTZioxE18izNHrbMGgzHvIZvEwXf8oXdl4jNtcCRYXOMWzfphRL55Ani1izYF3SYU2BVzZpJvMCMPT-w-lb~im0MAhy-LAf42SJESoth-mwGZD07MvycMlCFBqNzk91z5F28XbIyAZHvHTtgnzrQwD8gk3RzF2fRUut5RCQ0Ty34BcrSTrJBWJh~S0wBiI6hIDUC8K-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i19/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac236/4/m_btac236f3.jpeg?Expires=1796402836&Signature=RMneMXrEKaQuVKIeuXfcBQDmedYwJRN35ZjXuPYumK37MwITHmEdEqXOLFSgyraoEgOe0-Jwk2J15ElPxIN41T0tOdN~U2bmI11NpSGJqY7c-vGAM6fVI~YfCBdwNmaHYkGM1JSX-KkAMIULDcALFjIa0OHSvEGp7pV7f29mem6Nv2~zJG24KhgSGAm0rl55zclPg1MI7n0yVqbqjHqtqbRRCO8Jz5Lc~35wUeljhTxrQNTRinnaFuzbRuu013g6HR1MRbKb-S5G8G6CQKzYLe-zmE4jYAxIeQQauINTqzrYeC6GtEs8D2VfULQ4uyHxKEQ7hCBQTfc0NZbYjX9mXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i19/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

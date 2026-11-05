@@ -1,0 +1,237 @@
+{
+  "paper_name": "Enhancing Hi-C contact matrices for loop detection with Capricorn: a multiview diffusion model",
+  "authors": [
+    "Fang, Tangqi",
+    "Liu, Yifeng",
+    "Woicik, Addie",
+    "Lu, Minsi",
+    "Jha, Anupama",
+    "Wang, Xiao",
+    "Li, Gang",
+    "Hristov, Borislav",
+    "Liu, Zixuan",
+    "Xu, Hanwen",
+    "Noble, William S",
+    "Wang, Sheng"
+  ],
+  "authors_detail": [
+    {
+      "name": "Tangqi Fang",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yifeng Liu",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Addie Woicik",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Minsi Lu",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anupama Jha",
+      "affiliations": [
+        "Department of Genome Sciences, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3029-2086"
+    },
+    {
+      "name": "Xiao Wang",
+      "affiliations": [
+        "Department of Computer Science, Purdue University, West Lafayette, IN 47907, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Gang Li",
+      "affiliations": [
+        "Department of Genome Sciences, University of Washington, Seattle, WA 98195, United States",
+        "eScience Institute, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Borislav Hristov",
+      "affiliations": [
+        "Department of Genome Sciences, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zixuan Liu",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hanwen Xu",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "William S Noble",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States",
+        "Department of Genome Sciences, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sheng Wang",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Tangqi Fang",
+    "Yifeng Liu",
+    "Addie Woicik"
+  ],
+  "joint_senior": [
+    "Sheng Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 1,
+    "A_lead": 4,
+    "A_total": 12,
+    "R": 9,
+    "h_lead": 29,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 20,
+    "I_open": 2,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sheng Wang",
+      "openalex_id": "https://openalex.org/A5048356362",
+      "h_index": 29
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/CHNFTQ/Capricorn",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae211",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i471/7700867",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i471/58354834/btae211.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/CHNFTQ/Capricorn",
+      "https://github.com/OluwadareLab/HiCARN",
+      "https://github.com/ay-lab/mustache",
+      "https://github.com/lucidrains/imagen-pytorch"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://pypi.org/project/chromosight"
+    ],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae211/1/btae211_supplementary_data.pdf?Expires=1796432294&Signature=0YNqQQGwPn7-YhMn~4mTIABkigMRuUE9foNfO4vgsZS~VtQqnrfKCriluIi2V60T5~x-Z7GNl4azoBpzLc3ek4anqKRR0COcAkObLk8ddjgHny-ofYJFU3NGItBZ57Qajn7V0-HUFqC8lf~HCIRG0oYqas0eOsKY8QhasfCRKAn2ILKGSoyxMyfebfOkqBNi93AaauxAD3YV11bLfoI7J1qq05mHP5O-5GYaEbkVaEnWHS-uIWUP8RvMSkhmX0Fxi6zGnXiRDkrk4qw5mS9weMHC1J2U8a6x58dK-qAfFivqD3e7x59BGu8GYgbS6GM4EmHzb3nWLsEzjH1nv4xApA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i471/article.html",
+    "pdf": "files/i471/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae211/1/m_btae211f1.jpeg?Expires=1796432294&Signature=DxXzUXAiQrT5a8n~Lfci6Ur3-0WtO5knQJKkx90Jjj9~ZM~mGfNrB8iltYwpaOJp0khr5alunK4boI5OBlOdB4L9yfLAA7g9~~ObV0RpRrVLqbheLyTwv55Tia-abdPmm9WVaPsAWV9~MsDQdbcFHKNNKHioNnfgWrAwuKB8G1XI0uCt6oqMUeMIB7eaIN~AM9qiGPQ53rysl3~9bpKqYo3tY7Qc133bPosYztgx3VXwJL~j0iG-bHtIVjOEJhTsr~YNOBr-2nGPLtIgXUSPBVqOQNPwgh3Ks2ynQ1Y0BzBz9XRx6DxaOZLD-QmlilyB-AgH3WP0xcqFnE64IKCNPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i471/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae211/1/m_btae211f2.jpeg?Expires=1796432294&Signature=QACx~hwy397UFCaaMvHebYZpmYZ0ajN2zrQ-gDKAjVctBL1AW6fuW9CDKu6JX~Yf8V4gUee09K-6RZN7EdWP~LCew7L~90eIa5AZDS~4~saohzwhFGEdJ11rKQPU4G5wAh5VxNB4B2hu5oyKRUGXjuCcPrUXH1XRqEQcOfWOFpSZtSZ~7Cyr9K8Ph6Ugcrb1U0YJVewYe6Dtyah6u2zhRcIdrgeNb7MAqKIaUfKLmJcqpNCVvYaAs-8XU3Hy7ZqlCXXKPZ-AMeys~74CrhK11dXbOVNF73SIN-g7-70PU4yFrtNgw8splaq~2MWbWxTK5nbytgLhvd~2ANfiuWZNzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i471/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae211/1/m_btae211f3.jpeg?Expires=1796432294&Signature=N2DTPVwE9o0PhVw~norWAthmghediOPhITVkLyh5KKveb3Z5IlbV9tdqG7RiqC1iIQdGMYON~OIzsz4NKY3fAwlyuPavgFwPvWVBB5gaQ5ftgvDOOyJPtFRiaGgl26rfwZQVpESUsoOnwbo3JrD2A5OFJ0u8liCLI7rSmkifZhNeQF8yIiC8K8T7phBSSF9iE9s9-5v~0sOxRwWV0CSLmI-W-SKLZnP-6ugpwXJh6-jg6qtzc38SUnAoYoclU9wo9F5mPkwnVchZDdelUxL7VQy-x3-G74sPgKiSX7t8b8sJ7YtNeK6f9IhF5MDWatbavhd2ofuR~LVrHsyf57HdeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i471/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae211/1/m_btae211f4.jpeg?Expires=1796432294&Signature=JtLvH89a5CJMskXPaORJcEeWO88EljnYkpZK1OJ8Po78i6C2TgTZvvcJK0MJHTOQY48Q7DkovMsTFRlNnWSVvGcveWjC89g67SvNST6BPxtG7QFIFaOYRnCq1xbJ4O3-abihHFUduhGuwN~cwxzMZou2WXlz~QaoxTOoyP3Gb5Qeie54pjny-KHp-iOn33uBcHa0Ymx7DEglksQnJcYJH~SY4wTfwBXh3nB3r78zIAs3TQM5Kr-v8V0wvBGKmXMW8l4dPjjInETmB1EGb3JAD2ZcXz8YFVVoXUvWkn0nCCDbhagiyj6WFmmuXQtuNHjHA8d73fEAMI2M5I2oGYcxeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i471/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

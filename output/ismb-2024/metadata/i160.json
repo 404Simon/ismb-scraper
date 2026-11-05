@@ -1,0 +1,119 @@
+{
+  "paper_name": "Representing mutations for predicting cancer drug response",
+  "authors": [
+    "Wall, Patrick",
+    "Ideker, Trey"
+  ],
+  "authors_detail": [
+    {
+      "name": "Patrick Wall",
+      "affiliations": [
+        "Department of Bioengineering, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Trey Ideker",
+      "affiliations": [
+        "Department of Bioengineering, University of California San Diego, La Jolla, CA 92093, United States",
+        "Department of Medicine, University of California San Diego, La Jolla, CA 92093, United States",
+        "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Patrick Wall"
+  ],
+  "joint_senior": [
+    "Trey Ideker"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 8,
+    "h_lead": 107,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 11,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Bioengineering, University of California San Diego, La Jolla, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Trey Ideker",
+      "openalex_id": "https://openalex.org/A5089373684",
+      "h_index": 107
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/pgwall/qms",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae209",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i160/7700872",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i160/58585764/btae209.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/pgwall/qms"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae209/2/btae209_supplementary_data.zip?Expires=1796434472&Signature=L-ht-WMYd4PHQn870EX5DwVo1bvz1I1NFxlwNzDXaXXd0RahoyIAGGrpJPgjVXBAsceSaRWpnHA03wTeZFN1wwR9ozp0H~Q6vIBpEmGqowNF8QfcLf1mi0RQSiDYFtxQFF7b9E5uBDQw5Q7-sNZeJ9RELVroRMLCKjYvk9rptatRphAheKKS4u3QYLLLE6FSVUAc2CsBki2e712y6orwdVhyfoAATdZbPYmMXZpTv0p45tCeZM87e9hXDX6hArEbqVIkXyYUGdwdHnESZoI3AAqJcsiGGjWG05j-XFdhdvRFh4ctBqD~zCWjHwy6S2z1ORO5fU~HjOP81QN7QlPBbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae209/2/btae209_supplementary_data.zip?Expires=1796911190&Signature=LvMglELf9ytCRmhProHfR~G5qw3why~CPiKAGOc4hjXhBSN1SkgydyOKjDatExLAE0lSYgrEGaSvKC1FgFDS1LoSgv4qCLox0ljEQF0SCTRZw~FJHwP1M23MSAMC80-1luPHxzPSNVKBOuJp-0H1AiF-Bg6Qu0FtKCUbEYNTTroReRK-3puQeuOras6HjOgJxIHu--R3mnykg~0isFAUYikDG~BvzN7xr4O6AuueCMcy0PHXYLLn4xno7NWFrdteSqr-cYxaplWQClZ6NYNQhN-5VWp~IfpDLuMvhuLLgdM1pUFsg8iyDqhu4L2ASEPk2INJZX4MklkcL40DrFHpvQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i160/article.html",
+    "pdf": "files/i160/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae209/2/m_btae209f1.jpeg?Expires=1796434472&Signature=aYE1KIeh9LdrINGJq-52oLOnVu0v4T7dyigf8m4dD3uRA6f7kgz6EaacrqVu5JkDAjYCrZD9HGVI3~T4f9T7GL6LeHUwg1Uqiny5ZINrT0rCoXbxl8n2Ki-td70ty2fbS-j0HeOboCCGAiRwB9msgcWkSF-OlhrZxTIEvFS5UtNaSMGXyCoXgxFwp9FJ6YipgxcUpzzLLYa5QC-tthKZIPgthZZMS9EwOlViW-IvQvcZyVbIK2fEM0Ak58K9NHE6M8AqS~AmTSh~Ie15cqNcrRWLvso4IXMQ~G9V~GDkXYB0ROPdmy48MuCe~xjCYSFsR1f0MudNqS0ct2wEDBoPXw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae209/2/m_btae209f2.jpeg?Expires=1796434472&Signature=ssaA4SEQ3IXjnuJBYBHiMfPkS4i6AEVYXt3PiNq6VIunXGrMgUNZ1SfVVdAs-ZlFVuzcNKZgMuQBfdJwwtxA27iVIn67PC-PZXYqS-GuGu64DNMjY0~6gH~l7OT0Tf542hELDKfkXaTpwIMT45Ej4M6AabyMEb4U1Hhsp5cZACf8eRvnd3XlffI5qnkcp4HKWhRZtRX5dr3Oaw97PavrgmJZRkjZ7fZE7WF94NLIdCb6zG0E0nY6i1yzaRC4Oe27Nkvz72DCZMdou5uAQv8RJ2RUGGAzSPHypIhTdFkqW4Sn~MXpVx~KuEGZy3QTf3RcAyXUvXjwKFJcMSbC5o1TWQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae209/2/m_btae209f3.jpeg?Expires=1796434472&Signature=KAazWCUN-MVlTM9jjeS7pUbF88Ic0GZzoJsTV-SFgj7gkY2XM6WXlQrZlRAEsnrv1AjowPIg0l9y0hDe6BsADexVyVhUhYV1kySH3LSRcmC1OQHxayresWXHUeGUaI2uQWZuFHtfmblHyhwSiTEfc-xfV1ceawKr7coExO4JP1JZCdnDUJC1Dx4rwNTpiJMr-QEI~trxpzGCBkMGl-Qx-o7nr4GCfKZ~BOEmVwkwp7QbM0tsn7G2VWyxiTiR~SioH6lslnu5LEBjUCOjXnIM4cw867Xw5D70wR4lqUduHd5vkj1oT9E~rT75r7QxwueZfi0xCYqpg2HLJqeboTzm5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae209/2/m_btae209f4.jpeg?Expires=1796434472&Signature=2mfViHs3ZFJxDFA-kh-OdFikmV05LaAckcGWn2PaXv1w9UmEHuBH0B9uExWQD7nniHI~BgnEl4HMP0iAwXoEYaeJLv9UFkvPM93Jxd2BaetXathM67Uzarar8fgrzc33eshv2GbUf7lthzNevR4-~T8zbCMt6XDONCMsCEEYU9X7khtmpQ2R5fi1i86hr-t6NmKOKlRtvhoVL7aW84DnpQu8vsxShe7libbXTxRocjAIOnnFLc76omVRRX~l9TK7gBzrYHyneJfAPS-EFRZtFTgbbtTGXjmoXoiglr7kbIi6-rXJIjIVBtHvNIF1eHaj9Dre4OjxMjrljtEinwtMKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i160/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

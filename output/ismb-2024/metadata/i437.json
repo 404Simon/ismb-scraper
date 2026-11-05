@@ -1,0 +1,151 @@
+{
+  "paper_name": "Partial RNA design",
+  "authors": [
+    "Runge, Frederic",
+    "Franke, Jörg",
+    "Fertmann, Daniel",
+    "Backofen, Rolf",
+    "Hutter, Frank"
+  ],
+  "authors_detail": [
+    {
+      "name": "Frederic Runge",
+      "affiliations": [
+        "Department of Computer Science, University of Freiburg, Freiburg 79110, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jörg Franke",
+      "affiliations": [
+        "Department of Computer Science, University of Freiburg, Freiburg 79110, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daniel Fertmann",
+      "affiliations": [
+        "Department of Computer Science, University of Freiburg, Freiburg 79110, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rolf Backofen",
+      "affiliations": [
+        "Department of Computer Science, University of Freiburg, Freiburg 79110, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8231-3323"
+    },
+    {
+      "name": "Frank Hutter",
+      "affiliations": [
+        "Department of Computer Science, University of Freiburg, Freiburg 79110, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Frederic Runge"
+  ],
+  "joint_senior": [
+    "Frank Hutter"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 13,
+    "h_lead": 76,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 31,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Freiburg, Freiburg 79110, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Frank Hutter",
+      "openalex_id": "https://openalex.org/A5031002895",
+      "h_index": 76
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/automl/learna_tools",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae222",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i437/7700895",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i437/58585756/btae222.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/automl/learna_tools"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae222/2/btae222_supplementary_data.zip?Expires=1796439870&Signature=RCry0HGqVWDK754mBKU3whD8HD4N6~w5A8gmaF4xwSakewGpwByrSP9q4sNdi2JyIUtGn8NbaERXOY1t3atlliWkDCDYCneJOQxu-1e6jm6CK9HtEp~dBSKa6fgTo5sW65pB26-FoZz2KPl-FmRIxp1ROZE0fLzxkJRdUyyRi8fgi5vL94JCBM5OAtbPYK7tQA0aNuPoIaXRHlM5CP~hcpUFKgmnM9l0RYAgnSGiZlUE5~4qnaIMUZAVwsPj-ZVNPfBrwbCCV3zE2ldfNN7kT~m~n3DUFojwN~SaBhY9x89q3UhdYXcfBMe0Idx1huMG9tDd6n5Izfoct1o~JGebxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i437/7700895",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae222/2/btae222_supplementary_data.zip?Expires=1796911635&Signature=pLyxeae7LzImA~sHCEsuJcK5IEgnPv3THvdzngspRRaLiYI70fnuu59teYNbY6rU8pzSX2QSTgdClaSsiG4F25wTsKLjXEbKrg61ppA1Cg8Yfr5KmAI8nfH7hLb4q8Czt-N7mp0MAcYWuppbYHNjjBdz-ag14~VG1mIA6aedI6lRaAW4AWgn854gYBiBJJutoAq4foqz~7QABhl5icyU89rVLeP3VqlCaz-6OSBnqIhFNhjT6NkYm92GXHJYS0qbxKZ9odFI~xiEOsVPTP1jOUjsta2wYna-eB~43wp5ccCB8H34-X9wb~5cM4WsdHGTtsdaazRlL6Gybbv3P2Cwgg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i437/article.html",
+    "pdf": "files/i437/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae222/2/m_btae222f1.jpeg?Expires=1796439870&Signature=UPoBNtDW8S5RK1O8mK6Sj8MrDIlybI7B-UMiClusLvg8TRigqOFNZYaWxeWNWgc2tgokXk4JcJS1pqcJQdIkFmTQbftGQdCreUc6iPnkle5NgAAn4zWtR7H8oQ8x15L9fDzAInsUiZbUdeMIg6znVZM0EZIcIyH93z9chazhndx4aXmhm~LaGXNGqrzL4f5oi~V1ElnhZ6RAkzSNt3Hcu1Lzo78LSvf2kXsjcRFEc695ZP9JXO6IpTA7Ro7r1W4~uXRFGZyUgiXE4vAlV-LAWeJqjMYyVJqqZLPwdx0oosy0I9fzKczIDk21wckiO4-bnxIjh4jFKb6-T1jzM2NX7Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i437/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae222/2/m_btae222f2.jpeg?Expires=1796439870&Signature=1ZIm8x4o-VZEYEjNXOqsmp5~tIy2pMF~m2gFIaDtLjAA39LvuRumcYT-LsA~tqpzGJE8aaeVV7B8WifWJVYI6cRf98scql6GorMlCix14e~PlZ2V-oZAZLU2p-YYbDQD5FCVX~EgMScOxZK2lpxNt0FP37QT3WsD8RsYfpZaimHu5XiLWtnj5HsTuGvK1WYmus2xPRn5VmueCofizEzNdrR8NblBDqMK1qy3~vqKFQWxJbnZ7D08Bes2ULg1UrLMsrmTeHcHGzNiDUPulXP4fMr4iTbzVrHhF8g2kVFLXJOsIqKSjMyNnoLg5YBzqpTD2n2b0rIlNkDJrGxxPyhVeg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i437/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae222/2/m_btae222f3.jpeg?Expires=1796439870&Signature=OH-wmaysZVA6YOjL0BPOjbhJPEDRua5QMZ~LadMFpFCbglsSwM7UIXnFb1TR-GzdwkQLPZzCF~Om2BuZimeoFXYV~RwGrNAEX2ps9fiqbvyezFRcZlJUdOmuIZ~3ENMdfoK6d4h0VHPqHA9VVAe6xwU5Eky4Jfp3Sf6G82Z3gQuXY6-tdh4b27XUdm9nxIqExo2-dPfOC~DJvel1K-fn4wiuCthDl3adrU0zlSuc3kpewf6jDydUSVLJyHBRhvLZcVjKjOv~6y27m2Zr678O3XXsca6RdhPLcwuhO8vT65laq691~h77qO2qUo8p0n30ym0SqGkPJyx9pjqFmTv1Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i437/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae222/2/m_btae222f4.jpeg?Expires=1796439870&Signature=vXk2T5E3ni1Yg0xq6sdK~-bupiKSzQf-liPvMSk2yj-B3Gc6f4s~Qgc0fu-JE47t0nUCajQ5jLEeXhGwWmpXkvOdQYmTk9KnvzaRYSNX3sUbulnpVqEFwFZesS6SuMlTo0KG~SRsQxyq4f8UcjAVVOhb4wibIdVVNMGg~hGHrt8E6uY-S1uMrYx7yMNcsiKN2VgS4HQ9OZtqz81Mupvyr5o-x5862lq6XHcx9nTn13FeZq5QF8b4elqLZYmwfJ5K4~lHk2cYkg18sfdgCrTVMQY4xAy6mDGZCWWfC2tfESVuC~gkEkBIBOT1HbCwwfSf9XxS58Q9z0Q7KvoMFpqDqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i437/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

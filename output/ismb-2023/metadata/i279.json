@@ -1,0 +1,123 @@
+{
+  "paper_name": "A multilocus approach for accurate variant calling in low-copy repeats using whole-genome sequencing",
+  "authors": [
+    "Prodanov, Timofey",
+    "Bansal, Vikas"
+  ],
+  "authors_detail": [
+    {
+      "name": "Timofey Prodanov",
+      "affiliations": [
+        "Bioinformatics and Systems Biology Graduate Program, University of California San Diego, La Jolla, CA 92093, United States",
+        "Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf 40225, Germany",
+        "Center for Digital Medicine, Heinrich Heine University, Düsseldorf 40225, Germany"
+      ],
+      "country_hints": [
+        "United States",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7469-6651"
+    },
+    {
+      "name": "Vikas Bansal",
+      "affiliations": [
+        "School of Medicine, University of California San Diego, La Jolla, CA 92093, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6684-5335"
+    }
+  ],
+  "joint_first": [
+    "Timofey Prodanov"
+  ],
+  "joint_senior": [
+    "Vikas Bansal"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 3,
+    "h_lead": 30,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 4,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Medicine, University of California San Diego, La Jolla, CA 92093, United States",
+    "Bioinformatics and Systems Biology Graduate Program, University of California San Diego, La Jolla, CA 92093, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Vikas Bansal",
+      "openalex_id": "https://openalex.org/A5040822940",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/tprodanov/ParascopyVC",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad268",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i279/7210447",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i279/50741495/btad268.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/tprodanov/ParascopyVC"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ebi.ac.uk/ena/browser/view/PRJEB31736",
+      "https://www.ebi.ac.uk/ena/browser/view/PRJEB36890"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad268/1/btad268_supplementary_data.pdf?Expires=1796462248&Signature=XVfK9XwVPAbvdlWk78d--mAyxK8NCVbkgpfiWlLi144h94dL0-90qQussYbWC0mCA~mfYNjrzvRALnGlxIidYd6C54ELrphXpJY67dZ1p1mZrOkCIrSehO9Y3KG5CifrlwFKNqRxEmJ-EgtJzf7LJmKzD20a3BFbY4mcReMwfq3ywdSHTyWHPFMPVo22EBMB~Ix7qWSYbZhTO5w2uSW6SkafehWg9mZOp1JOCstvS1NKfv306T8G09~LWRDV8-wcWNpfbnHCPAqBERJo7FN3MyVrejFXEV6frDkx0HEunBWdBkJATqIpg-z3~d06fk-LfkzU1x~ukjhsSHsyjgi~OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i279/article.html",
+    "pdf": "files/i279/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad268/1/m_btad268f1.jpeg?Expires=1796462248&Signature=wmJdN9I05RRxAlnCDgsE3Axff4F9jc9d~3Svm4wldNGdUwTBLRa9xXt8LPheq-UoW-U3WaVqLPzTmAH6Rn4RzOuj2PvpNVcZV6gzehWwOciaQvVNHnsXn1E8Un-seW2cvuweYJZVVREG5sRH2pITDkc5Vo6iKVUmX~L2HM~il7g4Epx2oAvjAPL1d6d0jrMtM~GBAi2R94HmTPnaMlg6592AJs~z6i4kVWVLmzE8FiBZtaG2UREG4evimmy~4CwgIuxXgWCOJ5VEq4xYyRuxEeLASSf4AZNL5~YCVuMC8ebbH~qEpVpDzwAzGzi3F6TgPri28A6O~Q4SDXiBPjtsPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i279/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad268/1/m_btad268f2.jpeg?Expires=1796462248&Signature=dNFTP9~camKg~9kHu50VnvfGk6dbfOyAWnXd5cPBJzL~21aHGjUzsD1-x42p6oPkJ7Ib8c3E2twRxR7pSIRlEzbr3Di3Wup4UJ6sNbUuzaH0ZtBq2zVAb5z-CUqapmX0GW9j332ttMyz74gRhF2WpZnN2d2ao3L7xvT9pXJg3RsWeCV-4pAtKPerp3jsv2vLNWUhp8L~GZ71BNN6WeXTDUwYz7uAqGxSeNcTEjXstkVLeJtLdkBa4oE72vdSRjaFQ~76ld5Q5zytZqea3pvtUVZ0wSrAsDszEijr-JmNcn0W-2N2CY8jaWy9FaKUTpPRTASfwcUxveuMxp10jbb6cw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i279/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad268/1/m_btad268f3.jpeg?Expires=1796462248&Signature=YmNPUtr5MlogI8yuO34u1eT6e6-ZLnOvYgTqfuXGQvhlMGDJm1Qk~mdY3IhkYJT7xtkXUmkGAzB7e5h1KrPa98kbdRe3XbrohDfO7JX8Rq0Ctci-D5UbIsJOQexz2xd7cSK~PwCb4lTSOiEM4q4GSMlZ4shAvMFXTFgiPEHxqci04HB4lZwjjBgkNunJ-cr15jkRIPstSR0NpXdHYmMGCbM2GQzOHGI6QEtXngn9SkBFVTwWo4-EOHTjxBKTr6P3B~WYU3NAXd88aL8rdxo2n~YY~eAtbYOyUxbdgR38mcRL0RWtxmwsdQFq3GmWGLQrJBKRv3XKKZ0jbbsXLUuxLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i279/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad268/1/m_btad268f4.jpeg?Expires=1796462248&Signature=2hsQ47St3vOc4xaw45S7~WEFNRXJhIiX8eYxrehtGtF8GccFygH1ehK2JA7g8VHikn892u8lP1t6r~Nhf1XkO0w-zZlbUAzLsV~YOdPiXTPH6Q1vkfFTdjladwu2yqOt6Q23YF2JZ5TwJOg5RlbRyVW0WU7x5DhGCjFfaBdWIuugblwfRIh5UMUtA9uydF7gPEhI1qT-~EQf5kMA8T4y91Oa5ixevLOdJ~qPArSmTGVo-JM~GWxeM2NG1ozkNfvN6qQHqjcmfuwjFHWKVlvA3KP8MpHYo4mXUFumEpk90~pAh13qDPHDGbpYJ~4jlp6-Zwi5r2-7OtSfF0blDCptYA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i279/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

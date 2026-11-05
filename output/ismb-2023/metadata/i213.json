@@ -1,0 +1,112 @@
+{
+  "paper_name": "Effects of spaced k-mers on alignment-free genotyping",
+  "authors": [
+    "Häntze, Hartmut",
+    "Horton, Paul"
+  ],
+  "authors_detail": [
+    {
+      "name": "Hartmut Häntze",
+      "affiliations": [
+        "Department of Computer Science and Information Engineering, National Cheng Kung University, Tainan City 701, Taiwan"
+      ],
+      "country_hints": [
+        "Taiwan"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6204-571X"
+    },
+    {
+      "name": "Paul Horton",
+      "affiliations": [
+        "Department of Computer Science and Information Engineering, National Cheng Kung University, Tainan City 701, Taiwan"
+      ],
+      "country_hints": [
+        "Taiwan"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0916-7339"
+    }
+  ],
+  "joint_first": [
+    "Hartmut Häntze"
+  ],
+  "joint_senior": [
+    "Paul Horton"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 11,
+    "h_lead": 25,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Taiwan"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 237,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Information Engineering, National Cheng Kung University, Tainan City 701, Taiwan"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Paul Horton",
+      "openalex_id": "https://openalex.org/A5088005667",
+      "h_index": 25
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/hhaentze/MaskedPangenie",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad202",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i213/7210439",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i213/50741431/btad202.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/hhaentze/MaskedPangenie",
+      "https://github.com/hhaentze/MaskJelly",
+      "https://github.com/hhaentze/GenotypeConcordance"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA477862"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad202/1/btad202_supplementary_data.pdf?Expires=1796403795&Signature=j86bMOdFJDAh-RW12o4zi-7pkyCyD7FJ6EhKw8alwWu4EvkdYgvXW~ZOuz8fTMjW1fmjsSMp8qYzsM2TZk0BhixxHSI48FUyJv9yAon3HcAG2hX2liZUBNFTICGxIbnXVjHoq3Ptw1DZk7H8KMcmIFMAiwWMkPW9XD8K~vvnwZ~sirKsc8JY21kifmEBRxR7RIVKOcFKa9Xf3qcBX2jRRcrT6vKYBhk9FizbaZXcUQxX8VoZpIEVH~wLu1n6h5IipNhhX0D9b0emesEW4iqDns4gQWwnfud6bq9cId9e1WbNjq-HAwNNaxjrnFymP43iDINvDVMDqeEPuEio78bbmQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i213/article.html",
+    "pdf": "files/i213/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad202/1/m_btad202f1.jpeg?Expires=1796403795&Signature=Dc5Otzz3RVd7~nKaLImDd7YyE5cpIjI5zdoWOQRxwTvkG5CKYnzMpteY83EO4ugxVI0u7ONssjUdSrcTDAAXbw~reluRgFv2m5~nS7H9USCkQQcvaoc-aglkyxLgCyyMzr8jqtHrz7N~IVlj0zHp-KEwqiLxNXhh1C8kqTjLN12TM8ckZ5sEEsg4Ul3qBLBpSVncJHb3Y1wetd6PwquZmCbhHx-5Nxsnkkb-~dgLW2cDFcfMGabtYatP~Nq0PkdpavszbWeGIQ1SK5kJeuQ9uOsIVE6NTkbNk0wsu0C1SK~cEOL7iMK2GP5nq4maf5tqdpH2pLdm6xQdvyOtkuCI3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i213/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad202/1/m_btad202f2.jpeg?Expires=1796403795&Signature=fDv1IIIeVYKduGa8SDehFK78lRwgq0O2w9eq13SXiucRQOdiLCEh7TbycX9CpQjPC96IUwPDE6XstcXLSxebouft0kZdFqYuB64lHCQCxMZWx4biewb4-YXsrWWo8focf~x1xHChE-ShjKM4NpLJjnGmzzp37Sf4fGneJGzYXsyT5jxd~wyiVEcJNq94xir7u6joDZN~N~tfhuUmGJo~QvJMFfi2r6wza9jLWURu9Kr7mHTMbaXzFIb4NfrKFhg5wD9aRhDcdTb4Kx8QWBvY0-HA909IWN3r2gCR2l~bvM49JabupdwR7izH2Q-vxxGuHm7~M4xmqZnYNesANVyvYg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i213/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

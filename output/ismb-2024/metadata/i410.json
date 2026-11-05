@@ -1,0 +1,153 @@
+{
+  "paper_name": "A learned score function improves the power of mass spectrometry database search",
+  "authors": [
+    "Ananth, Varun",
+    "Sanders, Justin",
+    "Yilmaz, Melih",
+    "Wen, Bo",
+    "Oh, Sewoong",
+    "Noble, William Stafford"
+  ],
+  "authors_detail": [
+    {
+      "name": "Varun Ananth",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Justin Sanders",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Melih Yilmaz",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Bo Wen",
+      "affiliations": [
+        "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0003-2261-3150"
+    },
+    {
+      "name": "Sewoong Oh",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "William Stafford Noble",
+      "affiliations": [
+        "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA",
+        "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0001-7283-4715"
+    }
+  ],
+  "joint_first": [
+    "Varun Ananth",
+    "Justin Sanders"
+  ],
+  "joint_senior": [
+    "William Stafford Noble"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 8,
+    "h_lead": 108,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 207,
+    "C": 434,
+    "I_open": 24,
+    "I_closed": 319
+  },
+  "lead_affiliations": [
+    "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "William Stafford Noble",
+      "openalex_id": "https://openalex.org/A5057375933",
+      "h_index": 108
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Noble-Lab/casanovo",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae218",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i410/7700854",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i410/58354735/btae218.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Noble-Lab/casanovo"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/10825365"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae218/1/btae218_supplementary_data.zip?Expires=1796442664&Signature=OsxyBExa86GF3FchDvcgsx9jIyCoW02fOkDGGJ49ffERz2KAFvzOMgMsDB-i8iqKTtwiwi2CuAokC2Qj0vIT-KWOe-7eh8-7oPYHamNjrl-2nuCcOzC5HoebF3wSUtMRFex203iLZQ3xKl4m2T0~KOvXyg-rhFR5IsZh-3XvWv9EayZiTKwHgs6UVvzFn7IqMrYa-pWFSp2O07AwfsLahX5GtNptlU3juA2dYFiEljXnNEaIgyBOORHcWJz3Z8V2xTYqkrVuRi-Hj7HHgWX7Pgfd9D-FVYzUSWxs2y5azELQnvq~5ovwZOZj1ZLZBlaMg3gwXjwGvj1J8Dx7smaeKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae218/1/btae218_supplementary_data.zip?Expires=1796911590&Signature=jacnsjtzznQw~jwNHt1Z5rgqwtkWeRqmybgyUJnxvE4SGaLb6PC4n1-Xqemxj3QLJ68oegq4436grnt1HDVvpf4lVJ2AKkA4dqI8fRPA3jatyhuVFRf6jB4CLrbXsjYQmsG~qei~xv23jTXUxB2aBeEYPiBxYQbb-DUzNdYmrlTvuaui7l~5klZMDSGZVk-CumjxXVVGj2QenODbv57P7NXNKUAmz92D3pkOPj6veX6IgjupxP2s-RPmGiDuxXoKOniw9oy~BV4KxEXscln9PSin2W5u8TohuoHyQvPtw74tFl15Obi5UP0ELiXaJypnL8PG8dD35cTT8xi1XrUSuw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i410/article.html",
+    "pdf": "files/i410/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae218/1/m_btae218f1.jpeg?Expires=1796442664&Signature=HLEPz-oJmDzQcY83IZoQvEU-Q5k1bwJ~TdjEl7LRYiu1WrRYFBvxW6nlf-99AP0RBnnuelsk6ZJszkzIKEceKjqv9QPHxtx58aXMFc7q1QbIc~qnvXx1aS-Gw74HqK~P-kNcIFF7mW7UCnx91toRAy3ydbX8IdXWq8qRXJtFUA3UiosCcUyT6V2BSNtDijccLIqAYHJXhWF6~qfFKLgDS8RvQWcfittgo0d-HbY9qKcdL1gKew5ljbA2hPSK1qtJGJG5uottBpSoansQHk10uWs17WsLfP3QLcsDuDWO495N6shEG5DLUGP9R28u~QzyH7BNPS5I7eggDeSowwvUcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae218/1/m_btae218f2.jpeg?Expires=1796442664&Signature=DTUOsuisDy9HhLibkfLt6xH0M1lo5eVmg65hcyKAU8JtH2W4aCyJl8mhnCFueNBrdgDrTfzEq~lPfTHf-1DVKVDNkjcH58xkhPG9fVj~oxekBzslf~CSN82rfju6LWp9W6ugcPHa3BxUVznMZq~FdZai5DnUueF6g40DLjaP~B9QdeTlJGQP-nSdWk7w4INAZ-WwQSHQqIAuwAByulrHBts1RhTWk1nzCv2s1f0ZJcCO6hP1e38hFpHsHydTd50789o-dVK2h7XU5bjRbs7S0FYgwst39bHiyYVo1Qqh72J35~OiwocWoAA7uh2f7-atGXhQWB5M4434u11RsK25FQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae218/1/m_btae218f3.jpeg?Expires=1796442664&Signature=hBJP9zmwioecOcukm2p2ZmM2HUsILncJdFggNfAmUm~R3a3K3M6x469HMNl~ov3q2xWvNqhXV5geNr6cxAxW69ibiSuM2aNeP5zGf5jvG2QrcTXNCgYwtNZgB0C0~frLIiO9FqiDB~m6PnqVIrkE2aVDh~KxYdn84CLo2qwQpNohveXSBjh4J6QfAiRqfrKF1pQits4viFgauBAiFVnkkjNFxHXXnOjAMuKObZQe39oQoOFmV7THQs~Sm3uWRP25JLMhvivb1U6OA8sMgbKzNN7QcXVjGMKELqrTfBeAT037SZ8~FDVcXsFWZJdrmDEvIxF7zPF2gFM1eVPy5WFQVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae218/1/m_btae218f4.jpeg?Expires=1796442664&Signature=yEbzQHRwFp73EA7L-8BVbzPk6vH-okCLe3GFJ0JruJU6yAVJ1DT98BOTXDex7Qb5zWPC5qsj48iTPCnJ4P4EsUalzPXbTLXhDPfDuQVSX08A5RdO0PEW7OuYW2-z5ZC4tGKHC--5WNNtcQD3caKdkNwozUV3TmMxJYP3KoWBHHqHDV6APzYeMYz2oMOHX0IlxeLmGkc3aiXLvxrYCywJAcp~VmwqGHUvmESi5xhGn6wxjUR9TF-SPhZGnlue98YDu0BEwJbNQLJnd9XWJNfQ15Q38Q3TrGaZqavAvkRTkgMaMmjCnLRek0B3mIhuU~o870YwZWBri8MYbyAb8nCqrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i410/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

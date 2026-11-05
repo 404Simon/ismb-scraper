@@ -1,0 +1,142 @@
+{
+  "paper_name": "Unicorn: enhancing single-cell Hi-C data with blind super-resolution for 3D genome structure reconstruction",
+  "authors": [
+    "Chandrashekar, Mohan Kumar B",
+    "Menon, Rohit",
+    "Olowofila, Samuel",
+    "Oluwadare, Oluwatosin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mohan Kumar B Chandrashekar",
+      "affiliations": [
+        "Department of Computer Science, University of Colorado, Colorado Springs, 1420 Austin Bluffs Parkway, Colorado Springs, CO, 80918, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rohit Menon",
+      "affiliations": [
+        "Department of Computer Science, University of Colorado, Colorado Springs, 1420 Austin Bluffs Parkway, Colorado Springs, CO, 80918, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Samuel Olowofila",
+      "affiliations": [
+        "Department of Computer Science, University of Colorado, Colorado Springs, 1420 Austin Bluffs Parkway, Colorado Springs, CO, 80918, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Oluwatosin Oluwadare",
+      "affiliations": [
+        "Department of Computer Science, University of Colorado, Colorado Springs, 1420 Austin Bluffs Parkway, Colorado Springs, CO, 80918, United States",
+        "Department of Biomedical Informatics, University of Colorado Anschutz Medical Campus, 13001 East 17th Place, Aurora, CO, 80045, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5264-2342"
+    }
+  ],
+  "joint_first": [
+    "Mohan Kumar B Chandrashekar",
+    "Rohit Menon"
+  ],
+  "joint_senior": [
+    "Oluwatosin Oluwadare"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 0,
+    "h_lead": 12,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 160,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Colorado, Colorado Springs, 1420 Austin Bluffs Parkway, Colorado Springs, CO, 80918, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Oluwatosin Oluwadare",
+      "openalex_id": "https://openalex.org/A5003283556",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/OluwadareLab/Unicorn",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf177",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i475/8199354",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i475/63745313/btaf177.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/OluwadareLab/Unicorn"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.14750809",
+      "https://doi.org/10.5281/zenodo.10535486"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130711"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf177/1/btaf177_supplementary_data.zip?Expires=1796438556&Signature=2wTyMWejbO2M3Bn~p465f48D3VdJxTdTJ22j1DVlpVFUo-K6N2s6jReoYlcNddK52eSvmqihj86XNGhgczVx7GX4J7pFXaDLMbovZ~aHZ3zoGgVJ~gpe~zhWsAMWJCULXLtet3cfItJqhZbjvf4i6X3ZDNx9mA7~0BVZ8r2ShG~rOjuy8iJQUAMGlKQNmps1pvdT-JD3VSqiJJlITJ6hmz71348JkVPF8ki93syAt0LsFkPIJ-lLHqd-lWcCgUbyokMxRSOYs1iJ166LxX0e6CgOX1lTz0Rmrnjx-og6uz5RtpfU6Sypo79DlbVRkp6mn7VUT~0zPS0Nwxj7W4ZySQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf177/1/btaf177_supplementary_data.zip?Expires=1796900453&Signature=e6Ctw5tRdyhDOlaDkWjO4jFF1SO7HMVKvWM10yVE~dx2FyBki7HIa87TyYjcn7XNi1I36rTbxYlqJD8GsHFFHBwoUeG8fhaoZxPCtbXUQq0bVkCXhfpdHDbrJNd40zc3xKSOGG~7MtOMLwhZCqjU1JBPewxShZz4JAbm3ScjFh6DcPfRJI18Fq-tm41xxSz51xsoE57dmpPrPVBOeXYKK457gR7iGTVSLTdD0yZZWYkt8HCbdOETFt8~xJMfkuCpeT8HO5KEjJorIAOnESbt3B4VOvTaJW1cs20LcHesYNTJRie1wOv0YolL2507INtBNBFULmDWwmqaZflmbNfW1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i475/article.html",
+    "pdf": "files/i475/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf177/1/m_btaf177f1.jpeg?Expires=1796438556&Signature=TKoWAAiBkFC3~cVeNt6A~qciLQikvhPXpt7w6Js80gR49yMx-Ql7l-riJ0-TqwXieVnwk32lsY68mm8O1ijkF~iydS54Mo1rqeeJNiZ0H~z5OfBvPkJjCSxw75ZpNauHofX2hShwM4JhIKUeY95nZ5Uv9DSs7cG5l51Jv8whX-tMZN84P4bcarDYx-DdladyrH0UWb8zt4UCaA6yuP0330v21T-DBQc38fkJ2e37Zwac8JeDOno4PpG37u9TJzD3ee-Uw5d71zRynFtrFThLWNzVmJnfANiWBCZw6x2-b46WHYvtvr001F8UFxvEDwoSLlrYTA6-wShd2BUjKNPwWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf177/1/m_btaf177f2.jpeg?Expires=1796438556&Signature=HkCSXGY3nNSEydd5P0x5hdSB7kmG4gf6aUX0UXS8MFTwqttTVRLTjpS2QAacPvlFC3Nj8vYoCWYA8howC8HbI9jBuC2UXFVyLVsy3uPbpRTfo3IrUiY9fTOrhaAZRVw4Ry7sw034GB7kNmFZicXbfA0csDjqM6xhLkRM~TcaKQQada9b3x62-fLpKPduLUWYeoGX5FNKOb5szdULgY-vXaJelD56i0ldAUbnkV67MpOumiHdUTQuvjS~KNMH1Luf38lKWqDR4ja1z5KAULmbgjwgO7bn0K9lQylr1oJENHePJuVItWu3e4gP1i3yMxswLnk3QsioWtHF5nl42JkwJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf177/1/m_btaf177f3.jpeg?Expires=1796438556&Signature=VuKwIMjyvJErjMCQYZkcArCgIptzZJTFLMNFwrJGAvxxuRgWwrIeZX2uoAtBVv1t0Z3qDzcR8Lv7VfjulLi921Pa2ht4nVxGBVAfZ1lH7EPEItLLUfBA75VLtsjylbMDMqtu5aN0TBGGC9lSLlGb94eM~eGTAihbxFjiv-mzS4uEx0qrNPXpzxom0dySZtDCmgfYFcOzFx0Um4BJzvl-QRlHF-RRDOWsOIyvXQO17WPVESlAh4K-nJ2-P7YKgqjok8GIyvePoll2qegoFGGiwxgJGNB5HEKQSw4PeeW2-L6cPPQWkMAACI9-ixfgZQ2WEhJbZpR-O~4FznjB~9rbQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i475/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

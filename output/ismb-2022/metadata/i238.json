@@ -1,0 +1,112 @@
+{
+  "paper_name": "DeepGOZero: improving protein function prediction from sequence and zero-shot learning based on ontology axioms",
+  "authors": [
+    "Kulmanov, Maxat",
+    "Hoehndorf, Robert"
+  ],
+  "authors_detail": [
+    {
+      "name": "Maxat Kulmanov",
+      "affiliations": [
+        "Computational Bioscience Research Center, Computer, Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0003-1710-1820"
+    },
+    {
+      "name": "Robert Hoehndorf",
+      "affiliations": [
+        "Computational Bioscience Research Center, Computer, Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0001-8149-5890"
+    }
+  ],
+  "joint_first": [
+    "Maxat Kulmanov"
+  ],
+  "joint_senior": [
+    "Robert Hoehndorf"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 88,
+    "h_lead": 44,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Saudi Arabia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 34,
+    "C": 18,
+    "I_open": 4,
+    "I_closed": 8
+  },
+  "lead_affiliations": [
+    "Computational Bioscience Research Center, Computer, Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Kingdom of Saudi Arabia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Robert Hoehndorf",
+      "openalex_id": "https://openalex.org/A5043808311",
+      "h_index": 44
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bio-ontology-research-group/deepgozero",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac256",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i238/6617515",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i238/49887022/btac256.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bio-ontology-research-group/deepgozero"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac256/3/btac256_supplementary_data.pdf?Expires=1796423348&Signature=5GgKh1l6Wg4S-x8mVEyu~ydDfI7hFCDTpWlOrL5YiF3LcbvSEDjBzsNj1LUQaMl79A0qvvN-nteX~XobVpHSAFoRSJYLdwnfTNvb4CDHdBpkdnevMEabQIHxTDtmYtpjczp-yrpbn9MpLn3GgurZZEeYbDOyewOdI~zIhfsrBc0YNVpHrN-8RJzrKVPBIhqzV20X2dILHmpRH-Vy6UonbDVKmH4yFPCrI0npmOD6TcYqgcVqzmZLBhczWuqAdbdTMPIh1gHf-bPSYYpIjgdkBTOR9A3dHT4L0vmjtYBn5Bv0Re9Ky3TaJ9-3MgzDCidjRLKLLcDIDJXTMYuDeCe-pA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i238/article.html",
+    "pdf": "files/i238/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac256/3/m_btac256f1.jpeg?Expires=1796423348&Signature=CgV9tFqWyhiHKRYKxsvAAxusT~C1oj-n95fAIGC3Wlq-my-jZ2RJ-3LjfZKp7UxVf5S6Nq67p~5SGmTa258xjInWKQE8CxeZWhW~rj76s8Fx8-atbWZZaUgQwa5B30xn5YiJT16QdrkrFTDoIN3TC-cfOZfmmN5H0LBaMJE0bslqkPzBulyt8-XzQ9mwKO~iC7JIdjF-aFJOcLK2eKnE~Xw5~pXcVaorl~52kaeBwCMTK0cJXrxGa0wJDTnu~vqeFaEU5xrli46pJC8sMZxWHFVkyk-mbqd~SB3JeRYz7YxdIsmtw9qHLvOatJVvZ6w9sReyQjf7hKZKpW-b~vUFnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i238/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac256/3/m_btac256f2.jpeg?Expires=1796423348&Signature=m7-QaewRMROs9ANs6esKQ6Eic78UN9kOObjuVeFs-fe4M55L0-Q3ih~MbdPPmXXUQPqb1I0zz64J~VOGDKq4740EkYWumVODmI4ewh4jbVqsC~n2iY2dmKHvr7U0m8gS64RAW21thZgIusJ5a63kly8am33UN8uy1IFKYmlaMcCqf7aOAF7-q48jDVsPnvkaeTOXEB1cUVq-TGy5m8OY0LZSXKkRdw1OH47Mn4bQmETYKzrSH1hi2esHtSPyuOSty425NwHbwEvi6mCNMRDo6BrLqfruWdPdoxZO0X2Wlaol9sJgpDd0k8~ptFpDeMhhzgFwDC4kGDzYaC9BwFfFnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i238/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac256/3/m_btac256f3.jpeg?Expires=1796423348&Signature=SHTNFutE5HtC1enuVjXXV7u~ggmf7HynjR0wEuNlLbzq4dnY9SVqsSDGWJ1yFyJn7eV6ibCjSSgyrbz5K4YJN3VMmLW~BDFqaKrzuX6NuCoyjtIYPkmTgohFh7qA9i7zFZ8oWwa6zJKdNbdn-3R0wParsyfF0wyULzMCeGDg4GM8-Q3cMB2ev0lrrrLl5ZnSQlVjkiuZ7f9TylWSpQaIgc-y9RbscWVNIrLk3ECtgA~aYzClSWtkyREeRzmAj5baT2wLVgyu21wnXQwA0h3UT9X1MUY9QgNnX5EdXujA9NNeAoxgTibsnsLX~GQrI7-B-mCwZaXs0Ywqqusq5kBd0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i238/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac256/3/m_btac256f4.jpeg?Expires=1796423348&Signature=eiSxsTeEsvRoBIEmN39dkDelTtwnGD91xAtRF5koLP2jF2mU3WN1jRSGyJYj0aSoV-K8GgNB8rz8fovDI9zCbvAKvAN1UgryCInTjGlcZjU1qfDpjN4U0kPfFdZ1Q8rBM37dg~fF2HWeu33FAa4ors1MsGuFwKY7xc~jVzgb4-JVGISVfuz5RH1f8gtj94ExkOfWOWFbHTZ1INYekTXFcSsbGaYiIYNA5dt6jnALdeejvM-RHoJgvXTZtTjX--iFcXB28HRp76YMaKDDj8xGClXPifHWCfTZ8yW8HAqdQAq511b6uHf4SzPPaSacwwOHJOFIYPt9BZNECrDstsQYSQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i238/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

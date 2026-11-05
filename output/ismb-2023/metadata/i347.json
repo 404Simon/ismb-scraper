@@ -1,0 +1,178 @@
+{
+  "paper_name": "TSignal: a transformer model for signal peptide prediction",
+  "authors": [
+    "Dumitrescu, Alexandru",
+    "Jokinen, Emmi",
+    "Paatero, Anja",
+    "Kellosalo, Juho",
+    "Paavilainen, Ville O",
+    "Lähdesmäki, Harri"
+  ],
+  "authors_detail": [
+    {
+      "name": "Alexandru Dumitrescu",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, Espoo 02150, Finland",
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki 00014, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0909-9484"
+    },
+    {
+      "name": "Emmi Jokinen",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, Espoo 02150, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anja Paatero",
+      "affiliations": [
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki 00014, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Juho Kellosalo",
+      "affiliations": [
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki 00014, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ville O Paavilainen",
+      "affiliations": [
+        "Institute of Biotechnology, HiLIFE, University of Helsinki, Helsinki 00014, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Harri Lähdesmäki",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, Espoo 02150, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Alexandru Dumitrescu"
+  ],
+  "joint_senior": [
+    "Harri Lähdesmäki"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 22,
+    "h_lead": 52,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Finland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 486,
+    "I_open": 4,
+    "I_closed": 3
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Aalto University, Espoo 02150, Finland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Harri Lähdesmäki",
+      "openalex_id": "https://openalex.org/A5049442192",
+      "h_index": 52
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Dumitrescu-Alexandru/TSignal",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad228",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i347/7210432",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i347/50741363/btad228.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Dumitrescu-Alexandru/TSignal"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/btad228_supplementary_data.pdf?Expires=1796442853&Signature=Eci5WRCSwrn-hlTlYr38LCdcH33ZijanI1X7H~g~pcnyR5fvM9QZDTsfAbp4OkF1zczOO4NUwYnpCK2d9IjJxj3gVXU9VSCkxKUhOnAYVn~p1-DxiXPYlc7B0ZhN94GNWXLfpTTbeNE~iyxM4iH-G62fm0nsbJRqDGXaZlXrGpucaSInVc7fv2f6UPYKo7UhdbD5bhed~Y1RxDwJD8ficVofqoxhE4rbh2E3Yze6l--wVylflj434xrI2sLnU-~nIq5uWm7IABK8aeCy19MpcsBpr7~PzFqxSqGhnkL52obA8CvgiI9LETMXPSxdzOiSsXOZlQB2YGHzj9SYB81uAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://services.healthtech.dtu.dk/services/SignalP-6.0"
+    ]
+  },
+  "files": {
+    "html": "files/i347/article.html",
+    "pdf": "files/i347/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f1.jpeg?Expires=1796442853&Signature=Gyb5ErCYDFs224rzWcWo5rqOEDtPRwDwxg-LhMynE1lIY5QQCjfYuAr30AXcinsVUZ5VrsRmO5xet9Ne7wXPY28EJOPtb7ebdPzd-s0JO6NzmCdSaf6tt-A-XKpPdWQ1ifJ2nH1MrlUuI643ze10jwrfBwfJ72Waoy1ruCSkgTx2AoMSIDjLc38xpkAwJMfgj8JLaSPg3ydYObTDdCD4lY61ms~FV5vcugBObjaz0lt7M-XUCsiYNe094FGlmaaZD7zcVVJ-dFG675mXb4eM-0FXbM6lAayhMg4sKpg6EnKHrN3pj7HiSXEStjYYvrifDqoOxsKv0ox20-oQ4mc~zQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f2.jpeg?Expires=1796442853&Signature=0kF453CIZeUIxbMgvB39azmjsulmOzQTaRtUHwxjAaoxqB2sT~2o3WCgNzRG6iT9i4dIjYZABtJMVC1Dy2Ffps59FSKU7x4s3aSjRAh~SMWEGPblFVm93nQAQMB4k9ZLbqy5vZL33SPS~u~B0pFdjc10YjKKLN1hlz5DKeuf7AQKAeJQywcbcn63AlCLqZLhdfntIXm7OBs7Q47n712Mix50yxc6815YEFTRN-7JvhmBtd9-AbujYNWQz7ReFGeiWBL32YQQ0Ng-xIHpTn-Bwmzcr3O3EGfKvQ-k8lmKzl8mgaFEUFMyzGKcnBBNnueJVpQFR~YXTvHyfpDkRAPj2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f3.jpeg?Expires=1796442853&Signature=0jkMKNpeCtcgY8GvvDrXUTMC5BjVVHG7cuzVPfVU8wLKcvUmDYScly2ZAzmUwh4zminM7AXCX7~2bxghSMwkRPs0hpxeLv9aJatKDs~tHuD34yThBHAcATPEbKv6Vx2VeRGimsOZiywkjKB0C~-Up2rvHIhAFA-u8PiY8koJAejwKPch8fQd39c~0VTD3Ns8z4jxdRz2IUTWXiBFmLawwotaXazR3A4jmNlWzRkxpD373pXY9mJvdAPc547ixnoW7jcJYypciy63Iv4VdMwH1a18XQm8JhSVyC0RXHrVEeQ~uap4fMAUYVjFvK63seJx~0sb4eu8WLVXZhQJ8M4ytg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f4.jpeg?Expires=1796442853&Signature=JwHa6ZP78f~HPOXK6CB2uc5M502ex~-EkJtTyRO43Y5bgC2SO1zTJQ9To~-kJLode-2a4x4nVnbBtJhkCqO~LAo~Qg2ALQvEmzJFyS2az2fq76R9Eym-c0oXJstLsZdUb6tT6nsKfqQBquXyZXpjPfUUO55NWR0f~Kb~Iy6CI6~yEWTBr5ICf8mkV8r2AKWhT6OF5DFBu-iNO-WImSU-RoTF7qvZqMWCDIXF-reAu~SeRRoMYYKw~jtbEzo-SePUvok39FH-2u3r5a9mGCoLHMoloCzTaAScmKu4c2GGcD1nhbJWlu7tHsFt4kA3J5mO2FtUpMRP4tuLk8wQh87DBg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f5.jpeg?Expires=1796442853&Signature=g1R5KAUMCsIDxmy0DuU-AorEjrjneak5hFiYo1AfNpJqOeoEtmSAkY5ZtgbB8JSgGwyqGpRKMXj76uQfeQ0AhbULLXeCN1LSMq3i7ue8jR5wZA7CLXfctQIcrzahMVGOsF-mbYsvIUqAxa~DPqqdTPzwav9kZqtHVI3PYzN798splTG4MJPfQxvhCnPEifL4in8-Gjd03PbGQJyrwW~3BgQcMfzGhguLs5L0iHaKYZn2ELBUd72-Q9JRjqrF7JusCdFaA754VGGDBkTFy9jOwDA7mMit2F4uP5fHoN46E3NFaC4Khm0evLDvWCRZCvokuwJYzqbF2whBqTtAoISfcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f6.jpeg?Expires=1796442853&Signature=qw7bvnwHbgICJL6QI2GP3oX~920UYWFP3gJcAJIH0uV-sofFCBLJE-dfhTkI26tz9skRYyCGJ7YRg5pBtCkOGWp16pgAHcA8i92lA-nWve8juqlgzWYjuhDv-mA6nSxdHPiW209z34RaNbs1GBERlvWROq7erZEyeYj~5qGew8VSSF-w~XSUBhUBLW4YKh6R-WsHKT8cccMhyDu~qH5v53YEHVNCdwFc~exD9iapPB2GlgbZb4K8m0iQI-W-pMf2VRQt-MxVlK7GsarABKz~cq97i4NiIl0YfE1h6JfvIbFLXTX6cbrehZw0vZvBur0JaQWOaD4F9U3Nm-9PNrpFvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f7.jpeg?Expires=1796442853&Signature=4i3IVuCSiAQxX5W1V4W1QAddmKbGB293uNQcs1ylfUnuP8GApmuBKjlT6Jo4w3j2W0nz89cTZ2cLi6tWLNWPdL34fFPDFb55HWLXZbDarELZF0VfhHUjtxkwrx6cK93KlkpLfVbEZBopyXqMMpgIp6D-TngPiSBBN1Cb8hLLsHu0RCRbIRBaHlow0-3BhkMZVsASbLUZM~VDKQXpZh8AHdHbvNXMtdcM3gAK10lCA18j~e4jBrADIYqtVOdDfuG7rnMFZ9H7DwQe~fzuIvCeW~Eo3WISc8eStukHzp0rpoMDya05IYMWL8nftdsvKWZH7Msd9leAt0S2PafjEKCoOw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad228/1/m_btad228f8.jpeg?Expires=1796442853&Signature=DAXu2EnnAXDPJUmxE2vEZaqbNg9~ymdUyeVUpI69nl9Rz~1v9IxDS8MYW2KIvFuDXatWJNnVH37prn48gp2YRrVG8zAKfkMlJUNSSK50zWxE~Sx0cwCPQLokrywfQ93MiFKe4faXyjovCYvmJJe5PHyw5otTzlGPd6VmPjbVfoznKP8tMarf9OOX-aXf~8lLtbYuU26i8~LO2RVVmAaCCUjfyX3d21Fg5-nq0OJ1w49RKjjKcG26v5ByxJBlqUR~JZmbia9GVteXgEuvvJ6eBxDKsbqBO4d21E1o9ps4kmkt8UXs8EvHuIsp0GC0xEuOGJ1vegLzev8-da6y0eknWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i347/figures/figure-008.jpg"
+      }
+    ]
+  }
+}

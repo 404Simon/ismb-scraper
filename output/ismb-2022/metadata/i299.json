@@ -1,0 +1,145 @@
+{
+  "paper_name": "PhyloPGM: boosting regulatory function prediction accuracy using evolutionary information",
+  "authors": [
+    "Ahsan, Faizy",
+    "Yan, Zichao",
+    "Precup, Doina",
+    "Blanchette, Mathieu"
+  ],
+  "authors_detail": [
+    {
+      "name": "Faizy Ahsan",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montreal H3A 0G4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zichao Yan",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montreal H3A 0G4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Doina Precup",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montreal H3A 0G4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mathieu Blanchette",
+      "affiliations": [
+        "School of Computer Science, McGill University, Montreal H3A 0G4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9555-860X"
+    }
+  ],
+  "joint_first": [
+    "Faizy Ahsan"
+  ],
+  "joint_senior": [
+    "Mathieu Blanchette"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 49,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 31,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computer Science, McGill University, Montreal H3A 0G4, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mathieu Blanchette",
+      "openalex_id": "https://openalex.org/A5065720651",
+      "h_index": 49
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/BlanchetteLab/PhyloPGM",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac259",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i299/6617503",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i299/49887156/btac259.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BlanchetteLab/PhyloPGM"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/btac259_supplementary_materials.zip?Expires=1796448011&Signature=NfXn1sp7PocSlU6ar9gQezXK8~~MTYCXvGzk2euV4sSXd7LFoKLLc5Q8T6bnddN6MmyypIAnVbQkFp89C4kkcsZDQ9NCDP8GYsC8v~H17HUzX8VNiGCS3ROKestd7hViGbTGGuu4ee~LTkwxmvj90gmdep6YqgLRonEsFMvg3y1VNo3yHdXJapSKEnrN2~SkxDr9hHTYW4VXmqd9FSCBUJZc2Tdh6ES3XemyFG5FowIHKQ3aOsuTtjMu2gVu1tuc-KjWGr~h449MOPYboPmkSt5vrj9S-Qb9zMcFvwwdOWfjLic09tuHnvx8908NY3J10adkThoI5xoe7ccld77mmw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i299/6617503",
+      "https://www.synapse.org",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/btac259_supplementary_materials.zip?Expires=1796912979&Signature=c0GR6XFBTZRMMQk~zyAmWVnZu-L0NMCRfi6iVyYmui96x0dI0ZI~d32aEWkNvKC6ghrRjBLcKpxZ-UUZN6D4SLLLgE8miclBfwICTchn~7qmOHcJkXGTB8S7AQcEL6rje-duCr4Jxi14ECzWyHG485Ip33u7WG~EX4ozsZBl4~dQT5jxfiVOCHujU9ryEexLl7uD-RtR1W7t5qnG6XyHlIpkDQ2-9yXpaCrAB17ho~8mNDJK0k0oL7wnd2pf9CXrZLljxWUGH0uAHb4npoTGFEtL4nF5tTEOmoG2NZfZXXPWdL0cIsYLTzAghnQKoAJ1jJne7UCBuQlXdfUGWDQgWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i299/article.html",
+    "pdf": "files/i299/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/m_btac259f1.jpeg?Expires=1796448011&Signature=OJdioFoAqfMImdedt5IDdSKoncEr-sT2OoNh~MSa0qUU0fhOYYGE1zoQWLP1OxRa3MtDd-Ii0G5KmQT9GAvaPPT0ubevLkh20gTY8OsGShF8rM1gGg5NymBFKlfGY-a9F6vKhwi8kAxeMAzuUU2kS6QzHWya4b2krXUKk9-loyBtW1go7P4n7~QhFXOqcBySPEdqB41Qu2ctNQeArN5U93IcNP50~3F5KbTJwG6ifeoX3rX7kZgv6rLul4yVWj~yGaEyw6FHaZ4l8nSW~RWZU5YYv64siNN8qCaFkixX5ZtaNKRIKfQrp1wulO2tTyTLU40P8W1IYI4ZRY0ADF3sCQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i299/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/m_btac259f2.jpeg?Expires=1796448011&Signature=h3cBUfkI5tQoivHapM6b3idn-WPw8Se3wFRa~ug1Lrnx0zyNpQv-DIMgbyqdJlwE4k9Z6FKOy5nzUiZk3qzbnvm1pYdpRYG1fhCzsYiB~-5HJzUbUEbWj6G9mUWOCVoBZYOKa4478weM4OHtUQCggwkGSab7yvCkKJn5y7RzdXLQXV47Ki7FLD6i01wTALP4abZ-r~acRQoJlR9aPpfjMUPWVrHGt0M6Yk98v6FmEovFejIyVZaL1GiXYFc-nOyEfn36pB0MA13DRQ63W0Gcvlsh6TSJ1RB-6NfmtVtqo2Kfzlp7XJz-fTjV~43XsLXosdY0y8qrOeYN0VLTQlJCdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i299/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/m_btac259f3.jpeg?Expires=1796448011&Signature=jU~L-NECayg8K2epE-PNpG9pIyqC77U8faD2hUnF5sVoEgB0BsRZjmhi0XvMU-qF5~7S0TQAyGcateEO4TCEHEpUev13yjJ8B6ss7C1Mvgf4In5JuP-~JkMoi6vxPQbBNxqM2TsR71S5zR7zRaVrRAcr2CrGz~LnEE4a0HZvh5Bz4tfTO7ZiitI4Rn-vilXl5hgwRdQbQdDQfwHVMwRFG3YDJg8e2MKu0m69F0vUTOdEBl3~NSZJnElWMf5WNBskf6BjzthTG3PasQMm3vgrrY4zkLDjEW848zP1r0nB7YVC8yTiLv4R3ygGB3Jsq-z~1sfI7MfCmpdFQlNhUOWSVQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i299/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/m_btac259f4.jpeg?Expires=1796448011&Signature=jbGFV4KXABb8hoyXIit0sF9SpGkIndc-VGzZ1xR-x2qcL6-lRimwuy6GgA9lJfHJ~kPA0hXHR1OZEFufqCCQ-StxZswKP~yd3c3-jGSpRTaVebmPRLjasJHGAv5dycHBOi1q5in4gKkhNt3wkAeP0DUjG6e3TDQ98x8nnDHpc4dFB3wYn46Ep9vHXQjGH8E2uvr~NXb1Z5HnIa7J-7-BPYsw6SvMFgj8c1APb-dVDJr-VOLnxRswgs~KSi~VlajSeDKOuvG9V8AigDtm31FoEN5tKmhNYqP64Vco5MDVbWJk56ADxXUTSc452mPK4mYNtt6ZKPTPhix3~d2b6Q9frw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i299/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac259/3/m_btac259f5.jpeg?Expires=1796448011&Signature=lN-mq5SCmOscLdWGBnEtt~kRh0eXo1uFtewYBphj2TlAKTrJ5NyJLIwotPbD1HgryWcZVPHKJqHgkwGYX5V6oubsTSWbGRwefA7IfEkArTM4NOWRTaWK94io~Q7oIhK0YRwlwkVtGuC8dfORCbZtoiy~X~RP0CZSDRia-FfQBYgCLRuu6ayCzv0rNndVCmhLSrit09GJBsHfJ1w1zzIm1Vz4VAV19ppu64KkAmwpHXfYovg7WEaM-0ybcSDaLbR7qx3L3gwsFNwDKFomTSC~cCLRLvtn3BmbzRzJAFtT0IgZbs7OxDNae13pxyBNwreium5CGWtIji~cJhfLFR2ozw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i299/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "paper_name": "Deep kernel learning improves molecular fingerprint prediction from tandem mass spectra",
+  "authors": [
+    "Dührkop, Kai"
+  ],
+  "authors_detail": [
+    {
+      "name": "Kai Dührkop",
+      "affiliations": [
+        "Department of Bioinformatics, Friedrich Schiller University, Jena 07743, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Kai Dührkop"
+  ],
+  "joint_senior": [],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 0,
+    "A_lead": 1,
+    "A_total": 1,
+    "R": 19,
+    "h_lead": null,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Bioinformatics, Friedrich Schiller University, Jena 07743, Germany"
+  ],
+  "openalex_senior_authors": [],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "h_lead",
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac260",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i342/6617526",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i342/49886625/btac260.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://bio.informatik.uni-jena.de/software/sirius"
+    ]
+  },
+  "files": {
+    "html": "files/i342/article.html",
+    "pdf": "files/i342/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac260/3/m_btac260f1.jpeg?Expires=1796452309&Signature=spqKzxsjcoPB-9luMj7QV1b~uSqeITDh0JTllAoFOAEWpy4Zzf515cUwL9pekPl0yFS3biw-XzX9E4SNOygGxLlqZxBf5SY7XPFlYQ0ZhtaIworIVcOpdLKdS21ztb13d0f324441SqQtPpsFfKcnw~BjF9~eT6S0bllwob8MrhGyNisC5BHAWyzL3pC7iJz-VGyMbkf8eSniRNiN6frpUcqTaLycWmM3vYkmTJqfTMY4L0298W3hz5uGCvrE2BtRBwesE3onhdJgccQ8-~SLzy8EWt0VQ3UljSLSdqa9OFRIm5BEW95Tjehnu4R3kvonvSeeukMaxExWypg1S-2vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac260/3/m_btac260f2.jpeg?Expires=1796452309&Signature=TN0WMeMor8tYszSvhF9BtJg0VqjSEuywrbR-2MbYOLcQis8b~N3Arch0-FUEo1zqxXOhHZ237bn9On1GfoXgfTDdZn4CIU6sUsMa0unw-xGW3cge45nYWWLzQCfZXjIktF3aDN~IS7dvNX9P4e7z-yX5OrzwPKTEqjkZClecn~PT1kMCRGCRIf~bF0W6Mxs5Gpc1l1XYYEUnZbbVxlEyhogCFtC~r5yxZR5YenFn5v-~juC-phdPqlv1gIRX02jTRqrjUIxjuCqXmGzaFkh3za~MVLiRyEKQT~p09aUiaYCYAmXjY0YJ4nfh-grNKlIiihuMogew76m2egOyWNdWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac260/3/m_btac260f3.jpeg?Expires=1796452309&Signature=QUiG4FZQ50N-FqUJmZcNcojoiRN2t7w~dOATZqTw-a8OTvEf-5jkLlGzHb-zA47q7HftZSCajlwNxtWggWLAo3cU~1Dtfsw6pkoV7636ioXkz2cq0jpoFwUUWaDQh4M7lkTKDyvN17cfiPO9E20vSTanBmjg45TW-YIEcHuASlgiHGqKRRMnjKk2wVJ4H7vzszsrgXTcG2hoIi-QJiEVf3riPbbe5-rL2u1MFzALx7uuuMZTTeoUJCpikodtXC~dChKcTjf2ooQxGYft50ZO6n70KTlu3SHoONcGL5VEBLCSVmDuRDdDbXbLMfhkC6EOg33N46IGHC9mcnRBLAy3fw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac260/3/m_btac260f4.jpeg?Expires=1796452309&Signature=U1QBVVD9nBVnCUlihHl5uOutLke3eFELlYY1ujkapnnguvzPgC9kgADVSJlJh8jZ3ev~ieEt1ri6IDL~tTGjYDLbcgXPg0SKvTwPorHwRZF7MXYZXgmwU~EL4-aQTxRVJT-82sjKfi-DPxPiNz-k3iVzgfDpSWuwYxY7hCa88o7Wo4eL8QSBxMxQHSZ9ezqc1TUlSSJ2ephI9lo~lHEcjtf3Tc66Rz8y62auSk0OdF2vYGthiv9TWAQU-qnVLt5oc3rDaOfMQXrXlbH4jJDkbeBBDQMKU10bEwoKs3gLtllvAbDCTR5nLjj5VimjltNWGTU2YkccZhVO9fmSJlv69A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

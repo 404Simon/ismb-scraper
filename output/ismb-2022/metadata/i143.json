@@ -1,0 +1,140 @@
+{
+  "paper_name": "Robust fingerprinting of genomic databases",
+  "authors": [
+    "Ji, Tianxi",
+    "Ayday, Erman",
+    "Yilmaz, Emre",
+    "Li, Pan"
+  ],
+  "authors_detail": [
+    {
+      "name": "Tianxi Ji",
+      "affiliations": [
+        "Department of Electrical, Computer, and System Engineering, Case Western Reserve University, Cleveland, OH 44106, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Erman Ayday",
+      "affiliations": [
+        "Department of Computer and Data Sciences, Case Western Reserve University, Cleveland, OH 44106, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Emre Yilmaz",
+      "affiliations": [
+        "Department of Computer Science and Engineering Technology, University of Houston-Downtown, Houston, TX 77002, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pan Li",
+      "affiliations": [
+        "Department of Electrical, Computer, and System Engineering, Case Western Reserve University, Cleveland, OH 44106, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Tianxi Ji"
+  ],
+  "joint_senior": [
+    "Pan Li"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 6,
+    "h_lead": 49,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 2,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Electrical, Computer, and System Engineering, Case Western Reserve University, Cleveland, OH 44106, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Pan Li",
+      "openalex_id": "https://openalex.org/A5100455171",
+      "h_index": 49
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/xiutianxi/robust-genomic-fp-github",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac243",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i143/6617498",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i143/49887187/btac243.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/xiutianxi/robust-genomic-fp-github"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i143/article.html",
+    "pdf": "files/i143/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac243/4/m_btac243f1.jpeg?Expires=1796865596&Signature=XVkG2SrsCdFUQ91cX5HXf~QzkKQJeQXhQn8~t6AyLc4aOaVkNsLhK1-hml~ncW3KCBJG3qz4rtQ0jnvdXTl~HS7JBOvGeLn2BRvGE5NYSz0fRbtlrRzEaDIj6rFwGUdQiwVcEolbQZaKwHxwvj-0e5WxQGYy5GrFFamSOEZvSzLPc3yiQQ2QMbEOCCqzGXYnmsNgdNdreLuIs3dzbs6xBnAGTCaL3vwMX2pS6MyEqsJv0INFzEr551ScFckxqAo0PJwUinfw0JE7RrAvR7dQBYKJR0iSXFEzbjHhpx20RNviSlUJCCVS3HvhSBHOr1sj2ZeJIAtbbE1-QdA33OTjzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i143/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac243/4/m_btac243f2.jpeg?Expires=1796865596&Signature=WHZHQzFM3hFwHxFZhoZAP~uA2iL7~QqjdYHL4gbdzDeRCRqDIojkt3Rgknsdnh9uely0Y5IXGNE1L0s9EBFfM4iDPKsEq2IkCsSprlbcugfroa-XevSBfeyHnQjZLMZUGxQ~8hhLQf-cJW~lrVMVh~kLeg2pNqlpaMKsjthkh2Lsi-gzGAoJk9KNxIum8IZ5hGS8o8hMugtlExnx1qB7CY49QYi~hlbsTvNDK5dKCpjyeEuL-jCgOrMpbv~ZoZ1BedyMCNmjwsPpPN~Ve4c73AlAFZLrBFQEMRfaW~yAfXfy-9i~Dvha43Y5BKOIezXfAu7hOtqy9Ro1iEjtxWJC4g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i143/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac243/4/m_btac243f3.jpeg?Expires=1796865596&Signature=ilinpLrLMUpg7yMbICQCF-pI1lGWoytc730RjdIe-dtqduCxCzrXNqlq1KaMkVWEZ2Aa0cKFMrd3OaEnPRNiW1qMaCwbuc2sUEa0lpF02eH2PKY3lOpMR9l8POgaQfZlq1jZEDS2zc2UVLJByAXlLSGlv0tyG1voq6t3Upjs0IU4QvWxqQgHJZc0h4I3uGe9Mep1O2VmGAl4M3pgMHswVgocmM5uJJXp09TroOH21k3j6BWPBHe1G7LObGr19Hg5fD6p~77Mg1B7UyY7XC0VhrgT-6Z3He1-7AA7CJ-H1k8-qcE3VnNvOCCKXl4hwnWkmTfCUDN9h2y7h5Ku7I5s9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i143/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac243/4/m_btac243f4.jpeg?Expires=1796865596&Signature=t7g9hW~7rP6EWfMkrg7~~emcN6ePz16X1x2-n-lu6k-VCB~AOwI3VQ9FF5T5YHBKBMz9hXi~wJu~iX-v7I39JfpX6ZbEw4B0~fO3fqEOxT6iFKiDs6hLGQu1lUhKKPrYL9dCldgI656c6C-WI8J5ANsUeHG~u2TAJZ0~j-p9O561FPJd4FeyXl1pmekjr0B~9tMELwiHntNLAwO8snHgmGnkklWQlAYvCOJIx~SrVghRVXiDOR3TaqHyfeE8jVnSZj394DCUk6tiROgYWhgt3gAlRFV-hyruTWENQL87hydJAJUne6pu7k1NgNd0gE6FxuoLWx8G6znOWazhsg3-Pg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i143/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac243/4/m_btac243f5.jpeg?Expires=1796865596&Signature=hkt8DlmmAo79fLGWkupT7Yp-PZnaZTQI9JaNCWML6o-VJ~iBP1cLj-tfaf9vr56R2SCNcz-Ot65Jxp3F7vHs4OZbNhoxQ7OXmHMjjjJFIT4PomsoHkRg1-Q8bfeZXVyhsHUHSuETkYm4-kCBwRtBbbHLHbh7amlogXX2BGC5hdD3veRuuRke2VQ72Eo6W2SdTU0Dsmmhs~8j2aH1yBP7sxx0e1n180lyWESwwiw4JRlEXEgE6xYBZMGq9D~dsD-y-s~vLpJE9QVFO-1mpqj~8Pxhj1FlNuMmgyzaE0RmU8Xn~RhWawhB2N1UpaNJH~X4vma-5Lgj3aljIvBnVUjMBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i143/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

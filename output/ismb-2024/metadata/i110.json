@@ -1,0 +1,271 @@
+{
+  "paper_name": "Approximating facial expression effects on diagnostic accuracy via generative AI in medical genetics",
+  "authors": [
+    "Patel, Tanviben",
+    "Othman, Amna A",
+    "Sümer, Ömer",
+    "Hellman, Fabio",
+    "Krawitz, Peter",
+    "André, Elisabeth",
+    "Ripper, Molly E",
+    "Fortney, Chris",
+    "Persky, Susan",
+    "Hu, Ping",
+    "Tekendo-Ngongang, Cedrik",
+    "Hanchard, Suzanna Ledgister",
+    "Flaharty, Kendall A",
+    "Waikel, Rebekah L",
+    "Duong, Dat",
+    "Solomon, Benjamin D"
+  ],
+  "authors_detail": [
+    {
+      "name": "Tanviben Patel",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Amna A Othman",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ömer Sümer",
+      "affiliations": [
+        "Institute of Computer Science, Augsburg University, Augsburg, Bavaria 86159, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fabio Hellman",
+      "affiliations": [
+        "Institute of Computer Science, Augsburg University, Augsburg, Bavaria 86159, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peter Krawitz",
+      "affiliations": [
+        "Institute for Genomic Statistics and Bioinformatics, University of Bonn, Bonn, North Rhine-Westphalia 53113, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3194-8625"
+    },
+    {
+      "name": "Elisabeth André",
+      "affiliations": [
+        "Institute of Computer Science, Augsburg University, Augsburg, Bavaria 86159, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Molly E Ripper",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chris Fortney",
+      "affiliations": [
+        "Social and Behavioral Research Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Susan Persky",
+      "affiliations": [
+        "Social and Behavioral Research Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7768-5744"
+    },
+    {
+      "name": "Ping Hu",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Cedrik Tekendo-Ngongang",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Suzanna Ledgister Hanchard",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kendall A Flaharty",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rebekah L Waikel",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dat Duong",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin D Solomon",
+      "affiliations": [
+        "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Tanviben Patel"
+  ],
+  "joint_senior": [
+    "Benjamin D Solomon"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 16,
+    "R": 12,
+    "h_lead": 46,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 27,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Medical Genomics Unit, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MA 20892, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin D Solomon",
+      "openalex_id": "https://openalex.org/A5089060602",
+      "h_index": 46
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/pateltanvi2992/Analyzing-Facial-Expressions-with-Generative-AI-in-Clinical-Genetics",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae239",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i110/7700869",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i110/58354849/btae239.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/pateltanvi2992/genetic-conditions-image-classifier",
+      "https://github.com/pateltanvi2992/Analyzing-Facial-Expressions-with-Generative-AI-in-Clinical-Genetics"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae239/1/btae239_supplementary_data.pdf?Expires=1796421780&Signature=Z5tNVCJpBduA13E~a6Kf7jRDrGThRu-UDi7XP5o00aVsQ93CsHBLOSPaF3hBNwtJya0tmxIgx9H--i0RjDv~GfggNnbhknmMvIrPNO5Fk4gyK0nFEYZ90UMknatB1YyjAcCi0ImSB3HaRqm73i4fn5wFNMRNz6WaDEkqbe~tez21sLXCCtXb-Ac9UqrCQ7qjHBJWIp7e~WDEaOJEUb09fUmUUx8Fm1-6MTnLBX~7YBE-VIIz~dEV1NkuzR7RCu029e1hHdz7Ea5aeSuebDV~FgV~Azw9nsz5lw5OggOIDOv~TAjHqCZ2dH8LkMYYYlxXTp-ZFPF5BpUGEOIVyvndYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i110/article.html",
+    "pdf": "files/i110/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae239/1/m_btae239f1.jpeg?Expires=1796421780&Signature=o7mW6f4T1BdHECV8y7sFAxHGSh-p4Ft9qE92aqjrcGRt~lnLv8YcgPgSHAX9E~GML5IJqAJxtSL0U0Sm85LzGxPmDT0ew7Zx9a55sJtmYV5FDp10~HEN0oaNo173~LkZjBQ8VUK1pK8O6j981qjRCZdB3He3SDoRGaYpG~15kaBtMjKlnM2ujOpQd-LseMhaXlXfIKgvFroMz4zCYr7WbzI3Rce7rsUpDEpENX92r6W3oZUYD28cZPGQlcQpBjghjW2o~CTU1JXN8nceYm~CY9SfC~ewnUqKSuCcHScmqmncikBgGwewj7CRGKQCCjSJmFW0qC6eBa0mtvx6f98~xQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i110/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae239/1/m_btae239f2.jpeg?Expires=1796421780&Signature=HWqaBJp7~xdaeaXhFF8ZsLrl6ZfBwQm8AeouFZggj5IGpmNRVxwN2YvhbKf6-z8jzh4CNqC4aclopsSHd80uwRd~e7~S2pizV9fOhvoDzo9BCzxuChdML86SQWIBb39C2MkrUPiNYPVg~97ZrwQpDvSwwkAmLgfpfNegi6labLfOC2WkZWuzuR96~PwDNy17mcq08ioWAJq9Aim-MqOVU7ufpUEbXeh3LOUD7WrRFmDHopFfn4T~iGLUD~KRYyJGdXGAULnZ0vReqn2NRXGh3bJQFbRH5mbMAGca4lxnSEK3FcAh32aL-UxaGYmIFZijt9JvBSmZf9TTRO~qs95JdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i110/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae239/1/m_btae239f3.jpeg?Expires=1796421780&Signature=GdrPPWDTtvGreXiXqX4JAeSpreiZ2p1fNpiDDLbMkitb5f7G45klMinMBWOANlBnowIzoxWEbn5Hxljh7B~0nQHwTAVZ-ZNgLjJSAHQHg06lIovCLIww4YgHtd5PXT7m7XTsTsMPJI-Ww93HYFINQehFl1yo-QvQFzX-EMPSl3q-Fxz01Pk1K7zXSskPAmHPhYCLuYfOAD7si8npWT~uifGQmHnLiYb~tKsgQIiFAUH-HtBAWC~CM38HikQcaWeNnSUJyId-Qnu4XdfKnHNCADfbuEK-OFcC9DbEIpLrXK3fH8GZmtsAT92XPVIWnhyq453W9wRLpNm0a8nN9ElJKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i110/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae239/1/m_btae239f4.jpeg?Expires=1796421780&Signature=hkQTWM~YsxAW9vCeR033VARJYlmSc0slmul~FtwKeRnCi1jh6HXFqhk1FIvJ4jIu8QCmX5HbkpjJZMqjBJ2s7DukzPDBQUodxw0lradDPLqyiLGHu2IncHbLorufFGDlzUCFSH7TKHlNKXUMTicPbRywQsiRE8blN-xKOpYs72edMTtzpvAFHTKYM-xgQdJXXQrojiIT5n5htBzu7ejgPBZhvHm8tjCg4wGRfL8IDrhLNJ1fYzpvVYJmT~V4PmM~3Ur9rD0NZDD0frzisuKZmJ5EaHrjN~WN8VQwMpdAXdu8SM1QG-oOFgHjLWKQ1f2~qzsi9R7~iFruUi1zMmYFLA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i110/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

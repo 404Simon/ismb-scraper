@@ -1,0 +1,128 @@
+{
+  "paper_name": "MutBERT: probabilistic genome representation improves genomics foundation models",
+  "authors": [
+    "Long, Weicai",
+    "Su, Houcheng",
+    "Xiong, Jiaqi",
+    "Zhang, Yanlin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Weicai Long",
+      "affiliations": [
+        "Data Science and Analytics Thrust, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, 511453, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Houcheng Su",
+      "affiliations": [
+        "Data Science and Analytics Thrust, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, 511453, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jiaqi Xiong",
+      "affiliations": [
+        "Data Science and Analytics Thrust, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, 511453, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yanlin Zhang",
+      "affiliations": [
+        "Data Science and Analytics Thrust, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, 511453, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Weicai Long"
+  ],
+  "joint_senior": [
+    "Yanlin Zhang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 7,
+    "h_lead": 10,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 14,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Data Science and Analytics Thrust, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, 511453, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yanlin Zhang",
+      "openalex_id": "https://openalex.org/A5100424688",
+      "h_index": 10
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ai4nucleome/mutBERT",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf229",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i294/8199401",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i294/63745665/btaf229.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ai4nucleome/mutBERT"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i294/article.html",
+    "pdf": "files/i294/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf229/1/m_btaf229f1.jpeg?Expires=1796810138&Signature=OdFedui4Sw2zozPk-kIWWoOtgD4pdLiubarj~2iR44Lxxxr2l50J7hyaqfyU~boGNITxYs4Zv0JvL9OMmzbXfmkZ6QEcl5yO5YSMHmi3WQW0mQGp6WyyfwbUNQXa58MVUih5zv91lptV21oeCtjHqvTZ0OmdfeUsW7CU77jznUMFyO1WdZrBwfFCf2L8uSPqSDYPPDPZAjJWp0qLJbHvuZoA87Fj~vWgAZEF-VxQCJ50kFu3iydm4bwic6KHMZzZamr6ZYeVL8TAWdlBfZnjgUPeoY01b239g2LwJOCLCzkn4-KeSKpcBy5Fp8aPTserlPbw0z3uAMShZexxAiaZ3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i294/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf229/1/m_btaf229f2.jpeg?Expires=1796810138&Signature=xMXyoe7hzJb-mDJhJP-S0pqFOJGKUKsG9Kbq2PlkSGqS2twdTARFSYw0kEsUmKwrYr6ER496VFj8Rt4yNzczsi7iSi8YcHPXISSX42wvNtoqzSofc4d7O5w7F31n9G5KG85jlJZmDAQ~HXqzpK~KvPSmyWXcVgn5rJ1fUxtrrULh2fhiMBNm9~0O5v~X3TNpX72RyM-GnvFRnga3ZV0xrxWr-fNKABklr3KCAhyBpiXa-QNg-1ZbxEDqStnCJa9X9cdSVWg2civyzCmJs2JIaXDQVSe6y0MBIPAUrsMihk1xdbEPBbhD5Z9TXmoxLTRkkNa8vewh~Xr1kcneM15TXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i294/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "paper_name": "PolarMorphism enables discovery of shared genetic variants across multiple traits from GWAS summary statistics",
+  "authors": [
+    "von Berg, Joanna",
+    "ten Dam, Michelle",
+    "van der Laan, Sander W",
+    "de Ridder, Jeroen"
+  ],
+  "authors_detail": [
+    {
+      "name": "Joanna von Berg",
+      "affiliations": [
+        "Center for Molecular Medicine, University Medical Center Utrecht, 3584 CX Utrecht, The Netherlands",
+        "Oncode Institute, 3521 AL Utrecht, The Netherlands"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0001-7067-1406"
+    },
+    {
+      "name": "Michelle ten Dam",
+      "affiliations": [
+        "Center for Molecular Medicine, University Medical Center Utrecht, 3584 CX Utrecht, The Netherlands"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Sander W van der Laan",
+      "affiliations": [
+        "Central Diagnostics Laboratory, Division Laboratories, Pharmacy, and Biomedical Genetics, University Medical Center Utrecht, 3584 CX Utrecht, The Netherlands"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0001-6888-1404"
+    },
+    {
+      "name": "Jeroen de Ridder",
+      "affiliations": [
+        "Center for Molecular Medicine, University Medical Center Utrecht, 3584 CX Utrecht, The Netherlands",
+        "Oncode Institute, 3521 AL Utrecht, The Netherlands"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0002-0828-3477"
+    }
+  ],
+  "joint_first": [
+    "Joanna von Berg"
+  ],
+  "joint_senior": [
+    "Jeroen de Ridder"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 19,
+    "h_lead": 33,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Netherlands"
+    ],
+    "M": null,
+    "T": null,
+    "S": 16,
+    "C": 59,
+    "I_open": 4,
+    "I_closed": 8
+  },
+  "lead_affiliations": [
+    "Center for Molecular Medicine, University Medical Center Utrecht, 3584 CX Utrecht, The Netherlands"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jeroen de Ridder",
+      "openalex_id": "https://openalex.org/A5071483953",
+      "h_index": 33
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/UMCUGenetics/PolarMorphism",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac228",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i212/6617483",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i212/49886497/btac228.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/UMCUGenetics/PolarMorphism"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.5844193"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/btac228_supplementary_data.zip?Expires=1796412528&Signature=wNEMu-7jZhiz4EMq8eObNYXqUMeSgWBiaK2fnAd5Qg4T4dwHEjK5VSsIEDHt5SfN85yL832yPclX8x9AT5NS-D3WhQ0d-1QfNtXiK3wBJHSzFrqw8TG~Xjk12FF9SH2lA~z9Tii8vHnQiN1CVGZjFxeV4XFCGo6Einz0hmAzpIAz7muh50h~cP2I12roEW7PwCVUb45LFaEX-3mWMZ~Y1IE~diaWwyr4TzJoRihLF0OnhAf~9r32W3IQh-j9TAYT~EnvZivn~DGP-V6N5VEjJCAPQlrlvx0GfTYRckvD-wcREVcvDWiRL4GCpeek-ewswvMJhgN9g-zQfFAojoe7Sw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/btac228_supplementary_data.zip?Expires=1796913472&Signature=mcU2m7ikc1uoiOxAtjQa9F~sECNdYYtU4DG2ucd4SS3Oyr2jjw7XKcXL2yQZ7RcCu~mzGIca6Sep6hR7jyBpoBz27uYJM8jrGgRQhNRaa6wxjY6qFSkqCBUXq5kKGBrww0cMJnWCkLr2Ai3gCcYEtqYYNiq23XL9SFHoukTOGtRRDQJo38ZU4I7gdCoMHzKThVRgqmwMCvHDnWfO6u256PzFbBW-So3MIDZq8dF-OwEOcvtmCH~Zrt4CFDVt9qB1hDBRend7JIaCX9HHkRynwa51GiswIEJdVkGE~jylh6aTCG8EExewl338ss6hUpIcFBNkhGakUiRpCipa8KzeoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i212/article.html",
+    "pdf": "files/i212/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/m_btac228f1.jpeg?Expires=1796412528&Signature=yKN1oj3V8FKDRabGdlVCFs1BR7mvU7BLv2~~4aq3vXJZCv5yZJmNAjByYkkLjgbRD5iX~Jv6u4t7ou2fQpwxshxgoOfnOmNEiCQszrv4PUZFZ5sjBXEdYHl4eSQn7ZX1UemiJiSbgbsYA8MBflWOUYVNFQhDemiKncU~u62rjiWgOIeoRCFDTPDgY4dPiCsKIPHA~zD2P5V3iDp4wfJZuF2ZhrE~t2lTD64AKrI1spNMlMk751MtfaHCCZhs~zfvFi9YMESY9J9dl4nBju8FotMoWL4vosEueoG0JLNsarDwCUUq0avvaIOCR8KQpXe7SNYruOA1xjaaARijRqJCXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i212/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/m_btac228f2.jpeg?Expires=1796412528&Signature=JDb8CAR2BPzFvZ7MO3J-K6t5GF4TrNNWH5MHcv5O~tBWPWddhyszhSDHOK8zK0heYq6P8byVE-VUl9md7YGoEbjfMtlVlmROuKs1eac8ivew7NxAE1~jv8c4zWDbBTSxNGQCptdUBhE2OWcrYgVPYfL5JM-uPWuJci4l~bCF8iDGT7D7SMQXtd3gDwXnz-kOy7F0XCEQHY68PP0gTsqDZ1vjTWC61WQG8IceKHq4KTum-OWCAwOlvzufcMnJTwVyn4MBc9uGEaJHFPE1ptNFqR868d266MHFIvkCz4XF9jdRWdXcRywexjLYMXrF7Ix9w8LM4EmGvOYmlx9ySU3LXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i212/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/m_btac228f3.jpeg?Expires=1796412528&Signature=iitzzgFUfipFEkFvx~PTPEd4ihXHEeEtbpYHK7gGhvCaMyfah7-DF5sDWXArJsVPmUazas5iMj8nI19JFt0nLqmhhQLWObhMTlAJ-9Ad60v0ALxJ8vK3120W2xQDOxCHoFB~421SYFEwoHD1sSVbaeUfJRLhPUIO4DwdWjcZAaOxSCaDloeh~TTvyZg2oyvB49KatjfUIhHpHbs-w9R0uIUI~fyguSCpZUGLIw1LnVhVDUoOoLwTzIPYzAHJhOmfpvnC6rabH-SJlHLEooTFAuwywIcREhgtjn6ppswmIHnb2tQ4ws2163ZglqQqe6UrEGBEoawQNa~B~T~ow~nmUA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i212/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/m_btac228f4.jpeg?Expires=1796412528&Signature=1cJ38rZMnjxQedfmvTAFUuRReOn-J4SKjSByFbUSxkjIu-A6aVIpJQ87Kd89waHOhmFxQyT78WFD3VYcg71TOGH0BnNikdkartE~R3XfeuvJZ9V2AcnkLCk~e2a5ncZeVzCBZsIO7cPzL2zuNSEazHhGQ64U20KoXfUrjRKP0wZ05TVU-IhbrtxmBzuQ4UeKFZcCbj7Eexa5-CTXii9bkUhmA6IVyW67T41~DyeZm0znzX8ll8pI9lhoXwHWvmzCYfPB9B4STpVln6VFKOzC9dbSNB5j9COtHgcEmTfLRv9jUos7VEJma2hTDdjoBJvVRA5hjhvaCyvyMJqciQH9MQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i212/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/m_btac228f5.jpeg?Expires=1796412528&Signature=acKi6O3x6FTv7kPC8aAf95VP~gqbtzqNhP09M9swxB1MqUqQUy~eMlykIinZdibVdIzflkCpiwVqG2jpCdLJFUG6Ui89sneT~ZE8lQm5cJQmFqhW387Q2T1qkx3CULoptvW3-~SOLgVkNGgmgaIXJxqRjkjbWjMGQL5APp5aPWxgLzqEZLd8GE18B39dJAhEWD3vLaDeiv5z-A1wyafYYFMccNci2nEEYqm~TrUA6Bfxh~DIewN335oxGlUnNU3eceRjuszLwtm0fwATQELEhGKZHSjI17DFR4cJ3mBeVd2KdE~lhgjaB37KHBmLn~-UJ7Fue-vd-CjT4Zww7-qcpw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i212/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac228/4/m_btac228f6.jpeg?Expires=1796412528&Signature=zJOtw2kBMKN9nl4jn18FSkhTeLF1W~opZDlKGcftRwo1Vu5FCoDEEpsa26JcnD2OQniZet~c5Z9znz0fmWWszLa3uspKwZTCYfyfEyePHfUqhnnpDqMQ~TT70ktkbquDN5R9u0KiwOzse1~N8oGz8Sitdogujc5tbp4NcKGWNfdB7~cK4iiPAR7CTfPWS-3Gv6KFEduHJqaiXpak-fqgDQaa9dDanT35ZQUDED68-oNKkCoEz8gWqnBSWHxsIfLT5jmVSNUpZtGNsW9K4QZslHB58eL6iC~VbvBkwSlXdL3KCgTCwxZX3oUMssQ3XP8a-vIDOxb7sg1snouhzH7PPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i212/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "paper_name": "DDAffinity: predicting the changes in binding affinity of multiple point mutations using protein 3D structure",
+  "authors": [
+    "Yu, Guanglei",
+    "Zhao, Qichang",
+    "Bi, Xuehua",
+    "Wang, Jianxin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Guanglei Yu",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha 410083, China",
+        "Medical Engineering and Technology College, Xinjiang Medical University, Urumqi 830017, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Qichang Zhao",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8319-9793"
+    },
+    {
+      "name": "Xuehua Bi",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha 410083, China",
+        "Medical Engineering and Technology College, Xinjiang Medical University, Urumqi 830017, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jianxin Wang",
+      "affiliations": [
+        "School of Computer Science and Engineering, Central South University, Changsha 410083, China",
+        "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha 410083, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1516-0480"
+    }
+  ],
+  "joint_first": [
+    "Guanglei Yu",
+    "Qichang Zhao"
+  ],
+  "joint_senior": [
+    "Jianxin Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 23,
+    "h_lead": 84,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 25,
+    "C": 51,
+    "I_open": 7,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Hunan Provincial Key Lab on Bioinformatics, Central South University, Changsha 410083, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jianxin Wang",
+      "openalex_id": "https://openalex.org/A5100438360",
+      "h_index": 84
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ak422/DDAffinity",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae232",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i418/7700870",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i418/58354856/btae232.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ak422/DDAffinity"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae232/1/btae232_supplementary_data.zip?Expires=1796404919&Signature=H6SjCbvL8SJ6JqLVrvBziQaqbxk0JWZZV8AF6WrVwhNCfDnCbpZXCir97G2AA-GnY5y1~Vij5jrgLlIdXTUgOD1IOOM5-kC-Qu6FkOIFSxRYyW1I9yzbp2xG4LSvKHNTRiHIxpvGxDJyk6v~JO7PUZpgZizYQRwFacA58rLhV5OSTGnjTuVn8PF-3ZQdpf7rBRpePJbNPOScEIVR1a8jJk5MpAbq-zHGBBbFi-nQRS39kb-i-OUpEwomRf711SVb7TxdTNhKZjl0ZwBtTv5itndDwCls-lhsjctqz7QjQ7Nb9I1AxJ0GSFQzUfLTJFpj5ybX4NYa~co4KPgL0Z7saA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae232/1/btae232_supplementary_data.zip?Expires=1796835181&Signature=JVTKER1zlDo0IUUDjtoBbtvm-2G181Y9ihewqalsk59os3aFPCWck9wycVOokfjfaVeYhmi-njNNXJ23D9xTtmLXO8kt4vko-478XC9MCsrjTRBfwjubE9QMSQ9vNN0Bzxx6WMrBH7yVPphwWiVf5WF3z4ffGO5YADtL1utKG43kIjWq1fvPuCuOmpvrd~IOuVMKjXdoSsI7idxnqhx69Xf~tvyGYvg3vqoAuNtBDtrHXdGAqk4eHOZfXCNIBlkfIjXAhWB-IFA5q2FpTGv9u5cw8m0tZrGSXyHK7ufcV2u2S2hkc1a4DVk2zsM~E~6sf7S03xJ38JmKF843M3bz7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i418/article.html",
+    "pdf": "files/i418/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae232/1/m_btae232f1.jpeg?Expires=1796404919&Signature=g-7Iwu10RaBx2XFb-hF-J7S0nmqawSL3cSEsNKjbJhkpw3hVuVoIoDXJ6bXbR05JHZg7ZOcIDYKSV6Bxo4JYZ0zZLhoXNFBXo8seXQvcCkdj1XEaYJJzPLrk1BKlFzbmaifUWwBYPvMnB2dr-cq00zN7vWElAFab3j~5Y4s0wfx3np~A5Nu2V7hNytX1DRiNk~D7SeiUq21IDpGIVc3YZwehJYBzK~zQu1mmhjtIgBHXw3ZjG4-p7Psr7fM9dOIz-tQkqBA4-lPBL4rrtbEyOhvKWjAC0pclRqN3FaR2ayvPpzxvFuDTYNo2z-l5w~SoPP0tSnlemA0Q8B20-yYtwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i418/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae232/1/m_btae232f2.jpeg?Expires=1796404919&Signature=zYblOGKm-j9gljolWPdPkrDvHIXukeu-awF5XvuP~ZHFfqO8nYNsnhPofuJHal86a47ijbqZNgjHJXCJHll~uAzrsDEwLOhLIvLpetHjexUZON~YbAXR3t4zTWimHHDMhyNq~N5iCdfXHMcMJ4VOuQjx0FK8iQN889o60Y~U6NoF7am0tzpii8Nf3~wJjUzzsvWecueiLOe7RaR7mZun-xuXCbS6p7wOsKs~ekPF-9UGXhxNvWs7rwNTBldJ~eZHZqpR4UJWI17C7KAu-t6wcQ8wvmO2qeSL6ooEsKZUaOIiAUo-y9NC9BnmECpPDtaOjheypZ5y5gbxCi8mdzYa~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i418/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

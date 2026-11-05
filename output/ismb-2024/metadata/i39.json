@@ -1,0 +1,159 @@
+{
+  "paper_name": "Scalable de novo classification of antibiotic resistance of Mycobacterium tuberculosis",
+  "authors": [
+    "Serajian, Mohammadali",
+    "Marini, Simone",
+    "Alanko, Jarno N",
+    "Noyes, Noelle R",
+    "Prosperi, Mattia",
+    "Boucher, Christina"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mohammadali Serajian",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, 1889 Museum Road, Gainesville, Florida 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-8274-0121"
+    },
+    {
+      "name": "Simone Marini",
+      "affiliations": [
+        "Department of Epidemiology, University of Florida, PO Box 100231, Gainesville, Florida 32601, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5704-3533"
+    },
+    {
+      "name": "Jarno N Alanko",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, P.O. Box 4, Helsinki 00014, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8003-9225"
+    },
+    {
+      "name": "Noelle R Noyes",
+      "affiliations": [
+        "Department of Veterinary Population Medicine, University of Minnesota, 1365 Gortner Avenue, St. Paul, Minnesota 55108, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6149-1008"
+    },
+    {
+      "name": "Mattia Prosperi",
+      "affiliations": [
+        "Department of Epidemiology, University of Florida, PO Box 100231, Gainesville, Florida 32601, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9021-5595"
+    },
+    {
+      "name": "Christina Boucher",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, 1889 Museum Road, Gainesville, Florida 32611, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9509-9725"
+    }
+  ],
+  "joint_first": [
+    "Mohammadali Serajian"
+  ],
+  "joint_senior": [
+    "Christina Boucher"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 25,
+    "h_lead": 30,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 234,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer and Information Science and Engineering, University of Florida, 1889 Museum Road, Gainesville, Florida 32611, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Christina Boucher",
+      "openalex_id": "https://openalex.org/A5021635660",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/M-Serajian/MTB-Pipeline",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae243",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i39/7700900",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i39/58355092/btae243.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/M-Serajian/MTB-Pipeline",
+      "https://github.com/M-Serajian/MTB-plus-plus",
+      "https://github.com/farhat-lab/gentb-snakemake"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://ftp.ebi.ac.uk/pub/databases/cryptic/release_june2022",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae243/1/btae243_supplementary_data.pdf?Expires=1796453073&Signature=vPiLCoi2wp4AP6eSWuGP5oPQzNXU5dQ1Cc~rxZ2lWEnfZty8qfBYSDz7w-iLeWYoka2WOMBhheTL~IilkmFyY8XFgq~AIoN8D1xq0m1ogduw0PbUj3mjMXAMZQ3bGJJNxKZPN~W954MbRGOVgNU5UeAHJNpQAr3lj4IUj0MKBoq3INlIB2DBB08iLErAx2MArb8IyDycO-CBV0ovIUarKimGK3Wwmxpro4wwmxC0GYsEwsoHGgFwbsvUOCu7YmrF6t1Sq~OQYJfL9KMAAKFSXsJ-LEcDe9Hz2-ylDlMlb~0JJiExneYWf~RelRHBjJgjItI4Yp9XzlcvffvhNtl3Ng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i39/article.html",
+    "pdf": "files/i39/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae243/1/m_btae243f1.jpeg?Expires=1796453073&Signature=jl6X7NpZ5eDJs2c~9no~F1szglaFtDoOVXkFVwCw8N3ROnhrFXXnPRGWLCwRMqnz48GOXFlkAEs8tCehVsCuP3g70xO1Qcdzhj6t3SQ~r8Y1xGAsQYOEuXTYxFZcubJzJme1t8Mqo~98TkHH-b1jO355DYWEdd0pO-hTIVJJFwmy61b-0kUdM45xHTkruc3fL5X7D0-fWgVUFYOmFCDd5U5ckdohB1oHeu7~XmTQXnUq1GSXzlNsynBKcVAzW1wt0ZzkjoWETE7Mdkb1V0byFn7WlvNQ~3vVtmqmAuvc86fG-fNwfKFT7ljxb68Ddo~Lu3qg-T1ffoNnB1xqQLmAFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i39/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae243/1/m_btae243f2.jpeg?Expires=1796453073&Signature=HMM9O77dk0PtP7dUAAo9gG6Iw14cgPSB2oCnITbm4wDuKMjcO9-VAjHsB53M~SqkSeDkmAsbNsMmZf0RNE-W-BLjp94L6DUxT5S1R2X~D55sxVt~T4zKj7XpdyrrGpHLS0Rpz3l11oQsVC7xa5SdWfZZ3ayJNBz20u205J1NDUVpsZMFHkC4M2coDxKovkdf3p8eab~CbDwkzhsWxgyXpYlJvXy~eVVsglQN-rA7DSuGJnLQZd2ez3Uo2YIVgEgG11dO6isBPaL58PV3dwSTr4Fe5w3LS2hG5r2yO8etozgk2PtCnjB2R4DXvMWVZBaV97Ldi8Io0fNNrQGpRQgaVQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i39/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae243/1/m_btae243f3.jpeg?Expires=1796453073&Signature=Dy0IbpOoWyw4uiK5vojDlKgg~-t-BCv~VJV57T4FH6R06DFxr-lSgXscsBS2-kqzLRWeHluwkPGqzRe~bpFlqkPdgwfkdFdIobtt9mVCNnMqghYvFVp4UmIPuypKj06A~aUGchGozmMarGxw3jmDizSuS3KM0oXgk8eHRDCFvGeS1BfUxYMurgIRC7J-4okVVYR9mXK0WmmwcloPNWwvTQpzhf9TUJRiykhCnuFfiPZYbHfFaYONyATiMgaXqGNBxHfXMI6W10Yb4XYSzjKFPglQFcTOO3Mx-Oc4UNCJR2Syf6pIZoFXNVa3xAFyYRNjWU0jlmt2PIQPT~Ui3SHYdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i39/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "paper_name": "An empirical study on KDIGO-defined acute kidney injury prediction in the intensive care unit",
+  "authors": [
+    "Lyu, Xinrui",
+    "Fan, Bowen",
+    "Hüser, Matthias",
+    "Hartout, Philip",
+    "Gumbsch, Thomas",
+    "Faltys, Martin",
+    "Merz, Tobias M",
+    "Rätsch, Gunnar",
+    "Borgwardt, Karsten"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xinrui Lyu",
+      "affiliations": [
+        "Department of Computer Science, ETH Zürich, Zürich, 8092, Switzerland",
+        "NEXUS Personalized Health Technologies, ETH Zürich, Schlieren, 8952, Switzerland",
+        "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0009-0004-2519-0370"
+    },
+    {
+      "name": "Bowen Fan",
+      "affiliations": [
+        "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland",
+        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5005-9209"
+    },
+    {
+      "name": "Matthias Hüser",
+      "affiliations": [
+        "Department of Computer Science, ETH Zürich, Zürich, 8092, Switzerland",
+        "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6397-1689"
+    },
+    {
+      "name": "Philip Hartout",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, 4056, Switzerland",
+        "Department of Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, 82152, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1067-7651"
+    },
+    {
+      "name": "Thomas Gumbsch",
+      "affiliations": [
+        "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland",
+        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Martin Faltys",
+      "affiliations": [
+        "Department of Intensive Care, Austin Hospital, Melbourne, Victoria, 3084, Australia",
+        "Department of Intensive Care Medicine, University Hospital, University of Bern, Switzerland"
+      ],
+      "country_hints": [
+        "Australia",
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5579-810X"
+    },
+    {
+      "name": "Tobias M Merz",
+      "affiliations": [
+        "Cardiovascular Intensive Care Unit, Auckland City Hospital, Auckland, 1023, New Zealand"
+      ],
+      "country_hints": [
+        "New Zealand"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3149-5873"
+    },
+    {
+      "name": "Gunnar Rätsch",
+      "affiliations": [
+        "Department of Computer Science, ETH Zürich, Zürich, 8092, Switzerland",
+        "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland",
+        "Medical Informatics Unit, Zürich University Hospital, 8091, Switzerland",
+        "AI Center at ETH Zürich, Zürich, 8092, Switzerland",
+        "Department of Biology, ETH Zürich, Zürich, 8093, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5486-8532"
+    },
+    {
+      "name": "Karsten Borgwardt",
+      "affiliations": [
+        "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland",
+        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, 4056, Switzerland",
+        "Department of Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, 82152, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7221-2393"
+    }
+  ],
+  "joint_first": [
+    "Xinrui Lyu",
+    "Bowen Fan",
+    "Matthias Hüser"
+  ],
+  "joint_senior": [
+    "Gunnar Rätsch",
+    "Karsten Borgwardt"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 3,
+    "A_senior": 2,
+    "A_lead": 5,
+    "A_total": 9,
+    "R": 12,
+    "h_lead": 76.5,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 5,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Swiss Institute for Bioinformatics, Lausanne, 1015, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Gunnar Rätsch",
+      "openalex_id": "https://openalex.org/A5035416263",
+      "h_index": 91
+    },
+    {
+      "name": "Karsten Borgwardt",
+      "openalex_id": "https://openalex.org/A5074540538",
+      "h_index": 62
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ratschlab/AKI-EWS",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae212",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i247/7700890",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i247/58464357/btae212.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ratschlab/AKI-EWS"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/btae212_supplementary_data.pdf?Expires=1796438463&Signature=sbth1keCNmZGI1D0wszqL2koB-hMT7nJpqLwxixUei1VyLCjcKC2nhrDQJpR0zavBEgmeCk71e02uT3l5BKwHexlkhlyqgSSJV2DfzNZfh2Ml8mNZEuOl9-CHnBZ3wpLfacuNwoe6QkGdfo8067CKv7gFoUx4-Bn5lQQYEF8ATKTNFD-nd47WnzugrU4WbG-n2cLNANsLWZqGjEL1riBCgstBAwK4X9VP~kpFmLN2tjUok1j8OaXstvGcZsUEVmQ0NlV7~29Pez~WYwqCfXui~JHXaM3PbWxlPYRaV1-nQvef9d7Sf7kSpxuuDNYcsbRmspuZTOu9SfpA16jqnArRQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i247/article.html",
+    "pdf": "files/i247/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f1.jpeg?Expires=1796438463&Signature=U5LPj4gmLsFnBsIzFTCyuzXyJhgdXupEdIF8KQ5AcCe1JFeTJWZ~aCydfiv8fo5INtwurbtBIxli~PlGEx5tseV3oiVym2NoS5lY~m2SRhTPzc1gEYkFzPPwvDtLkLHc8oehJMa81oLpWoaEhQoCfP0N~JtDp6XpW4v0F3OkOHETpSCGM9TTAar0WrKeLp57m78QKRDm9~l-0nNL9YnOQ9Pvgl-FVZJmshw98EvGeDaUcM10q9yDk9khL-qA0VxAMHA~3~KU8IpJ0n7qlafZQG3K8e1FmlCBgCvOyrv1bp6yQNPXjsQGcVQ40tI-zaD1OitG8a5ZjhOH0KRC30Kmwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f2.jpeg?Expires=1796438463&Signature=pPjsHOknWqvCOK2vokLDkQ~YjFD1NlFCkOgCesQ~1l3FwRx42I8xOg~DKYP4MFcoc3R1MRQL1BZJbfWrDqixZ7liw7iiPQUgcJVVhTor4kvuQVnlWqS0ppidApnfxsLURnrvu4e1PzK-rpmLhmCE8GZ5cehzk-HCkL5Z8tKc4jHohySfZ5Ukg1NrfqBBNwWC8qf0a7wBJkRvSsX3l24mG0F4eiOPLRhxFFMma29Js~-HSp2kK4foFXX8mb1YC1vBCE5dMhrJzyZT~JLsbG2WquPJZNlquC4-UGooVBA3b1xlxTU~uc10~4DvEplxO~PMvqXVQsglqoZsLIOZXsrSzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f3.jpeg?Expires=1796438463&Signature=IumkZYo1GFFle4HD7cpMGEWwd7pZQYQ7saKga-mxEvP9~n-9JKRvKt8nZhNWyIlBfMNnWpP5K~H-4ZnwVckRpF7v96d90-ideojbkpX9yiUT8bVql~8h8qO8L2aCk2-kPv1x0WRrCuvWxo2dJHZ0WzpWYDqa-Wgozn~3nQl8cWr0Dzg-cyspOD55sxNgIZEC-BhzZVE7YvjEsPEH70QS7YqVqoul-00aQul-LnmcDU7Fd2XKJQ598c8ydwfgxLglNiRYc1BrP2cD2qIEt90L1PX1hMAVvC9ilgWAgcsJtKsAgQKXX-Sj6I2wnCdcv5TfoZpDjCGrOQKwc68ujdr--g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f4.jpeg?Expires=1796438463&Signature=t2w7IAUZeBZ3eWDdLMfIwpM0XwcQ2r~8QWcmnMW1KEaScgVfNAGi7~YWhd7sIHPh30I4G8OJDzL3lDr-K5prj3OsZfjJ6Ashs-a9DlPlXkplMMx9HBj1V4RviN~qGHtsC1Qk60rZmRddSwlaIdbgjSGODo~6ayy9GYnBW9B2kDcJu9R5wcaEGjW64Us7RhxjpokEVt7kBmSFUb5eD4ZnQ7tVzVJW0JTe1zuPQVNRxNVCf0iTFCRTjcGzM9j2bhrBqVhfbWtpob~9qbsRzR0BC6czro2m4yw2P57RKmdZmUxBraTJMabih7NIM2-PQjiegAoX1ZqMogXIahzB~hVz8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f5.jpeg?Expires=1796438463&Signature=UaRZkbUk4BBF7GKAO3KmjyBr4TAoBoz8LH8J5WPSc7R0EzE8RHYUuPNq1O1RavrKAQZ38O1VXWMkch1o2qXvBVeRhAkbpFDvLrRew2kejyHF2if6nMRnWwiqmGwkxf1GmE73rzZEpCdESxbLDvL9d-WJF-AbKNvFfOv0lCSo~e66w8-afh4N2yW2prdHU~oG8kmaJ0cnrFQeUmaVMCrLvNhFC0NDFKLnhOOl6cqjVe-uNxW3gSndhaKsFOU9Hi782fqkWyz5OezBvhGkkpDbZDWy8UoKy01yVrYeMXdypsab8zMJQlogOhn4~bOL2fSe1BjFK3D-CzdovWhrEnBShQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f6.jpeg?Expires=1796438463&Signature=OmoAvyq5f4mZglfFsQ8iNnY--DOAzS7c7-uQp5EGkHSCCgZRw8xYE46xOzi1GR1OBfiT3hcY~WEuzcoyAXueFa~BEdePq7fWr00Meo0c2mLuAclcCICHKWFxyYTorBHIoowGe4QtcoIrG~0mqjBqL4egPeMGdY26fkJzM5vysATnedR8vyT9eWO4wSBxg4sa4wU5WASvzNnZxJA4ha9hEsWLKQuz9hIUAS52pLvQosXdl4-mr8d~eFuPexMjSUnspRu~rXgFxZbltuUgxZRQEZLObegYVXk2lqr5wdNvxn2SA9r2dkQzleJyD7jcl~z-rxWbVLsahPlwGrndJyMx0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f7.jpeg?Expires=1796438463&Signature=SL0vUMR4Fj-hUIPKFmyymMcWnkyK~pUsONxY7T3P8qGI9jFeh20QZdCSMqLKDwSg5JOdh0jWLz0v4fbbd2ZZjIDz14lnTARTkrKHBA3pnIgcsRfgSMsnEe0KK0dJ2Jbf08oYpPi~GXzDIWhC7AfRrXp2Ao5jqG8r~9AXRj~EFau4GxYpRqkR6lqkS5l7-q~PctT9N-mApfBfE~37K9KwxwCjZlDBidyAFk6uBfoGYLZ1KZokvqFJlV~U6tVBpOEeAWAefvVezaZ-8BqimBTRnKOIr0GqpDXCYsj2Ilq6qP2ZrV2oQ3HemRoQhJvAyKypNoWRouWPGQ8UPpeksIrShQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f8.jpeg?Expires=1796438463&Signature=HjGFy~ImvIkWupjKpzJvgX0TAd3UTD4u-bv26tfcg6s4fzG1UMUdbkXIQXbnroIW4x3CDgNXHQyIBDJcPbFEw0vuAe3hLJFaP0mnS87lkvB2ckCYHyZR2h24gobQtpsuIb3JtcltutLJaHJ1o7biazGdOT-b527I0oqO96PCJ2VtGKydMEVE7bNjJ6~qmcpGMId~zboV~-WQ5Y-DaKDou5YbKPa1noto~NTNMa6hFqHmB-5tHcx~nnfCSIWoce6ebjHnY5utTDydDZrj06o7Qmj24gC5pBmEFaAxKu7SlesrdVYEeh0q0L4fMxaO90t93Me1XyP1NJ63GmoysfQdVg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-008.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae212/2/m_btae212f9.jpeg?Expires=1796438463&Signature=hNLg7GSLqIBw91YMGthNCb3QPYs2yyrYfWBEqJYNzrWINTGC7XbvX1iLdF2nA4Uek9JMPKP2auxl1aOeiAew0Ps8rLi9kBiPOT7HhiyfTNUj6mhBYEIsJgwDI01iadaHPQu8Zalwc7-FvoDkSOgKCiWSUMOSrasEnc78LWjDceNmKVL0wK7pyf~hVKQY05w4IXFArSFJ16Ev9QrWvGqBcSIRyxoupn3ofwUwslWkRwlODBcpy3OtBidVAIV3a59RPcoEM~oPmAG3AMQ0lMMlDoB2DKJXieNXpetyUtJITr8TCpmk-ZggCHaN5AErBIJ4ZgjB4oqDB7DHXaLTXEQ6dQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i247/figures/figure-009.jpg"
+      }
+    ]
+  }
+}

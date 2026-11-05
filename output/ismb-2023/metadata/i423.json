@@ -1,0 +1,131 @@
+{
+  "paper_name": "Robust reconstruction of single-cell RNA-seq data with iterative gene weight updates",
+  "authors": [
+    "Sheng, Yueqi",
+    "Barak, Boaz",
+    "Nitzan, Mor"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yueqi Sheng",
+      "affiliations": [
+        "School of Engineering and Applied Sciences, Harvard University, Boston, MA 02134, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Boaz Barak",
+      "affiliations": [
+        "School of Engineering and Applied Sciences, Harvard University, Boston, MA 02134, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mor Nitzan",
+      "affiliations": [
+        "School of Computer Science and Engineering, Racah Institute of Physics, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9190401, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Yueqi Sheng"
+  ],
+  "joint_senior": [
+    "Mor Nitzan"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 1,
+    "h_lead": 27,
+    "Y": 2023,
+    "L_lead": 2,
+    "C_lead": [
+      "Israel",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 4,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Engineering and Applied Sciences, Harvard University, Boston, MA 02134, United States",
+    "School of Computer Science and Engineering, Racah Institute of Physics, Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9190401, Israel"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mor Nitzan",
+      "openalex_id": "https://openalex.org/A5067199884",
+      "h_index": 27
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/syq2012/iterative_weight_update_for_reconstruction",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad253",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i423/7210456",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i423/50741552/btad253.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/naef-lab/Circadian-zonation",
+      "https://github.com/syq2012/iterative_weight_update_for_reconstruction"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/1320734"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145197",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109413"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad253/1/btad253_supplementary_data.pdf?Expires=1796877462&Signature=lbXfUoHSkipGs0tXfr9xyDb4mRhRoBCWlPjXWvRUhiEGVUrv2IoAiJXl86xtCGacc~Kkp0FcQ2~U8SRf0vRNsn~wEs-x~aJMHkWLXPVTaLbBqLYqmSQfX2DARdEBwECBXAda0jAVr~JvLPwuFfjp0hH83Jc9KAp6t68LD8G0sn6tn6AjWDVmbxMtDdIf2EdBHZZxJlH9sKjtPyRb4ZqgcKkpe88LpAc6pwm5yrMiPAWusphG7zLt2XOzf~vOYkNQCwUzdmg1JYLWHc2-eTRIp4XsjyCXhBbOGxn3UY2OsfsmQoSMDwl9QqjOJImr3NmYUX7zGfyBzOQ3g8Kga8WjIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i423/article.html",
+    "pdf": "files/i423/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad253/1/m_btad253f1.jpeg?Expires=1796877462&Signature=vLfxBJaRL4YxtBIl2Q5AfwSfu1t7RTBu9kA9jVsg1fYTWHZm9DgOplhV1PxcOo5QJ2QCoH9xj3NvuULIpkJ6FslUT-RkuLlFWxT0pcqL~q6-trzAn4gR-U2wnXmW76rOrjVFav6zsCtVS~K3wqexVRVzVUVVPT~naUb~YXzZ2JWdbXI2LA14Q53hfu6BXAzIajZNc1mqQI6rHdM~SzeJ~9i4H8vbLqpwVDZ8wNjHRS3wQo4njwrLHS252YohObftX8v3tS6rGhsZkZA2iS8Uu-zhf7zkwPsUHlM8Z~h0YfZLZk2fb2v3w3WGJ~nkYmDfYRnBnWo50YuFz4UHAaGG0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i423/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad253/1/m_btad253f2.jpeg?Expires=1796877462&Signature=37JeJkSYIrlbnTc9mSGvBz1h9qI5xIb16zf~mbLE-DD1Gy3EMmVY5BJ~dtWFPR-u4zvJK3Gofx2G3k2iTKjavaH9EYv7zt~n4bxAHkzqfbyINCrrYroxnpve-Wrznu2RxHF-hYBfnYFmEvoOkWMrIalGD4KxkNAw4ktuBoIMw5E-xIOhKqca7Gk7eD2sTEzU-Cl7pOlBK8a6ZJaDWYnbdzlZWydUSAZZ88J1FRuLlwdNL2AdG8vbXmWhl5qHicmxYYdLvrUMfhoSm80JyUMUYZgpSBW1lwn7VcjGEnZM1DQyJPMS~kjezKJb~zSia1Yu5A4NCMU254l8baTp66tXnw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i423/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad253/1/m_btad253f3.jpeg?Expires=1796877462&Signature=GsHGC2SwA6QxSJwez2dCMw1Y3FMwAmJHyqGW~~Puolx0PnBjNuwhkCaNXOS0EffMb8AxbznUcDLOxO~r8Waa8PVwjo5RCer-Now8EcWJLFVi-sKtbjworpeJFFI64X22lze0Kn6HNyUv0vwbp6Hhal5xEAHn7ztoVb4PmSNg9sBFWRQzTelKNc1aLadP1uhMOC0SX8p13vtjU-1IgDWGk6W0RDLe8rIXct0jw49DTxx7005Mza6ViNmRJYkge9XccvnewrnglC8NZBAqIGK2jjYdnj1cv~SMwL5LcCc1mRyOJbwshOw1WJ~sAuK88N8~hUZn4G7SJRM8jfO3lUL6Rg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i423/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

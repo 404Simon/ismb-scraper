@@ -1,0 +1,168 @@
+{
+  "paper_name": "Synthetic-to-real: instance segmentation of clinical cluster cells with unlabeled synthetic training",
+  "authors": [
+    "Zhao, Meng",
+    "Wang, Siyu",
+    "Shi, Fan",
+    "Jia, Chen",
+    "Sun, Xuguo",
+    "Chen, Shengyong"
+  ],
+  "authors_detail": [
+    {
+      "name": "Meng Zhao",
+      "affiliations": [
+        "Engineering Research Center of Learning-Based Intelligent System (Ministry of Education), The Key Laboratory of Computer Vision and System (Ministry of Education), and the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin 300384, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Siyu Wang",
+      "affiliations": [
+        "Engineering Research Center of Learning-Based Intelligent System (Ministry of Education), The Key Laboratory of Computer Vision and System (Ministry of Education), and the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin 300384, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fan Shi",
+      "affiliations": [
+        "Engineering Research Center of Learning-Based Intelligent System (Ministry of Education), The Key Laboratory of Computer Vision and System (Ministry of Education), and the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin 300384, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Chen Jia",
+      "affiliations": [
+        "Engineering Research Center of Learning-Based Intelligent System (Ministry of Education), The Key Laboratory of Computer Vision and System (Ministry of Education), and the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin 300384, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xuguo Sun",
+      "affiliations": [
+        "School of Medical Laboratory, Tianjin Medical University, Tianjin 300204, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shengyong Chen",
+      "affiliations": [
+        "Engineering Research Center of Learning-Based Intelligent System (Ministry of Education), The Key Laboratory of Computer Vision and System (Ministry of Education), and the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin 300384, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Meng Zhao"
+  ],
+  "joint_senior": [
+    "Shengyong Chen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 0,
+    "h_lead": 60,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Engineering Research Center of Learning-Based Intelligent System (Ministry of Education), The Key Laboratory of Computer Vision and System (Ministry of Education), and the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin 300384, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Shengyong Chen",
+      "openalex_id": "https://openalex.org/A5055627037",
+      "h_index": 60
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac219",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i53/6617511",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i53/49887012/btac219.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i53/article.html",
+    "pdf": "files/i53/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac219/4/m_btac219f1.jpeg?Expires=1796568849&Signature=rmMvUri065BdoclfXYnLNiItuSeJOIpsrlYjESCXDXOXQv~R6SEBbUBWZFhUDCf4t6B40b1B0Ebl1~UzTjUgxv6ZTATLLdbHo2r~-G9B2VHi36mz0f9hwGe0YDZ0AfvBeYvFyKm515p9--AHIllOMgI1BU4Ds84TjK0ZHL1RzYeETsqb3mPaKBCsucnq~r~WmsIeI1o9Zq~vc3hEBD366FODbXCawhaT8Rt4GhBDqkQhojI6yxAgGWYTfBqrqKiW0Et5wuz9cPhJgzFrrKvBbmqYYCAQ5y8cfY8TdbelHWLK5R63qSylH-Lu84D5IW3JXfFuhgA-XmlfX~hRydJl0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i53/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac219/4/m_btac219f2.jpeg?Expires=1796568849&Signature=k5ksPUZWR5j3WVaNjQdqgoARvKMWjssprgPJB8oH728~TNwfiTzvQTcQeFwdOb~~qiVLbLKGA19UAZLor7XaerzNlJ6M2PaLkaMaJSvEj7iXsRrr4UeQD8vrPFDy-F2XZ9B-1kk69TpuUKbgDfcYNFA9n-ZAeg07xcyDR6ZT89ulwM7DfiaE7dqLImOz0WQfJ73Mma4lMBtu~GA~nIpcNvQEk0L51PWACNb4ZfK08V9tEfghZis0tRm2Wwsl4o31GM7Uk75My~PzqWKQtsPiyjPGlCbzWtoy92-b741ZUexdPBNP4yLZTl1EeiGWHbb9PMN4Ks2rnvpDBOkdTRftIQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i53/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac219/4/m_btac219f3.jpeg?Expires=1796568849&Signature=HQ-VyVorrmAv-fo3IZJji-xq6eRIvmfdvq8RI7C7ivK2vVyIfK2PNrGlZ9GIuN0Sbx2Evi8Inp0qRCW~dp5idHq8KitFmlAgxt2LkDXpCgSMiswO1HdcZYbvdqwzWG71mF~whAtesyKbkFmCwVdCbGaNRschqZQv4jg68e64sLd9Bg6eJ3EldqJWIhoYN5duYVquCJyO-Jddtu9s8iEmFHYiQrrQWKhzGOxxjNfE2nwCzV4uUSsW3X~ZfNDS9yzkr05r~FxNLZ6WP5BmFm0wwXrZ~hixWcKSN7MOP6roq1qWuFqGMa7I6wg~8RA2fwmaJPhePTtsZo1DhIwCLSQTBg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i53/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac219/4/m_btac219f4.jpeg?Expires=1796568849&Signature=aIfFSerbUUxF7KtxndI0OJJhV-4KQU3lwJqYt5zUEuNxkXan-0HAxwvdkoQSdjZNrzYA1LRMFchQmoeqKFbr5uaEA8uvUqza1dnu-iEbS3pL7PCUQ7KsholULbWOnPLlDGziBTjNfd-Wo~j2C8EWu3ku0f~tgeVcxIa~LdsdcvNc1gQq06jS1KPzGZR868zP~dYor8vVMo5vsag9qayQV7alo~jKzfM0PfGglmZF-vyU0IIUoRgnXK1xtajLRoy2jTIVt4zsFh-oZJuW9Cc~peOoHg3ZSeXz77BhU3dhRva9zNwFer2xQHaClNG8h20l5Fqwpt8V7PN1uheu0FBcFA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i53/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac219/4/m_btac219f5.jpeg?Expires=1796568849&Signature=z9vDivErQdkaIzgiBXMVi9sLrfdtPK5FX~P5Gqbe5tAdALVzLHUZ8xtgK0S9vN45uqycja0diHR4Z3XUssr7PTXY15tJNgBk6A2wP6~1LUrt6Vv0RPalSxBTcV43qGBM1wYDarIN1s6HzTomHOgbbVWMHDNTaJ81M6TAcKb1JhTy~53vV41GV3MggwvN5LH4ZiCLw9JlVdzWRdYxXP7BD55o81Gkm5s2LkiT8z3CpdEAhaorKh9OuZlWJLiqpKWaGEF7BuckLb32sPmoj1DnVlyU-2VIoUpaQfoFX7EANdlochS50Mu8KwNAwo7BM6arGio~~lRIN2VyU8rLXtFhlQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i53/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac219/4/m_btac219f6.jpeg?Expires=1796568849&Signature=dQxmccRqv3YDVXfc~RokJU35sz90-NjpcoqkZuN6moQJKFuqTqL9Tf7yhYlBVHU948Zk4T2w-7KT~xxOpu3nG-gH2fwNy~m4QpCVQYCOed-mGAcbehWylY5GX2pieFJyTWEpZlwIRuuJu0q~saoJAPW90DMobw4p8lWhenNXPwNEJ7zMZGzZWib237Dp0OMWKROza1KcJMB0bbaKLwA77H4lN8spJ3syyPJvSpNKchhkRi4WMz6E7EcUmbDU4COnn~6uZi~Pz45b7pPc2OdpS3qRNstReBW4JU2sKdaRT5D3tjOyh-MCPkN9kg-iJEb2~ywh8t~HhNTiaSzgg~brXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i53/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

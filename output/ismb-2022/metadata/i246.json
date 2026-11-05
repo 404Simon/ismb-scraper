@@ -1,0 +1,150 @@
+{
+  "paper_name": "DECODE: a computational pipeline to discover T cell receptor binding rules",
+  "authors": [
+    "Papadopoulou, Iliana",
+    "Nguyen, An-Phi",
+    "Weber, Anna",
+    "Martínez, María Rodríguez"
+  ],
+  "authors_detail": [
+    {
+      "name": "Iliana Papadopoulou",
+      "affiliations": [
+        "IBM Research Europe, 8803 Rüschlikon, Switzerland",
+        "ETH Zurich, Department of Biosystems Science and Engineering (D-BSSE), 4058 Basel, Switzerland"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "An-Phi Nguyen",
+      "affiliations": [
+        "IBM Research Europe, 8803 Rüschlikon, Switzerland",
+        "ETH Zurich, Department of Mathematics (D-Math), 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anna Weber",
+      "affiliations": [
+        "IBM Research Europe, 8803 Rüschlikon, Switzerland",
+        "ETH Zurich, Department of Biosystems Science and Engineering (D-BSSE), 4058 Basel, Switzerland"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "María Rodríguez Martínez",
+      "affiliations": [
+        "IBM Research Europe, 8803 Rüschlikon, Switzerland"
+      ],
+      "country_hints": [],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Iliana Papadopoulou",
+    "An-Phi Nguyen"
+  ],
+  "joint_senior": [
+    "María Rodríguez Martínez"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 13,
+    "h_lead": 31,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 167,
+    "I_open": 3,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "IBM Research Europe, 8803 Rüschlikon, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "María Rodríguez Martínez",
+      "openalex_id": "https://openalex.org/A5016524881",
+      "h_index": 31
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/phineasng/DECODE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac257",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i246/6617535",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i246/49887220/btac257.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/phineasng/DECODE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i246/6617535",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/btac257_supplementary_data.zip?Expires=1796406032&Signature=1NbwMiEogwIJ26WM3xZpD77N~ylMmgNph3nRIyNi~YGgZoRoVDQmLunY0vq48z9rgGO5ivGU1arc~xuClg1aKBuKNxTPC52-CEZQHcpvMTXaBsfHeFHkpgX8MsrmCyq1asUfws9FP0IdIfQwnoheEVUrvTR2oGfwBp4qASarltEu2yG8zCyXbe1GoFDcjH-93PfPLRYU0~qIsb9r6uRfOdghEOG8zx4dGk-L0WlV3jlIpggngXAUef3KVAjNOOanQw3OHVHwy8p7dJ48J0b1HsxS7g~gobFn0pPIxIygEUa35lArOVRFhdUZThBiNC6WhFasULaHFNFHjyn~yEbr6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/btac257_supplementary_data.zip?Expires=1796913326&Signature=idGZHO8ED9wHmNJi~vBcxun1J3tg9Pj9jbniuIEqN7rIu0GaoilyXywjL5eBtEMVgzdreiwuvNgsK-9kylrmVnjmmmOD9nabnToAyzR16wmH889ak15gBbMrie1bEzwoJt~9i4F9lDJBfHBHwioPM8Z3Ub2g74fIExo2kdtzf3jdsoFnlCoWfxEZTG-9MjGUkouIwxx8Bt2xszcgAeL0lzaIDG1KaNPwN40SCNmMRo6XNOiAJXOmPjm58VZ6k0~2wQezuwSJOMf9KnzkFxT5wuqNIfnJxTnuZEaHZi4jKOaQ5bxfS6v-~iV7WxMyHmMpv-Uc-3Ao1XQTcpUjg29SIQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i246/article.html",
+    "pdf": "files/i246/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f1.jpeg?Expires=1796406032&Signature=A-AEszI0ugxNmWqh0fb5X3vQg-Q8BXbMpwBRHtfYgMXf~yHski7rLZWeS9axj3onQuVEFYLE-nTt3WKp~rDTpd7FOqZWTDwHPgpRKjVuKUeVkDCqvuoYkC6wBZR2D1Uku~GCgpQDieeYRQXKzAux3byk8QZ0wH~q6u0NoAnSnkVqyrMK~4ZPeEGIosUoFOs8xzygAgeSt3~pDEBbPU2W0cC-JMWYgfIizBECBe8a0t6Eas07h7z9Gm4yGNd4MM6P67sXTEfFB-NkVTRpDlWdCyIumu9hJmaZw2LTaIjduHo1aNrBtAjTm8NnBmDhdFehUPxwnr4HLDuywCTgP0oTmA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f2.jpeg?Expires=1796406032&Signature=zxqX0eGcL9tbjJj8JR1L0kq5PiPFZH1m2wUThHY6KRbNNfJLuizLk4qfp1WrJ8uR~OwS8Br-Cg8RXnNBB4lj-r6-MRC7diaY4MTvknpISLV0dBLB8HNjDDXZf8FFyFje~PAF1nIXUgILLVRzeoZPTmmNQpxBpXdluIBZCcM-P0ppBf5guSWdKtAajx69AxL364E0kjNE575NFEdweTd4TOBIaXsfh9lC69UbfeVYvb6zN~R3pSOrCYC-xnfEz-EU3-apB9sQdT54y3HH2DrO-czgVLRFvz~IiOLSpzY0JL6LWY8hXs6d9B0T0C-zSC2720T12E2CnDH0Uq7TQqxCYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f3.jpeg?Expires=1796406032&Signature=ZDkNSuaSOYMpui1ji~mgnFXbw91jdgUWNepAkaz2F8Jzn2a4XsmDqcfhGLvmjwd~yQV4QYmkQQGe3ABNF1bLSsnFLXoYiEO5x~TCMXFynyz3tmNNdoSSyUes-T1Ah2mwk~Yj8S6n7KwX6CF1fUxV5lfBGn6lPbUBBvRU9ojHnOjRhfVabEm6qZlMPwd~KqLxz7pG8X9kwXc8KcqsRV~ZHdhb8ind5dT7TXikq2izN8mKnJchgw33rvHExvBaRqiDPXrw3k7JP5Uf8oRFgSt1nSJqmDzJ1sRjSTuLGC8QAm3yTBsQ9zpY7Rg9qXz98hIP3vYRJlJ9tJbkdqXCck0B3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f4.jpeg?Expires=1796406032&Signature=e0CdB6xCPJUC6RbKnsqBp9nUCBOOQI3BIhe7ExfAwwxDc4hVtmCpAFUhABwmc16mhxYlOBnwOXFVRcNJ1RVuEOpMBMANPvVXU5VAA5BNXIHeNDQbpu-Y5Btg0IROfhgQ8AQJkXY~qPU1lZv5yIOYNH6CAhgio5KkDJjMKvEHQAwE6cFtGpHZdpGK77umP7A~EZ6RZNLdkm-QjE380S3ydKv898aeQoLe-FC4cOa4UrHXM44G3elXCyNWRwlEVDhdROCXjIKtkGHguDycvJOBZwWGmjQwlQGqZSUQhN0QVyu5Sqq~zN4i-BR3Af83GKS~EUxZeB4CcwhaTtJwRDLAng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f5.jpeg?Expires=1796406032&Signature=yT~L4jKJGpY0BWuLO345U~nnMurpQ3IXQmJke5aFg91O-E1TUCzERNfF9HtytuW9VVFTTBAJIUd0IUnuKSHmt5mRU7ykvAP6tMoBP8k0pqNu95wEhGN5V3FyNPMw-CRlFjrqEhIAKZGZBWgY2oRgKN86SlTnwWUXi3Xp5UNhunqd0sd-nwXnytRTeZgK42-NECur5c4KPyyER0-rX9oi8Y2PNkhLe9ahWm4D2ypaA6QYvL79KiydAQAaUwwg211oA-L3S~8ILRZWiTgEb~n-1cSiS4w6~iGJja5flGQlZeVd-3shHerG~2IaUxpJv3BsnfshndpXHCNjE79Hc0aoBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f6.jpeg?Expires=1796406032&Signature=ubzqYcSOkENEn9UcvNF2rIuvnHSaFRGOMH~fFNqsN8SJ2AUB9pIb4JPwkSIvH-rwx8h8Qek-do4OAYigrwjHYhgjSpWypiiLpl2BdEeDK0MM8t91U8c3JUsh5sc7afAy5LkyGxZHtk0pdPFGJSX72nk9~0XpFey0Ns5zy48QiEOAoH-Hs0HNIO~JboZLBDJEbBzxV4k9XZrKfsWatuL-GO5VJM2j1S-EA6IfE4hm9t-UUvuwid8K02L2GW5xF1mnFu2ikXF7HhS9O5YopR~ALSp2uF638QTsV1f7F1oWWw-Y6i6X~5lcOQyAsljWlgtCxA7GVc-XtbdWacl9QVsdSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac257/3/m_btac257f7.jpeg?Expires=1796406032&Signature=1kfZxVDz-LfUwEN52p27bfuVcdaYIWkVVFaQFw3jfRDrcPS2coodX8Er596QJZPiIeLkf--qbpRxnZWRrJ5xAY8z2dCS9zM5xENfuKoh3OUj9xm1wahp5ANmy0-fzf9r8KQXiaPqpBlsXdyPZftOC1A7-A1sLmNDNXFwxpax3RqHdIJ9z8KsJjsuN78L~D7jtgAKY-00l~355gD2QP52nU~IPr22-2CCwFEi1t~g2RLoV33ILV6o4DfrCY3G94bZSN7Fy5eGFW0dRCaM2u4ATFliZTvk3OaqMzxTKh1f6G1VBsISjjgDvxs0tvRW5JhNyhH8Es1z6gevpk1OKaGdGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i246/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

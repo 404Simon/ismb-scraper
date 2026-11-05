@@ -1,0 +1,90 @@
+{
+  "paper_name": "Sparse and skew hashing of K-mers",
+  "authors": [
+    "Pibiri, Giulio Ermanno"
+  ],
+  "authors_detail": [
+    {
+      "name": "Giulio Ermanno Pibiri",
+      "affiliations": [
+        "ISTI-CNR, Pisa 56124, Italy"
+      ],
+      "country_hints": [
+        "Italy"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Giulio Ermanno Pibiri"
+  ],
+  "joint_senior": [],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 0,
+    "A_lead": 1,
+    "A_total": 1,
+    "R": 70,
+    "h_lead": null,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Italy"
+    ],
+    "M": null,
+    "T": null,
+    "S": 108,
+    "C": 634,
+    "I_open": 0,
+    "I_closed": 24
+  },
+  "lead_affiliations": [
+    "ISTI-CNR, Pisa 56124, Italy"
+  ],
+  "openalex_senior_authors": [],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jermp/sshash",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac245",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i185/6617506",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i185/49887045/btac245.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jermp/sshash"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac245/4/btac245_supplementary_data.pdf?Expires=1796434315&Signature=Mu~5Lr7BrR4JXPNWx067Nc0OecM8dZbuR8Em2Ywdi3VzHgBMgNvHO7RAKg3k4-wYygRlI2OGqGGcHmhg5tru5DohK9y0ppYHKdyWAdFYvbIRv0jonoxet8ObdJCPwOI-SG0-pPmMWM6XOS0adYOnzu7j6bBb5USvXq-kpJfOvOcqEzYu~mBPjnJoJExVU8nd5j46lmK9iDu~Unw~v3owrSCyqs70xbIJAInXyxA~hlLYPsSay0yBddksSBWqS-WySRshYERSDsKBys~uqik1QY8QfEgBcLL~cGk1876z2m5Iq9vHbo9I1CATv3RvIt79SDJ3KPcBg898WFH4q6el~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i185/article.html",
+    "pdf": "files/i185/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac245/4/m_btac245f1.jpeg?Expires=1796434315&Signature=GjyYHyClKSho7YGyv6axMhDApPFqw6wtzUENHqOZa1M5DSkGEFfDz7bZ7YycUP7dWbxswQ08W-Uc4sQNUH6aUjjYH~8ZnNZqBUMVULMwlfmux7gq6gxTmami0WIIuT1YeA2Q8ax4ZyVIaQ56opDLRSqzkoFQHAbsjvvSXP9ogZf4F0kG~xSlnN0DEHMkp6pkE2oCC-sDyL8DgCtzKtVImABdBzmdEPtvzMOh~0hHmHO8MFqfoRaylhqc3zRnNuPu0mLxr9w869gdUCn2~MWx4myvjruAg~88nPUz7RewIL2naONt~r4QbiVm3y-Cjjd-T6Nv7Tv8PRO7781O9ZGTtQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i185/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac245/4/m_btac245f2.jpeg?Expires=1796434315&Signature=l0Ys0yQjBOIIspy-FLXqtgu~vMhIVmq~~U6zHloFvZ0Ok02d8zwyarRVlTTBAiBDpugn0B4K-PFCidKmBNkx7IFKBzwcVSvjz8NBpAGJSqLHOl4EDXuj-TpTV7tgqtD6e-DtvBW~8Zmml2M2hpy260d~2Wxy9PA~BqJaPJNXjbU1Wm~tt9O~OBlUEJWvEtEk27jG7YNfX1zToUoA1WhvgYgPuwp1w8g35mllWKc1mkCLgW63MSYntR75FsdCWN2EQVtEFM29DaQ3q9jqJcAVWURztiScbrBiJp8XkXSsUdtDBlpnaqCePjrReBxSw-Xo-GcAROJFvjJcyq8EHjn4ng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i185/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

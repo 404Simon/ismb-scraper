@@ -1,0 +1,112 @@
+{
+  "paper_name": "Computing optimal factories in metabolic networks with negative regulation",
+  "authors": [
+    "Krieger, Spencer",
+    "Kececioglu, John"
+  ],
+  "authors_detail": [
+    {
+      "name": "Spencer Krieger",
+      "affiliations": [
+        "Department of Computer Science, The University of Arizona, Tucson, AZ 85721, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "John Kececioglu",
+      "affiliations": [
+        "Department of Computer Science, The University of Arizona, Tucson, AZ 85721, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Spencer Krieger"
+  ],
+  "joint_senior": [
+    "John Kececioglu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 5,
+    "h_lead": 23,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 100,
+    "C": 278,
+    "I_open": 4,
+    "I_closed": 10
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, The University of Arizona, Tucson, AZ 85721, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "John Kececioglu",
+      "openalex_id": "https://openalex.org/A5083998316",
+      "h_index": 23
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Murali-group/halp",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac231",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i369/6617500",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i369/49886935/btac231.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Murali-group/halp"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "http://odinn.cs.arizona.edu"
+    ]
+  },
+  "files": {
+    "html": "files/i369/article.html",
+    "pdf": "files/i369/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac231/4/m_btac231f1.jpeg?Expires=1796522463&Signature=aSunmAAJW7RK7ua4y-HYWJbHMy6q75XlbscF0XgvHZAo4jYbkXFcSjeIz~p-73eaTvpLsZcYvKYo93vD646AVUXyUBDdeE0LlRJ~Gxt7bbrF6a76jyuKCoWg4JXHRWFKjED2pSoDwuO5GE~1ucRF-cJ0t1IK~RIozoaTQAEZs9XmE5CuguqGfZ47GKPpZ5dKxRDrZ61k7WlIjcIBpxhblE4Gfp0VU6goECDSlOGfMgprW8Qn6QuG9GmUrdP~lAqhXL6D4~BIaRSNU~vOCUn4A1axki2zDUbkOZpfG87HlOZg7FKovSxZ6OemxQtmiKWLDa5OJsRbqLnlDRKzF2lklA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac231/4/m_btac231f2.jpeg?Expires=1796522463&Signature=ZJXADhGfjeboVdt4vJ3hp1xFBWKLDXyokIu8ZLao6AmydgFXKUpja8pfvA4n9PlvTqIORGguvc5PHXvR1DefHCR-gBz9u3yUUn1tsZD8EVcwnwamMwDP43YLdavowvcvZzHSyxoyEjkM8CtPzRJAd-cgmy97Snz5H8LLqDgeGD9IbbdTcCd60w9wgURyOqqnp5Lzd8lrRyAOjKwN-MGj5G7wfxcyQoLq9dfuEW3MaFJJ9whL1KR0qotWOQ7317WaYmL8itwknO5fvUzgaqPqsq6U88lSeZXW8eVO4yHwxPValfN8DHFQMquLQhhYxuNXVjhaqAYPKToXDZGzH9lEtA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac231/4/m_btac231f3.jpeg?Expires=1796522463&Signature=YFUBQXDu7spj0PebS3d9DvRaRHYPiz4Eo1US6GcHwGNXQzkFoO47NeHy0Gr9B17SpOsVy50WcitzHugCaA5M3LTR79m6Kz2wx~G67HtV38YSQWO7LKr0RH~OKbpBzyGQrtlfHR0zXjW~TalWuMDb3OzjD5~wIXOA0uAo1PC5RJ8ktq~MUZ~GZIFi~SykUBGotzwpoQJGs-1AcovB2rkqmb3zNTIp9c7YcCfvKJFU6~K8~mmPxdxCAj~PtewBjLkmUB3JYr73ATJxUq6j0D0JUPi~~rGtOIx8YcRZ2Hr7ixnzPRJP5arC144uCArpKsyEAuhpo16qcgZLFcIrr3NcSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i369/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

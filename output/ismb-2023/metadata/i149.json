@@ -1,0 +1,165 @@
+{
+  "paper_name": "PPAD: a deep learning architecture to predict progression of Alzheimer’s disease",
+  "authors": [
+    "Al Olaimat, Mohammad",
+    "Martinez, Jared",
+    "Saeed, Fahad",
+    "Bozdag, Serdar",
+    "Alzheimer’s Disease Neuroimaging Initiative"
+  ],
+  "authors_detail": [
+    {
+      "name": "Mohammad Al Olaimat",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of North Texas, Denton, TX, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jared Martinez",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of North Texas, Denton, TX, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fahad Saeed",
+      "affiliations": [
+        "School of Computing and Information Sciences, Florida International University, Miami, FL, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Serdar Bozdag",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of North Texas, Denton, TX, United States",
+        "Department of Mathematics, University of North Texas, Denton, TX, United States",
+        "BioDiscovery Institute, University of North Texas, Denton, TX, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alzheimer’s Disease Neuroimaging Initiative",
+      "affiliations": [],
+      "country_hints": [],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Mohammad Al Olaimat"
+  ],
+  "joint_senior": [
+    "Alzheimer’s Disease Neuroimaging Initiative"
+  ],
+  "has_group_author": true,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 36,
+    "h_lead": 143,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 7,
+    "C": 93,
+    "I_open": 2,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, University of North Texas, Denton, TX, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alzheimer’s Disease Neuroimaging Initiative",
+      "openalex_id": "https://openalex.org/A5106733559",
+      "h_index": 143
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bozdaglab/PPAD",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad249",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i149/7210436",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i149/50741396/btad249.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bozdaglab/PPAD"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://adni.bitbucket.io",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/btad249_supplementary_data.pdf?Expires=1796461375&Signature=LbrPKBTn3Tg~px7PxGFE1WNWdrdezu3O4aXauvaK1nTW4GnHZjQwB9lnCBY3fFz~Ele0kgQZgV0iPGHkSIjKWn3EOv-Mz0TgUwRl-QZIucnMWGDZGVxNK0olSuWqXBtJj4Erk4pl~JkZHMAkwfo2tcFD0d7-cZXF-pyKX7rgC-PTuF3N8WCTToIC~ReZ-ogmaojZfLo~2DdZf59Z2oTv8D930WC7BKu~Gf~e43P~Q9ylVnQRz7Y9E9ehoDT3mFoWyvm6kVnromfdvuAApmTMBP1hvJW0d3oYaPv3QhqckWTU~OQi7noBfS2Lzd1h7xrKqL9RePMZZQTQT4HFUH9JLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf"
+    ]
+  },
+  "files": {
+    "html": "files/i149/article.html",
+    "pdf": "files/i149/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f1.jpeg?Expires=1796461375&Signature=0VNUXZlZkqFjCOnfSjuTzmOReQ~1R3IEFKDp2jYSixDzREdTPiDWPnOhCzqHgOFd87YugqLr4LEiJCJiX5LXqZiTHwSW5CDA5aZPmdWD1cxVlvtg3l--VaZcEqE-xVfkECTjBlABzje1Z8zB1QEotgbawWUyVtk8D0whrp9Jl3gO~i0cjxcvkvCsn5p1EfmNTMH~lp00hQpCGl3vmWlt0VJpSUprdlBGRDJK5AOjxbkwfaJULJJIjeCH~XnzbhUtObnUqdHFowrL8MoXTvze0Gw28AUD~OFgf1ZOPVMVNr6AHN1-ukUqfWq~UEWqxlJAkJAd3ePImjjcl6qTj0TRhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f2.jpeg?Expires=1796461375&Signature=VeGmzucADdGvfjynA8bSd~Y~A5z58H0Vxp7ud3IDVrPWkcOQjP0HpblM38KiJIrMdH6i1-HCuP--Xz5Yf4GPyViSmdqEq2Kr~ANi-L53tg5WnERgTY4KPqdds81tsOVPnLT66VrlGlQuE1NZu8HD9quUOy4svk74a4BECpbVXwmBQlX-LCWva2y5hlbxOYrY51mJitJlTr3K9J3MVgscX6B7RuGDtTmh87JndEjlTNFW3Np6iAz1hJg4aD-SHuE7nPfTS23xsEah1WIG-l-7ixHe4AuYKXiWOV890XVKuZXAVk71fEfS0gyjB5zkFVqEgeVsnBb3RrxImq8SVY2IAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f3.jpeg?Expires=1796461375&Signature=RMLPtliw2GwRBlN9OLsWGjbNUEq5Td9iz8X4ODaEcjTOyhtCApfDBHt18dIXcjnGyspKsMU7xidxgaVFtI8xf4vmGGOZonNHJmOy2Losf9Y0WlLxwu6NiZuI2IPGSQgeu4D9g7WOlOL5yKLIzPD0cwsxRiCPPJY2zQ3jE2E-my-GMXtFQFKXNktnTJmuuOH7sX7eenL8vPuWz2lxugZzn1eTQEOv4EnJ~NfMYE9eb18pJjr7LOJzWth8dPl0JKz0srvb8vDq8Mn9iO0Ct3xkn96xtbcIS5mA7evMeJ5o49RT0dox-35W3X3XZcquD9qraYcqob0WZhkR6Bv7XkHQ0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f4.jpeg?Expires=1796461375&Signature=Ty6V1U~VajYLmxIJVZeJlIB7TZTnbxorb2a-kQWj-q1RpOQUrtMxT9i6XIPXA8HTkkRuELQIUm4JBA16i6w52VRxK5e2fl8Z2rfyCL58R-jgVi5MHT8v7AA92TejwKBGN5yu67Uxtv6dDIzupxeNQi2EdpjNva9jFf15YdMgcHTrFvYjMuIib~5hpEWW49yLAHgUPRzAUBpw-SW~bwccPn5wbVJI0btwsUTfyTFb51klyKQxXKT8HKh3n-eNUcXYuUok1RTnNjsNcvnKQgKvbf8b--k-ADEvKPNDaa~Yw~YbMaD7O29j5BiDu2OYnt6rRhbKfLwfQA6sbnYBIobZUQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f5.jpeg?Expires=1796461375&Signature=4QVablpbEhIJ7PbenDP57O3PRzkfKGeMTPPAywLKSbKT9sAsYb-BVKdFkciXKlxOj1nViJ4MYYVTDarOYiIInM-PbBbJU-6Z7q~etTxyGHYIIysaQDjFSkHMPTt~pIiy7o1opYPar7cA-yIrxepx4338j12jHoNwkvHK56eaqjVS4FD1kwa7aLqeevAK2j6-WU5Y~36rwT1YF4kY1xSwmmjJseylT~MvPc7qS0e3uPWI8~F2UgouDEclW~ZFE7TMtMCp6REco3jHZNe-RBo1KY6evvNgDWW8l9vPdu6smEbYBXcdj2hwT6QVJAjOvsS57wr2MXMna0SJYqjY6OQlSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f6.jpeg?Expires=1796461375&Signature=eSe1f5oisEDYDCs0B6nWS7gV9VbsMQ1QESJ4-TEKf7fToS7krn2wXTePmBgWUg06sDbulu4LnwEIQ25RT-9YIJ74w~FCL0HpAVaeZl6~X~TMbZAZY1L1pc0NipqqJl1jDKwU2c5OU~w2R6VXFUieaBjAqtS2xw8gsDJujaFRPc1bKAcyt50e0e1n7hSExPf7Of~3OEhRfbNHX5ts1iaKpMCfRouUu-dPQaO8fs7p-jVABtMA-Xkpn2Q373Dy6J9D-eF9kPCsR5v4dcDVB~LyGOd1sJp9BoJ3TEXyEFLI9jFn1Nxg3GQ0-vGajfk-EOPBwpxY0dqTCHn6j-cF6a0ZZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f7.jpeg?Expires=1796461375&Signature=w5LRg3sBLr8BBxn69q0EyIP1eXY71fplyq39yeXpU1TpAgiD~W78ijcMpuJASIHAR8u~ZqCdc3A3jNROAo9vZhjsTIYDoIUwklH5AbmKUcoXsIIOp0eVKlk0wrjaP0t9LSTrtzmVwbx5kAloW0O5sZHH8ISVdyFFlUyV5zERKiY3jebfyoJnP7SOkyh3c098OTliDDjAfaKo187gXNK51xUrB-6RCQdjytkf7jmw3PyAnL0iYxIBPHGodBWxuZBQauXNL7B0wcj6PT3r6XIwpyATV4C~RbiP3McTHH8oLZGCdM1Z8RQPGCx-UVLnpGzBx6x9catRlH3bHrWpBwrAdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-007.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad249/1/m_btad249f8.jpeg?Expires=1796461375&Signature=Qc38gIs4JLWj7TxFKbCUpbnsxIOfDVGJsUHjL3NIe8LUeZHEkMdBInjA9AGjCtkGpos4DYDM-qCsdyqukqT6BngtpigG8C3DrCIgy--EIVvQayMNrpth-YllH3jV34FErOPEQ7l4sGeE8DpDIaBZKrl-SedF0vSSivd8OpiRfUACNkCGB0kgkQb8-lIiGOMx1vbECxs3KJSHO~pM7KarBWT7TyFeOIQULTMb042ARM2sBxCnMlJr99O3cVtJ8dtBUJ~-jvXnlVVsQSbJJNDPUKNLEXZqDiW347WbnIrU75stqNG2gGgkF~6isECWFj5lHB563sHRGQWtY3v1vn-gzA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i149/figures/figure-008.jpg"
+      }
+    ]
+  }
+}

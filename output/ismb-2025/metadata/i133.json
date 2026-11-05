@@ -1,0 +1,113 @@
+{
+  "paper_name": "Top-DTI: integrating topological deep learning and large language models for drug–target interaction prediction",
+  "authors": [
+    "Talo, Muhammed",
+    "Bozdag, Serdar"
+  ],
+  "authors_detail": [
+    {
+      "name": "Muhammed Talo",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of North Texas, Denton 76207, TX, United States",
+        "BioDiscovery Institute, University of North Texas, Denton, TX 76207, United States",
+        "Center for Computational Life Sciences, University of North Texas, Denton, TX 76207, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1595-5681"
+    },
+    {
+      "name": "Serdar Bozdag",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University of North Texas, Denton 76207, TX, United States",
+        "BioDiscovery Institute, University of North Texas, Denton, TX 76207, United States",
+        "Center for Computational Life Sciences, University of North Texas, Denton, TX 76207, United States",
+        "Department of Mathematics, University of North Texas, Denton, TX 76207, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4813-4310"
+    }
+  ],
+  "joint_first": [
+    "Muhammed Talo"
+  ],
+  "joint_senior": [
+    "Serdar Bozdag"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 15,
+    "h_lead": 21,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 48,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "BioDiscovery Institute, University of North Texas, Denton, TX 76207, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Serdar Bozdag",
+      "openalex_id": "https://openalex.org/A5072283349",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bozdaglab/Top_DTI",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf183",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i133/8199357",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i133/63745334/btaf183.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bozdaglab/Top_DTI"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf183/1/btaf183_supplementary_data.pdf?Expires=1796514284&Signature=Sj3f0H1dbPPzfFcmqpJSTyA09DLHHV6tlf1k~ZCOH1Pahbz7lqysWudlo3o~Q7N8B0iLcSWH4Ae7g3B0VzIPGnH~Bm0uqPB~roz2s00CgBfH719IYAxn7tklJmPj0v1E9IRIN~EtW7MuupEuWQZaBGQA~dHirHqoXVZkop-BvtMVWfWmQ60Xev7OQaIB75uCfpinp8-aZieTC~piXUarqk83e5J-WcRMeewJlGw6pR2MviNel5e-XdAkS-c9cgAjbz40Hju6HCHl0JK6xbUtwhIkSuHg40n8K7T8t339DvUrH-HznVYyB0mEI3O-CYfxVbmrqtOMpLpvKeICGpA~Sw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i133/article.html",
+    "pdf": "files/i133/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf183/1/m_btaf183f1.jpeg?Expires=1796514284&Signature=DLjwMvn~ucbU7VsJdEmN9CJEPJGnPQjPTHA7FCwA63HFl5k7rvKrwpe-b4XiBcFjB7A-ZlKSGw~i5WX9oZwQMO~rfu9I-gyo9erBstquBOzLivQy4WPzpVpvdefP5h4PXysYMWhEUfn8b3I38fQ8qgha5mjyFgWw4x8Q57Yiuoe5HpUlqLn4~Uo6iP0tJMBR77ZHZT9uTSNnIDV54zCb9Cjis~OWcgdL23UVB5Napq2K1gD6nt6uuEJ8Iy3-ON0f8pZL0Wt~Ix9MjDCsCRRtUu4Z5iF7PZmgWWxSIe5qmuqiDtt03TAv9V3NdHMb2Ir-PZCXiA2qmOfzGpmZKMC92g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i133/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf183/1/m_btaf183f2.jpeg?Expires=1796514284&Signature=nK8b79~e0etZ5mPfxxAc6kGU~7BZddNf~A6oTgsPAnELuYtDekSj0gNZT5fYfwKz6bZZcQould9Qf8SU1S3i6JHNMeep39TY48AGyTJpg0q588tGEVfZPyroTxkhhgYmO88bRaTgqJbUCTTpNH93qzAj5Fy93w4FJGWhm7LTaxW-Xg9ktJVTLPTLxcM8cQBzW70L~3anPYWo0GFOuZt6PJPmcUE1NRky8OnDr511qQE42v9ir058YAV-Jbsy-gWqtYhnSOAZjjLbPtKRsGXuXFwCKZgydGa4OrzzVvBaMwflgxfezO-F3G8JOTWa6JAlGrsQ7hwHVkUmKDaeE3TprA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i133/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

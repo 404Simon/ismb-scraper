@@ -1,0 +1,135 @@
+{
+  "paper_name": "Characterizing alternative splicing effects on protein interaction networks with LINDA",
+  "authors": [
+    "Gjerga, Enio",
+    "Naarmann-de Vries, Isabel S",
+    "Dieterich, Christoph"
+  ],
+  "authors_detail": [
+    {
+      "name": "Enio Gjerga",
+      "affiliations": [
+        "Section of Bioinformatics and Systems Cardiology, Klaus Tschira Institute for Integrative Computational Cardiology, University Hospital Heidelberg, Heidelberg 69120, Germany",
+        "Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), University Hospital Heidelberg, Heidelberg 69120, Germany",
+        "German Centre for Cardiovascular Research (DZHK), Partner Site Heidelberg/Mannheim, Heidelberg 69120, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Isabel S Naarmann-de Vries",
+      "affiliations": [
+        "Section of Bioinformatics and Systems Cardiology, Klaus Tschira Institute for Integrative Computational Cardiology, University Hospital Heidelberg, Heidelberg 69120, Germany",
+        "Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), University Hospital Heidelberg, Heidelberg 69120, Germany",
+        "German Centre for Cardiovascular Research (DZHK), Partner Site Heidelberg/Mannheim, Heidelberg 69120, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Christoph Dieterich",
+      "affiliations": [
+        "Section of Bioinformatics and Systems Cardiology, Klaus Tschira Institute for Integrative Computational Cardiology, University Hospital Heidelberg, Heidelberg 69120, Germany",
+        "Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), University Hospital Heidelberg, Heidelberg 69120, Germany",
+        "German Centre for Cardiovascular Research (DZHK), Partner Site Heidelberg/Mannheim, Heidelberg 69120, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Enio Gjerga"
+  ],
+  "joint_senior": [
+    "Christoph Dieterich"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 10,
+    "h_lead": 62,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Internal Medicine III (Cardiology, Angiology, and Pneumology), University Hospital Heidelberg, Heidelberg 69120, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Christoph Dieterich",
+      "openalex_id": "https://openalex.org/A5083154676",
+      "h_index": 62
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad224",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i458/7210464",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i458/50741616/btad224.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad224/1/btad224_supplementary_data.pdf?Expires=1796440089&Signature=17ZxU184QnNoer9Q3~G2ybx2h2m4XEb8W-0rI72xPZULmIJtw0eURaOQKFviEM99TiNRoVRUZkYWa~C7LUpKQ9bueL~BJKOpYooToHsI0-OslYMI2RfoXe9JAocE-hbxkEMFmnX95mkZq1lIqxi8rn2-gaMhdt-e3Xbz6afbxmJ~7pKTq~kWbBGDnMd1O-E-3FJwKrq~pMJuDJMVJuHovJx1kgo0BQC8W3LIvnMfQ5rs~w64HVWyYFk-nme1Cl4sUrDLXB4eO2pFUnWP5PAYw7mDWTPdjBHJXO1lCbc4TvggHm0rYvuimBcpYDZEd41VUBtzCXSwBiE~dtWGqQ9OvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i458/article.html",
+    "pdf": "files/i458/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad224/1/m_btad224f1.jpeg?Expires=1796440089&Signature=z27g2txMdZetHGtJKxjR3iiavS0jKDrs32VumX2MfNjxQZ24bATSBky4qQNZhZUg~cz6l3up9j5EJzZxJHuxgOBLVaGtI6OGw-A5p4ucYeCuBAjl2PlvtEtth-kma3UciJb2alhcRbk8mjKSF6zoc2PUksGkOt7Lt35V4gx9OZAVwBhfJLrlquLo553n5UX92JEtdDwmp2og8KyKFEEHlhp~gOPM2PlAPMY39-lx0U3bgOYsIUMv7G6qegzVtdKES4O9PuZcjAj-rWcf5WY6qspc2bMfnH80B6r2ppOSz6iDKrumzvkC6mpSWodLQEJ3Q6GH9x34OGVyB~LNrkZd6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i458/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad224/1/m_btad224f2.jpeg?Expires=1796440089&Signature=i1TZVeH7Dc4rVWUJKi3W6iI8AWTRJX6ExLYtk7GraFAvJNORiSk080xo1I7B-bMyZFF6bWowju02eFrcs-oZzFbN9QSfx6pvYXBeguEdr20POGNlrCbVr296guMaSToct3VGrpg1hQAHUEaKhk~Rm-vj8YHts1V3D-UmAMzRCo-NNPDzOgs6g2HAaABOM6pth4R7PfKb10-tzx6DfxIT7VDDdLOmVLqd8zc2L1KIfpYwDfVSUHCbyMrh8b-obZL5klz9EHQkRXFNmrAmrrXM9520dXFSVW8T0rAlIFE8rj5NkwMbkDAfsSbI6kwct7AYNFIrI8qJBmZvWl76mg9C2g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i458/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad224/1/m_btad224f3.jpeg?Expires=1796440089&Signature=JQ1b-uuB1fZvuJwhdz2foMlgCFt~jbYka2MWESlPjQ5OMkU0xqGau2bbfl5LGxEU52~BlwOqHqUtV-CpBr29KKsfXwhIOVi7zJConawOcCMWJZdIHHbvqPHf9WuJxB~Fo01Z8f2rjHjCKgUpxD~QWOGFbXGqHrNNRubf0atcyqRyWgW8Mc6NUCY2FWoS-M4XoGOPih641vh6dn~wyioWOFvwpuejDuV-gbOqwTWcQ~3mTBIwGodZtWaelf3NBwPP5-4isHDeBAGrNCHBnJ961hDGwaJ-3D5Q5xhmfu6jzJA3xgANjttt-zDBJyvUe6IAqUXq~RsQnQJi2jREedLvDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i458/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad224/1/m_btad224f4.jpeg?Expires=1796440089&Signature=EPyBeGEbihCHE5e0ou22YLYf1tUXegaqKUIzsba0A~LR-J-46nx2eOySq9lss3W6Kbrf5KXfkGjsGpAiSjlwSjImR~pYObiRjoWLjgYXRwDoESTVGbnKKcbVm65gxq0Dl-FL3uLILoUKB9GHexVB-8yVN458YL3gZyTICuLkx0UzkX9Yqm2-o4yqw6u1-jlcIvw7DcNptGPZ7B2JhmtsWEFf56wx3rQ71zNlDQ6suns72F6GEu80VSPn6qpYTVZ-iF6z8pHVsqP1mu~JD~K6QQGq7hEjbdVzbMJsLimmAu~ZqDZ4Wnxq67l9IQ91uKI6W3MsGdArzFlFJb36SjWDZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i458/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

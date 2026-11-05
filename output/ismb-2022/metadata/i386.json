@@ -1,0 +1,193 @@
+{
+  "paper_name": "Semi-deconvolution of bulk and single-cell RNA-seq data with application to metastatic progression in breast cancer",
+  "authors": [
+    "Lei, Haoyun",
+    "Guo, Xiaoyan A",
+    "Tao, Yifeng",
+    "Ding, Kai",
+    "Fu, Xuecong",
+    "Oesterreich, Steffi",
+    "Lee, Adrian V",
+    "Schwartz, Russell"
+  ],
+  "authors_detail": [
+    {
+      "name": "Haoyun Lei",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiaoyan A Guo",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yifeng Tao",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kai Ding",
+      "affiliations": [
+        "Department of Pharmacology and Chemical Biology, UPMC Hillman Cancer Center, Magee-Womens Research Institute, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xuecong Fu",
+      "affiliations": [
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Steffi Oesterreich",
+      "affiliations": [
+        "Department of Pharmacology and Chemical Biology, UPMC Hillman Cancer Center, Magee-Womens Research Institute, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Adrian V Lee",
+      "affiliations": [
+        "Department of Pharmacology and Chemical Biology, UPMC Hillman Cancer Center, Magee-Womens Research Institute, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Russell Schwartz",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4970-2252"
+    }
+  ],
+  "joint_first": [
+    "Haoyun Lei",
+    "Xiaoyan A Guo"
+  ],
+  "joint_senior": [
+    "Russell Schwartz"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 8,
+    "R": 12,
+    "h_lead": 35,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 11,
+    "C": 12,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Russell Schwartz",
+      "openalex_id": "https://openalex.org/A5051953313",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/CMUSchwartzLab/RADs",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac262",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i386/6617536",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i386/49886964/btac262.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/CMUSchwartzLab/RADs"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190772"
+    ],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i386/article.html",
+    "pdf": "files/i386/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac262/3/m_btac262f1.jpeg?Expires=1796416047&Signature=dMHLliknMwjIujU0VKP51z3hGmHIgT~1l9B3urbVEiwKk6OQ0RMPae8uqYG8edqdeRmUXdcFDMnIhxfLJ~YuOmWKQNDH55McYbV1UVntb3N5-t7zdcatLr9eON8dxb2mKkLGQUCvOMFEu~1L27F2NuC-NRaZw1BmPqemNQNgFEdPj8P7VVGbNyG7~v4lE3ZoPs-aPo0KLkvq-A~M5~c5~1YzjNZ8P5AslzrB5Q4EdmDsbgBY6xYgKmLYfbLJyvzDfT~wQLfqCtPxiYO~VTJECRU6ff~QnmPtX1babVbN~JSU-WVErAI2TFMOhsq0th~6ZE43s7vNZzFUfJNmitDA0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i386/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac262/3/m_btac262f2.jpeg?Expires=1796416047&Signature=ke6dC1eg6pdvVVUnIoQuQrOLuDa5B5VlB-ri8Uj~Pj3yabpxM32wiFybs88ij3lBJ8~gAnrlxRM9asqd4T1vLHJS6nSh85ZxAWLKxnOK~4E9pKP~qNBLijFCwgmE97CT9iZGkNNxwwszu5rCjf4dX0yjkdWFYlOBYgtarRPLUa0xrXwUEDrpmC6FAtZXsSceLPbKn~CMuw9CgbJI8NMCOChN-YL0ISP2~QWaRd7YPP6hqVPq6FgTgNAc1F6CAvaAecfaMklp4Vtl6YaE6USP7HRjBzMmshYITSRJkNWG6kapWOjNZ4jqlrOxk0eA1CA1gqTtm5hmKS7QfeBx3OWC9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i386/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac262/3/m_btac262f3.jpeg?Expires=1796416047&Signature=cC4zNy1bdvk4w5liktdJ~fLFUgq6nBOf44hRmkdyq58Dhnh6PXfPnXBSPfL8ucPlLdBuEfK~u9HE77q7w-lobeZBskM4EIqB-0LEUNGmljoeQJEPO8aC-dtJXgc-r2w3f1~ElcnmZRLwejqwrfG82aSeohJuU74ZlJQ46JpveWGFat-yDZmTelYEw9FY5UXXnIR-lCTVSKj2bekQknnFnE5wty~Df3hwD-rKdyLwQ0OSaWGeuOo7qApB-12hTlf5VgQF~WDAUiUxRC3hsSxJ116hsG9uYwL9Q5D98vAlFKwdRrDWTQWANQgVluC0iMvSIeSK99UzFE0UAtk4Tem4Hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i386/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac262/3/m_btac262f4.jpeg?Expires=1796416047&Signature=roakpyS4~PYiksqqWICYt9zTO7OGC3ZwthfzTi22HX1H17H4ztmKzAdHgQdLq-qwfms~Qa19yM1F190YqAh2iQ-cLOmZdPYXshnSUcQN5MVFzdNj6KWLqFZsQC4-O0SQGBdfltvwJcj7EaEPpRBsbDALkqg2xYHHRTprDmbI9SR-bfMaOB26COGdSpJSWpNiFxcdM7LRH4becJcje5ORqRvwt2KHbu9dbInKD8KpPiDPCiD878YBQTKTMpCDkd3WOjLYoBF2evWski8CiVpEFcXBvUxeSdqY8sJ5jIBEJmvoxEhPMD-wQ-0qYQOlJ6rScAFgdusLTTx9cX-LbO7-3w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i386/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac262/3/m_btac262f5.jpeg?Expires=1796416047&Signature=EcoLniBykXAuE4uTnQhbgEtZxVMGj591cGAvY9vXHX8wa4bOdR14midFHnXAlHxA5IFdbz~CmYs8fbq9JsNGOMZA0P77xBZ9n2zG3vf4ffKmam4sFzWbMLHZPPXPjrqjgQY4ClEZIFC~-3hPyccrvDaLZjnLp4SvTFtIO5P8bNZjt3wQ6P7heuEp5Q9Ocg5af~FCpJ9UZ2XiivyY~tPK09MdQoRsyRBRPeXab1EVMvytjhYu0vBql7gy~fsScQEqQtcACYCbEllp9fyTgNM7oqVAGA6VkJ-Lhhm5Id6GTDe1oqPL2tIeYdtbNwVH1vlBu4izRIF8T0Rc-txYg6Tljg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i386/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac262/3/m_btac262f6.jpeg?Expires=1796416047&Signature=zCiXPs1aAQSTDavcFuy49YVMbPwXjwBVQwsVTpa60E1mWY-wtgRiQI~KZMdPzI5eMFy83Bf-zQHT9NvVGtnPMZ1rap25HsG2RdFkVe46Gz1ygHCcK9JUcxNX99ZgnqFNQEdFcQZMBKM2e76SLFn0z4iH7wPEJu17If5kugZUq7hg7s4NLpwjDsoyq-7s-bOFzHvYeOfOpGTn~CdU~yKN7YhfhT~PdDKKyYLebXoXxOV2zmHWfHK4Pd4oDannBoGKrZIaf4kh34RiAcu-deJt215Di5a6fTwRBNGaiEwUmo7h8QNgQtkTpxvZc9vy1wqvKqBiTAvwatVUnlCLv8QSyw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i386/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

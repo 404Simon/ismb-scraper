@@ -1,0 +1,170 @@
+{
+  "paper_name": "A LASSO-based approach to sample sites for phylogenetic tree search",
+  "authors": [
+    "Ecker, Noa",
+    "Azouri, Dana",
+    "Bettisworth, Ben",
+    "Stamatakis, Alexandros",
+    "Mansour, Yishay",
+    "Mayrose, Itay",
+    "Pupko, Tal"
+  ],
+  "authors_detail": [
+    {
+      "name": "Noa Ecker",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dana Azouri",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel",
+        "School of Plant Sciences and Food Security, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ben Bettisworth",
+      "affiliations": [
+        "Computational Molecular Evolution Group, Heidelberg Institute for Theoretical Studies, 69118 Heidelberg, Germany",
+        "Institute of Theoretical Informatics, Karlsruhe Institute of Technology, 76128 Karlsruhe, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexandros Stamatakis",
+      "affiliations": [
+        "Computational Molecular Evolution Group, Heidelberg Institute for Theoretical Studies, 69118 Heidelberg, Germany",
+        "Institute of Theoretical Informatics, Karlsruhe Institute of Technology, 76128 Karlsruhe, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yishay Mansour",
+      "affiliations": [
+        "The Blavatnik School of Computer Science, Raymond & Beverly Sackler Faculty of Exact Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Itay Mayrose",
+      "affiliations": [
+        "School of Plant Sciences and Food Security, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tal Pupko",
+      "affiliations": [
+        "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9463-2575"
+    }
+  ],
+  "joint_first": [
+    "Noa Ecker"
+  ],
+  "joint_senior": [
+    "Tal Pupko"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 6,
+    "h_lead": 58,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Israel"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 257,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "The Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Tal Pupko",
+      "openalex_id": "https://openalex.org/A5070736617",
+      "h_index": 58
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/noaeker/lasso_positions_sampling",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac252",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i118/6617489",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i118/49886831/btac252.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/noaeker/lasso_positions_sampling"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac252/3/btac252_supplementary_data.docx?Expires=1796404025&Signature=lXHbqdwlyxT6WpA325RItpT-ZRSGWUydZ9sHaB8N0wYV4veXJrMFFQgDXn2J9QzpxYajlx5mMSAMx1ROpL2w4gyj1pyfQ1Os6kkN2DM55C~mA3JRfS4pLI37xuERdMIK9FGq-9xttDR-ELcVMYb8Np-cMeg1KPQHIFi6Y8Z1Knf9nDlAMzJpp5k5or1hGZ734Y1QepUhz2KgbUzyOwTfQobIE9lsA74hSBFC2NPcm68YIJMMx75uVZMUr2VNw~ec~SOK64ggbd3ckcdKUnsXW3ypMvBPXUGFXj2kHNn7-zdKFe4GENLS4bRmqAleGLX0nJZPyaui3C5Z3xEBeQrFDQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i118/article.html",
+    "pdf": "files/i118/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac252/3/m_btac252f1.jpeg?Expires=1796404025&Signature=qYbpK-b5Kddo~s40W-IZURyU0a1siWoe1MSnGBT4p0466WmiVOP5wiTxyPDKCIAYu3tC2z3XL58C8xCu1MX6w1J6zSanyhJD1A9HJ3BxBhEuLaO-MS9Qmnwky4NLLpg1~2c5ODEIYgDCy6IpV~MGQFi8WSduzX52oxO5GRUd~tGHqad0-qtN8i0xGD5~-BAlW19AAhxWqqi~V8osOQRe97L3CY435b5gvKVjAbmPP~AzGg322b9fuqJ0h-yUOrGH3sBuVKBYd2MglAgl7AknXGdtrMipizRjiClqvoXu3O2qCKJ261THjoOOpGZhsuEo9EeFjeQcmxiqR-2Img7fmg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i118/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac252/3/m_btac252f2.jpeg?Expires=1796404025&Signature=wSomBaDbstmPkOdyQ7FpLwWacxl~xEWyhtwoIdkn3LUdBcwpUUlYjK7qFP0glSIuA7ZyfiWqhcWwgprJc7veJl5mjoDhYzvIDwBAbKWtr6Unol9uWTxl0sDaWZ3MsJuh46pSHHtfVlWUOVdDc2z1kT9q9Gt6QjneUQVuIo~zzSfrWSYcq3YpZTQmLgWS86LuWbeLTxxE9F2aTVqoE0wUNk-EgIWZHc9kKRcmkA8LIGLdh-Qomt5RDEz33C0dJIe50DNneF8DvwzgmdtfVc0bWK8-HDBr-q5vSZZXOZbdxUQgIS6DcfZZ1nM5Bh~FXaFkZXD8C7lKC4nQe9CgR2Y2Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i118/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac252/3/m_btac252f3.jpeg?Expires=1796404025&Signature=trYsZdheG7tfU4bgqfckPnkPldG6g4aomjiCxSlCZH9XL~V857MeEGVgglIFzdZ1G1XXi3BMJrp-pAmfBFnhjPQLeeNEgsL7lGijzphlp2iJOiSrcky7TTLIJ9ZiaxtFAzWw5PXB7SGFZp3JVvCnrMIsIFwsCWhJV5pr1LIbhnqNdzC-d6Jjl52tYX0hD7GhWe5nZPZ1T1UYz9CnhQFhWLgY3uBesF-mvrYBv0baK14QoX~YtYyY-J-RW~kq3ZPLRTj1XArVm-PZr44qC3ikH45xiS6lJaHy0nqKZY5zs3FLy6GIWyS2UcxKZkSRmfotd~WPQ~NeKx~JGcHGX3EwGQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i118/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

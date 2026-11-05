@@ -1,0 +1,166 @@
+{
+  "paper_name": "Fair molecular feature selection unveils universally tumor lineage-informative methylation sites in colorectal cancer",
+  "authors": [
+    "Li, Xuan Cindy",
+    "Liu, Yuelin",
+    "Schäffer, Alejandro A",
+    "Mount, Stephen M",
+    "Sahinalp, S Cenk"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xuan Cindy Li",
+      "affiliations": [
+        "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, United States",
+        "Program in Computational Biology, Bioinformatics, and Genomics, University of Maryland, College Park, MD, 20740, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4774-8230"
+    },
+    {
+      "name": "Yuelin Liu",
+      "affiliations": [
+        "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, United States",
+        "Department of Computer Science, University of Maryland, College Park, MD, 20740, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1051-7236"
+    },
+    {
+      "name": "Alejandro A Schäffer",
+      "affiliations": [
+        "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2147-8033"
+    },
+    {
+      "name": "Stephen M Mount",
+      "affiliations": [
+        "Program in Computational Biology, Bioinformatics, and Genomics, University of Maryland, College Park, MD, 20740, United States",
+        "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD, 20740, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2748-8205"
+    },
+    {
+      "name": "S Cenk Sahinalp",
+      "affiliations": [
+        "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2170-2808"
+    }
+  ],
+  "joint_first": [
+    "Xuan Cindy Li",
+    "Yuelin Liu"
+  ],
+  "joint_senior": [
+    "S Cenk Sahinalp"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 1,
+    "h_lead": 74,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 3,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Cancer Data Science Laboratory, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, 20892, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "S Cenk Sahinalp",
+      "openalex_id": "https://openalex.org/A5102972238",
+      "h_index": 74
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/algo-cancer/FALAFL",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf237",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i150/8199416",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i150/63745761/btaf237.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/algo-cancer/FALAFL",
+      "https://github.com/Storyboardslee/FALAFL"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://dx.doi.org/10.1093/bioinformatics/btaf237"
+    ]
+  },
+  "files": {
+    "html": "files/i150/article.html",
+    "pdf": "files/i150/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f1.jpeg?Expires=1796620872&Signature=gSAhYlSkcP96xJjnkpYC8FSzrzRvoDgRu5nR7~WX-FBNfpHuBR-KcqwtQDAgXJ-vWLdV4S2KnRv985XLSH6SPOCRg2flC26YkDHmpa6guvXpoJudQH5wlYM8ATfGiIE~GkUVFzmg9lvLE~xI4uQYNhU9t05JKgO8syHYf-xuHwaliuJeQiEu0gf80so-cabYHyKJJaAZZzp0-TUI8Gxf0qoRjyjkOye47PATQu7zBrtfIHiWcsj9-ds3BOmcA7HtH9GVESUuPsnfYrIzvOUppKsmI3ScTersXeo8psuaNh51eB74nVF-rLwPkIIn5CzWtBS5Bilm4QNUQNDwlYdZ3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f2.jpeg?Expires=1796620872&Signature=pZCK39lTJuzyKfT-OC0VnRmQiMnTlbKISy3tf50jfm4McNmGc4LP8cOfli0Bw9SQh4Ub5R1~110NLBruAB2rGK7KNPAZyMGb4YmBUNwpDElPDv87oAVsCaPk8PWc4KhMZ9uPuEkJRJ~KYWLetMdy9LsY733KDlcBs4LlskiXgUpGocS4EqWU79QCeDzijw6Jxvr1YmhiYz-RJCBeLbz3P1FUmUx9kqlZXHboC~3KTLIWgwbO~eqfZUwNR4EyZH5nXxEZKI-2KJ2PwkH~YKMW1U09MoRuhzYGJQLQ2mwMaEtFR59Dd-U~UATVcJxiBAFO7kW7eddU4DOptx857K8oMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f3.jpeg?Expires=1796620872&Signature=Nv5UKBGE4gLfzMpugKV1zx-cuVXrTV09O3dXKYxNIfpwx4amWbIpXh95ZOdH3X-EyDoDf-SPyEQyxKYHJiuZ9bPC2feGnBrJNDrSFaEHZQqnnv7PoAqWcsyFi1zxORMgidfr3JHsJE0Tu3QMVr--1ewaYt~Jp5ZTFbUq2HiK7KdzQu9j2xWBwYxUi9VGT~gMmoHR6Dx2TACx8Bv3AsM18JO0OI0AoPjxf5Km6HVHTyvct6Zo4bsPrqEP004iJsSk4OjsOV~R-kctQ1fDa7-mfUY0dLixyeb5-F6S-JI9vcmBh5zGAR1dGf7XIs2LINvr-QSb8IADpEZAh00ZY0P9sQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f4.jpeg?Expires=1796620872&Signature=aM-ncSukuU-J0dZr4L4kV9l6OQbp9rRVrXk~vM9pomhn88m5E4jlckHAkNOUrLITNz7JLcvPVaYZlKiw6l3hNWnB9s7OyuSNjKMQxbj~lYunWCeFRnJNBo0qiPe0Mnu3IVA1hHhoJ5Dpru2bnZccgj0oxGQPU89IOoz8pNNGuomUNBC3uIg3Xe0q-tvG71gAuiJnOK~kN5Y4FdVRibVqoFMlR-~i3AwtAs9OQ8SfR5es2lIXNcNW9i4U5g3TZLwVE-68CL-j6Lav1i5SkhVMuI18Y6eTIiGrvPCpaZZCwu6cXEOiAtYmjGeklDEhN5Igdo04a2lzLeOIz~8rpSif9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f5.jpeg?Expires=1796620872&Signature=kd8FieE02TfvD58-AcJB66TNM74b59~dlfYX1USdW0c62FML-9HiDI3rASIeSGaRb~BYZt1vf-TrRwniSySmk89ETyrIGGOdElfSxL-SG~YWiyRjVPDqJm2bFNPq-O-PHe4DUjCnG4WpRszEt2TK33fbohMQnEvXjW1orEdMCbv4-Xb6D-MhQboA2iLcsllRlFGbh62k~Pvr32Y2gZ7PRsvVyoRlU3BEQ8K~CpJTKCIVXQOXBwEZ~fZ0sFWNk7QhZyd7C-c40nP~UqL1ey1hIDstRbvdAfAvTGgpqQPKB40fe-I4vVaPrcTKt0S4XgWNR-jzTuLlRAbuZLmOLvRnKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f6.jpeg?Expires=1796620872&Signature=TuK4~Q9a0UxdD8x3L7DJVMInhdaSAc14m60BlbUB5uaBDYjcUysvi-y-eUcYximPnpnzaA1iHFABVazCCCVQBSi0rvqTPl5ki6h8TBpXc5~m6XMf4e4YAuMgURDC1HhKuikuoxR2WTtITSeZapu~ohrQ0pq65-1yCojwJpjJ3pv9HgfdZXmdXc-i1Zi8FRyh~88ZzuP2riXW2p3uH4~y6dK8S~8eLfFa-hTCdSXyJW9W0CGjHyJjeyuvQsSO7xc8cuKD4KWX4ExK5mnP1KCoYPhgQ8j3XsP5vU1OR89xYzeh7Fud3QYjNG1UWcp~92Pl-J5mikkThzFihJjXd~Q4Ng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf237/1/m_btaf237f7.jpeg?Expires=1796620872&Signature=mRtwrkw-DPXX65Vkgcc8X7zA3OKXJkGIUcDa8nUbBbPJN0Usc-4hwIt7dNlT~9MWLOVm~FR-m9dbdfiRgLhEP4qsV2EjwVmmZKEvTVWyO5H46KJmHFPkvopuS9k9NvGUXLKC6ot5WrXmLHFOwlc8isgJBpUo7O2eVrDwt118T17~TSHPXf~3BEVInHYPvkvltRUqeLSOREWyw~nDxAEQnKd3tJkUvc9t0-DDwEDC5rB1Pa1K435EHSmO9T7SBSKiqBFY48zT~LlcRJK~TetlaHPxC6KF7h9dQBBGbdV9Eu~vlUQnPzfgs1dkCE4EPfk7nTd8HdO5auEEyZkWqmBZ8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i150/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

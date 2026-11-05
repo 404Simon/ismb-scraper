@@ -1,0 +1,146 @@
+{
+  "paper_name": "From drug repositioning to target repositioning: prediction of therapeutic targets using genetically perturbed transcriptomic signatures",
+  "authors": [
+    "Namba, Satoko",
+    "Iwata, Michio",
+    "Yamanishi, Yoshihiro"
+  ],
+  "authors_detail": [
+    {
+      "name": "Satoko Namba",
+      "affiliations": [
+        "Department of Bioscience and Bioinformatics, Faculty of Computer Science and Systems Engineering, Kyushu Institute of Technology, Iizuka, Fukuoka 820-8502, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Michio Iwata",
+      "affiliations": [
+        "Department of Bioscience and Bioinformatics, Faculty of Computer Science and Systems Engineering, Kyushu Institute of Technology, Iizuka, Fukuoka 820-8502, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yoshihiro Yamanishi",
+      "affiliations": [
+        "Department of Bioscience and Bioinformatics, Faculty of Computer Science and Systems Engineering, Kyushu Institute of Technology, Iizuka, Fukuoka 820-8502, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Satoko Namba"
+  ],
+  "joint_senior": [
+    "Yoshihiro Yamanishi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 14,
+    "h_lead": 38,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Japan"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Bioscience and Bioinformatics, Faculty of Computer Science and Systems Engineering, Kyushu Institute of Technology, Iizuka, Fukuoka 820-8502, Japan"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yoshihiro Yamanishi",
+      "openalex_id": "https://openalex.org/A5035394108",
+      "h_index": 38
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac240",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i68/6617490",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i68/49886916/btac240.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70138",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/btac240_supplementary_data.pdf?Expires=1796425807&Signature=It~gfNnD26Wdm8KyStLEXFjuEWURUcEQOce33jQD-qHes9dcsey7LxdxSZbSDdIKut7TrdDSiQR2kM~scIYfOwaoEPenvG9g3pAuIUPaVmOVxuwAEquJZfY6Uzedyj0kGcEX-gsPLwF1YB-jBmuoHRM~mndHLpYtuOjPdBhApVZ32rZSLNm-5Edhfu~JhqCyWbU3sE~cwCWvehNMd5X~fLsHpvkGjsjnFRGOa~kx9D5V8dvGM6HQ0uxlHt2gOtcUHlLHbruuVUIpzKtT5Cg3xqX1g-ZX7c~Hb7G1LT85sn80CLprld749nnNuBwjDtnaFA5XODr~-dITuDkckv1eOg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://labo.bio.kyutech.ac.jp/~yamani/target_repositioning",
+      "http://www.lincsproject.org"
+    ]
+  },
+  "files": {
+    "html": "files/i68/article.html",
+    "pdf": "files/i68/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f1.jpeg?Expires=1796425807&Signature=eUtNVnaWYptEDHj4htt3UpkkWewn75EDYV8bqJjnvZ2-dgW3xqN78d5s2aAF8kyUiljuA0nsyrCrZic3G2b7YT95r2n97TQzZsXFIgoYMw-SyFuZtcp-EqWYBu4CyLbmK0YHbXk~1Yg1ubih-8IuSJQ66UIzoA4CWsy17UgHS3LnAxrCnCeC0WMvQMOZ0R8vXJPQvAY8KkA6lNnEUZ-1yrO-I5ij3vRivmWNlNh8Wv0Onr0bbQ2VRLIpCWg5-u1WoOICEIF76zTWO-VBsIAfxWu0svSmZV2O~Wn6ar2MUk~cVwZQnXcXXyG9HqY170g2gvhBF8fqRYSJwh-4RlbJ~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f2.jpeg?Expires=1796425807&Signature=eQJeXHI8MspejqXFaWkrKY6PAiDPZMkVZe-E8FL7Hdal0ob1DG8d7caFjN3kAXvsYjDgnGGPYn99~MZ8MH2o~P5eyfL63UJoK0aL08Mf24zuzWXBIKumjOneOLA4EQXORBRxoq9W90geQH4i5bGyLKOG7Cjk2bGWIozqh21y5hGwoyemZfKacft1jDEWyPsgCvsozAqtVJdgUNOJxwO7pNNhNqBkG6hrffZYCv9M72XHohGooxrr08jInhPKO1dj-UVGRzOHfVwIhn1x1Z9v0RAE3V0pAy1oO1wq6r-yr0e5a2HR~R-hd3umU4gXqu-8vslaDS05IaxOI7XAtfjoYw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f3.jpeg?Expires=1796425807&Signature=wR1KoBIwzuuget223TAYoiEZJmDMUZCBjEMiIpe5~mRujl5O0pm7cQDDTq804Sdfe6y5uMEUgg4F7C-XYz2O1I4i0X-5TXq0V96vx4zm1g6Jakhlz0DP3F~q8Fpgn80wq7yKluMdoS4VOjxIggTqba4DUmTmWPa2C2vN~zf8~xl77B27AeNnyvKM-JanmpJiBIiTwg781TUP0k7viE1e0hBZ7WvPs3JGP1qt37pPsFwFBFjPZvVZsYnVR0Awgg4VV1dpH7GRm5SGe6Vse20I5pwFJlbvlgIEG-LUFa1rZiqwEf4llrSD-B3C8VKlHp1MR8oobZyVPId0SYLrly1zqg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f4.jpeg?Expires=1796425807&Signature=z6Vw1IUvXpS-L~wXBhWuovEZUi-cJr9FRycDC6nC~vytw-FpTBvL836~9FffcJrtqj67LqjSyKBAZ58HyIDLHNZpSsyVNgF~xl37xCLe0peikprnAjtZ9TFGKLHe-SrC4-telti51MPU25w-Ybti2~4LWD1bBRHau73ovwJh19DBVgbx~MNYfklXjXLgp0dkr0CRS9f9lCZzn0MyeY~JRUxrHLSafwRCNpGsiMLQ1EqOAS8LX1Bz1cZGvTGNKSmdwjbhqgbb6zMuvscjS9lSTqtp-m0aEqaSF4gxIt6ujPAEVuhyRP2xXfOiJCh7QR~PL8Rc-w35RvCrNN2-vMPtgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f5.jpeg?Expires=1796425807&Signature=rMok3tzPZcMf4bwDMUOmyxxmXvHWV-h1ifzBlEcX92Gv48DZFAMT9PQhMRoedfkVKn8qMN35OYJYIvOLgxuPUcB7OgkvSz-Dz2hHVnqcCrUaABMGZC2rZsCNi6ReXC46AffwkREgl~4Ox-8m2D1yFzM0drTt8064Kls9hdb8C6JjQLwnfy3DSwsrTIDHzG1ZjAVSdHUOOlUubkYYKir1VkTYAiam~zQ5PEHgqKN1JecRjUtI2JWvomYZCiBPyF5oX~sZ37FTJJPJ1X5qVJ3ceYES2eZZjB5FEQKIpgWypkGg0VRe7MUU~EZxCANxF9385DnjMxucvSejGbFkobLHng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f6.jpeg?Expires=1796425807&Signature=F8wXmSKtx8Qyg94D6LO2~V1lEAMMhOz0pXo4xdMWF5wDwALauvAKqxfAWQw4p4S7VCnvkrjY9BsMzEl5GSLMnJ~tQ7yT8q03bwhLvljpddhsjHl9soHLHn4U6I8PR~ZYhEfiYztDUBr8BIZ3blMb1jm5rkzIBgfsOi5OXrX-6k2sU8YDOaHE0c0GeroZ2JsUuazmMhmp~hBdGUUs8le87OIQIlktp5q9b7H6YOXLrR8U2y0vezaR~EQs3sfVR7A~~KOKCsft2cQyCwtq8YQcAAcOoNgm60lTL-BLD8BN17mzqqAuaBsRQIEIM3~EmvbK2NPnL20RSi6IgH1shhH8zA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac240/4/m_btac240f7.jpeg?Expires=1796425807&Signature=DjwJFpaplpCei2ZUt6aNseo3c75MaZvQgXPWHSp4ET6dsvBItQuuceYf-IM8in5iuxxMRkp-046ff6apd6VgVm2ypvs8tkWdDlvUiF0WhHdjuc60gtSwcY-EAD7QklKcLIlm3HMZlyZvEjXvUSMmFVxhc35UfSsH5u-029o3-j3aGP0RJVGTHM~6-PxaTRedb4s72yhp07cnYWAjXaNkLi~lSzVxJnCwYwKcYGvlDqr~2I76BxfHOe8AomWBHwyX0Vor~xNKAijwem3t7WqHByG53Q1idh-VtR9OeRBMa79OKBi65fCsctXtYHAE95gEme2ShUfUSL6sy9NUCjwC7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

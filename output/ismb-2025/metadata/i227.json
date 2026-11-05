@@ -1,0 +1,184 @@
+{
+  "paper_name": "Trustworthy causal biomarker discovery: a multiomics brain imaging genetics-based approach",
+  "authors": [
+    "Zhang, Jin",
+    "Yang, Yan",
+    "Shang, Muheng",
+    "Guo, Lei",
+    "Zhang, Daoqiang",
+    "Du, Lei",
+    "Alzheimer’s Disease Neuroimaging Initiative"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jin Zhang",
+      "affiliations": [
+        "Department of Intelligent Science and Technology, Northwestern Polytechnical University School of Automation, Shaanxi 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yan Yang",
+      "affiliations": [
+        "Department of Intelligent Science and Technology, Northwestern Polytechnical University School of Automation, Shaanxi 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Muheng Shang",
+      "affiliations": [
+        "Department of Intelligent Science and Technology, Northwestern Polytechnical University School of Automation, Shaanxi 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lei Guo",
+      "affiliations": [
+        "Department of Intelligent Science and Technology, Northwestern Polytechnical University School of Automation, Shaanxi 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daoqiang Zhang",
+      "affiliations": [
+        "School of Artificial Intelligence, Nanjing University of Aeronautics and Astronautics, Nanjing 210000, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lei Du",
+      "affiliations": [
+        "Department of Intelligent Science and Technology, Northwestern Polytechnical University School of Automation, Shaanxi 710072, China"
+      ],
+      "country_hints": [
+        "China"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6698-9814"
+    },
+    {
+      "name": "Alzheimer’s Disease Neuroimaging Initiative",
+      "affiliations": [],
+      "country_hints": [],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Jin Zhang"
+  ],
+  "joint_senior": [
+    "Alzheimer’s Disease Neuroimaging Initiative"
+  ],
+  "has_group_author": true,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 5,
+    "h_lead": 143,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Intelligent Science and Technology, Northwestern Polytechnical University School of Automation, Shaanxi 710072, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alzheimer’s Disease Neuroimaging Initiative",
+      "openalex_id": "https://openalex.org/A5106733559",
+      "h_index": 143
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ZJ-Techie/Ca-GPCA",
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf257",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i227/8199418",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i227/63745773/btaf257.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ZJ-Techie/Ca-GPCA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/btaf257_supplementary_data.pdf?Expires=1796440699&Signature=sNPGZPrKj1dn2DDx-vBIlcMQ~f7Wrg5PiAivBBIICNJEufWWZRmPcRJZR9gvodrAVFbgMfHMNcRW3HgO8QRx1XjCp4mGF4~9veDpXSKqkwKE4tNj~qa9CUtShphQ0M9QW6YMlw3-9gQkIDpNwZp0XxlWxSWEL6GKM9QFU8ZEuM6OVowE2y47RCwfRiVD6~vUTRVP2dE-ex4j~OJsLaCpJwFAcmoH6ZKTYIvuL96MV8VLBL1KaEKYf2c~8LB0PKR2h~~sH9YrNyXs0cb99OjvSXWzRIrnF8fZKKvj~7uAtFZ8uS0uu7BW71~kQEgWhap1MV7IHsaeMK8Luv0My2NmCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf"
+    ]
+  },
+  "files": {
+    "html": "files/i227/article.html",
+    "pdf": "files/i227/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f1.jpeg?Expires=1796440699&Signature=ZdPcVSt3EMXKjqSY4YikWbAOf7~OWrJRKJv-Oyjm5NezaM1bVBbkWcScG9WxqVLU59v0WchepRy5Mv0reHXCP7veTHxltzJ1AXQFMm~6DnvoH7bPYGM44xeJqJ7zShT9u8kfD~JvvElJNYXuGrinjVoWzkd2~gJHjS2HwYkXDWyw4wusMj4SaNZgK-25Xws2KoCm17yaAY8NN4PQcr5slVtc9HAMuD42P28wQF73iUvEYVILDpgeS9y9vZc~32kPRqfXByiUFKv3G0sipuk1Gzlhp9Of2x-IRXJ~2s8jFJJ8I2~cvBVSPOaoYCCItW1lAXsjf3P7Q8lf2V9EzKq2vQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f2.jpeg?Expires=1796440699&Signature=ETBtVWsZsCrqk1QkuSnBrD8AThDt8dcvkjh4O467s44KrQArwxGdd8fjbgRAd7aGWUXZnjPMeP~gcYayYSTTr0x9R7Sg6OOVRQFAuPyj0ktrCCIekx7PKV6QjB~zHx-jhGtbIxM564uJUH66iv-281RoD~sFm7MuHSeooMOrW7yqWCls9bHm8U7Iur5aV9ewF~Jo6MHwF5CXwU4LwQVMbf8VbhbRIJbfa9cHrJv2gK0L8QzAKSmnCFYTR~K8oHnqagwj7~1gvgMEptnLjDu3lKcI6YZPchM5TOgcRjfXn7v83R5G5lRCxMgKIcEIkR773KHfAb0zbShcs0h~Xao8kg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f3.jpeg?Expires=1796440699&Signature=qodC1xHbCvJb0HNWTp7HCrSdrw38cdwprKFIMN92z-J-GqgHBFJiZ84dLW0DvjSSqg5BbO~7E2OW~NBOaCM0r4clOmALzZWM~hwtoHTIob57yt091Z-8qr0canq0e5AnRAY48A6BeWQSeiqrFYol2GqZ0oO0JLvtpcFaPKz3Pb3oi1-DAhUM0X6XZmM9LYbXDGHjL-lnLSaqgMk55xII3MNhUsJ41kLEwGJ4b6yhzZyZtARFDbdNLV1yeCShYwuOgz9H-BjzY169JOs3-o8X3favC-gnlAtYKSTJAdQ2kvcMb4V~xSArm1H3KDKUfcmgz7rvab-opPOj5~jW~bnMGA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f4.jpeg?Expires=1796440699&Signature=1w6BUFa6KxSdYJwh1plQUXAIqql5KwURIeJltf7JrOqcjQSrcRytAmIuZEOtWRPy1-ezRmVHgAddn3XAW-ojA3uypj7ZoPzPCMN6fL2wq2ey6Flg0kb3JhMq2NPCoNb1ig7bGj3lJlytFZUf3-lvMti603rTd-jFb90htp1ysFfz3YV4bo8DxfHH59GfiGmvLSrx3Jli0TKH31Uy8eeRijEXi3-ndDPxc0motzHqbUnq2ji0KBLZ~xJVS9eo9r~FI98LAXtYMsGcnr5OwwyIoGXWTKltyKPoh98NzrcPuaD7cAJAKzATf-KoAjSOaTsN3ZG3A7YVLpMC415uDDSX6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f5.jpeg?Expires=1796440699&Signature=0YouIQDr5qFmkfqwMswszcGaqfsHyQehb7jO3KgGl4ONhVl4BoAFHDGKtBY0o225FBFJAKbdLwUgmwwXPqNl7kjLJwG0Rh0vEXYYEhcL63Y1JhSHKJjwmTKV6iMEra-y3SYaXItHnNloJRZa~xsWjac8atsghNivct5Zdr8tDbCU4~NjosKp7NoCoqZAqLA8pDcGbKF1kLX18r2-M~hvaLiK9Nd1FwOh54kZvXkLM8IwCW8KfQO4lnKd8A5Wd3ruujByczK~LgmH5whEpSfYvaB4vl8rwl~0BBJkS9JNyGe8tAMgi9UDiDYeZ6uII0EuHgp-wAy0Gw5JpzEMqWrbkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f6.jpeg?Expires=1796440699&Signature=ywErk36GGd6WuO0IxoJbh3l0ovFFfyell~3U5sfOzgrXhWSZW97AX4VPxSfPZEoKFs0wHSNWa7g0oPz2bDhm5M98EjdUzWhdztpxYkBdr0fTq3bANto29XtWeDy2WALzN7KTlwfZXUVY6HY5fFnn6-9-kf-jemrBfgyUIw6LV~vRYBAMCBq1u7vpM-65URGz0eD48QrbKGpvw-4B5dEjhqxPNPBQHoDjSQEsA3ilw2JVxpcZq897v1fiMjO9S3T7V1-IPLlVdksMD1RRewIjAjLsH3aP4pjd95gMu6xXDaZ55q0D7LXQYgRldHQYuGsc4VkH3Qmk4dNyuwKOJI80YQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf257/2/m_btaf257f7.jpeg?Expires=1796440699&Signature=g3tQghUXeE8XnWBZBhzB0Tqv5ziExMpQ~8meNnWWwsX9aiLkXXEVJQU20K48jl2u7C3A1FrB5Cyk6CwWyIeM~HFDEfASsjhxgMVVJeiaRvb17qujdchvHtHIJeFxGvwnFp1sxMyt~IRLvsJKBpSSYBeCbX1zR9-N7NcP2kCnK5mb4x79zXCR5edNOdtlylNR1zIT9feMVaOiAWg81Khp-MT8D3zClGJLbzajgDg2an2GA9OxzFrLJFb4zL-I-UyCoKwMnHLdA5H-QDXX6O~bwGHn4UXXw63p0e7~s8oSygQyOUYZ2ExaAFgrcG-znh2-mTSx33rGimtMkK2rCdLUQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i227/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

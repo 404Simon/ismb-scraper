@@ -1,0 +1,151 @@
+{
+  "paper_name": "Reconstructing tumor clonal lineage trees incorporating single-nucleotide variants, copy number alterations and structural variations",
+  "authors": [
+    "Fu, Xuecong",
+    "Lei, Haoyun",
+    "Tao, Yifeng",
+    "Schwartz, Russell"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xuecong Fu",
+      "affiliations": [
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Haoyun Lei",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yifeng Tao",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Russell Schwartz",
+      "affiliations": [
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4970-2252"
+    }
+  ],
+  "joint_first": [
+    "Xuecong Fu"
+  ],
+  "joint_senior": [
+    "Russell Schwartz"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 20,
+    "h_lead": 35,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 21,
+    "C": 129,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Russell Schwartz",
+      "openalex_id": "https://openalex.org/A5051953313",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/CMUSchwartzLab/TUSV-ext",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac253",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i125/6617488",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i125/49887295/btac253.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/CMUSchwartzLab/TUSV-ext"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/btac253_supplementary_data.pdf?Expires=1796463037&Signature=iLt5Wj~3EcaeQn5eVS98bH-KNB5~MmaqkLh166Z0TJ9iCmdwIcFUc0SpCcIm2s90TMcDl~nB9zK2V2FhfE0fG1j7mqBBfrr7c1Sq-wrTcECqSuXIYjJTyPvu74B~97cn1G7pBX5HYgZSHdeJ9edBKqXbVa2YSCCWJ8yGqGkuUZYMxfWWBSNei90cAuytFJ-bGV2-bqBxpyQWreo8s-2U~KzcB2rGIn8OxFt5WMkEF2jcpevhUWENsX~bWEGNR10mOoHve7XHHiKzS~wz2zOyxcoRF4U842m9wBCDTrNfGJDAzs-uJBL738ZMja6o7DuY8kbeYubVV~k4HnDXICg6fw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i125/article.html",
+    "pdf": "files/i125/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f1.jpeg?Expires=1796463037&Signature=Xs2tsRZGyCxH3B2-SQk3W0501yJi3Hg2vtECpOVvnnJR~GBVwkjUODiJWsiOUkVzrCBDTNfbE4Z9447ORaaoZ2kXAThPfxFZWBkzC4BqJ13r0FbdHRF0aFJNAsTtr1kjhc8R8GZgqqgCV25YEwcVqqiCyJ5aiJS~1F7FrvNnJEVmUJuo2rz9Wc6EL8sPoGBKYuDqCrJcA7mzQwbbEAJDvuO3e1v1k7mnMRgfOgG95qeb0cCvOxvFX0UQ5M5JoU3nTP7v9mOF68vUbUaUtBs12uEZYuTMpV1LiXrbKl~-emoxvE3A1oHf4uN00f7Tls53LWn3VZFfZFkIZs7y~4CHkg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f2.jpeg?Expires=1796463038&Signature=P1ogLuPlVdzXKTwoMAqN0aP60bbiPen2PtF7d5VcqKVIVa7VZie9OHsnJwexJyHE4IacQzhSkWB23Bfooi~7NdXVqs1XH4kRk97xumFDgVBdkgvUMcx0-jQk9rfFCTo-IWInRJKcQ2BBqp8JarzCkkkGuSBARnzK0SEYvGw-pxxHg13m05CCE9-WEj5Z-XwRcHzjuCghAEtLxlQ7U5lId058GlwmlymNtCb3iKuZNYn1ZkfdpqQ6esdeTHUuzVt4Wy8nC4FOi5cFOXIPvfEKURGBg44K0P163BCNL6miOHvgdd~VcVaQY7P5HFbvHhbBnl3wl2S~59vlGzlCLp4mrg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f3.jpeg?Expires=1796463038&Signature=sIRT7TqsRMfsN5PKtrJ5RuOu6fJwpI1oxg-ZAAmFIf71PVBnBnMu2dVrB0eG7fqhOOtVhzQGhq4y3vObeMkrM-PLuR~kVVYgEoj2ZsE9pV8HpkUzTdmleI15ZjhT1u-30EYrr6Z4t0FhxRfOvyfNlqhHMVXsdlD9jfZydUEDqSXeSy135Lp4rV7rSmA~PUIzcEKtPEwITf-Avtx30S9VRA7y1pFX0o4miNuTVQ9AKffzL11MqcB0CZ2d5rIimAJRbWCJshh4ZqlsN5Tjcb-WlEajG3--RqJsfZNC6xrM1BitJpz4B9WbAe9425kpiUCabAJfDtqy5JF7HzYW24TMcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f4.jpeg?Expires=1796463038&Signature=vHtu4NLgrok~9IKFzq67FXSKVL3mHkU0KndVXjWtL~x8vyu~gQNXW6e4eGa2gucy4VhUxNt67aIB-hPgUmD803kcb6c5McHz3dHEC6PLp-fYG~IJqj8ZO-F7inIX~FEE5ER5iuBy4nM0kqOg5gNvrdy-9TZcTmIuMePdZ3AVe0bQKcrlZRlmF5qC5F-YN9z2s1LPwgQ3mGpRdXa48Txq5xwF~QoJliCBfpx8Ou1mL2XbLJ02khn8GqiLgT-dH17cBQihS79dnzmBDJ5epNYvY6HQw2BGjCVS8HqpPAZZYuyTRhP-JRVhDTeSODBg4WXa96J5PFKvJHI7pkG1nY1kRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f5.jpeg?Expires=1796463038&Signature=VvK5wFUu8OrSwH-GlmT6eq8mwATFFA1X-zmgrGgYPt8BTg7rCAz0ovJDiraBXYMFrHmLtyVon90ozpXjsf4aSk74fzWBA6YYMtW0Rdq15Ru~PIt0YoU7h6D3g77E9Kv0PnPSLvDaAcuEis52btXW4rIMxSE8ccfJRgMw9Ah4tRCOBgCuU~3mgNtjbzoO-RMBos1IO-9rxHLIRXAGpENEQ6Pm0ix8~zCjhx-2ZzPGmKl0iXyjIZw2dJWpqqRJQ2gsw24qI2VO7efQNBSKdWrGiKXuidPz58~qiQus5AyTRJ~fu6Wmgp8NgBTucYxymORwdIqqw2PKnevSnmxgOsjdsg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f6.jpeg?Expires=1796463038&Signature=Kq4-wYEZBgSW8v46KNIv3~oqbZdcB9CkqRi7Nen3Z9hAY6uG0qhpJDWVd1lY~jXZVPat9JZZvL0A0b3BbZpBhOATjC2Q1g4Ne71MFYa7kNS-2jFkIgN7hWMRPhR6PBeV-JGvCfm4R-1YFe8QJNkINVkwRQqcjSItbQhfdF6KT3E95yY95uLNN8Ipqu2nLFPUkb76bGSrusuTE5aM1iA9MFcf-LWWsUuIwJQuQVZ65JCSswWeNg~S2K08JMk86wbgEbaXT0WVT8bEKTXlY0xogUfKtpYW9V3EDz6UUTkrLPqY7~80sTXxSR5D9jh5o8SBRH4D9t6XQE-wm9D3x5o7Ag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac253/3/m_btac253f7.jpeg?Expires=1796463038&Signature=eTk4lnC46VsdIGXmnV0aJuUBQ3nxoTUfKXTXgYQPD8OaU8Fqm8NoSVlhSaxyxgxl0vkiyDInB7Bmc79p3se4PF8CLBqexR0upHYDIk48W02vfCLwWahZP6Nt5Sv27Il-httrP-gyS9WAuQCnQaTBhbMLekm91ZijHjMrEGYOq8A7D9USDoxXbp15hGeLf0NR78-tdAQuEjBMsEw60gsB0dwAq~vki0bKb~Nh-7scVgXHC9kCNaVGtYDlsYtO9pQ66baaW2bHbiv9CqLGQ3XkBmp7CAEP1PklSFGcsAs04a0o0vOvSOt0cmPLH79TpcIZK0nUFU1BsX6B-qi7hny79g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

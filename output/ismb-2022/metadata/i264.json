@@ -1,0 +1,146 @@
+{
+  "paper_name": "Topsy-Turvy: integrating a global view into sequence-based PPI prediction",
+  "authors": [
+    "Singh, Rohit",
+    "Devkota, Kapil",
+    "Sledzieski, Samuel",
+    "Berger, Bonnie",
+    "Cowen, Lenore"
+  ],
+  "authors_detail": [
+    {
+      "name": "Rohit Singh",
+      "affiliations": [
+        "Computer Science and Artificial Intelligence Lab., Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4084-7340"
+    },
+    {
+      "name": "Kapil Devkota",
+      "affiliations": [
+        "Department of Computer Science, Tufts University, Medford, MA 02155, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6093-6260"
+    },
+    {
+      "name": "Samuel Sledzieski",
+      "affiliations": [
+        "Computer Science and Artificial Intelligence Lab., Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0170-3029"
+    },
+    {
+      "name": "Bonnie Berger",
+      "affiliations": [
+        "Department of Mathematics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+        "MIT Schwarzman College of Computing Cambridge, MA 02139, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2724-7228"
+    },
+    {
+      "name": "Lenore Cowen",
+      "affiliations": [
+        "Department of Computer Science, Tufts University, Medford, MA 02155, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6698-6413"
+    }
+  ],
+  "joint_first": [
+    "Rohit Singh",
+    "Kapil Devkota"
+  ],
+  "joint_senior": [
+    "Lenore Cowen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 83,
+    "h_lead": 29,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Computer Science and Artificial Intelligence Lab., Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+    "Department of Computer Science, Tufts University, Medford, MA 02155, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Lenore Cowen",
+      "openalex_id": "https://openalex.org/A5026411021",
+      "h_index": 29
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac258",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i264/6617505",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i264/49887215/btac258.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac258/3/btac258_supplementary_data.pdf?Expires=1796413550&Signature=tYlZykYclPF2H3LSfFAF6CXoOIyugy1-t-sIgibrHuUgkRA~N5jPgZKOBr5X6fWyM~WBCbMvwx7qtwUx94CfNvZhyIbmnhO6FXoSDJAmcZMVpmpqGt30aGK0WWKB774B62iFZNbafxt87A-A7hqOto~yOXgcmRnjcEb9~Jb1N2nWrWQY5ZRAjNY449GXShiwDxnBw7bTOZ~UPv2rCbr~aiQf1-8ghMlyGhwxw91MP4DLsQvxrbibN5aWLaKdvq1rfWWHtjuuolHQp63AyMLpXF6yGS4111L0NdHRb15dmnnxLQQ9FsyzLAr3cBNZO7US0pKF~oOZITrewJJit1ctxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i264/article.html",
+    "pdf": "files/i264/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac258/3/m_btac258f1.jpeg?Expires=1796413550&Signature=ntiboOVCLeDO5IjO9eUZl2jy~~B-yXRv2tgtw7kn0ESrA6Jlp1QYYLRWw10XZy7e76t7MacGBvq7IxRj7ZeyN00YhFWhg1bjBVn8tQk47EeLACasDWUZxFPC-467l32LCCSNs5g-6TbldTTpQGpAX9dnLSbIabzeG2Z29Rm0cTMWm6qZusmLIX6irjh-syn92RQg2CJHSYTG9JIKmMrcBW9t12ud7ay24A6FQY8Aov4~t031pPHT1LbhF54Cw1XQ66QcEUY1TFKINCftV2GEqJ6aq6F~8xoe7tZwK0igk4A2whWY0TxA3feZuUN8l5IsiXi-VXx1g5fqONxvYB-QKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i264/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac258/3/m_btac258f2.jpeg?Expires=1796413550&Signature=DF6nlvE~F1GPiL3Idb7hkfmZvr6UWhDhVYA1Rl63p-vf-CkaAnDiSPX~MLXnVr4F5QzAmpi8pGzCZrtf9G4Wqsj7jorMf37f9oZBJk-N0WBtczho1JISKh6ssf01ZFfUk4ESthZl2DnWeY~EN2et72052kzwtWp~bj62uEoSeZnldlDJUxxZWt-PKBUEiWPJHUXALlpsQPCmmvQ8e4f~qUON64e5foMQPReD7z~f3hPbhMNviZL83vckyB~HDEq2lrErtreu0RC1i8DMm4Y7Xb3amwVYrF9yUXUqrvEgZviMq5alFUETuhm~X4DzccstXur~AQozKIqkufgTCejjsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i264/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

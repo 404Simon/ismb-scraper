@@ -1,0 +1,147 @@
+{
+  "paper_name": "Biomarker identification by interpretable maximum mean discrepancy",
+  "authors": [
+    "Adamer, Michael F",
+    "Brüningk, Sarah C",
+    "Chen, Dexiong",
+    "Borgwardt, Karsten"
+  ],
+  "authors_detail": [
+    {
+      "name": "Michael F Adamer",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Amphipôle, Quartier UNIL-Sorge, Lausanne 1015, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8996-7167"
+    },
+    {
+      "name": "Sarah C Brüningk",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Amphipôle, Quartier UNIL-Sorge, Lausanne 1015, Switzerland",
+        "Department of Health Sciences and Technology, ETH Zurich, Zurich 8008, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3176-1032"
+    },
+    {
+      "name": "Dexiong Chen",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Amphipôle, Quartier UNIL-Sorge, Lausanne 1015, Switzerland",
+        "Department of Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried 82152, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karsten Borgwardt",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland",
+        "Swiss Institute for Bioinformatics (SIB), Amphipôle, Quartier UNIL-Sorge, Lausanne 1015, Switzerland",
+        "Department of Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried 82152, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7221-2393"
+    }
+  ],
+  "joint_first": [
+    "Michael F Adamer"
+  ],
+  "joint_senior": [
+    "Karsten Borgwardt"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 62,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 5,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biosystems Science and Engineering, ETH Zurich, Basel 4056, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Karsten Borgwardt",
+      "openalex_id": "https://openalex.org/A5074540538",
+      "h_index": 62
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/BorgwardtLab/spinoptmmd",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae251",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i501/7700883",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i501/58354949/btae251.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BorgwardtLab/spinoptmmd",
+      "https://github.com/wittawatj/interpretable-test"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i501/7700883",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae251/1/btae251_supplementary_data.pdf?Expires=1796419747&Signature=JVYOA198mV9xPlhDAHh8okvLsyb8fEFHq4DR8s3VrJE~LiQHiesVsDoNv7ZHo2eCAbGES2FMUoFNgdxK6TubjG9NKTEcTvzODaH2Zj80xGyqWELru8qelBaUbmmvQqK5yM0RS~Id5b6TopJAjGeyOnP765s2Jw0pkaznNM5-cjeadInY83v6pVJj6mmQffuTxudRoW2MGCIRn45IBLJmwAVltknB0nwqmGR63sRJGdPzlwFYrF5Z5Cek5SdqHCm85qtdu05qOT1NKKr4wPZah3BhjhB~t-xMyAlkMpMx55NU~Prr2Fl8P5duDuRXoeG~euOcqVMGjglhrcWa7vv2WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc3k",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae251/1/btae251_supplementary_data.pdf?Expires=1796419748&Signature=TNg~QPKheWL59fKQ0Pa4x99hVAbmf6Ob8pJAwnwgDSFyrGxU-0wi--TgCr9Y~z6tqaWXoJDMTFjBPNb3Gx31sx-hCbgdXhKaySWLaaLNyuDHC3QuGjDEumPMkSNnvpgtE4G0jVVuIHS9MXT25Tqfz0bCzJmd1clUqySMuTHpp9ndguDoaYCgDuGLPHslceKSmf1I37rMfQ0eibfhRuBul88xx7LJCGHAPpu0FueUwjfUx8BwTsZo2-nRrRUEj~~XSp~fqbWcVYCsG1Hn3oY3LE6L0XxUg0v61XXuDZkx7mzKmy081Gg0mmJpJVtLtmNsbh1h4zjLcw747psYX0yNKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i501/article.html",
+    "pdf": "files/i501/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae251/1/m_btae251f1.jpeg?Expires=1796419748&Signature=tXkSICNCRtJSDxyXlIyqDX8rqlfQxe9IKjeWpb3DtQ-ubU7OJ4~kG1uvmyZPyR1TfuB6sTvapry0Xc0L7-5k8C-ki8nFBBXzeLNU3odCGkMOTiffu1jirmfLwrpmWj8Ca0eJOr0Yw3eb90PerxY1Fs4aQqklK3hAA6llhwbLWDogTvx006sjHwlfbdRYVTQ9q1vgY4BmVyQczkq51hCelGBQstFfp8SR54HqjOGz9erhbsZbY1A4Uz3m1cgUucEnJKrjg-E5ySFOkWcDDBH57hDAvWv0c1E5JrHMjt5jCE1-QXVhzzxsEpqoeFnh4XsYVdx90sJ-gjLxb2kI-Gqvew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i501/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae251/1/m_btae251f2.jpeg?Expires=1796419748&Signature=0ogQ6VRbfJpLjLIGS9qGcCMBuJTGq3lig8UQop4K07haCpK65kGfp~jQnVTypMGbNBQWiiklpu~XVTUltnA~j~b1LyztDUvCzRHp7sEi03kbTX1kXkWPaNHR9d9XOTCHdBperMbqzcT~Y3vK-U6omGkfjJdA~W6YStEPRGN0uyxSm87rCT~5wJNnZ6Nkbphx4NUtP0XE5179reS3-nHQ0E6FLOvuaLTnFGiPFdYW2j90rz7TkLX83BTcPP4352XWk7LTeR4Wtet5zFHLXRLELzxGXLeitfxFPrVwSlxCrd~aG5srOAd0gi4xC19j-g7MGGT6FUiH~Q0qFgSBpvkGTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i501/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae251/1/m_btae251f3.jpeg?Expires=1796419748&Signature=lEYgtcppsRfZUGSW-gB1CyIQ5sbt5bbyOqnqcQm-VoWQ9XU3zIBsjVfe8K7nG0Gn6ziTG~fBXftsnnQKyUQdl30Nh3Whd7SPSsdGG9GNGHemsbS6yQQPlBezaSijXIRAE1cHvkcBond6DCoWaN9A7k0QrNH-hwmB~DXNV8W3shCuq2-5SW9VL09ck6Wq80CQXiNZNdMXZ-wbOjalPkrBQi0hfTHipjBlWfjCtrJrkLlRHpVi5K88VuuXdhvZMjuf4uS2V0xFoOlFE0-lzGy3raJM9mJbFKJ1KwULWEgZhsv9VuLlDwV68NKwRR73zq8e9U1b2M8w8XZP58UBo8BKig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i501/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "paper_name": "Closing the computational biology ‘knowledge gap’: Spanish Wikipedia as a case study",
+  "authors": [
+    "Sélem-Mojica, Nelly",
+    "Karakulak, Tülay",
+    "Anjum, Audra",
+    "Pashkov, Antón",
+    "Pérez-Estrada, Rafael",
+    "Enriquez-Guillén, Karina",
+    "DeBlasio, Dan",
+    "Ferreira-Gonzalez, Sofia",
+    "Medina-Rivera, Alejandra",
+    "Rodrigo-Torres, Daniel",
+    "Kilpatrick, Alastair M",
+    "Welch, Lonnie R",
+    "Rahman, Farzana"
+  ],
+  "authors_detail": [
+    {
+      "name": "Nelly Sélem-Mojica",
+      "affiliations": [
+        "Centro de Ciencias Matemáticas, Universidad Nacional Autónoma de México, Morelia, 58089, Mexico"
+      ],
+      "country_hints": [
+        "Mexico"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tülay Karakulak",
+      "affiliations": [
+        "Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University of Zurich, Zurich, 8057, Switzerland",
+        "Department of Pathology and Molecular Pathology, University Hospital Zurich, Zurich, 8091, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4644-2774"
+    },
+    {
+      "name": "Audra Anjum",
+      "affiliations": [
+        "Office of Instructional Design, Ohio University, Athens, OH, 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0009-0004-8774-9141"
+    },
+    {
+      "name": "Antón Pashkov",
+      "affiliations": [
+        "Escuela Nacional de Estudios Superiores (ENES) Unidad Morelia, Universidad Nacional Autónoma de México, Morelia, 58190, Mexico"
+      ],
+      "country_hints": [
+        "Mexico"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rafael Pérez-Estrada",
+      "affiliations": [
+        "Escuela Nacional de Estudios Superiores (ENES) Unidad Morelia, Universidad Nacional Autónoma de México, Morelia, 58190, Mexico"
+      ],
+      "country_hints": [
+        "Mexico"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karina Enriquez-Guillén",
+      "affiliations": [
+        "Escuela Nacional de Estudios Superiores (ENES) Unidad Morelia, Universidad Nacional Autónoma de México, Morelia, 58190, Mexico"
+      ],
+      "country_hints": [
+        "Mexico"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dan DeBlasio",
+      "affiliations": [
+        "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4110-4431"
+    },
+    {
+      "name": "Sofia Ferreira-Gonzalez",
+      "affiliations": [
+        "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom",
+        "Centre for Inflammation Research, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7776-287X"
+    },
+    {
+      "name": "Alejandra Medina-Rivera",
+      "affiliations": [
+        "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Juriquilla, 76230, Mexico"
+      ],
+      "country_hints": [
+        "Mexico"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daniel Rodrigo-Torres",
+      "affiliations": [
+        "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7840-1523"
+    },
+    {
+      "name": "Alastair M Kilpatrick",
+      "affiliations": [
+        "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4795-8799"
+    },
+    {
+      "name": "Lonnie R Welch",
+      "affiliations": [
+        "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, 45701, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Farzana Rahman",
+      "affiliations": [
+        "School of Computer Science and Mathematics, Faculty of Engineering, Computing and the Environment, Kingston University, London, KT1 2EE, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4785-5845"
+    }
+  ],
+  "joint_first": [
+    "Nelly Sélem-Mojica"
+  ],
+  "joint_senior": [
+    "Alastair M Kilpatrick",
+    "Lonnie R Welch",
+    "Farzana Rahman"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 3,
+    "A_lead": 4,
+    "A_total": 13,
+    "R": 7,
+    "h_lead": 17,
+    "Y": 2024,
+    "L_lead": 4,
+    "C_lead": [
+      "Mexico",
+      "United Kingdom",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Centro de Ciencias Matemáticas, Universidad Nacional Autónoma de México, Morelia, 58089, Mexico",
+    "Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, Edinburgh, EH16 4UU, United Kingdom",
+    "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, 45701, United States",
+    "School of Computer Science and Mathematics, Faculty of Engineering, Computing and the Environment, Kingston University, London, KT1 2EE, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Alastair M Kilpatrick",
+      "openalex_id": "https://openalex.org/A5004851534",
+      "h_index": 13
+    },
+    {
+      "name": "Lonnie R Welch",
+      "openalex_id": "https://openalex.org/A5069844269",
+      "h_index": 26
+    },
+    {
+      "name": "Farzana Rahman",
+      "openalex_id": "https://openalex.org/A5057079573",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ISCBWikiTeam/spanish",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae247",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i11/7700879",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i11/58354917/btae247.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ISCBWikiTeam/spanish"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.5814765"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://www.tidyverse.org",
+      "http://christophergandrud.github.io/networkD3"
+    ]
+  },
+  "files": {
+    "html": "files/i11/article.html",
+    "pdf": "files/i11/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae247/1/m_btae247f1.jpeg?Expires=1796420948&Signature=CsgDqmYwQPVmecyhoQKEaersMuN~fpXBnw3KKn1oIr7wxNqeAzJ1OEii70mXB8YsHDSaHxUIp2Y396jrLVpQxeOw-cxrD4GZalMOLXX0ZP8p-agowpUfyOZ9Zg-eTOggnil2XnJUyd3OFpRGjgDt1ZtCswdClMCZ1e30-r5cgJ3Mfx7nfMbNNWEv3iohFP8aFBQn5fDIY1t7mxjLfOb6aXVS5qfNsyFJTdk1N8rZZEHkOR1QchGKXARgbjEMwh~R17GykZMJ3lEVf7lGFnWUJPXekVGb8SxU2X4TP7IogAGi4VhrXF6bYC-wYQFHao1CkIJzelOa0UP9BJidNzxlDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae247/1/m_btae247f2.jpeg?Expires=1796420948&Signature=18uQvlauLc8i6ivN3BEa3lregODgZIJVKP84W6RC62iBVTIOoS1-UWmOfr6uGC3qGezuSpMQN-RXwjkeDHW2RYWJ--3loiE6bDWqfNURI-tx3pro9D6dSAQOGD77yKUGRyeM~56vIwtEV0U3bOP~E0bdt6iye3jeMBoHFkARbtnXS0rsez2w2FrYudjZMIhPtC6mHomXlNKZa2-fOjXfw4KhGLBJKy7EX2YlJPNKjtV08QcgcylFjfoYjGlzphMaHU6RT4-U1-8sOsFsiU7vSbqI2Wmg12NO0hhxPVL~d4XUzO9PhZBYTRdsYCZYGAuOtW3FHEnP1DGR5cDuDL9UGQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae247/1/m_btae247f3.jpeg?Expires=1796420948&Signature=ppvT4NBR14QWm7NgOl9b9r8l7bpmL2tfej8U~3qpXnIc-4znQ0GKLzuLUNFL34o9-ZjXJSTjpvHBRA-OygMZqS91rJXoQwpTzTje~4MYe2osumfvtMMVJ~uMGr0oQD5bfdjmJx9nhX7OuoB951kVf7H7G8ki68HoMXGhBMZsUH9Hhqj5qe3RlpN7jA928dAIVH8l1QyoB~no75dPKXscqvQInUQslgoe~KmGEYDzuMwhLPZaL3cu1dK1IbafFeF3tdeal37CBwOOR-qoaXhe9SmOrtEfsuhePBTm5GOG9k11zOHYgC44ahhkBMnv0kQU1777g9f7R6~BAkv4Wu68Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae247/1/m_btae247f4.jpeg?Expires=1796420948&Signature=Jl6oWdzC~CQUQ8kcesDw5gvlJXcb3h1DMemjH~kqcHuJvNWx7vLahe~R63NDfdGbaP-edY5MPmn6klHMM~Adr7jQSr6KLyKGQ706vatuzvpKmvwAw3ff65jE0nxkvPAG1FbNaRrVlmzFEJxB~s5jR8ymE~ZbIF1WVd8nZitV0lxF-s9lmUNxVmcEFE9sKvch9CauOtax6CRYLg5ylUxi1085YdIykT4Ebj4gWBftvOCYA9ULFJZ8rsfnYl5MwmBcGfTikZrglZfAxRCZvgntNW-3iGz1S9mEQs77dIytHYmR97VPJw0hFOgRx2ICLSvJlwmuP9YBA90mjYsaa96RSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i11/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

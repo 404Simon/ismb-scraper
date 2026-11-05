@@ -1,0 +1,128 @@
+{
+  "paper_name": "Markov chains improve the significance computation of overlapping genome annotations",
+  "authors": [
+    "Gafurov, Askar",
+    "Brejová, Broňa",
+    "Medvedev, Paul"
+  ],
+  "authors_detail": [
+    {
+      "name": "Askar Gafurov",
+      "affiliations": [
+        "Department of Computer Science, Comenius University, Bratislava 84248, Slovakia"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Broňa Brejová",
+      "affiliations": [
+        "Department of Computer Science, Comenius University, Bratislava 84248, Slovakia"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Paul Medvedev",
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA 16802, USA",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA",
+        "Huck Institutes of the Life Sciences, The Pennsylvania State University, University Park, PA 16802, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Askar Gafurov"
+  ],
+  "joint_senior": [
+    "Paul Medvedev"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 4,
+    "h_lead": 35,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "Slovakia",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Comenius University, Bratislava 84248, Slovakia",
+    "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, PA 16802, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Paul Medvedev",
+      "openalex_id": "https://openalex.org/A5066909672",
+      "h_index": 35
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/fmfi-compbio/mc-overlaps",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac255",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i203/6617480",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i203/49887032/btac255.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/fmfi-compbio/mc-overlaps",
+      "https://github.com/fmfi-compbio/mc-overlaps-reproducibility"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac255/3/btac255_supplementary_data.pdf?Expires=1796481976&Signature=st2y~0GXyK3rTj-KXIjJZTqdMJG76smDqS6uX0tY~4eK6LhiOIzy0q4LtE6C-4D1aZTKkSiiQKvEsSqhrNZ5e6mZ4N-2rJoU1rAMr9Wl9Q5ykjyg5MGDx~k-QjlYzK5gm5MNA2lA9PfKMEzmQmbfVd6Y19VXoowr12jyunW7thcsk7n9wldBBr88l40JlBs0t1N3wsV9orBc94JtM8b7V0grpIidwY-i4VyFrqVUFnViOh9poIDy9PSBokSGNQYYuwbCQfEmWA5n8yYonOcuzLg-a--iBeskddlUhhMMrdhSQByYAk0R3TBT9VOhVq7q~tGicqlderOpyM0GYR6sow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i203/article.html",
+    "pdf": "files/i203/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac255/3/m_btac255f1.jpeg?Expires=1796481976&Signature=hY8QCi-eNx9Jc9rdFZd0MXYRFaochWVvroiuj1gOdy9XcLmmTLiwFtxLgVZzNCoz8S7Bdum9HofMMbdTgPZY9Tqhm~pVfh5VKFOiHF3WzCES~xB3rz1HhcAj8yCE5rNx7FWAG2od~4l8XZCBsh~TBoUhbxxH~uG2EubweFh5nt7o55wy2OjK4C-pTjWVKKPzKTo5AjFljldJ8iXG80Ubs6sq8epLlZTg3dgggWgpVG60wUeqHvcmIwrIw-hrOrU6I9squXo4fmf3U8zbe05TfX-7lMmN-1-X5J8kXM-OpUkpn7yJmENjOvSQwHXI9EDy8~NDckNZT-Dz4qIT3KTa-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i203/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac255/3/m_btac255f2.jpeg?Expires=1796481976&Signature=1pJ8hAtlDAF0H~xvkKadFgTyFp~jmPL3XNJHvdrohmtvKP0JLpYW5fR9ihuOcsChaplJM~2lZ2Ft-YzZJx9msWvoAOoOoDLmHkHyMcquWjWyM5mAgi1fQUSjzxOrffq1TkMKKLBJg1CSS8qi-dgn3Nat1XrHZJsIRn3KaPKTnVv-Y6nxG9thl56GQwB1y8CDhVK4l7aoApHmrpxZfr5Gk9BYHWA~42l8qdzOMFgMOf4RYgKD-~mMDT05PdqP~1XlGfzAFTfeZoOlyVSZyNomNZMkQ~ctumwTq~~cSK2h6PnS48d3w9FugRVckeJOWGMja572~trTtvCJL4nJdJv8Dw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i203/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac255/3/m_btac255f3.jpeg?Expires=1796481976&Signature=gu93o-IUOEIWtYhG7o2AIykp3Sj96wNxXs8HMIZJGrigRdlGbqedfq2AwySBN14zuikxCFrlorR2IzxQzXpxdn9r9t~3ysn2f40z6IfLKE~FtYi2o6~hIgLQYLB0rPZGq2I2tPs5qkFgVKiRr6ujFTDoL2vVLzxuSb-57hycZ~aYBvgtwScGvBG3lai-qNUijiw4ytBMlYXI6BHzuiJZ5rpRJw841Ecm8cWdIuNQfacS89gcK6w9hZUq4PXpo9YTPfxr66luH4hKwAaNv~zVjc7SW8C~1q-e0Q~xkfQnkCEFRom0PMKIIulwq2uu~mZknRIgrEZ6VuPJG1RK4hB~kQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i203/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac255/3/m_btac255f4.jpeg?Expires=1796481976&Signature=4hwAHN3umCHYkPjyE0kUJdJAsHGNP7L5vBSLGfvwX8r6GAOXe6kPmKEG4aBHV5q8WBQeMtJVeSdJEujOqrH8CerZ39L~KdsY7LCC7PTPVA8oYrSAsMGJInx56EvWKLkuSFxMDQHyxVUEuOs16rY3mBJxXNuk~v~8kEwSzh0jbqSNiP6daFAuNxxj4jaedHWp97Y0NIvyrKAlaG95bT0kc7fEooZLuf3CMvsSTjx266Eyo78LoRVkTa6FNvN8cQlsCUyL6Acn1FxtyahCwf6O~DBUVQDOsGiRz8t6rpXEPE4NMcehF9ZURAZZJ5kTGzCyDISl3b0rqxJSaMJJXYPFOA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i203/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

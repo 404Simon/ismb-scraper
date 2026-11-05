@@ -1,0 +1,134 @@
+{
+  "paper_name": "SPARSE: a sparse hypergraph neural network for learning multiple types of latent combinations to accurately predict drug–drug interactions",
+  "authors": [
+    "Nguyen, Duc Anh",
+    "Nguyen, Canh Hao",
+    "Petschner, Peter",
+    "Mamitsuka, Hiroshi"
+  ],
+  "authors_detail": [
+    {
+      "name": "Duc Anh Nguyen",
+      "affiliations": [
+        "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Canh Hao Nguyen",
+      "affiliations": [
+        "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peter Petschner",
+      "affiliations": [
+        "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji, Japan",
+        "Department of Pharmacodynamics, Semmelweis University, Budapest, Hungary"
+      ],
+      "country_hints": [
+        "Japan",
+        "Hungary"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hiroshi Mamitsuka",
+      "affiliations": [
+        "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji, Japan",
+        "Department of Computer Science, Aalto University, Espoo, Finland"
+      ],
+      "country_hints": [
+        "Japan",
+        "Finland"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Duc Anh Nguyen"
+  ],
+  "joint_senior": [
+    "Hiroshi Mamitsuka"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 19,
+    "h_lead": 43,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Japan"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 6,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji, Japan"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Hiroshi Mamitsuka",
+      "openalex_id": "https://openalex.org/A5059001924",
+      "h_index": 43
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/anhnda/SPARSE",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac250",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i333/6617516",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i333/49887274/btac250.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/anhnda/SPARSE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac250/3/btac250_supplementary_data.pdf?Expires=1796501510&Signature=xerPr-9FgUeiyVna~NpjdIlNI-vNnCvgerWJ3DMWAdDq5ztruODLPehV-Y3eR0tPAYNOSRZQJGHgKMQ-ShieTsPtYNV3L9sH1EpxKHGOzbke7TjoJd5-JCFCV70cCKGcPOvCzGkY2GHlJtSgW4gQ0tOtbNgV0mFt5aCj7N2De03owTOcr5kOtlILGofwOIEnoiWTanTKDJirf~bI6YEF-ce7G776ALgHLNCskSmNu81CfLcLnY4i1C6KhqWPUF67OGYFcPs19QtZ0Htlc2-vnSFob-el4yLahcIFtyVEVVRcn7DEaAsEUGvYRSxvg6URjg8JEq1AdejvcSvseiNW2g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i333/article.html",
+    "pdf": "files/i333/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac250/3/m_btac250f1.jpeg?Expires=1796501510&Signature=dPS7Vol2fqx5HHUPa6pj07maTp6P9KHI5LdWSZetrwfnjK72V~2LnHxKFWcpSAPOUVEaM4hEYRqdq7A74zUn38PNit5GIpuBqLCMpLoYp6rlcyE0jiqr0yOThbeR~AfdLJ-afhD7AXTxDKfBZQX5mbKUROnJDuIY2SlRnSr4r65VuSV3-rU--gDTpkV5lYbixAaDv9iO1ZZl4VYZUEkLz5Gq3d71yQiCsZq1RdROOWKG2ZDsteUZ21jXebT9eo6VKllDW1nx00MsuTFHWVPCs6XMLRC7DJBCMjzu0NaPkcIu1DEQOXERF8E3wQHc9Gu~MTGldwgVKQr4KxBxULdDbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i333/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac250/3/m_btac250f2.jpeg?Expires=1796501510&Signature=1w0r7i3UH4ocbMV9nr6DcjgXYUEIzpO~E19tpaNY5oPipN~EHho8MkQzlG3Ce4sJFHk~tfmFDzN8WGHz8YS35l21axi3LRNm8V-T~R8tS1NQAaXAlnYTHi3MFKGQqTCzsdfLMxiu8yOu6B-TQgaXdH4dGXJ6rva6U9Vv2mpvaI3haWO2zHg879u3g~JPWTpGfT2BWA0Ly~B151aHFEe1PD-mccIWW5-p9KF3byNiAsH-aZRGgutT~ZMzYYXC0taNyS0RALVKqLBja9SGxGaXU5oFSbc78uLMRd~-yI6mGiQziMHMQ~B07jYwa~OjIdXtS3DPDvCJCzJbGFk3Dgb51A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i333/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

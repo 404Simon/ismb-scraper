@@ -1,0 +1,156 @@
+{
+  "paper_name": "AttentionPert: accurately modeling multiplexed genetic perturbations with multi-scale effects",
+  "authors": [
+    "Bai, Ding",
+    "Ellington, Caleb N",
+    "Mo, Shentong",
+    "Song, Le",
+    "Xing, Eric P"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ding Bai",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, 00000, United Arabic Emirates"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Caleb N Ellington",
+      "affiliations": [
+        "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shentong Mo",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, 00000, United Arabic Emirates"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Le Song",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, 00000, United Arabic Emirates"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Eric P Xing",
+      "affiliations": [
+        "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, 00000, United Arabic Emirates",
+        "Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA, 15213, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Ding Bai"
+  ],
+  "joint_senior": [
+    "Eric P Xing"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 22,
+    "h_lead": 100,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United Arab Emirates"
+    ],
+    "M": null,
+    "T": null,
+    "S": 15,
+    "C": 12,
+    "I_open": 2,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, 00000, United Arabic Emirates"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Eric P Xing",
+      "openalex_id": "https://openalex.org/A5009547049",
+      "h_index": 100
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/BaiDing1234/AttentionPert",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae244",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i453/7700899",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i453/58355083/btae244.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/BaiDing1234/AttentionPert"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133344",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146194"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/btae244_supplementary_data.pdf?Expires=1796493424&Signature=1qFIA904skjgF9QMk9wGmBzd~tRlwInXwQMhkScYpAAN8IHXKrTBt4J4Es2T60Vfbuu06XGSUmJpToIUwLgEKctEIm4OrXiFrA9-PiAoAe~VvnR1ZLGJF5QRX9hLL3OanT688CabS8oNaK~mpU1Tna0npop2luTG-7~0HcyLnA2MNvvQFfNbwj-~ZSE251VnXXttV6e8qSwCWr4HN0t8VCqyDPqqhK1AeSKNAfq-TupJRvYVZtwPoGo9acm7dspkzyHwz5K4~Yuty-jnxq0~7nLwe2Schkn2i49ECgvbIY5rfxTumOGgg2nhBSFc1JRAR6~iz0YcZ0I-UCn5UbePzA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i453/article.html",
+    "pdf": "files/i453/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/m_btae244f1.jpeg?Expires=1796493424&Signature=1g1q4BrOBR1vvgfcfn3cWy89MwbqZMVNuTt01dmC2eWNDZdsgHGp8sSrwlNKULa6ms8Mppku3lXmq515KNVBHU1bzpyR89TIfg6ujBeI5MBFqOI9~AjfGshZJhEJbTSeWMDH4ZnpIuOtPOpMiRvXspQStXtJspEs5bvd4mGedWzLCJGPIGr4kjxzMntQIxijbQ0JGDgXMVWudCCH77ilPadBxa83LB97uo9~4B7-usjaH4jDGgqWWgqyVKBEEUsIypVrRaHg8-wAti3aG3J0kDiIR2dv6tgcXa89p0CeQNWWqmPm5aOahPDEQaPpW3FM9STU6RFl796eevsZd9bPcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i453/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/m_btae244f2.jpeg?Expires=1796493424&Signature=SFeVI~iCt-ZVp~oqQIs7RjOeXCHfkIu2VaeFH7hcvnjemMzkREliRcWZTBWIVDQ7YrccSIyUnAER5uockPU6HDpk~qXfaogKL5yJitC~bBKD4TWGpxZDXvdV1Tn4S9P3Ht-n6LgDSPB220aZMbBdNBhNHz2MfS-dvh~p4leMVOvzOzHQc3k4RyOuMNW7udDhu4oJtj208g-loKD6kGuYxexzkrPnKx3w7~sdiWWkAjx3tzPGqn1dRxhWHewUgCNUGmsYYkG7r9PKt-LozUZwGFx4lcsl9RhgzX5gVGDdTkivIOjTL4ixO2Pv61E8YDol2MnxiAWsJmvGZWQCM4Sl~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i453/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/m_btae244f3.jpeg?Expires=1796493424&Signature=tFmLgZ1R9LBTFH7ZP1SWxqb4aUcHG27y5~4h4W-YblrtGoK07jN3tSrb6ynFHT7do0cyHVBzLxE2mLRAzLkcB07csUXcV1KZeWEBdUpuu1bFW7HUt9V-TF8mzwmSPoztG6sO1O-AqY8j-LKYM-iflhMRs-vW7xO-hSe7C1M3byJeP1NuqafAhawTWniQ13V0B5YOgrLUigmAasaEc1ODPSBxZ9GEKeQ8661HiI8jpz6DUBP-WySnZ809MVJFXs4WSSIgNhxJpMl8tWaigKryoCm5XVmg8WvutXIRml0f992UOiXAjGFxweMV~kxA1AKee7nCdzLUkfNGBR7oN6N1SQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i453/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/m_btae244f4.jpeg?Expires=1796493424&Signature=2YkCwS-ipGK8LE144dk44kJeOIdhIpXRcoZJOPYUsc~ZYJhMO1COhdeMDni9MyLdIFzk3RNIrE7UlSx~kE84UFImmFXXMgwsGmjPLqP-RjMWErL19JavQaThMJYqVNHQISvtjnrUO87jacloJB6iriCElEOGmmR~Vqd2Ctnnjutt3IOWwFxFw17xh7QN5vrYBUG7FoQz6Wd2CF7V~ClPvNQg07lKWMN8Frie-e9QjvdY0wLJnapfsyBOgmi-Mkate2GbV~NdZu7EsH6iOiWxNNLxreT4gfr~iqXYrczb4JwLidycLeHwLCgZfOd75P-~vcIivTuENb1uibpoD0x1CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i453/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/m_btae244f5.jpeg?Expires=1796493424&Signature=2vczCTDdQWqUNqKE7~vtzftdFhUgH15fqrJZ3hr5-6cwiQoZVOM4E00tJWGPI7aJT7ujojw8Y~E~YUVr9~iihcIucZXRwLp7FaiV~tfqMK3Uu6sUGG1Wb8M6sFclc~SMzOyFwaF~HsfdMbooXOdrtKBXnYbZ3GbzVq2ohjXf661Nvsasv7e3kzAZhxPqJjHSzgqM7LB~dLra8fiH8d8gbYh4J4cnHE-86OuQaCzonVxWr4a-A7dXrXm1AD39wkCaiGLXvp7GYymvAQyH1KXdN6c7yVVkjxuqKWU562kvSyOKd9aJZ6Cah8En9rtbKfxl9Oapqzm28K-41dHdzKu9DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i453/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae244/1/m_btae244f6.jpeg?Expires=1796493424&Signature=xN6rM68c9P8C89vbOVWykF4l0bQ6KJigOhtiePpeisBuepDzjaiKM45rqdgfzyDhFooVNEWHwarBanRZjIyCNHIhFwdSJ~A1TB6K4QzDdhQwUl~AaQWOWy3GQN4X7jt61gPNc7dUk2wBmeNuSmE0uIX1nhXp5QAtGwmOmFMdip~p6ObLYyQ~iCP0SKyKlvA6XgX2mMpThKs8OIrBgsdE-pGZsqusYzJUfJkkiA1sUiYF~HM7ruuKGhwEtJOS2EPAHCXyrs9hKrjUr8dDyOQgxo98R-5ZwUlC2CjABzEGm4m94ePUFX3KRmPIRygEAADusCf7zxaD9uY3SuV4Y3f0CA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i453/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

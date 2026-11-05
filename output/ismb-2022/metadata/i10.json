@@ -1,0 +1,170 @@
+{
+  "paper_name": "An approachable, flexible and practical machine learning workshop for biologists",
+  "authors": [
+    "Magnano, Chris S",
+    "Mu, Fangzhou",
+    "Russ, Rosemary S",
+    "Cvetkovic, Milica",
+    "Treu, Debora",
+    "Gitter, Anthony"
+  ],
+  "authors_detail": [
+    {
+      "name": "Chris S Magnano",
+      "affiliations": [
+        "Morgridge Institute for Research, Madison, WI 53715, USA",
+        "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53706, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fangzhou Mu",
+      "affiliations": [
+        "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53706, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rosemary S Russ",
+      "affiliations": [
+        "Department of Curriculum and Instruction, University of Wisconsin-Madison, Madison, WI 53715, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Milica Cvetkovic",
+      "affiliations": [
+        "Department of Statistics, University of Wisconsin-Madison, Madison, WI 53706, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Debora Treu",
+      "affiliations": [
+        "Morgridge Institute for Research, Madison, WI 53715, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anthony Gitter",
+      "affiliations": [
+        "Morgridge Institute for Research, Madison, WI 53715, USA",
+        "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53706, USA",
+        "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI 53706, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Chris S Magnano"
+  ],
+  "joint_senior": [
+    "Anthony Gitter"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 7,
+    "h_lead": 28,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 26,
+    "C": 1510,
+    "I_open": 63,
+    "I_closed": 38
+  },
+  "lead_affiliations": [
+    "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI 53706, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Anthony Gitter",
+      "openalex_id": "https://openalex.org/A5083286341",
+      "h_index": 28
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/carpentries-incubator/ml4bio-workshop",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac233",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i10/6617510",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i10/49887050/btac233.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/carpentries-incubator/ml4bio-workshop",
+      "https://github.com/gitter-lab/ml4bio"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://pypi.org/project/ml4bio"
+    ],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac233/4/btac233_supplementary_data.pdf?Expires=1796406509&Signature=yL9VpMmCVrDDE~EpLzf0nyCFZYpuiBXd5WTj7RQHy7Oh9Ef7ocJU-GYuw5rJngNpn~Kn8apuirUlhyzan~g2hhTGdE2QHil9Lny0ISH9f1GISWjjAdzx9LHUuEnut~mwPY8perdLiIKhJpA5-em9gbxin3~myi1Luwtzr8hFOQCrx8SA~zeu-nX~Sewbv7hXU6mkN5ftpDFAj9SOuMdcsIWGNAl-CCkNUq0I~V~qIyjU3C6c1Y4A2CmwXjdVY~yEpQGCSeRWnm8SYm68Kpz8Fm66IzhyuR4WIr9nxTYHU12GcdsOoAI2O4JU6PgFgZq04IEzZazfXI4bqgm2uHpc9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i10/article.html",
+    "pdf": "files/i10/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac233/4/m_btac233f1.jpeg?Expires=1796406509&Signature=X5DzU6NOLgdyjZNagm~ZH3y8YtG68XojfAnJzYqDI~WGpsjyMw4xjxyxVSQBQq8MvgXxVPChqx7fhRg~nsSTW9v3raiociwWlmZd1K-4mDRXFK1JI5V1JaxEGEbrPR7jYKyJAdHQieHHY6eM20~Zm0x7ymMR8WI9mooJdDWXcrEoXXZXfQuqv0qqSHtci47LmeqU4XE7MO8P8fNE5fvFJOHJUrCVJkR6Jl5iYPiiPYos7G5ROfr6-08jE2bey1zP37H7gWOZL4u~Jyc052JYvpsiYDP4HN1OUWaDu4Y9DaNj46cGqR47-C-XTCbSRcbWbNlKEd4Q37gS060xbFrvsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i10/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac233/4/m_btac233f2.jpeg?Expires=1796406509&Signature=aOryOtHWpSbx5U2O6HeWiul1FkgfM-W4k1PFiO04hmxbpPMQ~jfVIHUGTi65GWUb-MDYS8kIObF7rYztu1TNlmCa5R3WCcv7Ye~GeNSiR4NM5DYTUb8FxNW1AJyoNSHzYSRbWs0cYTlRDyj-JLOpQc5nqPFUrmH6rnYK4zZLmNAHQAk5ZXcou4h-LMH2abk9mGK79z~loF38iiPS~0~t4mT9YFG0tkqug2UfqAKXYuv0hrQK-vajpHPGZFon~dPQECOQ7ZoEp6FHhahk9cdyR2~lgULE~Lk~Zq2nBC1A~-qBpkYNERctMT--qfOKHM8EzndBxj5dPaCDa3lLb6QbJw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i10/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac233/4/m_btac233f3.jpeg?Expires=1796406509&Signature=LQYg4wY~WjoD0I7BvsqJz6mBa2feyVHt~DQKcUGImISV8SmlIvSw8bBah0qZt5qq8MOO-7bVwrWXcm7Qsa85Xy65RPCiQr9jcIwSlBjjAaLOEkYZjTyil1fK2hXXje0IudvZ81aZwbbA9b~-h8sMopQ54b2s8LvJW~LOxf0MORfvrcrSu13aFDFY1W47L1IY1Ezt4JdYsW~GWY~HKOK-tlfLtVprqjVAFQYLSueaRztifX3L~VpgMECBugrI44eomgFNsX7B4-54Wd6EKDd369iNNhJdxz3rccJbOwN2NCV5wqkqrJ8vo9147oHZIgq0JqJvEFjS29OCiIXweu7jzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i10/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac233/4/m_btac233f4.jpeg?Expires=1796406509&Signature=nDjVfwEY7T7jOuy7Zhl7Wm81hjMOBPGJrQAou0iF6KFAxQ931i7cfUf1otUfE3VPku0sOREmnBJqxThzzAs10VMkyp1wLvY3z64jlO66a-Gs~bMmWyAaSg8bf9saltb2ClqX8JgUtSJysWb1K328-H0ErkvE3hLHK9dgk~FzBt1XBZeO8OlK6mg~mo7sBWE-JGVqGRU5od5Ju~7iPjoHizKnzrA2ngTrBTZkNSeN-z7J9xmblVxIUMNKk4zARm8j4GR-BlxznHTQ2L6bOAYZ1CfNp92wONCrn-k9yE2jIcoqculgbk0PAYYLqGqhWLllO5RyaEMFDM5pLoudVkS~IA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i10/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac233/4/m_btac233f5.jpeg?Expires=1796406509&Signature=KVwiFj7zn1iIUoiyBOF~lwS-WyG~V3BAQbB2IRN8ojGARevv70y0nxiDgD3MwsvDKkPmqO24FspA8ZOmmIw6DSo0dYoFK4veMHmJ40V0vcSm5QcXy~HjoMaN7bHu1Prs4nvWZiA-aEGEPejUvQmkryittP6OwaPdqLoj-fK3SvALGJkpyfKekjHeG0hrwdkZhSZdObS7Zc-4BXucA1izmH4bIN6SD8AQTdf33RDYJjY1J7eYUE45mCT4XPExEOXr9ho5dobL0lO9-uiEhCbDTp5kj-Mgf-2PmwuYMxlhlSXL8So~sMCIUOmNJ6y~8zH2L8MdndzZlmm0TuVk2Oq6Gg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i10/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

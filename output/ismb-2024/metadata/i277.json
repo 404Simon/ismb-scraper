@@ -1,0 +1,162 @@
+{
+  "paper_name": "Optimal phylogenetic reconstruction of insertion and deletion events",
+  "authors": [
+    "Tule, Sanjana",
+    "Foley, Gabriel",
+    "Zhao, Chongting",
+    "Forbes, Michael",
+    "Bodén, Mikael"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sanjana Tule",
+      "affiliations": [
+        "School of Chemistry and Molecular Biosciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5630-5792"
+    },
+    {
+      "name": "Gabriel Foley",
+      "affiliations": [
+        "School of Chemistry and Molecular Biosciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0487-2629"
+    },
+    {
+      "name": "Chongting Zhao",
+      "affiliations": [
+        "School of Chemistry and Molecular Biosciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2829-957X"
+    },
+    {
+      "name": "Michael Forbes",
+      "affiliations": [
+        "School of Mathematics and Physics, The University of Queensland, Brisbane, QLD 4072, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2240-7245"
+    },
+    {
+      "name": "Mikael Bodén",
+      "affiliations": [
+        "School of Chemistry and Molecular Biosciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3548-268X"
+    }
+  ],
+  "joint_first": [
+    "Sanjana Tule"
+  ],
+  "joint_senior": [
+    "Mikael Bodén"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 3,
+    "h_lead": 31,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 129,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Chemistry and Molecular Biosciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mikael Bodén",
+      "openalex_id": "https://openalex.org/A5045279138",
+      "h_index": 31
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/santule/indelmip",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae254",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i277/7700856",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i277/58354750/btae254.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/santule/indelmip"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/btae254_supplementary_data.pdf?Expires=1796424810&Signature=d5bQfyX3oyFsHeCyNGxpx0BGZxowKxJ3eBpF1hyrboVSvVnou2x2PfHH8PuXG6-88g1gp09QzDW4j1w94U08mgADM46g2lN7~1ky9EJvAJpG8zm4YED~ok5PFzKc81OICpopFB2CvOtetGSuG~6FKqpsnwqOx5xCVnHC-nw7P5V51femTzUNee2xPmzs2WxaVFOP5xlkHOJ0DxjdvQhu9cGEe7-NJxBuPbp~a1OjYkWF42~f7IQ2d37MTeEzRkhlgFTMEef6Gs4ZUqUgcqX35K2slw5rdfIEnkKqRufZRpLLmSF10WuGXO7hz1rwlDewLONoo6eOaC~u18E~1Dp-yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i277/7700856"
+    ]
+  },
+  "files": {
+    "html": "files/i277/article.html",
+    "pdf": "files/i277/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f1.jpeg?Expires=1796424810&Signature=WSv52gekeEgWB-qJGmWl7jzHhGiRitUV916KTMrOAIwjm1pjFWWMOlGOASyb3zQq~du56rG507mRsgEu1xZplWTOnURl9OH5i4yDGyWloR9gdiQraqQkziwbBeOLt0dHvIGjGpfHNylFBzDpn19ZN3GyDaZR53MfxlmeE3dB-hUxRaY502afEL5FAR2XadqzpzQ6vrn~DfaD568pv9wRxfkR~UMrSvAgSc9vOuw7PDGqIJdHxRwjkc5F4cJKzHhi2j1czQ7r0uMnaCAjGTFnm~OoPMsj9uL9jXmqZS4uz1K~yVRJm9MzrqxUkHa8L~p2AlPJ0C8uhnSai2SGsYW3mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f2.jpeg?Expires=1796424810&Signature=l9Pr40vqn63NLuYunLuk7rej55O4jldGk3AfloHHRcQSFuVbyq~5KYgM-4H8yuz6U2o77S9vGU8-V0ngXtJ3GIGnYl7ofgnJngklv1NPpCH4hd1q2-NNvFJE6ZeZ4bGsNiGVz7crBnxjPQ9~uukNYeSSjrEsoZ2TyKSPfo1LGOs6ac1Zyi9UC3g2n6aDDax4skUfgVV9SLra6TY7Uw9DN7uhOxfxL-yeMAfzk1OLbLcGqpncnErdY-XjXlv7uQNDqapzDql-KfR1zcrtmcQP3fjv6vY~cYMEz0ZpU4bJRmZrUqPdUpSMtxxSxpShW5Dkkq3Pq95bWtFm0~1-HmN8ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f3.jpeg?Expires=1796424810&Signature=qWIxm0ZRswfNhnDIc92dxhkrKcQ3s3KLhlmOsN6yAuO8ZgrRLUY5~gCxh7eeMThiH~VY0zwOy71OYb-erQOxEYFAvTxL6YXPA6HNMnDHL8Rc2dd7TUF7xOWTxY1cRBHxBCqHrUekc1G5xmY-F-BosZBiodbX6VsueSdMeT7bSp9fttwDz2F768~64if3eQoTBG3b39Soz~Y1i2RWrkqnG3PThcp4hkVNjrzR~39saVk-XfNTvPqeiO~6NMVQ5fpSd0vVe6wn1YfJTuo6ngYNaMgNojHKGaTsep7VrFksbDNsQr1PrWhGfowoElIw6XVLkZ9nJc0olsAH0aqR1cQIVQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f4.jpeg?Expires=1796424810&Signature=xp0~PE6CYbSrqcCpkzh7Agb5lJl1-FU7NnAwmS~CuQYhnSwNxImMAyaAM4NpNyDmTou-oYN9-tSO6wG8efzzNomvtSzEMn~t1nPRIb3GR-VVKtmw-mD7kd0mx-RjAwSPfmD0YKNVY4UPYBRB2ARuUJ2ffPlXjzj-3fNTrkAsGqWtM0AgAZ8ze5ACJ4BzF2sMb4A8jkZwalDmjOAzBba5mA~OnlKLo7bFGXvOrNkfTLc1AtD9Q~l8X5OVEU1gjet7avfcVVdkzcCf3ThISrHjOyl3msIZgj-gg9etwvZHPBrybuqqMwkRVPsGsIrrlA0k3ZucymHpqlAgiiikmrTTqw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f5.jpeg?Expires=1796424810&Signature=I1IE29B266DYFYRwy~NdlQke3nNEm85JVs9bLENbECGZukLaUJPO9bVeTvSWoTw-~TbyyQCimR19Byg0LIAFEjm4OEc7bmzkvd8SnnU7V-fPpR8YeSnwQY7W1rammgE4ji0HItwbm-Js6RUTKq4MF38eh2gbnoscYwzAZougTKjSwLt6JTpghSC12iiVny2YaoR5Xljtbkd4qQ3UyRERVytwRbu3RlsxvqJ8vxTUt~tDhpNkpmK846DIh5U7neCr~s1V0lyJuBgrLU6YWxVMUtxcCI6gzg4EmLuXnO4MSt2m06PjnhUgpJ1IJo2N4vE5vIysx-ludhYcxDDJW0PGBg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f6.jpeg?Expires=1796424810&Signature=i~Ym6vqfkPzjiz3EaGkUX35TxNhu9uh2Fr~uRpZyLuK396N8kXItCWyXph6DMiczTlqGsNZyxXX9~Co6MG1fNLHPL~ek8mRXVfHetLd9At5Oq0pJW1nOvrB0SzmHz48VsIUvHgJFJ-VFrFOCg4J-TV3Lqveb6FyCZMjKC80KNkecyTCECNEVVoo~Hr845B-QWMBWNh8lN1qBxqtSDNiFfUzF76XuWmmyYgzcGQZJwC~DgNqGopx~4HAKYa0yGWkdtkCsq7L2GsU2DYO54aJVHMkUQ9Rzc~8VRR82CuKWpy1oF4SOsNlk~25aYhB3eyJKA8yhZWklyfQMlS4mTPk94A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae254/1/m_btae254f7.jpeg?Expires=1796424810&Signature=jAjiqu55OgxiBg9kgqRxe3OgySeulyAJLiPjc9iALsbJc2H6xSW88b~V5vzYPh1~LoMdcdXcMWsXvTSp7bPzDpvX-oOQq7W~YbBw6H9SASFtqQVORtyCJLt5Bo6BEye4swHYOuOXOjR8~N7cu1dDrmRurSp1~kvJdHIV2~gPdRuHq9-c8J7Fii2jJlhchchwPzs0jjAWQ5qWYRXXqYaR~aQY0tzwRn-yvQrgF7zLo--BH~STgZzF90D9SnXeSoTcpVbpU8TSg35-rpGdVXi7MrRyuo5BPiPbVtawjhK6pL3MfvfMn~d-ZGeioPbiy-baRyRtX0cxiRDh5u6Nbclxww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i277/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "paper_name": "Enhancing biomedical relation extraction with directionality",
+  "authors": [
+    "Lai, Po-Ting",
+    "Wei, Chih-Hsuan",
+    "Tian, Shubo",
+    "Leaman, Robert",
+    "Lu, Zhiyong"
+  ],
+  "authors_detail": [
+    {
+      "name": "Po-Ting Lai",
+      "affiliations": [
+        "National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2025-318X"
+    },
+    {
+      "name": "Chih-Hsuan Wei",
+      "affiliations": [
+        "National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5094-7321"
+    },
+    {
+      "name": "Shubo Tian",
+      "affiliations": [
+        "National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6415-1439"
+    },
+    {
+      "name": "Robert Leaman",
+      "affiliations": [
+        "National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3296-5766"
+    },
+    {
+      "name": "Zhiyong Lu",
+      "affiliations": [
+        "National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9998-916X"
+    }
+  ],
+  "joint_first": [
+    "Po-Ting Lai",
+    "Chih-Hsuan Wei"
+  ],
+  "joint_senior": [
+    "Zhiyong Lu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 5,
+    "R": 10,
+    "h_lead": 83,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 15,
+    "C": 17,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Zhiyong Lu",
+      "openalex_id": "https://openalex.org/A5083081872",
+      "h_index": 83
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ncbi-nlp/BioREDirect",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf226",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i68/8199369",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i68/63745428/btaf226.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ncbi-nlp/BioREDirect"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf226/1/btaf226_supplementary_data.zip?Expires=1796516567&Signature=u2XnGmi5Q6H1sqJdW8mHajrfVLjoV8s-TA2ZrJsRb1WNt6bkpkfklPp7hKMOyvoZW3eBUYJrh9y3gUP3w3Eeroh~L5BQdYX2MgKbWXeBVs7UvUlIiPCi0UEm7c-NncHxtQ0kFxWAvEjS32FGSWneoc2-AA4h3aRd0qL77R9kQoInZ6skW3W6Eof9OcNHx~h6RT9wR114HNBk6mE~EmwSv0lrxajNBkatz~24rUXzZGOpDers~jc0FuK~yaIaIfrgx4Ym49-voFciiSIOZotJr1L7WCca5ArO5FMBHw-Fr0TMDKeAuPGFRi6CmQXswLIetU2urhvZ1H9-6whlpDbEMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf226/1/btaf226_supplementary_data.zip?Expires=1796898741&Signature=iD-N1BJmiHAasckOQOLA8gdmsTGN8OP9iQCPIl28JeW6vOIyAh2JGa6bMSQ8dxSh4-LvpA~zvMyG3yy9H6OdZWbekQna02AmQcCfSOj2gbj05KE-pUkNsnPUwvvAU1maAgm58xw3WbKJniqvtkZXcJKjlADf0h~JZaBGpsHc5W1IP~mrZAy6qD4mwABkaE4a2a7n6b2WcWvXj5EaHtdZbz9I-roPgEn8QUl-qrxCt1ZbZXIU1-HQBW0DL9VHRKT5TM4gXsWTorRRGY6eBKVTsQ-43eRd~Pz9BmHP47R8BhalKtA8amDxYPy~qbgoQO~w8c9djldJGmD5CRk4t4FdEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i68/article.html",
+    "pdf": "files/i68/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf226/1/m_btaf226f1.jpeg?Expires=1796516567&Signature=ptofWVzwXlYKHq4vGIEfnY89vLJal6V7tRAswfE7dDjPWKkTnB-fI~6uQkr~~JIX-hnygySV4rkIXeItZegDimZxPr48Y8vB4Fa6kfCLP5K3LkpyN8d2qOjV-l1O6~gESYHqVSq~gu7x3~NFyUg4~Emaja5JYjnFrBFDvBD85NI02odiiVRO-Qpy5yS~vGeCGcG2jv~z5wXkeIFgZ~gHK2Wd3jUe6ESNP~x5apkFvlvzJcRs7CEHpTWefFj1NwHpsxh-cZRCTl-uak3k2sShDGn4AdmIPnmfRJ6FfbCYn6MVQDd4TVhZoatrKq~CgS~ADtQA9g2UyvPNW2bKfgQNJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf226/1/m_btaf226f2.jpeg?Expires=1796516567&Signature=DSNkZpE0YvJOUzslTaymefeveVrsTf-Ft4099JICSVI8bJicLCfDCYk~1j7zyes1-zN30OHcPRUko7ZrtKziE56g3SYoLGIl3NZ7~6CA3kINBs5t3VFdUMTOsEbwZz~BhCSi22MNGwqSYTXpog1fsOcGiZQW8lsmj9sgiCyvXN61a-RyCg08wxlHAThedF-daIz08sjprnn0ZEj65CR5xUlaSD8ZfRiYIYhO~fgs6fkUEHcTEwDbpZ-NgE8Hop-j7PODGK9MseY25DJtnWF-qRSGTzZk0Q-cFLpV8kyaHfZFyPnFgjXMaUU5K-3SkTRBO2OKLD8e5FGzJzbw7Y59Mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf226/1/m_btaf226f3.jpeg?Expires=1796516567&Signature=yKBNpuhaxbUlmDmGBRYjamd6fhpJo1HogH0CW-9nyetptYRtMTNz6AOyenz4iK5BRkW84sCOUJCa4mRdF0aoCOXBrTRk~G3NDdWCY3HZdgsB3sbSB4jmmNA3dF8kKW6RGDEtYcus1Dn3CTughdXENmgut2QN4zShKLrCnhV3xbRTpN-Gj6w~jHs4U12gz-F8Dbr5AhawydJLGF63mnDDwT-fwINWMdmyq4ebJ4QxS7cIS7d0TyPQPxPLMlmP-fbZEC8~~YJDjnG5kzRY5sjt09~oLr~GX-KE5XJhFEZ7t2TMcKgykKvv4KD0dj55VVas2Qb2JXK5ioGrXQ2WqwrYKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i68/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

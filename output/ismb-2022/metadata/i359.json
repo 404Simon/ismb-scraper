@@ -1,0 +1,152 @@
+{
+  "paper_name": "DEMA: a distance-bounded energy-field minimization algorithm to model and layout biomolecular networks with quantitative features",
+  "authors": [
+    "Weng, Zhenyu",
+    "Yue, Zongliang",
+    "Zhu, Yuesheng",
+    "Chen, Jake Yue"
+  ],
+  "authors_detail": [
+    {
+      "name": "Zhenyu Weng",
+      "affiliations": [
+        "Communication and Information Security Lab, Institute of Big Data Technologies, Shenzhen Graduate School, Peking University, Shenzhen 518055, China"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Zongliang Yue",
+      "affiliations": [
+        "Informatics Institute, School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yuesheng Zhu",
+      "affiliations": [
+        "Communication and Information Security Lab, Institute of Big Data Technologies, Shenzhen Graduate School, Peking University, Shenzhen 518055, China"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Jake Yue Chen",
+      "affiliations": [
+        "Informatics Institute, School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Zhenyu Weng",
+    "Zongliang Yue"
+  ],
+  "joint_senior": [
+    "Jake Yue Chen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 34,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "China",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 14,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Communication and Information Security Lab, Institute of Big Data Technologies, Shenzhen Graduate School, Peking University, Shenzhen 518055, China",
+    "Informatics Institute, School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jake Yue Chen",
+      "openalex_id": "https://openalex.org/A5058469124",
+      "h_index": 34
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/aimed-lab/DEMA",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac261",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i359/6617529",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i359/49886594/btac261.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/aimed-uab/DEMA"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "http://discovery.informatics.uab.edu/dema",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/btac261_supplementary_data.pdf?Expires=1796641386&Signature=vtu4QOTDyN0oQkZ1obNX2Rz7Z9IGIpKRNerP15zGOQX4iJdBvPazmXgVci9fbHkIPjHtqr2cIE2FapuGW8YrwqgwSQZ3ro39oNlv3V~ULQcyuQJRmJvd7UCjp6Gvor8wWA8jQy9M9Io-51UQd59svf891JcZyGhXbKNFH5EK--KPc9SvoNOLJCnG6g-Vl-7ME~FRhNl2XyK9g0oV7ax0nDQftar4R7c5XIXPw-2aIMikM663dVIao59nZjv9GDpuM1-oT7DkePmnIV~qoztYx6ib40VIz425MEZW5Gemh04NETJptdBsVjhPligimZfVz0jWInVAVrvk0BhOb3gwCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "http://www.prefuse.org",
+      "https://www.alzforum.org/alzgene"
+    ]
+  },
+  "files": {
+    "html": "files/i359/article.html",
+    "pdf": "files/i359/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f1.jpeg?Expires=1796641386&Signature=3XImZa0sx15DsivCHvOLM61tvBe4wBSTAFEkLR7sy9m1lO5PsSynXLwIw9rN4-iookzSHKw4LXkTvJvFeK4I-3AQspGb1FZNKGlX72B7aNc20Zh~5QV1GEw1Rfj8Whg-UBciXoFCxzWN1Ou19PXEwimXz5yGdlA3J2QkJDY6fVGeGz0C9wv2rfIBAQC7vvPlyeSPkMeYpo-HthO36zW5ybccrP49M~CNIp7rkeVqISITVuwSUm4yW~aFHXuL4e2c401AN3NLUl-1iyzDcIy2JvnCClTWncFFYLm3KSbtEXsLTsHiFCFCQMn8DI6LNLh7bqpgjz1Q54WFcJzVRXfYvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f2.jpeg?Expires=1796641386&Signature=PpP7NVKJHuh7n5DBlvh7Sf04pBiMx-4qfui7JzN6DUEF6xjdp9tyv3gixqovGgJS6iv7Yp5Ortg2-MrxfTK1BbFeFI-tANx-3n8uVKfk9bsYaHYzOlIgg9lRa01nKQ6NqiePXqpYvh6sJQaHy~fgUWck5FH0bRBl90UUWfl2QDLqLHUkhArx3nw4qaew7F-6Fn-MefBby2cb0ZqBmjxY4k0eggx0ZsEwN-pkmXdaJUf2GEAyv30aQA7kiZfzlh6wwPvDPEHuwjKkO0tgY-84fAeYIrAfhbMPJtwpCrcu9dmPNc8ITlTIGRe870SP-8XAWD8Oo55pbvlCi5YILKWL2w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f3.jpeg?Expires=1796641386&Signature=zgWZ7WEWoLgpeu6UvjYflj~WeJZsS5la6ndGx9WK5enzHN7xd0xPEQTG-V7F7XaLXasbWCqjCYSJT~YAH4OiQAhigDCTySDGCZmISU6doy0t1HaT6IILP8nWhmvs3Md-bzjdfKcCPr3bINN-l3QntE17RSrCCpDckV893wwRZnPhbRAbi-nJLrA4zmKX-zB1Tgzhf10sCwfQv7T9uVm31QYwBTjPRdMWonL2K~2Z5~patPXqC2SI5fTqWK-grYtWiES7reJv2SMdl11onODcKa9H3Lj6Nq7sM1UHEmhlPUh3ypsHY9r1sW77x6C9GQGWYDz7oxuETPb0B-0IYfmcEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f4.jpeg?Expires=1796641386&Signature=1pjrUSH8cjep8tWjAclU1MZd5cGQvJhurM6qNSO1okx14Js7YbcRgXxBljaINJzjR4XOFWfszZ4P2JYXQsgh6GtMx8puq~m7mbuHZizOSKHDXpeSkgTJ2ZhlkVg6ruvGPxlfScdm9VFZEGFlmLeil9-Gbk4WAmIRjFunc~rKtfL1Mvx-7ZNUqWNnm-e5XITIkhzzNnhVGgzVmlInkS~MMdFOUZtHYOFXJybKl34iveE85DYFLFSgIuCRFhs-sk5xkEAZDDp4EYg-6PchIsS6EzF4CefZeZV4pSCHbi0A6ngPku3OyHIxUB3iw4-tRGiXQm7SPoo~x1kZbR01AZbIgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f5.jpeg?Expires=1796641386&Signature=btzmR5fkDmLK-F4SHu4FR15YmFX5gojSI3XsrHGEXLeYmbISlZieIOUNdqEqN~EuxhB8mtZLhHnsF2To-wg93gHJojf7XcK1C2MLODkvzAtKpmcAgY6XbzeFmJLirlV-tUi-65aoZ4vcamHmd84X0w5pDh6H1FHubBTKd3WeJVdMf56~urfPAm4RfL4J5-6Qn8B5~O-yXHQzg6VO-PldwmFvgSVwWxkIcs8SUqJHnUwEiVV7I9SJmA-lm2p7zpeSKmyYBhYYrFUD1H4vvnBgMzchuM3z9ICXTrZPQX6Rf-RdrfoyB0oyZpiB~kuLQDHLn9GJERXvOefbADUxhFmyFA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f6.jpeg?Expires=1796641386&Signature=PndBrJuUBIwfVdfzuD4w0rMfWEq~cQQDf-NdgLSXpQPe1xZghwDtlsbywpZSbuoVE5JqEkM9XgIA92Bcn~Ph8ZagbwVH7iIW5iOE3i4bG66tMwR1ahyMB3RuQovDkuHh3ehjxAGLdvCR0tDVg5RFMtHZEx22cWJ2BIAW-I-Hx1QB93CsOIduRM8-spxZyuUBF3r-XldYu2OfB8FRW4RfRnup~RdxpWSDY59gZwR-WoeG7MTOST8yjTUl2RfdxIAZA7GqyQoTUaH6b3QU0BoH2xiNoRX-EGLlwXDVWgun0ae4nttA-0DjwaJvPVPBGERuCxw7R4WUWupUNY-K1CupmA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac261/3/m_btac261f7.jpeg?Expires=1796641386&Signature=AbeSnp4F~AErDv717dYiB-vSduTY~VmLJiSBZxRef4~LRJnAby0oOOZhaEy4x5ywAGZ~hca9ED3phqNYSIMKeeoseKL1V40MFJ7dvXjtEMMt2TiT-jR1lEqN6rOZzFGULLRxqcurCrk9jobanxSS-AIiEi46jm24qgdWEx1Tom6FZyE8jGOJNR-bp9D6SdHkZikkculTwcTojuo-XSHiB~s-BTP2KPV1iSdguno3jIZ3duHdpuG-1x5lJjAzNZ2YepLci6XKoOXmPZcdtRo20eNkB~T0CfnnZ59LQMWkMisp9D4yyIUMZ-esz144hFBvMVMpoCRYdVrFFkitunfasA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i359/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

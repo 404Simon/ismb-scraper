@@ -1,0 +1,140 @@
+{
+  "paper_name": "Integration of background knowledge for automatic detection of inconsistencies in gene ontology annotation",
+  "authors": [
+    "Chen, Jiyu",
+    "Goudey, Benjamin",
+    "Geard, Nicholas",
+    "Verspoor, Karin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jiyu Chen",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville 3010, VIC, Australia",
+        "Data61, The Commonwealth Scientific and Industrial Research Organisation, Marsfield 2122, NSW, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin Goudey",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville 3010, VIC, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nicholas Geard",
+      "affiliations": [
+        "School of Computing and Information Systems, The University of Melbourne, Parkville 3010, VIC, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Karin Verspoor",
+      "affiliations": [
+        "School of Computing Technologies, RMIT University, Melbourne, Victoria 3000, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8661-1544"
+    }
+  ],
+  "joint_first": [
+    "Jiyu Chen"
+  ],
+  "joint_senior": [
+    "Karin Verspoor"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 5,
+    "h_lead": 49,
+    "Y": 2024,
+    "L_lead": 2,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 18,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computing Technologies, RMIT University, Melbourne, Victoria 3000, Australia",
+    "Data61, The Commonwealth Scientific and Industrial Research Organisation, Marsfield 2122, NSW, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Karin Verspoor",
+      "openalex_id": "https://openalex.org/A5067214173",
+      "h_index": 49
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jiyuc/de-inconsistency",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae246",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i390/7700907",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i390/58585771/btae246.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jiyuc/de-inconsistency"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae246/2/btae246_supplementary_data.pdf?Expires=1796434181&Signature=GFozgXamtfJiO9pBGg7wyGlT0tu-bXJkADOBO4gfxu6spOyiy2N3SLDYH6pIURb4wc2y468ECi4KSoHzLlSYXcD8VFrVyTyCHabnQF-mVx~q9hZyfGPsSE8u4-mMh6Du54w0H0QSahy8ZZdKgv2Jvpipcy~awi~Iv4-xe-fUQRqaecm8DfFlAonouUduHrmbdoLkusn3Jc61qB2VXsJ2k53cQN9d3xOkqryCqeLnHqiCf5-h3SasfZMW8s7Ygp8kZd9Q~dPYW-9OcemhCQVzccgoH2ExFKT93UAl8qyHkdq7GRqwsGO2e5lxNq3FyYfLgo~kbyXuC7TA30ux-3sk7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i390/article.html",
+    "pdf": "files/i390/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae246/2/m_btae246f1.jpeg?Expires=1796434181&Signature=Qz2TNIfit3Zd9DFKT5wg1yUNsLUiGYu42Do0QP7AjfQnyhgjYRD2kxHxaOD93RZ9i3iSaPGSTlFSd8cXM09dQKd4TqYd6rpg0U7DpvMnXXEe84IPZDHdrI8r00RY5haZOw61VlFYAOiUaAU5dR2Kwl8WuYl9LQm98ExBMaqrWVw8Vz5E2IVFCK-RdHFATAWSBiFMhkHNkfpzYDApGhUpdMX5pMhmn7SBHyJX8SYLx4n5Bef3BYZ5P3n60B2LhPfC3Mo7Wp3VaHlyzdlhIBzVwnQCcOot~-J4w4W27csFcNHsA-q36qAj3trkrRsrYS0uex~X~7Ya62IizbxmnWrWKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i390/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae246/2/m_btae246f2.jpeg?Expires=1796434181&Signature=FShdwiLL-5g9efk4P-DSxREE0kjpBHGXeInjotTqR6FHCUH1~OmF-jtYapkvTQqn5lsytKgpF6t1~8jXy6ehhCyG4z5td~Iz3ste6OtVA9vJgBiAOxJ5emyZGnrU9hAlOw9veNxhCpZ93bMkHtOQ3GQs3MZ095imesCdGr~5YquXBrUGu-c8J99wsqdRt83PFLwdi2uOurV5o3O6aws~WT0bgusB-aZMNer3xYyC5MWGNjUbStWirqr3kLLAaSM6juhFSJjGtf~ng1dPuSlfhznDei0yF7xVg9QtZmIAp0nOfXsOac-GVUdqXrABbsd9kIeCYwMfrctCFcUGr8mnNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i390/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae246/2/m_btae246f3.jpeg?Expires=1796434181&Signature=v8YddFyCJCfpiJETL4LwVB7olVxTSbkDnfFsH7jqVJj3OY6bGscRpnraTjBAidz9fWK615OJI~6lapAS8i34KJ9jqAbT3y5eqITkIMh~8C3BU4ukkionTYqhD1ODvfx0xViThE7CHFyJOSTiG-y~FRuqb8IBoE6cY3xoKJilwTVQ8YudjPu75A4IqjI-QGmlup6-51xVDRLDivmoGwyZLh8-AZSV4gqGp4p-jcLiGWvNun~alDA14T~qMQusQYtlHumLiQ1DxwfZwstEOIS2Y7pD8FuXZGGD7A7Vuq-g0cWTkNX93Vj5quW75xJs2Ry6LQtBaWvnZm9EXlX60UHoAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i390/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae246/2/m_btae246f4.jpeg?Expires=1796434181&Signature=PgLMssRqA0JcqGWQe-PiZPvIXw-HwCQ4EfPqKmIEHY7-TTNtHz74Na4u~44jrDWQa6XGfRsDHmnvBU0r0jo6q65hRBd0EhJvBgShXdoeju6MM6W0s7~eXwUzVzFCkl~WvU4vHq0-PG1gvrx7krf95c4WgjnLkPQnKzedCitoJh3Ak1AK-llIAQy7cdonge7xwS5LBCha-hSITb93-IHWWdiQOuwEaI0L~9x1P7l-w74P6YyuFUWCwdijzKkhAg9mZx1Hh9cwGgYKcGVcgDCZbEJithu5Gd1tdXLUXxEcZGsRmPIT26XZ4eKmnzWBp7SaCht63WVEAM9FgGjufb89wA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i390/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

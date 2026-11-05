@@ -1,0 +1,133 @@
+{
+  "paper_name": "RVINN: a flexible modeling for inferring dynamic transcriptional and post-transcriptional regulation using physics-informed neural networks",
+  "authors": [
+    "Muto, Osamu",
+    "Guo, Zhongliang",
+    "Yamaguchi, Rui"
+  ],
+  "authors_detail": [
+    {
+      "name": "Osamu Muto",
+      "affiliations": [
+        "Division of Cancer Systems Biology, Aichi Cancer Center Research Institute, Nagoya, 464-8681, Japan",
+        "Division of Cancer Informatics, Nagoya University Graduate School of Medicine, Nagoya, 466-8550, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zhongliang Guo",
+      "affiliations": [
+        "Division of Cancer Systems Biology, Aichi Cancer Center Research Institute, Nagoya, 464-8681, Japan",
+        "Division of Cancer Informatics, Nagoya University Graduate School of Medicine, Nagoya, 466-8550, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rui Yamaguchi",
+      "affiliations": [
+        "Division of Cancer Systems Biology, Aichi Cancer Center Research Institute, Nagoya, 464-8681, Japan",
+        "Division of Cancer Informatics, Nagoya University Graduate School of Medicine, Nagoya, 466-8550, Japan"
+      ],
+      "country_hints": [
+        "Japan"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Osamu Muto"
+  ],
+  "joint_senior": [
+    "Rui Yamaguchi"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 42,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Japan"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 67,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Division of Cancer Informatics, Nagoya University Graduate School of Medicine, Nagoya, 466-8550, Japan"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Rui Yamaguchi",
+      "openalex_id": "https://openalex.org/A5078146127",
+      "h_index": 42
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/omuto/RVINN",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf180",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i561/8199384",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i561/63745536/btaf180.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/omuto/RVINN"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.15281952"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf180/1/btaf180_supplementary_data.pdf?Expires=1796410044&Signature=cy3hjNWEGP9DNXQYnkDNoMeA0HNiUuXG6OjTHY5L1TEExi8yDOL6m5tontTEEeoDfsLt1MmHf5c82riTYRbVV7WNsfDZP0I4U9tqCcXcgCkD3yzl4M2AosE~vpigy7iUOvrA9oSbOHP8Ji7VfCxtTkTzs4ZQV8YaP65ipjjmwPo0N2BKYwfkpwTozd45V3A-vxlY4g1rvWpHcipKV2hzo0nGIb1FiPjoyOwCJ6XnJ6bc7gaqCewDxdjWhUhvgDCcL28snuAxq5cGGfiGfjKZ~2Xs43h7r0h3z5ZXj-wX1SyRIN~D3FRqUbg5Ve9ObYjNh6vFBTL718Dp3dW3D2KDTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i561/8199384"
+    ]
+  },
+  "files": {
+    "html": "files/i561/article.html",
+    "pdf": "files/i561/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf180/1/m_btaf180f1.jpeg?Expires=1796410044&Signature=p2T7Ed9gwZBVRZ0hF6lJs-IPMVW1zGPC0NzTMnYPj3VhOuXkIsFsAwTucltoG~M493taJe7zkbaj0gBFz7gCLpi5jj7BV2soAL9fkf6eBS75MWkXXs7oyDZ-e9a5Molf5HldGagqaVi13hX2efevFHBG2PIr7TZ68OAw9wciwFZZJggc97a5tDkUoH2Clm5~leVopBw8xKwLR2x8v-HwvuqrjqDB6M0m2vfP8h9WJbMC7oQC9ZTPfdFbT0O2P9qOWwIQSb3cPQKREhnbj14YPhNyUTvfJ3Cts2ntQHMLUXejr7YkFSS-ujCix~AmpwaeSRgP2Vw8JNR~tyEk~FHPoQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i561/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf180/1/m_btaf180f2.jpeg?Expires=1796410044&Signature=XBrmUa9Y2a2bCein7l504cdZHqbd2uQlbwwmKXxJJuEtMSmq-rqxlTe29gy1Gug9og9ywXWS7IazbXVPTOMyHErPu3bwOad~KkEkgaPf6AZb6vbtb3-AQHML0LTuvY7FJ~GQYS~O7vU2g-CPr4e4IuYUt9FxwIt4ntvn2aC-6IWN6bU-a-h0yFwb2XH6tSs7NQcpqhguL1zSjZVX1GLS48bxh95Nj6FbBqRCZVNils5gupv-ndV5E~ChEwLL5uiJoHsSYlPIGYLEg32jJAqWVcnxe-pD~HiERc06CVYJJLHJWb5tTpXwBfHbExKCeG7jrY4YGbzK4ahqMzU5S9HFbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i561/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf180/1/m_btaf180f3.jpeg?Expires=1796410044&Signature=SA80iGVhgAPf~fMvZuUWy-9JstFfPCyEmTeLcrNtWxoG4jVqsRSZqjn50mc9nf5PoFcLa-c85dso0VgikHKhDMr1iAc1aff~4b-qdX9dfefoey7vcuvX6wyJENTN8m9AW24IGIKkHoKZcVtreU6fGL3dzjLujmec2WrF~Cw6awDHKryGqS4uAA8yur2AdbGyAnAfoR6~KKkEmzUGTuYy4h-cip5CnMhAgJOIvx6t89ZrJVjpOfwdeSDYspHkc9njTjCaxqG8DSBUi2uVhG0DaoQ8Dw0tWdI7LmfJ4tAwuSIvemJPvIp4KrRX5uS48X~BFFF6EkEVE0bv2JYaykHyBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i561/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf180/1/m_btaf180f4.jpeg?Expires=1796410044&Signature=fuqtd~qLuvwR63UAZPVBinzkV-WqeDbMLbFCi7FCIk-~JGmYsnfg~4jZp35KufXCsfaZ2l-R5T0D0eokyIzrewq6zWnYs-fxKYjvjNiwSixCJ3VD-16uH~dVLtlO--XnT9PCCTl03BkI2lj8SlN7p0iblxb048bQm7eG4Dwoztz~UWPrsarVimpEL6MIaz6d8PrwemtqQJvTV1nO6qVnORyagBNEi7w5FeAYy6Kp8JnkCniX4KIKQjs6sxu91HDGWIyy8RNohh92q-UcmU4M8topDtN26ec4tCOSe6wlMuehgcanijrB34hfri5wHZOklPxwoCqOT2hYHRNacYgOGQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i561/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

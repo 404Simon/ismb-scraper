@@ -1,0 +1,167 @@
+{
+  "paper_name": "Syotti: scalable bait design for DNA enrichment",
+  "authors": [
+    "Alanko, Jarno N",
+    "Slizovskiy, Ilya B",
+    "Lokshtanov, Daniel",
+    "Gagie, Travis",
+    "Noyes, Noelle R",
+    "Boucher, Christina"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jarno N Alanko",
+      "affiliations": [
+        "Department of Computer Science, University of Helsinki, Helsinki, Finland",
+        "Faculty of Computer Science, Dalhousie University, Halifax, Canada"
+      ],
+      "country_hints": [
+        "Finland",
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ilya B Slizovskiy",
+      "affiliations": [
+        "Department of Veterinary Population Medicine, University of Minnesota, St. Paul, MN, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daniel Lokshtanov",
+      "affiliations": [
+        "Department of Computer Science, University of California, Santa Barbara, CA, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Travis Gagie",
+      "affiliations": [
+        "Faculty of Computer Science, Dalhousie University, Halifax, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Noelle R Noyes",
+      "affiliations": [
+        "Department of Veterinary Population Medicine, University of Minnesota, St. Paul, MN, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Christina Boucher",
+      "affiliations": [
+        "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Jarno N Alanko"
+  ],
+  "joint_senior": [
+    "Christina Boucher"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 6,
+    "R": 20,
+    "h_lead": 30,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "Finland",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 15,
+    "C": 77,
+    "I_open": 5,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+    "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Christina Boucher",
+      "openalex_id": "https://openalex.org/A5021635660",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jnalanko/syotti",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac226",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i177/6617487",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i177/49887123/btac226.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jnalanko/syotti",
+      "https://github.com/y-256/libdivsufsort",
+      "https://github.com/broadinstitute/catch"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac226/4/btac226_supplementary_data.pdf?Expires=1796403959&Signature=SAhHcaQeTOH7KWOvhIy4y-C-dKUeEZAuJZU~eDWAbsgQvh2exBunTMhVx4pzwKg4gQ1Nti27-RLa-pCf0snPvW3rF9gvyZW4fZMtggm8OtmwoFE1rphGh0dnBcgoDtbgglZ5GZwzwjhMpTaViLQ~uBC6gZn5~B36Wn2ZESU0g3Fz2eeZcLhjampLf~AVBCplZp5elHMyhJ143y7JzeZb55Z1xcfg6wYqauFdtGqKlFC82YEzO-tpQn-cUTbHhDmC1nlVVOp4FGvmqPS6uvuwUa2RiX2DwWJ2gC8M-qt0SnhBl2XlsphSKCrYam18zEkeugGaOFWM02aWEjwSaDCJug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://megares.meglab.org/download"
+    ]
+  },
+  "files": {
+    "html": "files/i177/article.html",
+    "pdf": "files/i177/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac226/4/m_btac226f1.jpeg?Expires=1796403959&Signature=b1SDhNBdJcRWMzolbuwiPYPQlZ1gAFR6fpaYbJHVb3IuY2GRkfMRZ0qTQV4wkA7dQ-fKQDyVOi3nVdVotAixJKC32JrRVN-6mi4LaahwjSCtLgMTKkeRAo0oChD4jjpJNQMmGS3h-C6sEF5peTx-edkZbPbY7KxPVIVEZKO3M7X04o-bkzeVzUNvpqtOphNGRX-AF4ROYlJ41whZGWBI3fGVlI1HjY2okdjtAvG3W64Y-immxzaFEYZ1O1DCdkdvfJENgain2vC4nNV9UANa3PxHbJqgQ2Kpqp7tmF3vRtO-5Zvm5ROBazuPPEZOtJ9Url7gyLG-s4FMreVo7rqqjg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i177/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac226/4/m_btac226f2.jpeg?Expires=1796403959&Signature=mUwa40i90bGuU3OFg9-7SYQkiFwxyRAfGXTKiDsD67~QczfiSDmSI5fbcq3pcCbsy09lbD3DjvuZTbSUyCQtMA97p9D-I-gDC4aOfpXRBh30Uz9THCGSmcWr46gjq06BoC4koy-fvT8GaX5yvY5WTWsD~0-wB1XYqxVv0P05CBLn4Hfuo2pfYwYVjcodgB~ZJDBBs3v6zGykcPsmHiAgLQ-Y3IeyditeO~8UMWccVXzIfqi2NcuiRpEQSFDCGfLpxaS8tAI0hQPe7zm3lmXHFL70G8DXf84zSNYO5CGV0zkjQdhtVD4H1xYriB71T8rf8KF9ayDiDs40mh6Fw1xbSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i177/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac226/4/m_btac226f3.jpeg?Expires=1796403959&Signature=AGnKX6nqm4VuAxcd0VKx0pPL6eucdBeCRwCMLz5FOZ3UZ~J7gexhbmQGbl-ofHrDmifZwa5e9VXMgnGMktAK6zIff1tDTSQNjsCY27pWl91C8SCB24-2~kOY-4uJpc-WEYRKr5iUirpnX3M5xDsCMaIJd~~rqP9hKjwh0RG~XRFfp6w13Q4hWXRcwLPF0S-kPx-5oW-qc0RVBr~3hX8MyNK02n7Pfv04tJC6ANMbrkV9uVUU1NUyZWwoDWYDpHX1AxRRAYtvaYs1j~CY6kmGBshHKM9ETDTCPlRhnka4hnqIGZ1L8w9tvwEK-tbC1FK6Svj4F-7vLbDlTSvP8aw3zA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i177/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac226/4/m_btac226f4.jpeg?Expires=1796403959&Signature=sz8ttDw5RP7IrLcI-180PYWsBI6p41UEtuaBA2GM7huY21d3SKy9rwQshlZyn9dOdBjKZOCA9apsiXphb787Jsd0YamXvwkuLnN~kPDmV2piIRPGrIei5aVKbTX1JK-PJ8qSuHsJYlxp5ceDIMRKSD1ohstxf062LYuEL9urax5~5radMfp4owXuc6CN5dBSyLdDNWHvACLM8-6CWkm-CBfwb2cXuijWiAbEBuYuxeL~BRJwmG~MucMZfAJ53SRASWyuxJn06nHfRLp~6-UNlI~zLTS2WZdC9~T-uVWvPPlvofcTMMeAwZZ09gbRSdV7~DNoz-thPacEKuR6Fd8Cjg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i177/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

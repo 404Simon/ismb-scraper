@@ -1,0 +1,188 @@
+{
+  "paper_name": "miRBench: novel benchmark datasets for microRNA binding site prediction that mitigate against prevalent microRNA frequency class bias",
+  "authors": [
+    "Sammut, Stephanie",
+    "Gresova, Katarina",
+    "Tzimotoudis, Dimosthenis",
+    "Marsalkova, Eva",
+    "Cechak, David",
+    "Alexiou, Panagiotis"
+  ],
+  "authors_detail": [
+    {
+      "name": "Stephanie Sammut",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, University of Malta, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Katarina Gresova",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, University of Malta, Msida, MSD 2080, Malta",
+        "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Brno 61137, Czech Republic"
+      ],
+      "country_hints": [
+        "Malta",
+        "Czech Republic"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dimosthenis Tzimotoudis",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, University of Malta, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Eva Marsalkova",
+      "affiliations": [
+        "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Brno 61137, Czech Republic",
+        "Central European Institute of Technology, Masaryk University, Brno, 62500, Czech Republic"
+      ],
+      "country_hints": [
+        "Czech Republic"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Cechak",
+      "affiliations": [
+        "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Brno 61137, Czech Republic",
+        "Central European Institute of Technology, Masaryk University, Brno, 62500, Czech Republic"
+      ],
+      "country_hints": [
+        "Czech Republic"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Panagiotis Alexiou",
+      "affiliations": [
+        "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta",
+        "Department of Applied Biomedical Science, Faculty of Health Sciences, University of Malta, Msida, MSD 2080, Malta"
+      ],
+      "country_hints": [
+        "Malta"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3437-7482"
+    }
+  ],
+  "joint_first": [
+    "Stephanie Sammut",
+    "Katarina Gresova"
+  ],
+  "joint_senior": [
+    "Panagiotis Alexiou"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 9,
+    "h_lead": 27,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Malta"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 104,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Centre for Molecular Medicine and Biobanking, University of Malta, Msida, MSD 2080, Malta"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Panagiotis Alexiou",
+      "openalex_id": "https://openalex.org/A5027227036",
+      "h_index": 27
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/katarinagresova/miRBench",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf233",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i542/8199406",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i542/63745693/btaf233.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/katarinagresova/miRBench",
+      "https://github.com/ML-Bioinfo-CEITEC/HybriDetector",
+      "https://bitbucket.org/bipous/miraw_data",
+      "https://github.com/enasequence/enaBrowserTools",
+      "https://github.com/ML-Bioinfo-CEITEC/miRBind",
+      "https://github.com/BioGeMT/miRBench_paper"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/14501607",
+      "https://zenodo.org/records/15084661"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://pypi.org/project/miRBench/1.0.1"
+    ],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198250"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i542/8199406",
+      "http://miraw_data/PLOSComb/Data/ValidTargetSites/allTrainingSites.txt",
+      "http://miraw_data/PLOSComb/Data/TestData/balanced10/randomLeveragedTestSplit_0.csv",
+      "http://cosbi2.ee.ncku.edu.tw/mirna_binding/download"
+    ]
+  },
+  "files": {
+    "html": "files/i542/article.html",
+    "pdf": "files/i542/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf233/1/m_btaf233f5.jpeg?Expires=1796834703&Signature=GMYS8QB-o33E2U7d987ak1LHJzsG~L01dkMC4JsADg9LaMDpBA2rPQkQ6KG7dODaONLK2RwOzqs4c2yBzRPS6g7SRC6ZtknzM1pN~78wSrXNCLxJUhtGG9-APR4DWjbsXVvpLc1rQ0MLVXeQ7gUz1WiGLjOlXCluj-ORKp~DWa0wDIaUNSEfzRPyLgpEXTbnO25-dfkU7wpn8KVoz6gfXL2dEUkiGNDnfbT2u-aIQaC1fzX7zcyf63Pp8Mp9mKQQquzH4fRJv65Fl80ZJzt0~bsQjgKB~KDgTXBLBonZsHuvqXDMhHTKGtHgtjx9heldWn4rU8rwXHflAlu8QzhCTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i542/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf233/1/m_btaf233f1.jpeg?Expires=1796834703&Signature=sqUoQQbXzN6jTILkW68K-53FLCXXNAgKzbUaCcD8LXARBK5vaZb~Fj6YP6cXCLlbLGUxolNfdwy~0NoFLPSB52wdSrgKZlrJBlDNoLYPs68XGQG5SYiqiwcFYnmGV0GpmHS0U28zxsn7M38mfkgF8Xk0dMAH9GlVgMGYAC288cheS5YKz3HK~gYhJ3XEsrFzpk9-vsEcS2I-PH8SM2UxXoVWWAlhq3QnWLPSyuY72hi5-iTBP6MODVPndtW-d4cWRxkTjAQ3cvrm6QncAtOVQFVpzRbPalvxt7TS2yt7qybaPEvh~7Z-HkyDqW6cmr6HlWSkwLsAGOLdqeBbgUQy~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i542/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf233/1/m_btaf233f2.jpeg?Expires=1796834703&Signature=l4Lgfwnh-IgJopYHHG9Q26E36mPNufLLZEJuBJtoiEOJMealQsZVAQfVUp~yqCx6gY3cmjbfTAV7MXmHiALIXIzBUqSP-SAIq7ZDfupp8QdvQW8Vh~m1040Tfa2jN5oIbRmpFyTzMuxbKDwBhQFolQ27pE-Vw2j731VraxxcyDDCOHIucf9FQtbxlm-TcpmeQYs~AvkjJ52YGc746Ve5ZCBKYq5OBd-PNMvwJtRKRCsTyq9HxjqKoVxH55-UVnOhyMK20L-8eKkZI5gmacDDvq0T1X5WzjEM3n6NXO07JKG1wPX-56TnjBMGvn0wMCM0B5zXEHyp3Vj15faB5A1QQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i542/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf233/1/m_btaf233f3.jpeg?Expires=1796834703&Signature=NLG7LJ7hidZyLLZ~d5mtiK7LBoFKYU7maNisFH00dpZH0FQpWk8EeBuBRdp6D-zQw~XIZLJ1oQrd5jXEVju7DsjotAPOlVsAyLNSmDVqyLU64OEY4yuwKGs-FZXYApGKVi6bPl2DMiOb1v402YsrHvdax2KjsocCtpu3DaMEilYDd0e9RHLYU8El-KtHC29NrE5SmyuESp8TCCPwAs9lOLv0npxF-hSLEG9Xo~F0y2YZg3-jVTIQu972NyVv-npUkNiuqA51UjVjj9Q9MnKtEs4EvRO8bf3BmU~xHlB-HL41KbyxAQKxohY-pj33BVYiPN6QvEQ7MG8oo75heb2iDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i542/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf233/1/m_btaf233f4.jpeg?Expires=1796834703&Signature=mPxk6PIgnUkOkUG5z~zFk7rKLgmt-vp4aUDwalkfPsfMQtwyjAR7iJPOYOIv2hkn95IXIe7b7~cvHWzdNCWy1VGg3QPZF8pgBKtHMYu29B4Muu7CZR-VYGDFGesnyVELe-xRe-muYATAIMU9K2HRqlOZ5LW~XKeure0-DEfnStKUTGbb2GF~FGW24ReL3MgdjrALO-eV5-lUQnhWRP6s6b9Ox7bSYJ-l~BaYIOaLaYfrWckOvK0bqoeTxG6aX3dXbwQwtMXzl-9-4iPQhPbAoFm2gh8T-fU4BDkwCfeIVHsVAvVEoK-dXer99DuOcAz0uOgFDwsnRW0hHRSiGS9q1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i542/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

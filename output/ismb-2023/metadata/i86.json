@@ -1,0 +1,155 @@
+{
+  "paper_name": "PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction",
+  "authors": [
+    "Ditz, Jonas C",
+    "Wistuba-Hamprecht, Jacqueline",
+    "Maier, Timo",
+    "Fendel, Rolf",
+    "Pfeifer, Nico",
+    "Reuter, Bernhard"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jonas C Ditz",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jacqueline Wistuba-Hamprecht",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Timo Maier",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany",
+        "Computomics GmbH, 72072 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rolf Fendel",
+      "affiliations": [
+        "Institute of Tropical Medicine, University Hospital Tübingen, 72074 Tübingen, Germany",
+        "German Center for Infection Research (DZIF), Partner Site Tübingen, Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nico Pfeifer",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bernhard Reuter",
+      "affiliations": [
+        "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Jonas C Ditz",
+    "Jacqueline Wistuba-Hamprecht"
+  ],
+  "joint_senior": [
+    "Bernhard Reuter"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 6,
+    "R": 3,
+    "h_lead": null,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 12,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Bernhard Reuter",
+      "openalex_id": null,
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/msmdev/PlasmoFAB",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad206",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i86/7210434",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i86/50741386/btad206.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/msmdev/PlasmoFAB"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.7433087"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i86/7210434",
+      "https://www.iedb.org"
+    ]
+  },
+  "files": {
+    "html": "files/i86/article.html",
+    "pdf": "files/i86/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad206/1/m_btad206f1.jpeg?Expires=1796439559&Signature=LcLzc9xqBpESTQkVkgNIhPSXhjG~P1YPwF0nzjCZXXISP9Shlq7e3Gma1vikqejAXNrQolnRC7j81~xnOGfdtKWCKfCWxL~RY1JRRvKuso8XL7pV0pEaP8UfI1Mt1QORANxU2ZMtdoo7i80osLJvEBKKSS-C9TT1o4rBrhH4j8bJlrhNLjwPj1ysuS9fJ6I9FKiNDku7AnnUhHF8O4KuZAAL7YhquWHJQwlJ41RWOAMPNEn7oADvk9Ghd2Mex6AF9OLv~pAadBKPdee4UMKtIrKGnn11POcRIOw3WxxIfwOHhGywBy0NuGCgEOOG9IBoveriRY1RRXT4MTjGbt-rVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i86/figures/figure-001.jpg"
+      }
+    ]
+  }
+}

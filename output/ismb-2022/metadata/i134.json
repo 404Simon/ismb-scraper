@@ -1,0 +1,197 @@
+{
+  "paper_name": "Simulating domain architecture evolution",
+  "authors": [
+    "Cui, Xiaoyue",
+    "Xue, Yifan",
+    "McCormack, Collin",
+    "Garces, Alejandro",
+    "Rachman, Thomas W",
+    "Yi, Yang",
+    "Stolzer, Maureen",
+    "Durand, Dannie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiaoyue Cui",
+      "affiliations": [
+        "Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9838-553X"
+    },
+    {
+      "name": "Yifan Xue",
+      "affiliations": [
+        "Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4068-2707"
+    },
+    {
+      "name": "Collin McCormack",
+      "affiliations": [
+        "Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alejandro Garces",
+      "affiliations": [
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Thomas W Rachman",
+      "affiliations": [
+        "Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yang Yi",
+      "affiliations": [
+        "Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Maureen Stolzer",
+      "affiliations": [
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5137-9485"
+    },
+    {
+      "name": "Dannie Durand",
+      "affiliations": [
+        "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3505-6640"
+    }
+  ],
+  "joint_first": [
+    "Xiaoyue Cui",
+    "Yifan Xue"
+  ],
+  "joint_senior": [
+    "Dannie Durand"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 8,
+    "R": 4,
+    "h_lead": 21,
+    "Y": 2022,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+    "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Dannie Durand",
+      "openalex_id": "https://openalex.org/A5030066238",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac242",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i134/6617482",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i134/49886656/btac242.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/btac242_supplementary_data.pdf?Expires=1796419800&Signature=C2oR4Oj4yJ7lZW~yyRMyCaXMBiueDnPtpV8xGXFgk5IzUP7K5HtUANgJHXBvS7k188iv9ubxflkMIsJQr6dx18HqmXUT96en~1~RsMQYGwcFDd4IiL-BW8mLozDSCpg6O5wVRVXKtJo~LPIVyKt9M6BezS6bk1rgZTlAP0abBh~Djsigu8hqgw52yWl7eM5fl3Llny5tBgKWwNsc9tahTsi~Ua-Ylj0GKxulH39ivWdKLcsY4WQCr-5nMkTmgq6tPCfIby5WwM26Aocwfk5y9yt-dJccWOML~Ru-mzjQa-6o~tlPyj5A2bmXW-PSX0PG5W6fr6Wj8pzRjmTjogAUlQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i134/article.html",
+    "pdf": "files/i134/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/m_btac242f1.jpeg?Expires=1796419800&Signature=xeXEJp6hT~Vv53R~go41n4MYeKVeKRkFWR7~YKjWooRJyOSofDZOihtslD0~AUftQaBy2NmTKJv18gigMPpxmocvX0neBeCfFh~XVyJE~UrhY6sHp9hBhBxMtJTEbzuDRo0F6o-Y7c-AIez0R7LGTDvSzsNwJsEGr2FxlqmeAszE034lbO~u5KQDhQiQpBoNnfZ39Uov4hA9Ss93jvqFAjfYB5lPrGtgbOSz34Q93C7u73FG31FDUTR5JjRS5vSb5V8hgjzortj6o5JWTgT1YcUNf3l9ao8aGTEHk6OekjeI57Kxo1HJrhJwkrPSw9w2D8c5iS7IYSWhbUBR2eZEZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i134/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/m_btac242f2.jpeg?Expires=1796419800&Signature=CQfJH~G80SjmJVXuByz-KG37OO2oEenjz9h4f195kvKmOl7xnDlayve33Pqj38S9-zVsMUJhyrVlsBXWbrIe3bVoWSdhTSfJcVauKCHL5kPxmYRRFNuDSVdjClsOOFRym6RwS300qwtU543euoh~4aXvdRB6ULfGtx0RWytOZtQL9jP9lZmk~HAOW7ZHxL2B2gaBzpd1-Ws2-1mErZ4Vf5~RsgazVYiTv9ECfnXRZOE1ddQ5DUU5ZZMWrNOf9cYOsYV0RnlIWA9cQrX6o24slp3jHPER7z7aXpMK8677vL2i0XGkoklZTckJkE8nOWzPgLg4RiwWh5ISVhPJhvy7Ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i134/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/m_btac242f3.jpeg?Expires=1796419800&Signature=EaF~iunyjUTszHG0sR-K21VhHOR-XgzayFtL0DvFjqFejnQBWCUF~ghPE2ak2zrVwCG9NjP06DsQjvf9brZBeN05HJNJL03kXxKgYRDzxXk370gnxB95TrE5l7G-mIu8BEljgn7h366~dJSMPXmWzieSw5Zk~yJztgPheKI2oZrj492ew35xDqx3fL7t-EZrSkQwcFdsmreiOpFhrJiMHWlMo3x~TyUzkUN5kxmD2RevG~ZLQKESETaIIRleraXUdC8-pntPenz-RddRzD2Ps9RzfNbyi-BY4Leftvfl6tN6O17kkvzsWK33E8ouaLRgt~cTQwu5TC1Tl4T9ilyieA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i134/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/m_btac242f4.jpeg?Expires=1796419800&Signature=WFowxqEMAIVJksU2axJP-mu-Q3X6AlYYKmcMLeyb4cxE8aihY-bPOH~GIYXUBiXoxFC3UaEuvS31~XnolCYbeFbxQ--2W-vfbZz9i9~M9aRyMCvDv5Xzcg6ofeZGK-3zQ7hFCB-dYcy48r0ynSmfJXJU~VHlfPT-kUpInFYZZUcJAKl~vru9XzZ~aWnH7SVwpcqNjPfHCbr20w24b8EB3ZnYibOZs9UH~Ct3TxZZmsz01jlDLTGu7U5KnG1jahIb~ALmcs4JAfsisTFtPZ4UseAiJH7i79l8Dpl8qXLsi6UcTG~66gC-RKU77MMi6f~zduacW~IGd36YbjFkPWGCug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i134/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/m_btac242f5.jpeg?Expires=1796419800&Signature=zCJqAuLZc2Hnp75rmGhkJKG0pvyd8bK0uksEMuFk5gD5LXB~zCcopx-wKTvTBJiqwJitBkMUvxg-nqBoEU8LlIJ2h0cb9hDr-MwYiNNKIATtlA4iLRX31IzWnXNnHdQiiPkPN~38Kx93bISWi634SpOGkRzyY-S8USojqE~6gx2K67kIyIfgum1zXUMmE5aVq0i3Ps-twdQuWrF68r5y9AKrTo607P3FanX4fjSfcKR605zSK-960tulytyWZ3i65j9yi~J9OYYXQjCBsEfiQJ0o03h8mrP4C9P0Z6VYkcuPNYBaUDU6q41XqW63aVMa8~xCtYfTa7-apD76HsibxQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i134/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac242/4/m_btac242f6.jpeg?Expires=1796419800&Signature=KY~2tmK9ZpIx6WA3wdfU6n2DRLfM7mjSI4sw2ZOWbDy7gmGlEcn2O-7~nJViKSyA-Ht~YWvi3uvOZRWHUKfVNuTO2gxQmpWb8JzMC0Ej5duiE4pkhziiQuVKUbEFpTUKOSaggoUEsy9Bxg7o9v6ODbsV4VL-f2Tq7mUGF2WF5D4QfPWHAIOU3YYTb5kGIXELXkB5uQ2pwgW2aukvBn5TWVhNcnrciY-zvhNPlahtF3jGlVfW6q176JK5bCsILL7HGW4RNZn8aZlleST-ZwnR2yCKoKrTiROG81I7-aZ9Zh7zI-xTKepQ83HrSpsUbYlqwE~kqBKSeCtPhJhjVpgJFA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i134/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

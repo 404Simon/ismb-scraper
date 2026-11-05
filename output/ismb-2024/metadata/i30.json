@@ -1,0 +1,167 @@
+{
+  "paper_name": "Floria: fast and accurate strain haplotyping in metagenomes",
+  "authors": [
+    "Shaw, Jim",
+    "Gounot, Jean-Sebastien",
+    "Chen, Hanrong",
+    "Nagarajan, Niranjan",
+    "Yu, Yun William"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jim Shaw",
+      "affiliations": [
+        "Department of Mathematics, University of Toronto, Toronto, Ontario, M5S 2E4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6990-7829"
+    },
+    {
+      "name": "Jean-Sebastien Gounot",
+      "affiliations": [
+        "Genome Institute of Singapore (GIS), Agency for Science, Technology and Research (A*STAR), 60 Biopolis Street, Singapore, 138672, Republic of Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hanrong Chen",
+      "affiliations": [
+        "Genome Institute of Singapore (GIS), Agency for Science, Technology and Research (A*STAR), 60 Biopolis Street, Singapore, 138672, Republic of Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Niranjan Nagarajan",
+      "affiliations": [
+        "Genome Institute of Singapore (GIS), Agency for Science, Technology and Research (A*STAR), 60 Biopolis Street, Singapore, 138672, Republic of Singapore",
+        "Yong Loo Lin School of Medicine, National University of Singapore, Singapore, 117597, Republic of Singapore"
+      ],
+      "country_hints": [
+        "Singapore"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yun William Yu",
+      "affiliations": [
+        "Department of Mathematics, University of Toronto, Toronto, Ontario, M5S 2E4, Canada",
+        "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, 15213, United States"
+      ],
+      "country_hints": [
+        "Canada",
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Jim Shaw",
+    "Jean-Sebastien Gounot"
+  ],
+  "joint_senior": [
+    "Niranjan Nagarajan",
+    "Yun William Yu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 2,
+    "A_lead": 4,
+    "A_total": 5,
+    "R": 15,
+    "h_lead": 42.5,
+    "Y": 2024,
+    "L_lead": 2,
+    "C_lead": [
+      "Canada",
+      "Singapore"
+    ],
+    "M": null,
+    "T": null,
+    "S": 71,
+    "C": 206,
+    "I_open": 0,
+    "I_closed": 4
+  },
+  "lead_affiliations": [
+    "Department of Mathematics, University of Toronto, Toronto, Ontario, M5S 2E4, Canada",
+    "Genome Institute of Singapore (GIS), Agency for Science, Technology and Research (A*STAR), 60 Biopolis Street, Singapore, 138672, Republic of Singapore"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Niranjan Nagarajan",
+      "openalex_id": "https://openalex.org/A5062774997",
+      "h_index": 64
+    },
+    {
+      "name": "Yun William Yu",
+      "openalex_id": "https://openalex.org/A5015501574",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bluenote-1577/floria",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae252",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i30/7700908",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i30/58355152/btae252.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bluenote-1577/floria",
+      "https://github.com/jsgounot/Floria_analysis_workflow"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1029794",
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1033449",
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA701961",
+      "https://www.ebi.ac.uk/ena/browser/view/PRJEB49168"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae252/1/btae252_supplementary_data.pdf?Expires=1796437322&Signature=w8Z49nFjyDo7X57k6pTOHG2QDYITq3nJzUiA6JpzIpePS0220GhZlpFoaJlDv04VmuOwC4QqmiMoFI9vAraS4t8CRnhcR8f9W-Dyo0~9df4yeRAlgP8rxlFSVDJ7AH225xsXaCcVeywvyPLeuSFwOK6MNBOCdTTSwRmEa1EmasE7gRTuXphQOIy0XsrkWfGGIe5RIxo2t0eNYMnXxd08-65NVyAjwjCkDCgiyOA0mH7yo26qwrAIAJZGrsxSvJHzN9fgAdxag45uWk4ITQEmka7VF26j1MROp9KXlhPCNh2itc4B-MOYZKftaQdk8S9MhuQ6sByahufZ3vC3lk7PLQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i30/article.html",
+    "pdf": "files/i30/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae252/1/m_btae252f1.jpeg?Expires=1796437322&Signature=TR7N0CBrg~7VENCaRfCAPheGHFmJJ2AlzTUrI6ecxzzRmdyeWlOKHgniIthpMrqbOXmaDdrpC4jpl5P5Jyucd1h2wvQSgYd8OrzVDfaSdWgBGydOXnR0CzQJHIlTsdqV3NLxzDmmZi2kMTfUs0PpCPLjp0nv-Zb-ciDsFOyDTQoi1jSo1Qq3Z8JMr0Sovf1eF4Xpx~KDiSZwUiGeulAxy~DGTaj1Ec6KGQLoFSYAF8rTEO6qwNilTrlce1XvNCP~QPUnTIsFG8Ws7fh~mnN3vI72TuAFg99nH7Um-y5k6x4kD7bUPGO9AtBvTG8Eo3nOTIgWVVqQeWRtotxb0~4dpQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i30/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae252/1/m_btae252f2.jpeg?Expires=1796437322&Signature=cijaS2Y~Ag6cXiFgVS9gexTvynNQLqvdxDbW79~OF-85cvq91iKLMTXSaAYzPb30eJm7qcGOXZqoipAGoOajyBOKRc4bddVNmv8~iDSe3gEZM~FSI84hR-QFOXQFuGTJTQe7PsjTj9-EVtUWDDCcjTal~jc9lqbkDnnPLtqCgsMJeTN-MANssuAaHBCsImZx2o6HKdw-57n55Wnzmv4RpPnDYxZemMGOZZ-1p3ESu0VMFRhCfz8ibiXiNMiWj735Grttx7~YqYtJwARbjO~8GpoK82~MEzHzEtkdUPik24XoTdgk5beC-tZOpEFR-6wzcz7lhWBvYCTpX32idCvhtQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i30/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae252/1/m_btae252f3.jpeg?Expires=1796437322&Signature=JwCGwji1PJ8App9bQUggroL8VB2HX4vxAu3G6TmjqI308nGeOwmj-TaOCDPf9Ik5qLvE~P-OAgN-K71Rfs7ByS4Oz9QeAaomGmXwPPWiZcdeY5G1bKXAeY6rboJI1JFs9V6ZcEUg2mgiiIVk-Rk~XQdnvYmn9YUesdReZF-Uo3YK9bdRmB3i3Qhn6uh~GLeaarDMjQO06wg4vMQUJ5XMO1q0WhzdpFzy1FN7TRitQK9-Iw8Ux7bFdfnRaAeV2TRXAPgLnhArJem5Aia36pVsZ~y3I91PNxd785x1hFfx34E0HOl2JQBMcErU0K8vQ8hFvsKRxwGUKkFqhFgndz4OkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i30/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae252/1/m_btae252f4.jpeg?Expires=1796437322&Signature=1Cw0BKwHsPlym9hQd1-kiZ05lULofPPiP~XWRdgZIaOLMnGQyV9N~QLSTtKqhM6jJaEja-e7hsXIqBMk92fm3kQMh3tK41sovNS3XTy4uM~zJXNack4VfSgd0Df~pksnx7TehXotqnEthOJlmpuAuhmlo9-CKYzpxO5CLuctZQBhugiDNDqtV517VnG~mCmjvk4cs7d-ZSTZ8FFvoCw0FAPTAhuFv~dhNqadxqnOWHXKdaCjSHvC0T9FVS~55E57i5cqif7fkX29VleX9PR~-lboCXepFemsWejlTPBQckxlh6g-VTtmq2~iHPziacn4ZJnJeuLVuknTJT4umIRUKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i30/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

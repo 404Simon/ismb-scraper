@@ -1,0 +1,208 @@
+{
+  "paper_name": "BITES: balanced individual treatment effect for survival data",
+  "authors": [
+    "Schrod, S",
+    "Schäfer, A",
+    "Solbrig, S",
+    "Lohmayer, R",
+    "Gronwald, W",
+    "Oefner, P J",
+    "Beißbarth, T",
+    "Spang, R",
+    "Zacharias, H U",
+    "Altenbuchinger, M"
+  ],
+  "authors_detail": [
+    {
+      "name": "S Schrod",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37077, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A Schäfer",
+      "affiliations": [
+        "Department of Physics, Institute of Theoretical Physics, University of Regensburg, Regensburg 93051, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "S Solbrig",
+      "affiliations": [
+        "Department of Physics, Institute of Theoretical Physics, University of Regensburg, Regensburg 93051, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "R Lohmayer",
+      "affiliations": [
+        "Leibniz Institute for Immunotherapy, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "W Gronwald",
+      "affiliations": [
+        "Institute of Functional Genomics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "P J Oefner",
+      "affiliations": [
+        "Institute of Functional Genomics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "T Beißbarth",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37077, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "R Spang",
+      "affiliations": [
+        "Department of Statistical Bioinformatics, Institute of Functional Genomics, University of Regensburg, Regensburg 93053, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "H U Zacharias",
+      "affiliations": [
+        "Department of Internal Medicine I, University Medical Center Schleswig-Holstein, Campus Kiel, Kiel 24105, Germany",
+        "Institute of Clinical Molecular Biology, Kiel University and University Medical Center Schleswig-Holstein, Campus Kiel, Kiel 24105, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "M Altenbuchinger",
+      "affiliations": [
+        "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37077, Germany"
+      ],
+      "country_hints": [
+        "Germany"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "S Schrod"
+  ],
+  "joint_senior": [
+    "M Altenbuchinger"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 10,
+    "R": 29,
+    "h_lead": 17,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Germany"
+    ],
+    "M": null,
+    "T": null,
+    "S": 20,
+    "C": 29,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Medical Bioinformatics, University Medical Center Göttingen, Göttingen 37077, Germany"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "M Altenbuchinger",
+      "openalex_id": "https://openalex.org/A5041687654",
+      "h_index": 17
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/sschrod/BITES",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac221",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i60/6617509",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i60/49887090/btac221.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/sschrod/BITES",
+      "https://github.com/chl8856/survITE"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://rdrr.io/cran/survival/man/gbsg.html",
+      "https://rdrr.io/cran/survival/man/rotterdam.html",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac221/4/btac221_supplementary_data.pdf?Expires=1796415158&Signature=eN4z4jFx~1NqtGbArex~CaNcDljmRHVzoSY1OdV1k~pTmvgv~2nsl6G9Ljbgt-FRqCFwXowYO53Re~wZbLdbvGYRRf96UvfG9i2w05YnQu1yNVUUhsGyAVf4fplzxHUBMmrh8YnybmXVPNROVinuHLsDpPHBFDK-dYz0xlTqIdB0SFwjAxyqgwBW4dG38-88ccsd4kY4sCVVuMtCWeUeaeFhAlORtbp~~f1ZcUudjb2OiVKczr3XGTUZhMbJJ33hYZdUL6YhcaSkhMzqX-e8X-XNn2aY909Kw~KM~9gY-5zJ9BUZb~YxLi3UaK0N4XvUBKohRjNiFrlShVPjfe5r~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i60/article.html",
+    "pdf": "files/i60/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac221/4/m_btac221f1.jpeg?Expires=1796415158&Signature=k4krWnjMgpmnr8R2Hq8sJAFt5YTcZHoz4Lqas7ANBZMV3B1xsPUzTjspPWMTr~X7c8qTPDl8sN2ZW2Gyv-SDZR1qmjAKqIcMzsFNydtUW6girK0nL0xQSovrL-elKCyPFTIZfTkcil6uZq5aaWWe6FBj5~G-0RQaWgpXHnMWhqP2zMTU4HdOoD9ljFVb91Gy7ue7KSlweI8FjljySVQycJa9UkwYi1AQ3exYap4FcE6r7MSxtDJU1dF85GJqA5LLCo68E4eKKVF-lltiuUZzbdzDQGZabulEcyjfc47ez1i9DpPGY~kyO3oVadd3zphOsZyAK~KwYs5t1Yrq7mb3XA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i60/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac221/4/m_btac221f2.jpeg?Expires=1796415158&Signature=ccY8fykppv5hA2pJqiSkMVUKiIhlCTcwxzup8G5RdRsrEzYthnapnhBW3b2ZhVgruSPCnbGLz9EFaAQx2c6qp6JzuEJsTMlENIBgyL2UB3ANEhHuvBHsMw5co9-2hY-uYddao2NqWyBxiiTh8IeTR050DaA8JszWuG31ewq-z43awF3HPlHphuAtsjLhdzy97A6Ni1G0y1DhEejBBXLb9XJDRghTSE5dMiNN3cs~G365OIxx04libpA7zjY16QEYhOlW4T9med2jv-VAMfDyGC5E3ykvGo7GB7H-0aUHyHqJf1ave9GIG9bS2vMUZnKv1AZAcOjDgnoy5KjRG~K2AQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i60/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac221/4/m_btac221f3.jpeg?Expires=1796415159&Signature=a2IA7~fDWztUWg6JMPFQp8FEfA~3gyJD247Bf~XGls1Eovt8wZP42lw6ukpwA1hzJyfhBngYo-9JZCMRXZTWoaedEQqejEdbE85ZBhzWyiEiKebrvMenKA1x3qjBO-SvsquSF-nJI5Jm8kJeeNHyJ5yGXIJO~DpQAIrevMRhUG6ynkCy3El6OVC-I1wmaaAnV6UkJ2BTGXIwjFbXR8NbHMOLK45mcvOcbgXuEL9xAz3iK3XSeBmE1WpbtWzDSr-xYWakINCg175IQb7Gt7xCTBJk7OrbJH5R~rXbSNvSfd-qGIjINILLCd4XGB67XQSatD0TSD-3ysrZ73R1UmxEew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i60/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac221/4/m_btac221f4.jpeg?Expires=1796415159&Signature=JXTGMbz-rUsnJTnSfKjERwV7ZssEfoXj8JTjorwSNiImspWduKcUPLe6o7KWpVvhb9Z~cTmI2XuI~~UeYi0KK6wH09sUhzbny2gRSTLCeGbDSVuhA1xdKwUQAo4Np8gZpALWZMWY6mY7NmyCCFAnEf3uSD1nbcpXKQg6jtLKgRe1Xe~NOb2pboka-VE-MNJIyu53gg9zJCrBQ~MRF017-GbtVI2k4-eNT6UJcOgXj2Vg1AFPdJ-fo2ur-T36x9180M1aoPFegHikaYlC0dq2UHRoBvVRi9aaCoysCCCO5grgFOY0CqS1gZvnqIU3CUwckU9qvItiBzuS0O9twwP~DA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i60/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

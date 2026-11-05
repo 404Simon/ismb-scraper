@@ -1,0 +1,138 @@
+{
+  "paper_name": "Median and small parsimony problems on RNA trees",
+  "authors": [
+    "Marchand, Bertrand",
+    "Anselmetti, Yoann",
+    "Lafond, Manuel",
+    "Ouangraoua, A\u00efda"
+  ],
+  "authors_detail": [
+    {
+      "name": "Bertrand Marchand",
+      "affiliations": [
+        "Department of Computer Science, University of Sherbrooke, Sherbrooke, QC J1K 2R1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yoann Anselmetti",
+      "affiliations": [
+        "Department of Computer Science, University of Sherbrooke, Sherbrooke, QC J1K 2R1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Manuel Lafond",
+      "affiliations": [
+        "Department of Computer Science, University of Sherbrooke, Sherbrooke, QC J1K 2R1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A\u00efda Ouangraoua",
+      "affiliations": [
+        "Department of Computer Science, University of Sherbrooke, Sherbrooke, QC J1K 2R1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2040-4948"
+    }
+  ],
+  "joint_first": [
+    "Bertrand Marchand"
+  ],
+  "joint_senior": [
+    "A\u00efda Ouangraoua"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 2,
+    "h_lead": 15,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 38,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Sherbrooke, Sherbrooke, QC J1K 2R1, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "A\u00efda Ouangraoua",
+      "openalex_id": "https://openalex.org/A5004463624",
+      "h_index": 15
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bmarchand/rna_small_parsimony",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae229",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i237/7700894",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i237/58585729/btae229.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bmarchand/rna_small_parsimony"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae229/2/btae229_supplementary_data.pdf?Expires=1796471723&Signature=ofoIyBSVhrdXtgxwkjrNT3syR~meOooBh2uUYsRKeA9and7GnFOkrhYDcMCuNGcIpE2M9sMvbVA3SkdhIHygLMNZ4PcQ0fJJmUmDZjO9huy7EfRzVaXCg2iOGpCeubeVUlOLTsveKF9s2OmQsZQfKUOnSQdr93sA7s5~K8BmpilNY9lSbqQjw-vCgFFBomiljMS7PP7o33uACVt~W2085Mno-Cd~nOZqCriL0zqz4LM26EkKSEysVVGtPid1Ye7-GeCuOM9LKCTQxS-mNQsRv05jOnsjptU56QXfrtgUiO9WFfma4b7n3hhcHzAWh-42l0VJePiw6RMlcSmyT~~O-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i237/article.html",
+    "pdf": "files/i237/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae229/2/m_btae229f1.jpeg?Expires=1796471723&Signature=U9CjwLus3spme4QEZ6pnX8dUUO-r2aYgCyDYGTFF7OUNRzh0Rp-lzFhDyCo5jVBMA0w~oXCCO4SN~tqI-VuDSwTTgpsLTzOXhCZflNRQG8IZw0r8HrcMAhaTfLCh9t7Q8fENcU2Cp1BofKnMUB2Qd~VUwwXwvRRT8XTVprItQC4Oe7LnwlAmgVpnt24JPWSF8GgEfQdTuhy03OizO1lMUnWX8bEsf9PFd5jkuNGZSYD28IKUxKk2S5r~4RVz2X0H0sz2lIsaDpv1bHwp90h2M76fbxcLKQKKbeXPBr~dwJ0FMvOJO-TPm-4H1v3wKONNYNAbtq~7UPgbTTtNoDkCbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae229/2/m_btae229f2.jpeg?Expires=1796471723&Signature=kIsElLUIJj72hjd86jdXYF3aj6UAIyxtImE1Rp1o1uSvQmsz51yzzl5Vd73p35esz~5kXD1~7TgESkZIRk0-UmBpfZQKEKOmBCoTR3qTUOzMGRNUkj~DZS~N0zShzPAAnYMz1apKRIxHf7jUtYRODCBq-r~a7msnPw-6Rqf3WklNDWtS81aUWNiIucDtclbAa-4Wn60gX0nK3moRwTWDOZLdvTpU0fQQMAUj9HUVRElygiUEru~62VSzxv5hqJSRDlQWZaZQ3-EWoxd46gF9D92HcQXcQD8rUevpmG48ai8cfDAbfg4xpv6X92TrAJbe66hb4EqzTVyrTF7mym3TcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae229/2/m_btae229f3.jpeg?Expires=1796471723&Signature=Rk2BBNG2Jodhl4gXL-8MHMTATYBNVz~PI5PvVAKZwKfYlaNMeXfHOrfdva0I-orB0fRNLzzEoFLN74xEsRmvkpn2U0u4EfMePwHHcyDWcf-51xKmMz-bZMFh94GLjjcaMcktE95eCMXXansaNtJiPWL3sHd8VP49OtHN~FPEqqUAI5xvK4fBJQGVoGgH-qHt9yLH7s9p4-mHchNybI-16dC0fcXx-39MnOPVCIUXq6BvAIXSau1bOMrnVvv4zBfN~anWj1pSyLxJEuB1koNfaDawODlBibEcLUwxA9e8f2s5Ver0xO2mcwDqeytsauJ1SPnFwJ7Bi6Opv1w8dXDRCQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae229/2/m_btae229f4.jpeg?Expires=1796471723&Signature=af6oSAkXK9m7HeGyRmF~lMcKLEBi2mK3M3ULiNribZP4CJRh8rmw3yav-buGEe7J5zR4OMko3Avv~DkJ~-f2klEj1TMVV2gJ6AgPHen5JV0xnaIpmFvG5sbURpShEMv8MXODFZkWSFMkD0EIwdKSDfr3b9WXtE50Kw1D9PifGJCk3ACxfg0g4ny87Z3lq80owCzgjx24Woyytuf8sQzrMir3VS3pfKxKHc3oTT4meT5RqGXxISA0BAtvwomstnY-jAtKCKIzIWaOs9b8wSJqaOfT9FByphwkxFKHCVuviHOMk4AkU4O2YaovSCX81ZOJUtY8BHFu-lPuOCZeHfAzLA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i237/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

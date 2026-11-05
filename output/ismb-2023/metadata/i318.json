@@ -1,0 +1,123 @@
+{
+  "paper_name": "Combining protein sequences and structures with transformers and equivariant graph neural networks to predict protein function",
+  "authors": [
+    "Boadu, Frimpong",
+    "Cao, Hongyuan",
+    "Cheng, Jianlin"
+  ],
+  "authors_detail": [
+    {
+      "name": "Frimpong Boadu",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hongyuan Cao",
+      "affiliations": [
+        "Department of Statistics, Florida State University, Tallahassee, FL 32306, Unites States"
+      ],
+      "country_hints": [
+        "Unites States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jianlin Cheng",
+      "affiliations": [
+        "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0305-2853"
+    }
+  ],
+  "joint_first": [
+    "Frimpong Boadu"
+  ],
+  "joint_senior": [
+    "Jianlin Cheng"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 82,
+    "h_lead": 68,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 34,
+    "C": 171,
+    "I_open": 5,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jianlin Cheng",
+      "openalex_id": "https://openalex.org/A5044354277",
+      "h_index": 68
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/jianlin-cheng/TransFun",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad208",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i318/7210446",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i318/50741489/btad208.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/jianlin-cheng/TransFun"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad208/1/btad208_supplementary_data.pdf?Expires=1796757432&Signature=K9mHrd2TbqmssUXsoUEgDKhlmupKCqUczhfYz5LaFwxzt4~S-8-nNcQiwp~a46U0JY3IBaYj5YtOV0r4piCt-b7pDowvFn8~Hx3p27aKyoeggJk6hhGUL1x7t8HDi2QLuJy1fB8BALOV5M4-0WXVubHwmw0G3N700R3z46-RC303cMQmtiIXAfWw~wvB95cqhALsDtxbi6d5rsCmBZCZiRRE~mjD~I06dP4ZlCdaj3g-Q-XRYET3cR7q1TCwhbQIbWRG8uT-G6EZymVwgY902nlYFVBphdqaG~T2ySM6s-Y1vmjVNemHWyhpqkGocJQBeyE1AuDw5VA9KfOmCUNGmA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i318/article.html",
+    "pdf": "files/i318/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad208/1/m_btad208f1.jpeg?Expires=1796757432&Signature=LA0qONcG97htQl9kuCiMoMY3SdnMCS0YQY8STW9gHp~2ZBiNAoB5eP7IFHk1rzgWitLCV~9~hRhZU6cK51osWm668gYkMWiDIKEBqYOt7rgQ12d9TbMHkJ2Vc9SDBfIy-QylK8HqdYXiuZ5Opeat6zsaSYxmpoECBw8LTU~5vrmiepyeDNZAjj-wSuCmG1AlrOqZlkkUDjmqmqLsu2OkA8bvxH9CGU5lg7xtK0A1-CTSNWa16AFqKgwqE-qn1CLYNOYOC9k71Z-PxHcbL08VfXznMKRKrSow7oIz~-RtPeevvDzUW34CZUZOOWoIrcteAfGJfle~rVK-xz2ukG~2-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i318/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad208/1/m_btad208f2.jpeg?Expires=1796757432&Signature=rie80io0Q6k9xrp~TUcsxV9lIaCHAnNKd1JPEYUNBZsvPE0m~Ub~MShL5m58nboNR9WhxezAag5ZRphTOFWSq9k89VsFx3EpNn~wRaaeb5jGU2F6uvsBDA4s3H~cKjuN95RVLJJ3G~jj53671gV~Cs~hKBAlyl9dAmHjDSos-5e4q6PRLsQTQqRVm6n2WNBwiotjwwPd4fQMcEJ0sjxq8T~ZwFToqh9Wn~8duQHAZHe9s1dRjlTI2lo8z~IRVmlJoI57IFOTy1QVIR9IaNgAfRdutPIkU3mQmrsecXbCylOmMJfdRo1t7oxQJy91SKVcpJ5JtMOqXxo2TDP7rGJVSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i318/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad208/1/m_btad208f3.jpeg?Expires=1796757432&Signature=Nv0Nb5VX0XGriS5KsHuCrlYL2QtBsjuiWWxVWE-y4IzQWX5-uN8EaRa9TILAQpMUF4Io2Yo8ljjCc9xSfiLspfyjWeNmC-OloGwgRpUvd8OqMqKdREuZjsivI1U1yf1pxGpmeTEyJ0T8lpexUKjIXTeeSKjst3svDy0sAGavO87NkjWb-GoGjFvtb59wmEjkeU1mJKElKkKtfw0ADb1cu10yyQIKYqAu0ehIgv~YZi0ZueUdJ9qcagJIPlYi1Y2SE6mzVByCn6eYIUia1w063~Y8SF6WvSVxj6TiG2J7wPfJzkW7xcGjhXlGPBqGz3tjRM0PHJXpWUTuQoRQ5w8KMQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i318/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

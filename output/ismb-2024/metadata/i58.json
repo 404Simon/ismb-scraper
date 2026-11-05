@@ -1,0 +1,194 @@
+{
+  "paper_name": "Reference-free structural variant detection in microbiomes via long-read co-assembly graphs",
+  "authors": [
+    "Curry, Kristen D",
+    "Yu, Feiqiao Brian",
+    "Vance, Summer E",
+    "Segarra, Santiago",
+    "Bhaya, Devaki",
+    "Chikhi, Rayan",
+    "Rocha, Eduardo P C",
+    "Treangen, Todd J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Kristen D Curry",
+      "affiliations": [
+        "Department of Computer Science, Rice University, 6100 Main St., Houston, TX 77005, United States",
+        "Department of Genomes and Genetics, Microbial Evolutionary Genomics, Institut Pasteur, Université Paris Cité, CNRS, UMR3525, Paris 75015, France"
+      ],
+      "country_hints": [
+        "United States",
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Feiqiao Brian Yu",
+      "affiliations": [
+        "Arc Institute, Palo Alto, CA 94304, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-3416-3046"
+    },
+    {
+      "name": "Summer E Vance",
+      "affiliations": [
+        "Department of Environmental Science, Policy, and Management, University of California, Berkeley, CA 94720, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Santiago Segarra",
+      "affiliations": [
+        "Department of Electrical and Computer Engineering, Rice University, Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Devaki Bhaya",
+      "affiliations": [
+        "Carnegie Institution for Science, Department of Plant Biology, Stanford, CA 94305, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rayan Chikhi",
+      "affiliations": [
+        "Department of Computational Biology, Institut Pasteur, Université Paris Cité, Paris 75015, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Eduardo P C Rocha",
+      "affiliations": [
+        "Department of Genomes and Genetics, Microbial Evolutionary Genomics, Institut Pasteur, Université Paris Cité, CNRS, UMR3525, Paris 75015, France"
+      ],
+      "country_hints": [
+        "France"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Todd J Treangen",
+      "affiliations": [
+        "Department of Computer Science, Rice University, 6100 Main St., Houston, TX 77005, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Kristen D Curry"
+  ],
+  "joint_senior": [
+    "Todd J Treangen"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 10,
+    "h_lead": 40,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 41,
+    "I_open": 3,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Rice University, 6100 Main St., Houston, TX 77005, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Todd J Treangen",
+      "openalex_id": "https://openalex.org/A5054369332",
+      "h_index": 40
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/treangenlab/rhea",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae224",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i58/7700881",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i58/58354930/btae224.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/treangenlab/rhea",
+      "https://github.com/nanoporetech/pyguppyclient"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [
+      "https://osf.io"
+    ],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/sra",
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1072691"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae224/1/btae224_supplementary_data.zip?Expires=1796911044&Signature=Of5-O8bteJAxkLYWFnADlqls1HFhg08gpR3VlZiQBNt8q2oBYCMbGm4N5TOW6yrqoE0ToYUMeJ5K6HXeyTxXsp7gjXFARmdftzRnTacqmJyGz1CW3F7t-TpoEvS9g1iRgwYs4zJEiaql-vYLpsC2fXWj2PEoAh4lR2RsjUeB8rmr0A7bPFQ8bShPrfwx6~oR1Ev6OJIl7uFDvmPFjmF6XyICVywek6Nz6WQ-f0QrK2W6wiE8sUXVxZ8z1lPIW9RhFHpHtZGTjjLaW0cwp67HkRxwAwZmVR1xTnxYXmv85g205~6G8jvwrZmE2ywxrdqOpb5xOXMTWa3MLSyTHM6PXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i58/article.html",
+    "pdf": "files/i58/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae224/1/m_btae224f1.jpeg?Expires=1796468822&Signature=TDOsSPIOpBoVuqdt0HTlW2WiAqLxWRkKKC8chGq8ZXMPKxmoTQuaoNNsHZKH3KYNcFMHL-1gV8QMkms6RSzu9vRmuBeurbUO-KrvPJvXd0xJlwuej8Oqm5ipCWMhaIYactH7Q1e6qICDVBK7x-KLdyVgH451IMjOC67xXxhPBxcQ50zPsIbBlLKL~Dyieuow6fppEARUBdeiIZm9YYIxrQf1xqukU0lYt6CtpVbWw1TZp2HGtXjL-bUZmvctjC001rns8OAMRJE4qFU~LJffPbbKDGxV0bQk3QuB-PD6sdQRlNm6NSR~3vF5FEoQGvND2dyFfiaQ6qbg-EVuL1vFWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae224/1/m_btae224f2.jpeg?Expires=1796468822&Signature=it-tTctQtPKiBRB~gEHAeCLYy0z6jJFU1QFwdCbAeJuboYpX6E1mjnyG6Yz-1gHUGGmdPKiF5Hc62EDjTUjy3xtUITWnelIqVUk7cexPvCpj7jkZiwlWcBqHdP8zrqc89hZKz54SvA8M5yG5W3gbHryrbNtHZEGM-OBuyh2E5D7vlDPioNNABn9her7uwucbWXoDzClquRjFvMunvSgZANbcM1of23TN1BjhLE0M-P-CaR~FeVr5eCkOJrKby~PTLJqaKcUSvy75rdGXvyC6-53ct7TY7uXz0ndH7X7RloCGQo8pW3dHeW4ew3cjFHpS~sdFbK0jcZsPgOlwdCGZtQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae224/1/m_btae224f3.jpeg?Expires=1796468822&Signature=xdf5WlKxvmy3~RWZ28cmqoNM-J5fFWYtyZ7M3N~Ti0cPTPQgk~CnKw9oqfQsAHJQ5m8gd2aybRJ3d~ZfSZLKLCICx3se8Io2naw6oAR49wp8FxHzN~NuRLVVwa7kGhn54zmPi-QsvXvzHA8ZaBgDVY56RXi~NfNspsDuowhJiG0I-WEIG~vpP0ocmQ8WqTQG0fCc4FmUFT9GRTx09-zA762SS98W4I6cGLxmRPLOfYeluHCwjZYEhpQnqgUvYbFAWPXZZ-ZEBzZDvCT3CRNMwPmwpxNyn3z15iKo4z8MI6C6Jjc1ulBlm2dM6edj9XcrqnX1O6gA81tGPPH5Pa0bdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae224/1/m_btae224f4.jpeg?Expires=1796468822&Signature=jyTJrpozp0Q15UvEA5F8xkn24NGhjFhAe85kVz2wvauMt92a816Eh0qx-plSxsLyRzjGD8P1SmrW6mE-a4g5MSszrwwJFzlPYt5wHuH8LC4xK9aBfkbRHW7l6FwYZOWe5UU-DHHNw~ZYyn7eWYXUUITCd041x54UkJsRHicqbApDaFhy2V8RKHFkgt41~ABT15QdAsMf6Rj-JfJHdEunsbjzOQ6dU6kIN7sDiNYlpkhZPtVdLrpnRUjyiEl8~nyr-S3YqgoXLj-ev1acovcDzYrMwJKp5~14NNpcGR00IYVTPM7uNdktJMl31esjBpkfNzEtyfh1jDOR8Ex3pO3B~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae224/1/m_btae224f5.jpeg?Expires=1796468822&Signature=XXilWkxf-fx3SBK~n8r89NjwF2JLsVu4lwDqKCZ8RGV5ltOVVMK~Cp0qrXxXnX1aTMtEe8pkkY1fOwVjOwgWSxE0EWDWB1xK4D4SQcrN97Kb2teyqhL6z2Y7rlB82TyZqQaG~CUNbhmW3EFQMloA0kEjnCtp0TXigiDONdErTHT5zaE4Bcs9ObdITZ5OKe87fAAQOwAgEO4d489jIVMAK7390O6yLe3DZ47TollHsVBoyWsyatk8m34suZg97Gaq4eemj1F9gYLL7pEOsX~7VUam-21dFIBIdApOMpUGhmxUcU1nqPGKtJHu0RMUVJDN1eHeJo45xnFEuV3I7XAFcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

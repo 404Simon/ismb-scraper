@@ -1,0 +1,131 @@
+{
+  "paper_name": "Efficient 3D kernels for molecular property prediction",
+  "authors": [
+    "Ankit",
+    "Bhadra, Sahely",
+    "Rousu, Juho"
+  ],
+  "authors_detail": [
+    {
+      "name": "Ankit",
+      "affiliations": [
+        "Department of Data Science, Mehta Family School of Data Science and Artificial Intelligence, Indian Institute of Technology Palakkad, Kanjikkode, Palakkad, Kerala 678623, India"
+      ],
+      "country_hints": [
+        "India"
+      ],
+      "orcid": "https://orcid.org/0009-0000-7250-4302"
+    },
+    {
+      "name": "Sahely Bhadra",
+      "affiliations": [
+        "Department of Data Science, Mehta Family School of Data Science and Artificial Intelligence, Indian Institute of Technology Palakkad, Kanjikkode, Palakkad, Kerala 678623, India"
+      ],
+      "country_hints": [
+        "India"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7453-9880"
+    },
+    {
+      "name": "Juho Rousu",
+      "affiliations": [
+        "Department of Computer Science, Aalto University, Espoo 02150, Finland"
+      ],
+      "country_hints": [
+        "Finland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0705-4314"
+    }
+  ],
+  "joint_first": [
+    "Ankit"
+  ],
+  "joint_senior": [
+    "Juho Rousu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 36,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "Finland",
+      "India"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 30,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Data Science, Mehta Family School of Data Science and Artificial Intelligence, Indian Institute of Technology Palakkad, Kanjikkode, Palakkad, Kerala 678623, India",
+    "Department of Computer Science, Aalto University, Espoo 02150, Finland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Juho Rousu",
+      "openalex_id": "https://openalex.org/A5091883185",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/SantaAnkit/Efficient-3D-kernels-for-molecular-property-prediction",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf208",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i58/8199352",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i58/63745297/btaf208.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/SantaAnkit/Efficient-3D-kernels-for-molecular-property-prediction"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i58/8199352",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf208/1/btaf208_supplementary_data.zip?Expires=1796565344&Signature=I11ABEwdlP8Z-fZ0C~VShGdOK-mPvJ5igWu07o1VSVys~kwCzvv7WJqnmagqG2UFNZGHVFWyVfAXCuIHwYRrhb9wRx3anZXf-ljMTMg~bLPJ6~0ij7CwbrMRLGkON2m6aEbsGiZEeRfikw024hcD3rqEKg33slIOiWEEu6ltRufacjqKjLs9uE8I0pGllxDMUWesm2YKVS5zWfWH9Mv6SlvRmvYv2YJPrvUtYj65f1yivAeWAAhw-DVKOa1XddKXwnfDDiOgEEL8kJ5bD4zEhIyPOxqRW585lK12tcWVmveGWmu4GkLICoK-6sVV~dR82l7KoKGfG5NXOsZWLvWP9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf208/1/btaf208_supplementary_data.zip?Expires=1796898729&Signature=YUy04gR8tnZVuZk2m38Lnugh1WU7Z-OCTMM2xO6xUV1eT7AaJa6yi339zEb9WboqW38bP1pJU-y59~Plr3TbjD8JubnMXUDuixmpvK5eSzY3wJpVikrBTSHyoeXuU1a8o4brzYjcaeP3YhM56k73uSn5dkiA7jAYa2RMVEosA4MFsNYgipCv4~OzqnHQLwbuZ3G0kPTaiJo2YC~t0WZvqFQHoVLVX0LfV-yuMHKpE~RRIoG-vAOMjeZ7YLQLSZSRhtBmydOr4Bhv9sHp7PPKNORXIyIh7ElhEECBxyDo-Oo7L~TC0gtPAJBs4qIgk7IdjYQ1siQXmvVfdFBjar6ZUA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i58/article.html",
+    "pdf": "files/i58/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf208/1/m_btaf208f1.jpeg?Expires=1796565344&Signature=zFFS8tBGT70Yjwp6nc5XA92xhQzTo9VPmjxUrKt7WpoNwRDq2EFoDdm0kehaBGdyXQfINSd~vajhuy~~-Pus19y06B8ud9EerBDFqLBnEZJt8Io0y20SonhKVP7~xCX33ZfvSkcrFCVNj1A2KaWqyeFjJvExU5tkl3N7TjxNGfrHOfXLIfj9is-pFGZ6Tf~dxcBbEBLHnDAhayhGO8eU2-iEGvmxlAwB4JGhWirtK~m3w5QqR4yovi~QOKdfBDIfLaeoboa2wd3szIhJwS0N2NNPcY8dzlfzOV1C656fsYftS5ahe9vTJMqn9u8JtotJwIH3kXsPu63LaQa~zwUt2w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf208/1/m_btaf208f2.jpeg?Expires=1796565344&Signature=4jT2jGFDLYeR8rJNzQ5A7I19VnaEw1B3qYxKTtlx01twfDwKhozUISRdXLTcxN9TcoV5zkT7BMpoVEXzdhOF4pFVk-CyFWnr6NnGLAcHKSdzHMGWx0PmMfK8GWb-wJmVG5RkC8sELxYq9TE4jHIVjKCGd4V-7~X7QYLaPlHsyaHR46BFOs6-SqypP-EUp7-6FKkIoJCgTgY14gwV0KnRS5z2PlFO2V-KBgG-gfJYwR31IdPcA6t-F9AmbnlSJ8BXnlZaBHlEgpY7SdVcvGgG5pkXgad7DtVZHbFu6NxCX6FCh3Az9jhCHQARbDfEBytbkym2jFviuPCB09AT0iEcqw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf208/1/m_btaf208f3.jpeg?Expires=1796565344&Signature=M0jGwf3rE-4kihgny183EO~YMBWii1fiz1VuJweYU5hqx6rkdNi00j6ceu9nsW6m8xpmq-x1FzkOthEC1c8J4ea~bSY8SKzmtYli1CHnfE0haYYP99zipx~vM8H9rvdf7XIB~gIwBjgzQNh3lAwNFeBMZFVXezr5VTnnHiclKWoasAqc8zdRBOCKZ67ZxJXa93CrptB7iZixdjNsaAiy1jBy~3g9VKto2iFj988HOwmiy0s8Fn7oMOVbuhbCJZgtsyzwov3~ew06kfm3PKpyzYw6ZIrhtzumcMbDzf4YdCtM5QuG1-Uza4YN-7ySs0HgepTEm~wrzIqpKn3EY4ko6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf208/1/m_btaf208f4.jpeg?Expires=1796565344&Signature=AK26j2bHrVzhdslbCyrk~8XlhhlARngytOS~rVpDz9aV8hhPlgjdfmdqX~f~pH6gkR~cyan6eG4Fgks054JCAQMh1p~hCOQHd-0hKsusUOAxEzjzMn1o3h4cXs~s2PG94e4-5~LQRukmHVx3gj9ZvaDryTbH75Z9XkBmoRp3KLQQ7aObA2kXHbxRN47c6dxv2vctqUg5CC~~PJa3smT95vEqsxRyGKaKgEHznlLeArImyMWAb8GV3cReXW3pBsg7CZ1Rm4R4PsETybj9sMuOEKYEhVrXSkUS~GTYjXQDqJG6B5gw6oLWs1rb1HoJ0V7iaZtKH5JilVc5chsFNun5Ew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i58/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

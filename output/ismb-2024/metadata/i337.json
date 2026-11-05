@@ -1,0 +1,175 @@
+{
+  "paper_name": "Label-guided seed-chain-extend alignment on annotated De Bruijn graphs",
+  "authors": [
+    "Mustafa, Harun",
+    "Karasikov, Mikhail",
+    "Mansouri Ghiasi, Nika",
+    "Rätsch, Gunnar",
+    "Kahles, André"
+  ],
+  "authors_detail": [
+    {
+      "name": "Harun Mustafa",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zurich, 8092, Switzerland",
+        "Biomedical Informatics Group, University Hospital Zurich, Zurich, 8091, Switzerland",
+        "Biomedical Informatics, Swiss Institute of Bioinformatics, Zurich, 8092, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2125-6086"
+    },
+    {
+      "name": "Mikhail Karasikov",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zurich, 8092, Switzerland",
+        "Biomedical Informatics Group, University Hospital Zurich, Zurich, 8091, Switzerland",
+        "Biomedical Informatics, Swiss Institute of Bioinformatics, Zurich, 8092, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6200-5972"
+    },
+    {
+      "name": "Nika Mansouri Ghiasi",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, Zurich, 8092, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0833-0042"
+    },
+    {
+      "name": "Gunnar Rätsch",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zurich, 8092, Switzerland",
+        "Biomedical Informatics Group, University Hospital Zurich, Zurich, 8091, Switzerland",
+        "Biomedical Informatics, Swiss Institute of Bioinformatics, Zurich, 8092, Switzerland",
+        "ETH AI Center, Zurich, 8092, Switzerland",
+        "Department of Biology, ETH Zurich, Zurich, 8093, Switzerland",
+        "The LOOP Zurich—Medical Research Center, Zurich, 8044, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "André Kahles",
+      "affiliations": [
+        "Department of Computer Science, ETH Zurich, Zurich, 8092, Switzerland",
+        "Biomedical Informatics Group, University Hospital Zurich, Zurich, 8091, Switzerland",
+        "Biomedical Informatics, Swiss Institute of Bioinformatics, Zurich, 8092, Switzerland",
+        "The LOOP Zurich—Medical Research Center, Zurich, 8044, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3411-0692"
+    }
+  ],
+  "joint_first": [
+    "Harun Mustafa"
+  ],
+  "joint_senior": [
+    "André Kahles"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 5,
+    "h_lead": 49,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 3,
+    "C": 76,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Biomedical Informatics Group, University Hospital Zurich, Zurich, 8091, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "André Kahles",
+      "openalex_id": "https://openalex.org/A5070168682",
+      "h_index": 49
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ratschlab/mla",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae226",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i337/7700889",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i337/58354999/btae226.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ratschlab/mla",
+      "https://github.com/ratschlab/metagraph"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i337/7700889",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/btae226_supplementary_data.pdf?Expires=1796412487&Signature=XfNL4Uk8HUT8knnKK5ZYRHgdGkY0QZqWExCWvui~D0V4xGei17mR6Gx72FtfbzbyBLnrz0z~gK0xpFZNc8Inr5GTciq~wULl9x-lfI4Jhy9cmKzVTIZD0D4RdoKpyeNZ5B7qUGk3hsr7eLxFNigMD1jgmxGBvooi8VRCzAl1gchjbtcL02NUGjF8bDpkNF8jAWI9MMgb-L-qUJ2SOxqKgbT9uE54BjF26SZBSvuP0GcuRv52QPWh~6pmaInQvcsAJG4klwBKvmBsOxWIOuOT2f-HQ0lOraaRkv40kEhuCzAOzFLVNA7HnWjkM3J8WPZ0w9xglO1A1lMRZG17ZFUBBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i337/article.html",
+    "pdf": "files/i337/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f1.jpeg?Expires=1796412486&Signature=qMPURh9Qa~nVd2u2JIR7odSQfpauX79KsKywB~aj4U0WfmWmVe-n3wQiJ2AGrtF4Im4Ng0ttA355OAGQyJr4dUoAQK26Vj0Nu6si-5gUeC-Lfo7uEtr8cBYhOEctk3N1rC9XCnQoon4D5B1D5mLSldLLAUhwK-CpkuwEelCODtlxEnoo9dBZArsa-2GezBLfULJLrM3ZAttQ825jEfgUwtp2QJlu93yvmRkj6cLisEWnKDjxbw2Ikv2YnhfismQfu79cTt5CgldJ~JE-5Ro4eHr8-EgDTUnnJzNQ4EzorvitavPp0BWiCp5BJ5gLiKjo3AhVwSN4qkUcx6246NRE6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f2.jpeg?Expires=1796412486&Signature=wv7sVqtBn7GypJC6oZLMjNdmlHvVCL0HlPN3CaxlA9kd~xATBExYRWKxckyZxhZmTgO87wIgjao0ppb0Ie62ag7bQEBBeapTc44mLww3tVnMaCOrbgrNQMHiJWsHlHZlXDYoxw3xava9MfZbxd6HFdIeYtDgSsaTZS0q~wscI1SBy3lqUoFCKWFd0EjCjytKU-jt1~OZSdz8vR3JWewAT88Ozdo0qZ0U6oll4DajCflDICvD0Wu6nE~pskY~5p5vv08Arl6XbMvr7v~r1YjjxCndsBmiCUXrkvzm2ZeQfDogRhd-v8AaUQnsv964o8T8eQMYcidc0ioGnWRSf-G27w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f3.jpeg?Expires=1796412486&Signature=b89RKoL52zKFdJcCrhGjZRzx78geab719UEXJ2HcoJVl6muI6XqUeIl~fo5snD9cM9euflZNspZpBDdldeeVbnZ3a2v4EpwtNM834ytv1ebDsqURopu6O6gUJPkMf~fvt5iS1c2tL4aie~jts2NupqIPBV-Tq9sMgM1UOJX~hgxQD7c7KpGPqnfuax5d8YT1oszICyRkvafRJtav-Srw-Fg1JixBwGPfSv5FneO36IEKJkpFB5EXKtIv702KpRSh01n0NJomBecpbxUnK8X1Gs0ht7sbL0QxSTt0D3wsofsMrbEuLGLAwdzfIEJnbMw6QOrfqHcZvj15-2P-j4HI0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f4.jpeg?Expires=1796412486&Signature=zrPu6~Nw0adv~wXPNs2-NO1fndvlQaOfnDdH87GE2yJpcgxUJ67DyHyOArNOyr1eISbtoMgSkI0kZaAGJXpzltvO6Xn03BnePD6J2P4vgu1qvFHkbafAMC3j15P4b-2QBvRozX3o6QDPTbP1GEM-6wQa9spiLANN05uLeFAaEfySEpAJIL3EbUN8hIjzPjw238RYUWy8Vb5UJg9sI5CM3w-~CK7KNepx2wJ1hFzgzG~XPkfmJAjlQjc2bdL1ok7w7mFbwot5h-Kc38DN3iAO~lKrOC5gkK1RW0XvpTbB1o-exJtoa~Ls6Wown9FX2-qtH2faQwMUkGIpsd~9ly7UQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f5.jpeg?Expires=1796412487&Signature=SQQiI~Z7rzUzQPsD3difDG77ywB7iLAPRSrjbygFzMfyQ670AtNxSt542wZ81urXaALMkIwB3Knpg~Um5I5KdHk2bAOaa9HtMJIdB-7ETLIfD8WBIzhsizD54o-ufCPCshF5fXXsD0RHZUVqhfn-nn-4Zz7l5-LZ8Lfi21gWEHzBpxvDHhdHGUbr9MPBxQS4Uz0iJ8m2XK33lv-l5KZzpX4iMEOj3zR2goDyJMc6JKC-ssvw7X1sOydYd1oGFHgyc2jyL3j0HPnS-jAiDA9k8Zsu8VPBNoIsdxYSHKa8wNZ97L-7UK5fhLp5kGTXK936BDMDX7ZlchwPGq0EotpB8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f6.jpeg?Expires=1796412487&Signature=gZO3Adso2i-B3k5YJD-c1COWpyfdDX7mdmcYa9KFMMwSGybTGvUbY0uBmFE~g532v5mJU0u1OYaEhe5qcfhMr7D~2x0wL1CVtKcRBarDFcRcVBkjblwwhCNWqhStCsEmGq7bbk~9JztXjXub12c1aF~T05KsJMu0RjW6wg-cHcHauhJ0tsiRYBpCSKCORzEV8gCNx2Zug3p9nagtUtFf-N5TsLhEt1~S4-AiqSro7AR-aeyw~IpbFoYLgcnSdzXxBaTjuDAjIdRDz97IKMvxTcS7S4yWn6~KiK4oLYmHVwk3tPTuQjCzCEQQA1sL8OCJOZC~vXeOvPYMpCCJ1lAxhQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae226/1/m_btae226f7.jpeg?Expires=1796412487&Signature=MElZJFwwxTzyB8qIcMFlHvh0aUa6R9~dnTdLPobQKRHrHmZ5pQOj5~kQgskkO-zA-0Vk37VvKmSpk7RZM5idD-~LQ4HcMTJ6K~e0~ACPqMPm8Iwn92uRl3yxKMZQShJCld1BjXQAaFkwvJTIqtdqVZ9Df-AUBe3AFCEvTdqZo80xQZ~wSgND~Rv7BCalVKe6TDSUKl23bV3Bh2lbslZU9RpZ1J2kGH9o0m~I~pGvBM4id4cZvIiQ0-oMdt~E27hluzI9qn5Ldrl~511ztoCeQu~t2sRv2S4wyTQSMsmDclgsFUZ6jiMPNpGyiFDdQCiRlLnWhAItagKGhdnqOG98nA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i337/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

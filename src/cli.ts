@@ -13,9 +13,10 @@ import {
 import { startChromeTabProxy } from "./chrome";
 import {
   assertGitHubCliAuthenticated,
+  collapseUnderscoreEscapedRepoSegments,
   collectGitHubMetrics,
   mergeGitHubMetrics,
-  selectPrimaryGitHubRepository,
+  rankGitHubRepositoryCandidates,
   type GitHubMetrics
 } from "./github";
 import {
@@ -537,12 +538,12 @@ async function scrapeArticle(
       ...(annotation?.M == null ? ["M"] : []),
       ...(annotation?.T == null ? ["T"] : [])
     ]);
-    const primaryRepository = selectPrimaryGitHubRepository(
+    const repositoryCandidates = rankGitHubRepositoryCandidates(
       data.artifactCandidates,
       paperName
     );
     const github = await collectGitHubMetrics(
-      primaryRepository ? [primaryRepository.url] : []
+      repositoryCandidates.map((repository) => repository.url)
     );
     for (const failure of github.failures) {
       console.warn(`[github] ${paperName}: ${failure.error}`);
@@ -1193,7 +1194,13 @@ function normalizeRepositoryUrl(input: URL): string {
       .replace(/[).,:;]+$/g, "");
 
   if (["github.com", "bitbucket.org", "codeberg.org", "gitee.com", "git.sr.ht"].includes(host)) {
-    parts = [parts[0], cleanRepoSegment(parts[1])];
+    parts = [
+      parts[0],
+      collapseUnderscoreEscapedRepoSegments(
+        cleanRepoSegment(parts[1]),
+        parts.slice(2)
+      )
+    ];
   } else if (host.includes("gitlab")) {
     const dash = parts.indexOf("-");
     if (dash > 1) parts = parts.slice(0, dash);

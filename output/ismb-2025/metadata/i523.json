@@ -1,0 +1,149 @@
+{
+  "paper_name": "GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts",
+  "authors": [
+    "Chitra, Uthsav",
+    "Dan, Shu",
+    "Krienen, Fenna",
+    "Raphael, Benjamin J"
+  ],
+  "authors_detail": [
+    {
+      "name": "Uthsav Chitra",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeon, NJ, 08540, United States",
+        "Eric and Wendy Schmidt Center, Broad Institute of MIT and Harvard, Cambridge, MA, 02142, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-6016-0960"
+    },
+    {
+      "name": "Shu Dan",
+      "affiliations": [
+        "Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Fenna Krienen",
+      "affiliations": [
+        "Princeton Neuroscience Institute, Princeton University, Princeton, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin J Raphael",
+      "affiliations": [
+        "Department of Computer Science, Princeton University, Princeon, NJ, 08540, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1274-048X"
+    }
+  ],
+  "joint_first": [
+    "Uthsav Chitra"
+  ],
+  "joint_senior": [
+    "Benjamin J Raphael"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 7,
+    "h_lead": 79,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 10,
+    "C": 13,
+    "I_open": 0,
+    "I_closed": 2
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Princeton University, Princeon, NJ, 08540, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Benjamin J Raphael",
+      "openalex_id": "https://openalex.org/A5025899028",
+      "h_index": 79
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/raphael-group/GASTON-Mix",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf254",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i523/8199348",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i523/63745266/btaf254.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/raphael-group/GASTON-Mix"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/btaf254_supplementary_data.pdf?Expires=1796529455&Signature=BjxdUQGiX6zfjrNEDX2uVCbVHuCvyDTAypd01d89xjmlNeEPb4GuFfx6EtYYbAcNWUr-vKHvDsOo07fZK19s7l6cChGraTaENI5Opv5moO8qBDuKgss4tM-nTXZXOSa6DhuVM4-fMz8Ly-X1pOfFWfKGlEBU8gjptJuiCtzGKjgdsfTLJMAX5e36oWVqSCGmCm~ALF8AwJbUFvKY5dcMK~fFbzfsVvun0jgyhuxuyQhqAadFzwdYDkYVF96pjIkEzUOZMg~MPJyKzYEXRHScPN6jjfiF5WsLIJvRNxAAqmt9Qxjac8N2W94fXMOGqVYKYwTIxu9Q0dyk1xo~w-7y3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i523/8199348",
+      "https://www.10xgenomics.com/products/spatial-gene-expression"
+    ]
+  },
+  "files": {
+    "html": "files/i523/article.html",
+    "pdf": "files/i523/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/m_btaf254f1.jpeg?Expires=1796529455&Signature=xcXAQT-Y2XUwCd2ciqo3xzJBpZcJc83A4FzucFIAF4ZM2FFQIS-R823GCuqU0nXR6AYeFShHd0fWBkMfbTkeJ~FT1OIEuzhRGD-rsljXdRBZQffmDjhYdwjXrEiPtNfgFMJ5t6R1qAgV1fEGGd0GCGH5Emvv0iV9kBVlSgxlrM-pWV~vapRcDSpl0UnJ72ONtMM3TEZ3jGdSCyrWATOLLnIOguUAT3CmWCxFUG4cNHr9aigD6Xnz-wp43EXwL0yW7VsOmLtYEbn5mlb8Oj-dL1otJ58YUtZw61NiVGV4Ec5mMAdScazsk3cjnc-BrtSdhXKyjCDvty-gvJyd7ryf4A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/m_btaf254f2.jpeg?Expires=1796529455&Signature=mwiSU2k7dgqsOJonmVRV5M4eI0wkW4CDEXxG0-5zywVMwFKEMSndJTcdikrNdnHgIwVgkbpuC0TJnF11dKk-UxdyZ9fZ7ETrT9NJt3NalNW5T3VNHPDWl8q6Ks07qiVEPeFcEJ2wIra8M33hyOX6Hud9qJMar2U2e~CGxXGlvO1TuFxUm4lJTPrDXWJvxaDLLFPW3aa2yTioQPWTjlv~Pdnw717yRX8Np6vssPoNuxry2x9~~j7E4VNjA08Qg2tsOngsceY4UMs-d-2FADn5ZQrSsASPvJbjkz1y1Cz-HZOCZJc-0y8cSRf6SNHWIMU7ZfR07TIvAHClPi9jy0IhwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/m_btaf254f3.jpeg?Expires=1796529455&Signature=ryRoX-jfkVpkkNkwNtYii8iaHkH8qnkwHn4ItoSEYu7QiSmAH6BSJxwEI3oUtLC-vOc0aeSUVutVuVfpxEp1joaF5tZEV3QkK1T3rFAFfXLeNeZC-2nFcmKr-3KoAyrkl263uYShxnQPps2KMVwg4Zrn1~7hZg-XcfJc~qFeOu5p4NGtWpmg7O1mrbseSyH0A5ET0iZ10XFHDLIjtCTdvQiKoxZ4kDpkqd7eelPsZI4fWSUZHgG-ogLy~VjH054wB9pE-MDFl4jBF95ST2Dvset37kP6jxU~7pAbc1XM8MDTrtIhV4k4wZCDuAKQMxPkRT~Hb5xM~9a8SFVGo3DYKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/m_btaf254f4.jpeg?Expires=1796529455&Signature=OcpyEd-rRRSX1Nkti-3~yKxHwATB2PYMwQEsJhEnb4hFWJeAKo5JYwCDy4O6-YYLZfEslc9LmqM9Qjh9riBXO6y9iq4D8gBzirNjJUNDVKYMI19wfI1GTX8OQXZJqgMbyLm40ojKZEhUplOGYAaylBjXyvin7C8kDJd5EDlzutKhmCvdgrjCizW5las5FEpCkKD-609O-tKW9d4zgYPRLW3UfEJi4xlT2lNwlGrseBnIcGdwxwI73RRmn--QvVNH~9kddJYEuFEn09yKSHSs0LvrMaqQLMtElVZfwv5SwlGokhmmgAJERk3gs~0ix114YBrj5abGNFE~KshkZlEvSw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/m_btaf254f5.jpeg?Expires=1796529455&Signature=cnp~ugNr2UVhxciASde5xU-wswG25LAExMfXo0TKI7w5rw2WFhdhRQBg9Zgc6~OI8qsF42fmqvGfuoq1Qx-Js~o6oS-Ys0bqR~pVlVxDih4uXZRuREcwtlYrtwmDEWstOzyY9HtBxCgnXCZhecabg3vg-C7YLlDRiHMmhaDMFJAfl2jyN~kHxbEXQZLsfB~N9WD2O68wBCgnmI5yjifIcLRxSNIILlzxizQ2oiliyctl5Sep9pUfpW50YGR6l4NzeCOSANfV0C9H9ozMgwVKmJjSC0LSo1tOIa3OTIipfShLFzcPasiLKlzL6hNRP8wxWJLeMUvfk81p6ghIlc-V4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf254/1/m_btaf254f6.jpeg?Expires=1796529455&Signature=etcr8x2zEvyf-nxp09ap6D3V-b~r2u9tF29kZS~UTR0T4e1aLMOyjkRapqV-X3HhgfMP-4b50LtEGW7aJanLKsGDA1BJ1sMNpridfri4JfoGYtJehBJOwkvOoo2ldADDKbVMV4Og78sg33VLHkTZfgPrIBcPYvdTzsrkUGIoLecaI7BKo87NIvq1CppOxqY0rTh2-hIz3RtChnL9x8iLxoYM2B5F9BoLo4Et4jilOJZPefoDF7-kpv~9R0wAzTEmtz62UzlCmYE6DbQSpoxl9w0R8zq7OGrafytz27eHsvNUPf8yjGWYK5-Z3dh4jNrVwJPrkjeSJVYl0Y09Op52-Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i523/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

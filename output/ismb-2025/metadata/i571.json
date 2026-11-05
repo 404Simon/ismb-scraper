@@ -1,0 +1,156 @@
+{
+  "paper_name": "ScGOclust: leveraging gene ontology to find functionally analogous cell types between distant species",
+  "authors": [
+    "Song, Yuyao",
+    "Hu, Yanhui",
+    "Dow, Julian",
+    "Perrimon, Norbert",
+    "Papatheodorou, Irene"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yuyao Song",
+      "affiliations": [
+        "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, CB10 1SD, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9738-9726"
+    },
+    {
+      "name": "Yanhui Hu",
+      "affiliations": [
+        "Department of Genetics, Harvard Medical School, Boston, MA 02115, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1494-1402"
+    },
+    {
+      "name": "Julian Dow",
+      "affiliations": [
+        "School of Molecular Biosciences, University of Glasgow, Glasgow G12 8QQ, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0002-9595-5146"
+    },
+    {
+      "name": "Norbert Perrimon",
+      "affiliations": [
+        "Department of Genetics, Harvard Medical School, Boston, MA 02115, United States",
+        "Howard Hughes Medical Institute, Chevy Chase, MD 20815, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7542-472X"
+    },
+    {
+      "name": "Irene Papatheodorou",
+      "affiliations": [
+        "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, CB10 1SD, United Kingdom",
+        "Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, United Kingdom",
+        "Norwich Medical School, University of East Anglia, Norwich NR4 7UA, United Kingdom"
+      ],
+      "country_hints": [
+        "United Kingdom"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7270-5470"
+    }
+  ],
+  "joint_first": [
+    "Yuyao Song"
+  ],
+  "joint_senior": [
+    "Irene Papatheodorou"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 5,
+    "R": 3,
+    "h_lead": 46,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United Kingdom"
+    ],
+    "M": null,
+    "T": null,
+    "S": 11,
+    "C": 95,
+    "I_open": 1,
+    "I_closed": 3
+  },
+  "lead_affiliations": [
+    "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, CB10 1SD, United Kingdom"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Irene Papatheodorou",
+      "openalex_id": "https://openalex.org/A5027778199",
+      "h_index": 46
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Papatheodorou-Group/scGOclust",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf195",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i571/8199365",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i571/63745393/btaf195.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Papatheodorou-Group/scGOclust",
+      "https://github.com/Papatheodorou-Group/scGOclust_reproducibility"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [
+      "https://cran.r-project.org/web/packages/scGOclust/index.html"
+    ],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202575",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129798",
+      "https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-8810"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf195/1/btaf195_supplementary_data.zip?Expires=1796910520&Signature=DrpMWVzNEGzi4dWbl8xiUcjjjb6OY3LP9NtulPuOnx70waQEy2Hy6aClXrZU2hdM9P2N1NZr11MBXx4ivdossMaQpXFH9QT3usTIdNRP2II1yYIoi~S2JtCvv3kGpeS-sbyK3wUDCWK99EUuNj78uwIrQfkmpsclynajr8qwggYiZcKtwXlWX43XrFhXoWFILwPV0fXUo6C205G-Frlw0Nfe28kcfH~48kRvhsMSp2Uw2QCqMqjwoA02FHcsCnJATEyOYSbkMOAhnfarQaX0-2p9u6Wq8qSSry-8QN4DMKKhC7lUX~GXkecuakMGbNOS-VHo0Yy54~nu2nr8Xig4Pg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://flycellatlas.org"
+    ]
+  },
+  "files": {
+    "html": "files/i571/article.html",
+    "pdf": "files/i571/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf195/1/m_btaf195f1.jpeg?Expires=1796910520&Signature=PKPRG-tiLu1gbT72Wy3eW6-gYxYC3XP~l3dturvbyHnMXbpdMOng0eD-QzFaWx7wbMr9zCYxiVpA3VLZjckA9QU-soAdlF3h4kdCxUR6UdorQUpUIIK4tla2BQEz2VFfF~htlKA1MRdzwKzTiwKer1gyZe7EMlYbnjHOjXf~FXZu9kyZdDmpTQ-6Ey1uvKJs7wzEwPQ8DzDLtMb1mOEyZxjGfiLem7gkssU4Nd7cFOe-6rhJXaksO0toPB27VLraDajVz8W-raa9k1n~9VWV4BJtXp~3TkcwRlDL18pxPR7gotX5k7WCLclVnaCl7NskwAMEe59oyKXS3SXQHAK8CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i571/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf195/1/m_btaf195f2.jpeg?Expires=1796910520&Signature=g9u9irU9wa753ZckaaMTlmK33YhMpEcUCaXHDmqCkjSWjXDW1kX1mlCAsS0Jlflwl2BVm4n-v-3xnHlSOUNVV19knoQoMKz9Ioxj45tCf0JbYBfUCybTZN90E9VlC~c25JEGlcoiuTDN6KJJfUPbTzhGlFVe1oA3SbCcovvltK-I9YqB6d780BPwWbC95QYm7LFqKBwk7kyRzOMFAgpmmxTlxYsQsAYtov3ar~3L~t94xuZ3bv7VEdDFzPgMIR0L1uG4btz5oT7K-hA9M1I0a30n-UvFb71o96z2JjdOUPox-EfgmdcDE3RK0yiG~RoP--AghPogcR~ySE03~cUCzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i571/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf195/1/m_btaf195f3.jpeg?Expires=1796910520&Signature=rCIafh4dWLuU51SEBm1VhW-rFj0AUk9Pq7ZT3CkyNKItH5GUOxkVvOD7WjiyvVC00OPt4I4ImP93Wk0riHZHM2ZF5b958a95ec4xMKJZ0oKp0QZq~24SvSiTQMujKP0yhfyPitwwBR3LlnEatm1HctlJZCOHYDOtAsPeEYsM6CcpwXDIJ-0xDOAWL5KRuG9aNsPcB3clG7--X92AiupGEaMFhcXKqjmGbw4YaTIt6VS8j3tSsxvjI3PWDeU1IRoWKh~LfRZNEdzagN0THBMpDwXMGi9j0NETJORgi8CR6QtN~xDbnn1NiPYQnIpEXJBEpsuwb1NkgOOo9SFRW-ofOg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i571/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

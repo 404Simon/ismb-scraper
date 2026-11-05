@@ -1,0 +1,179 @@
+{
+  "paper_name": "RawHash: enabling fast and accurate real-time analysis of raw nanopore signals for large genomes",
+  "authors": [
+    "Firtina, Can",
+    "Mansouri Ghiasi, Nika",
+    "Lindegger, Joel",
+    "Singh, Gagandeep",
+    "Cavlak, Meryem Banu",
+    "Mao, Haiyu",
+    "Mutlu, Onur"
+  ],
+  "authors_detail": [
+    {
+      "name": "Can Firtina",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-6548-7863"
+    },
+    {
+      "name": "Nika Mansouri Ghiasi",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0833-0042"
+    },
+    {
+      "name": "Joel Lindegger",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-2581-8637"
+    },
+    {
+      "name": "Gagandeep Singh",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3502-7401"
+    },
+    {
+      "name": "Meryem Banu Cavlak",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4475-6945"
+    },
+    {
+      "name": "Haiyu Mao",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7393-4504"
+    },
+    {
+      "name": "Onur Mutlu",
+      "affiliations": [
+        "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0075-2312"
+    }
+  ],
+  "joint_first": [
+    "Can Firtina"
+  ],
+  "joint_senior": [
+    "Onur Mutlu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 7,
+    "R": 48,
+    "h_lead": 121,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 71,
+    "C": 49,
+    "I_open": 4,
+    "I_closed": 9
+  },
+  "lead_affiliations": [
+    "Department of Information Technology and Electrical Engineering, ETH Zurich, 8092 Zurich, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Onur Mutlu",
+      "openalex_id": "https://openalex.org/A5050695684",
+      "h_index": 121
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/CMU-SAFARI/RawHash",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad272",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i297/7210440",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i297/50744084/btad272.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/CMU-SAFARI/RawHash"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/btad272_supplementary_data.pdf?Expires=1796407793&Signature=GgYW23b0xKqYw7-h19P89tktUnpj9nyqu4LCWp4LzVCUfoFhP-uen9Vj7HhqK82sxs2J5dHp56Ct2~YUZhy3tptIZwrzMt2Rot2j39rC-dhQpIeKn3acOqo2cvvz2P4DlsKFG5c3ABoopieGL9vWHdevzun-n9qWWtUqcRHPcW9gmOpMC~fJMsr9WRZuRn4SBKiAhcKfJXGOCuYK~HZ2ik2oJRQ1V~M2O88JEGJQ57bIJCcdQVK0aqa8Fw9RiwryuL10iBwaKLVlN6hD0W9SpJeoqE6PSEFJBuE1n95GD4TJ1blQqw5yKajOG2omGBPxhM6abs1yGNgdcfHtxyvr3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i297/article.html",
+    "pdf": "files/i297/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/m_btad272f1.jpeg?Expires=1796407793&Signature=liWOtsU3zXfO0QluKS7Mt4LbDuPD0lM5lt5V6hwQTQS1gUB-DRcHwgfnNwzx6oNDn9hK~X29x1OG63jWg9mXE08ZMWZF~2knwcJD5F14UcCQgXwm2FpfAJwe6MgBo8tfcFy1qy7NwQk900anS3qFjjBQRCwCBe5J6fUr5KwsqzO~byV~~ylAWBG2-rKoExrNdHY6mdSJFQdqt3UezZmV-ZjgclkQxWzVYYsOWPZVLo44a3Ufy94AuUSeyMB5THG2juI1m7hxbGhH0jgDnc3Yit4jgLN1cCoLNJohTQOlTNhKDjU59T-VC5k9ynbmlntFHn7mrfw7rqqkbz9JMhfyQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/m_btad272f2.jpeg?Expires=1796407793&Signature=lkuGSQuQAbBv1iFGVEnUCtqhMvNMMn6enT4roFKDIzBreHne3U3twscfvyMuGcOyJGJjBgF4wQDJo-gEXNaMIW5YcKhYciO-uKzu1h45i~1BXeF9OKLfPuLE839mXfciGoiaIAOCi8gSSizV7ee7GjIraU9IOvQRYftC-yAaV4j3JNVIgwcOMGhsxm7rIRbCiPkf~zxMF2cKnEEFZGjZ8ZzrxO~EEYp6~cpytRB0s~WcFyGu4iRjmZhAvpgdVw5LvfK48vFSDsuqErANm9JK6VC8-aexwlUgrXkyo0CObO1L3pcYwFqcLLLsI5L-xJqZgxOjKCVJoxTK7pP5k9XBRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/m_btad272f3.jpeg?Expires=1796407793&Signature=ldtRPFqHCRxU7J2jR8B4P-sLcCj1oCWMwjcrejTtwj02TteW4ZDmLsdyQRGCZ5Axi3fKd6jM3SrsLpDz29Aj9CY5TtiHIqH0Md21Tin2hRbSErj37~9wXcdSVxxrde6rJgUD1lUI9UGwPVL90CQ2cgBGaJlBC1hBSzUGrdHmkiuFHqQPLAPAEJ~Y9SM-OAl7ggYNwn3UXqXGFakKIHTIXeRBJkFmvJdgHkdL1JFAZkofcMoNHRYpO35Kb~n-4gVsdZl2jYYm6ldoOBzBWHdIiYva6dLAaMzvVZDktq6uufIJv0jMlYDAkVIGSs3KFZSkv1JLHCe5cq916BMBlWHN1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/m_btad272f4.jpeg?Expires=1796407793&Signature=V97YWouEa72wYQZ2jRXoS4cQHng06WqCJOswixYd9SYI-Mj00fIoWu87MmgvubYmrL4e6xOjlpPqUYfYUK5dzUFPAXP3N3hhMywn9ORJ8Rf9VsCgZt5Q2c7pHVYqm5BhqQwcHc9wno7RWkPN6mE8GFFYFMDypoSf8nXbjyKvdXk7HPQmnDXRDoqm~TtE7jTQw9~JOFYoDacXYjtzs482RmTqRT04-vaqTT8NxTQ2eEKxUBt7TbMBPvBHZe0JZegE-gsmCUwu4SVBA1nKrpfkmNTXw0xFeFaFqROyN1VB73EkmLt65rYoIA2BP0CYhsWBaVe~8lYrh6HSWcimr5aZ0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/m_btad272f5.jpeg?Expires=1796407793&Signature=4Q0vUdDY55t2d1vB7RwQWHG3BV-RBXFaaD3kzQIGBJByyAPgvNsSZU6OG68hitA9W1NTaSHXgECPFSRueJwFZhQZUbO10koQQm9PV~qHCk0j3Oo3OKlxYwVRMw3-9A-J2Zirt0V9bDNi255iD20QjKv34qn-X~l27gDp18QbuOM-CoXpWdPiQPjk6VoMmW15o0ViQ3rupqkfFqpbjK5as6J~k2Pzte4b8mE~yZ~2J7rZFg8cypwfNYa4CRh9czbp1TgWCC7YTVtyF~XVC4ZLD0BgT4VJvn0OJp7Z678XT-PFGWdYEJ02RgYMmSpA7OHNJOn1UcJ~g6kuy92HPj8g7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad272/2/m_btad272f6.jpeg?Expires=1796407793&Signature=xlVj3J~nXh9VdHpVYv5Qhevv008D6mI2PiclYc8FUwbSXOHV~c5HLjzYUlKBQup8WIxVAbvv9Yyfl7XvZfdOZe5IYDVBGQBTvrv8Dj69gS9VXOfPpC7LmqS6bHb7IR8TWyht1eYO-qWngO2H3Wr6EgI3z~yfwXR1SdRm-UAxhSe6qNu17sBQH69wCIVI4JGKlKKFgMC0AkwLBjWsJWe7gHVJVQTkfQX-AmsTyYhXdOLD3SkiEXPSDilbTBcJcxW3cJ~2j1~8sth1Dgk7KGwUEFYnbpS5DoA2aOb-sDUpS3uxCvgwA3DU0jALeEW5S9RHE3y2g4jWp8cSNtsn1vlkPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i297/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

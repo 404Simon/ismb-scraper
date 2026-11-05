@@ -1,0 +1,208 @@
+{
+  "paper_name": "SpatialSort: a Bayesian model for clustering and cell population annotation of spatial proteomics data",
+  "authors": [
+    "Lee, Eric",
+    "Chern, Kevin",
+    "Nissen, Michael",
+    "Wang, Xuehai",
+    "IMAXT Consortium",
+    "Huang, Chris",
+    "Gandhi, Anita K",
+    "Bouchard-Côté, Alexandre",
+    "Weng, Andrew P",
+    "Roth, Andrew"
+  ],
+  "authors_detail": [
+    {
+      "name": "Eric Lee",
+      "affiliations": [
+        "Department of Molecular Oncology, BC Cancer Agency, 675 West 10th Avenue, Vancouver, BC V5Z1L3, Canada",
+        "Graduate Bioinformatics Training Program, University of British Columbia, 100-570 West 7th Avenue, Vancouver, BC V5T4S6, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kevin Chern",
+      "affiliations": [
+        "Department of Statistics, University of British Columbia, 2207 Main Mall, Vancouver, BC V6T1Z4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Michael Nissen",
+      "affiliations": [
+        "Terry Fox Laboratory, British Columbia Cancer Research Centre, 675 West 10th Avenue, Vancouver, BC V5Z1L3, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xuehai Wang",
+      "affiliations": [
+        "Terry Fox Laboratory, British Columbia Cancer Research Centre, 675 West 10th Avenue, Vancouver, BC V5Z1L3, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "IMAXT Consortium",
+      "affiliations": [],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Chris Huang",
+      "affiliations": [
+        "Translational Medicine Hematology, Bristol Myers Squibb, 86 Morris Ave, Summit, NJ 07901, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anita K Gandhi",
+      "affiliations": [
+        "Translational Medicine Hematology, Bristol Myers Squibb, 86 Morris Ave, Summit, NJ 07901, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexandre Bouchard-Côté",
+      "affiliations": [
+        "Department of Statistics, University of British Columbia, 2207 Main Mall, Vancouver, BC V6T1Z4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andrew P Weng",
+      "affiliations": [
+        "Terry Fox Laboratory, British Columbia Cancer Research Centre, 675 West 10th Avenue, Vancouver, BC V5Z1L3, Canada",
+        "Department of Pathology and Laboratory Medicine, University of British Columbia, 2211 Wesbrook Mall, Vancouver, BC V6T1Z7, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andrew Roth",
+      "affiliations": [
+        "Department of Molecular Oncology, BC Cancer Agency, 675 West 10th Avenue, Vancouver, BC V5Z1L3, Canada",
+        "Department of Pathology and Laboratory Medicine, University of British Columbia, 2211 Wesbrook Mall, Vancouver, BC V6T1Z7, Canada",
+        "Department of Computer Science, University of British Columbia, 2366 Main Mall, Vancouver, BC V6T1Z4, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Eric Lee"
+  ],
+  "joint_senior": [
+    "Andrew Roth"
+  ],
+  "has_group_author": true,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 10,
+    "R": 6,
+    "h_lead": 51,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "Canada"
+    ],
+    "M": null,
+    "T": null,
+    "S": 5,
+    "C": 2,
+    "I_open": 2,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Molecular Oncology, BC Cancer Agency, 675 West 10th Avenue, Vancouver, BC V5Z1L3, Canada"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Andrew Roth",
+      "openalex_id": "https://openalex.org/A5066899464",
+      "h_index": 51
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/Roth-Lab/SpatialSort",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad242",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i131/7210431",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i131/50741356/btad242.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/Roth-Lab/SpatialSort"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.6909419"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i131/article.html",
+    "pdf": "files/i131/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad242/1/m_btad242f1.jpeg?Expires=1796429604&Signature=oLlQBzl7TSTZ1oJZoE4beb2cIEayh8ypemJnO0CO3fod4gTpermwWR-sGGOsx5MIlQ~Q7H02xPqL252LfX34LPP2ckBmnUlko9O9xO-SkFMqkDDMNd8MiWiV5Ale0Ij9dbTjiWnjueRmSwGMvnhMlyqpdH095GVpb2BE0CXSWY3~k8nfTTMK7ydk3353xZbI08r2PgVS~BCWuTNYMT4taCrpOgLMKz6-hi8klgs2SpRxXmDnJhbj5gpMihASlTLnvVGRD8mniYHJpjz0Zy-Tp2tPZFQwlxnYR-Er-CJ0tLV73P-VRvIoTNMzL7lYl7HccWZbJKPFVtK991JWzUmISg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i131/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad242/1/m_btad242f2.jpeg?Expires=1796429604&Signature=IxV7Myo4xP0kxPPy2BfDtgSbZkVidB5j9DixAtKtwlMtB4KChDhzKf8dNVdhkkhZLa71tvdz-Q2YzIenc376dagAH4U1spZqk0jP-UeZIimT5d0WZMLNmYRSf5GkoZan53BRyhAF4~23w9vttHK1auJdgtwBPx~O2a6O44odAtD2E5KkGJSJ8aZv3MJqdk-uWTYxursaU9gwcl2pSK0SVZ-VtmVSVVaeA09pgpxtqPC6a2TX7UJogVTN8USYeCidunkntY1-yzQQZOG8UlQ0OPit6wqvf3mEhrDEaXZ459J2JJX-S9OjFwbyLfzunuuYrM8LgJFEMirBN4ahqm0ZAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i131/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad242/1/m_btad242f3.jpeg?Expires=1796429604&Signature=3IXbY8Fy2siPJyJvTJVFwS6wkzuY2EbZOc4KP~M5Gleg95-4gYCuiDvCvXR2-KZ4JbX7E-WVwzV394OldBXX5edRrLDO8KKTG6~BcU8rRlPTKPdcTilAHItBJ6d4EjnRf3M3L-YsbRpwcTx4pbkNXrZIZzKaK8NDKe7QVPZJtV793BzFdmiTzZk-lGXanQs6k7b-XGjfjG6cIP9Nq-eNX3ZoPpTBQrwxeZKJP6SppTB-jUFGXdwTeWDAdNixy~nZpy1Mbl7iPT~IhyJxUHVs1Yiw14~OwWAXKM2SaYYsxdTmZf4zweZZjyZn~nrGZ~jusbjMT0eYEGifrIsVdblYbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i131/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad242/1/m_btad242f4.jpeg?Expires=1796429604&Signature=CLrcF6yZot5WSA4SMMx3WExLYCT9Vh5upx4q4TnEVqZneT9YXFmavl37TEcgqRu4nGHmPZ14XbqW9y1xmzHJDf7rBOU2ywbKUvwcEKleaLTP1qiGvhWG2KVHAlN8X-RaKLBdyEeyAuuqmZG4dqrcL0kSER8ZE~3EQ8prgVJRLAfH3jj5v1xNY-Z4a66CcpjaLqqPLMJQF5vgW8lhmnLbDGVpLXcsxHdHEJNDck~N05uQUZwcybigkqpI~JBFY4trfeVNSc-8SFlVnmmqWp0xP3jXrNWyTvu1N74HuNCH86GBsi6sND3EwPsAYvQChZTmNn1eeRS327BvCdh9xQn-zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i131/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad242/1/m_btad242f5.jpeg?Expires=1796429604&Signature=EV7bTEqFkyvyA7Ux3sBUB2Ed1V6~M7XIa-~qBK-PL0ZTlN0O8rZ6i-elkuADZ0kslNuBKmM6c-MUqi51Ch8mC0q2yZcLdKyotayzAKwmI4nuxrJ1j7e~oNjUj-ArLD6Z1o-U80u5Ua~CHG87t6LjFxbQsdWZpCl86UAs-Y4DlT0LdvvErfCQtp05vcfIdlVwLw9KX8ltXM6zadvWVFEaaa3~PkijKIFiekfLX9SvLx0gj3jy8NYNbqH-BHnFNheBRlH5MzU~ZZ6gtEbAnyqihWqeCCjBUJ8adJi5xZ3IWq960vtLM-v1EGhn8O5P0OKJFwvmMhziWGOSZTfzdfGv0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i131/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

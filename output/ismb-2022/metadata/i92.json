@@ -1,0 +1,153 @@
+{
+  "paper_name": "Scaling multi-instance support vector machine to breast cancer detection on the BreaKHis dataset",
+  "authors": [
+    "Seo, Hoon",
+    "Brand, Lodewijk",
+    "Barco, Lucia Saldana",
+    "Wang, Hua"
+  ],
+  "authors_detail": [
+    {
+      "name": "Hoon Seo",
+      "affiliations": [
+        "Department of Computer Science, Colorado School of Mines, Golden, CO 80401, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lodewijk Brand",
+      "affiliations": [
+        "Department of Computer Science, Colorado School of Mines, Golden, CO 80401, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lucia Saldana Barco",
+      "affiliations": [
+        "Department of Computer Science, Colorado School of Mines, Golden, CO 80401, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hua Wang",
+      "affiliations": [
+        "Department of Computer Science, Colorado School of Mines, Golden, CO 80401, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Hoon Seo"
+  ],
+  "joint_senior": [
+    "Hua Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 70,
+    "h_lead": null,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, Colorado School of Mines, Golden, CO 80401, USA"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Hua Wang",
+      "openalex_id": null,
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "h_lead",
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac267",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i92/6617524",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i92/49887249/btac267.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i92/6617524",
+      "https://1drv.ms/u/s&excl;AiFpD21bgf2wgRLbQq08ixD0SgRD?e=OpqEmY",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/btac267_supplementary_data.pdf?Expires=1796494097&Signature=TlY64nMlE2IfK~vLJcczEGilk2ZPefdmHXcfdSK6IAtYOL4lmX1YQMh6Px2VAXERfOBwxo1gRNX~X~ILd05tiTQXJ2ENfeEXvPfKCqzgjTClE-vRgFg1AkaZo3mnvwtc9osDmZg8~EeXwub5J35tteJE5mYhXdX~~C85JoNStxsu8KV5gjrspKPTsVNTgn~u3l5XSC1tnCBgcERRa2zsIUM2UaQcMfQGqFgI8tIdAmI1jCM6LYqIhplW5fO2rRNds9r~6bPLwjuabt2NLoI1AmOeX2sntipZqBVU22MVKfwzi4kz7sIReTKVDNM~ZlDOcVTaHAzklQWxDieV9EvTzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis",
+      "https://1drv.ms/u/s!AiFpD21bgf2wgRLbQq08ixD0SgRD?e=OpqEmY"
+    ]
+  },
+  "files": {
+    "html": "files/i92/article.html",
+    "pdf": "files/i92/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/m_btac267f1.jpeg?Expires=1796494097&Signature=mEpr9NciyZC7nOadNLP4lKKGBy2x5r3Y7CmfEBtTxeK2~exMnKPEGT7jGRyP8A47XZYvqZ8MhN3gCwd5My2UDIQZG5tWUMeDxu3ZtpRo1E-1YSgqwTbZQkGR7PErFqdlhGI3EGIrTgd8mw7CUUn8KcgeEDqi0CDf-cm8DtxEHcBYut5Ky8QjX2wr3plpJV2R1Qj5-sTUWbtY3kZ1SnLzQ4nxA9SlGHiPKN18NKXoZbJjAeZ-GoNePRm2BhONQ3KRStqfwNQaJZpKUQC5OPwZz22BYCI8AJSYBq-VdUlv~onAdlU~YAPRog2a8BB29LJPwVwJoEwrppMMIzcHYNJGog__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i92/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/m_btac267f2.jpeg?Expires=1796494097&Signature=j4KKUvYbGJdiOVbwiicoH8fqz-3v4qLvA1673ntsKzrDcXIyOLBWIMH4apYmlN41qhVVajbQ4084OjKhkez6n8siQzqRzg9mFfbYHJa7wz17kp0EKUP5mlfMSG-FI6JqQoee9OgR5gnLbjlYK-0qjpgBWz9hBG5mNQ3nrZRssptCIU-IrOZ14HOsFplFBPspu5QPa8bAyCildq0KNqKsUNwIcubWpgIXaCOE4M90S1nvroQcRQzcR6rZ0DvCQW-Q1Yi8QHY60WKf5HywGSEbx7qjFZMnmgHP9HXBZalyJAaITC2~JqF9acrBvpDq9RrZUjR-COh5tGfFzrJHLnt3Qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i92/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/m_btac267f3.jpeg?Expires=1796494097&Signature=ZUbus3RhANoqsd8aWZ05pdHIaVRpLDZXKzcrtp4ECdV3mBjdxZuoAXJuOgAGCy1TCjmzh5ayk23J4dnI10fKdEj78EZeniA0PmXoAitqmvieWp03E7~tohgnqiPtMR91RxWaG95sdw-8H6ovwxRprJnE-Nh6OogtSxpjGsyT1lDE2ZzFOYAQQApKSrp6NqwKyZ-aBjvpn0pRobTAlwGEEz55Lhm8kgT-u5BBYWAy4dSRoIPLD7YMxJFO0XtL-bUCyNnFbNcQ9OU7p7Rl6bdiREE-FJurfkxgkMPHzqViso7Jnp7fr~HASNcultoMYC7C8~k9T-zOrgfMZvD~eYkCWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i92/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/m_btac267f4.jpeg?Expires=1796494097&Signature=WzBcF4-X4Buchjv-jJpNnCiBMmE45hXu~wPScYBrIEv3me9lt73eDnvavkFZOth~Yej4g57Vdl8tKKSKb8HhBsQrpavqzaUUH8s8NRR49p0ycc-ghO4ZjQ6kc5J7LPUDDD7RCvM7OgAJeYkj-4OeLowiYVrhAwLRvpn-bpENsa5TJQtJglSKlJTI1yoIzT9QgX3HRXWRsLStEx3vmZYua6R9u6~76uYPP~u~r09bV8v34vQimikTCdWSATuOK3RaTvKSq1hHLVOFWGhwILLb4KxqkZMBDzRcnRMUtVA0D8K3Q94Dsy98r8uGnew0I8QLX1iy8xWvEiWz5JCZM4gmgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i92/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/m_btac267f5.jpeg?Expires=1796494097&Signature=1uwq1fbByAXDnhL1JkpvTx7rAzwDn2H9AvmL2W7oNxqxQBZcWukel~US3cduTbeAT70MPP6G6qL8ep8HHerEB3tXzRplYezotg48N7tBHdOgD7pR8NO3R2-Svz0OhNmSaWVT35jAgkmCpYhypbvBnlkwY1EaY822qEjwuE9m1XNtMOLt7VicBzt7Pkz5bwCxoCLGtKW~y8s6yoGbVaSKha8gWqyHzac1daNt~uyMlzZ1Rz6G5~prHEtlkPyWeUIOIFv-CbcuGqI79k5pML7~FdojTKjldvKulIXTW4ZEN1VSQErDRiFX8Qz-bi1-ra4bbAPvu7vfJWnj1IsA07L7Jw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i92/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac267/3/m_btac267f6.jpeg?Expires=1796494097&Signature=d8BS6IH6YCn9GjP53R8ccn-O5IwDqDBa8GXmRG3Rb71xOsU5slq8EhmZmfiyRKCQN3CP2YIRL~1oFEhhYLEKykw6Ts1g5a9abcEvEX9mZ67nnyli2vq~pSXFu9p1VbLKUNCXqyKXhCObCVMTKLxUmNOPg0EPyCLQlIdqZr~TOLrNLXOcqHymNCv1N8m6HpXMYiLhCZt5Tud-6kpv3NK9l47SB~RJU1GofrOsr7ZNZCkRHq7C-5CGoUVvB6p~501iYqdjgjVxJTe7-LRXan4G~AZ3XfoG1fmOesGMicKEUQWdVD8s2zkEp92SthtHGcZFgGoBQ-01z-QfHVA8-gYkbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i92/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

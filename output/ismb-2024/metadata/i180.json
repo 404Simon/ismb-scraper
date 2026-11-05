@@ -1,0 +1,114 @@
+{
+  "paper_name": "Oncotree2vec — a method for embedding and clustering of tumor mutation trees",
+  "authors": [
+    "Baciu-Drăgan, Monica-Andreea",
+    "Beerenwinkel, Niko"
+  ],
+  "authors_detail": [
+    {
+      "name": "Monica-Andreea Baciu-Drăgan",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zürich, Schanzenstrasse 44, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Schanzenstrasse 44, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-7719-5892"
+    },
+    {
+      "name": "Niko Beerenwinkel",
+      "affiliations": [
+        "Department of Biosystems Science and Engineering, ETH Zürich, Schanzenstrasse 44, Basel 4056, Switzerland",
+        "SIB Swiss Institute of Bioinformatics, Schanzenstrasse 44, Basel 4056, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0573-6119"
+    }
+  ],
+  "joint_first": [
+    "Monica-Andreea Baciu-Drăgan"
+  ],
+  "joint_senior": [
+    "Niko Beerenwinkel"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 7,
+    "h_lead": 67,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 9,
+    "C": 92,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biosystems Science and Engineering, ETH Zürich, Schanzenstrasse 44, Basel 4056, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Niko Beerenwinkel",
+      "openalex_id": "https://openalex.org/A5035497488",
+      "h_index": 67
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/cbg-ethz/oncotree2vec",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae214",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i180/7700847",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i180/58354695/btae214.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/cbg-ethz/oncotree2vec"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae214/1/btae214_supplementary_data.pdf?Expires=1796413098&Signature=oG-Ofto-Uurfjjc7AW2Gc-J8kZidvWOz7DaBBGTu12YK3JSUUAjfqyrJU8vCZLHNAHZ6cz~9W9U-Mj3KOHs-NTHlYXvuETwC4b5-FGICpQiDjbXyx76V0L59LDnJe2UUs686JdGjGFIJzmJlmF0-v~pTvBid2~0TReTEOdrgSZ6WJSSXanLRSzO4yLq-kIcNKiNQj1iOpXWNhzO3Tz7A4qo2BgCJdnxWYA-YqGEgF477-sNCkmyUlx~2aoj7X5OMvAES-8Lylko0Iv7sCA1EgYeEsUV4ojoGSnQhLAHqiLbG90xLsj6~1QvSb7Hx01WVAwMu9IYfohEsX2qPnXI4Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i180/article.html",
+    "pdf": "files/i180/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae214/1/m_btae214f1.jpeg?Expires=1796413098&Signature=MkHKAi~vZ2wKORLkjFlYYmTE~d3Y2qtE8Je8iuqjjcW8k4mZQ~Js7poAbn81eeSRRyV3NKFSKaf9sbwGXBPZJ0Z1lbJTpD6-FqkAt3pupT9iFtBQWZ5KmzJuUaCD3AT3FXnooNiBQPOevjJdXTl5X-MHvXeqTxiTq4wOF3kjyD~KMROGveh4g3lNmPnkUCfSt4nEByPFwntDQzdbnbnXeutbLrvkDeCUk2cYBaFb25ECQqyy~Kn9iBCiKaRoNtAOClcMd0lGrgPel18JYKPR0g8FAL6XMW7l7u1V3qETeJTohDs7IuQssOZMRrLy2eW4Dk6UMsi701WcEMSDy-caHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae214/1/m_btae214f2.jpeg?Expires=1796413098&Signature=4qwOVjb3mVnS6hmVGWGGjHtEkyDDw2yUAEtHRKlX4r9sPELRssmPfov32XeuHXfeEuOgNt~i7JbYOp7yPoipB2yAJBDIiFNrLEWSyShXkgXP-8-GdHYtfO6Me4qTtK5u1lK-~C1gZuYFyEYfdahwiY2oRUbFWu~TXGROJDsHg7JHmVtig0Xiu5vb7NTJNViDuIA7ilS-0g4j33CS1qvTy8opVelIVSYLqJ27TKsCORqvHnuICX7QbYWfZ3ecgo8yxz2eEMu9m~B5U~pArUhFXssZO8oOS9FWYDm5-0~QIqbb6IolQNqkPJlFuhHkyvTkb3yILy-4LyezARlG92U~8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae214/1/m_btae214f3.jpeg?Expires=1796413098&Signature=DYc73j6s0CnkkeyXy6rn0h25pJ7Jr5BlPpy-ydQIDg9WtCIHrM-iEOBj9Myqi~3e5nBMhWH3Ib5ARenMQEtcz4x3cdlgtaJAz-3hLplryB19qhPGBdZVsGGOLlVOkdDFxbuwYxh5ZmCyBLCapBn24StXYthTM5WXB3nMgN9lui~T1bPRclU6Ich7qc0pMU0I3bItIGZJICeAUQO~JG0L3AA4HJIVQp2kgqwt9E5oUn-PlNeoFfy-uEk5qJ5RQuL5sM~6oBpMx1GIsyW2nrCGLj8bj~54fBaYnBq2Pkr9rydAVLckntltF3Qr~gP2TolLDG81GbH-54vnAjr0z-lFqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

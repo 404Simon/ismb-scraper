@@ -1,0 +1,184 @@
+{
+  "paper_name": "On the reliability and the limits of inference of amino acid sequence alignments",
+  "authors": [
+    "Rajapaksa, Sandun",
+    "Sumanaweera, Dinithi",
+    "Lesk, Arthur M",
+    "Allison, Lloyd",
+    "Stuckey, Peter J",
+    "Garcia de la Banda, Maria",
+    "Abramson, David",
+    "Konagurthu, Arun S"
+  ],
+  "authors_detail": [
+    {
+      "name": "Sandun Rajapaksa",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dinithi Sumanaweera",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arthur M Lesk",
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology and Center for Computational Biology and Bioinformatics, The Pennsylvania State University, University Park, PA 16802, USA"
+      ],
+      "country_hints": [
+        "USA"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Lloyd Allison",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Peter J Stuckey",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Maria Garcia de la Banda",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Abramson",
+      "affiliations": [
+        "Research Computing Center, University of Queensland, St Lucia, QLD 4067, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Arun S Konagurthu",
+      "affiliations": [
+        "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Sandun Rajapaksa"
+  ],
+  "joint_senior": [
+    "Arun S Konagurthu"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 12,
+    "h_lead": 12,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, VIC 3800, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Arun S Konagurthu",
+      "openalex_id": "https://openalex.org/A5081792355",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac247",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i255/6617521",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i255/49886410/btac247.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac247/3/btac247_supplementary_data.pdf?Expires=1796413929&Signature=yZS5pAJEBj0z9ggzaT7nE1nLOjnuhIHXGUsygPOymvSuALoTm42PwNfH6B9upRcpR56NKsEdKL5H9Vz4LBUdrQ-WI6t~2ziRra7Kp5VX2jwNTHbezX3yWwnwC5KDOJMk2pf6Ew2p9ATw5S~ONwLZqKvXm3Xxc1ezqFSRT32VnHYZJddC6yHQiPn3yVEaCZT7FIRqtyJS7XwfbF-NP05sCliKVPuHSvDR54OYFEAhJ0B4o9HQpy88AdAbzIrcPeGh~sq0vSZJ~2ODcbDL0dGSJ~ZO1JeZRBo1BiKmjX5rWUs5dgy~~~Zu7ul47~RHk-fE~zmkJYd4bi1XEhKMI-IG8w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i255/article.html",
+    "pdf": "files/i255/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac247/3/m_btac247f1.jpeg?Expires=1796413929&Signature=h0D~QdR7nt~B31zQs0pvSQfcP5N5YSSG3i8GBY2fAhj2ehxtH~K2hFW9dghIGmpucYwlRVkzoXOa9E2tmGZ9l2ZCQHGvxTEteOIm2IggNKiX8nZTB6668FIND0Y720TiUikW7dThd9TCKpxTdWmRjTem7w-9NyDHMpkhRJDs4XMVwnxjPzao1Z4uROWcWIBF7vmuE3k4x92CbARQmMZzzOYhk0Ttsuajbza-9HAFS7MTIUzs13qCKiaJ4vSKj5cfcPLDQolGAWAfhCqVWJEKdNGrb5X3OnLje8rWFB8uTCkU-x8VEM4G~UACl-zM08ye3vhDKzeeAKW-9945Dbcrig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac247/3/m_btac247f2.jpeg?Expires=1796413929&Signature=v9IreV8U4Re2CVuSc3tkiKesolqNt5hJb~7wkRokkS60qgdr~Gqge10HezNaJsq2lo8Y7mYoo5LQiYPdAPLr67Bo~QMI7L0iQO5yT-CilLp77v8K1hFvT3zxktBBfC1-22WAIC4hbtAbiG8838oC4tlyKqQPfRxdDAnbNGk-NfuKMvB3BDVvTDMlysiTj-dvUwD7V~jEb9F7qJ2AXC94CgzJOIrNmW8FANrcDsv9a8ODh8WtnrhvQrCEX4y5qDGQMvlf29P~QdyaOAcp2nhr3pzAMf4g-KqrQn~lac4ci6vWJyScJxppD4J~WnvX47Xq0uTgh9EECbw~a7lTTybdyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac247/3/m_btac247f3.jpeg?Expires=1796413929&Signature=ghGv3PwHpHmoJrX3xZ8IQRzlOYshvQ0RI-fEHLUBKJDeSdpgmjko169jQAEYRTjPiStAaTby1orK4Wz1knEManuVoGXrUwiPReM0N4pxwMm-Scb-TcZhAWLtx2qDYgnhICRTl~7-dtrFomUjNcRGvIIQCxxajUyc0SHQ2c4-SsP~m-61~b7-7YH5FDhdpRdi91mH8TsRyeikIgFYUEIFQeVLJIkOSAYMgfOcfNRuT74w3d7Wb6bK19b19YMFktJdJw9M2ZxrzPTAA93WSOMjHKoBRLyEH9D7u9HWZ5SsTpjYM9c7Miq2xG7XIw-Hgy8EmXfv6KXmfD-Tql98o36z9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac247/3/m_btac247f4.jpeg?Expires=1796413929&Signature=cFroeQOJjJUjZ36Ktzzs-2y9-bk5lM4Xg4CPYtFFjWFR419ZeX2agiSqJOb3KOzjYEuKMyQrazkfrioeqAGN1MfPYrbkg1jJ0eb1CtSu7ezhgXvP4spQHZPC~OJ3e0Ux2N6uG5HvNoqbOVGsgp-72yr5LigfdVcxgphTmdjq4qB6-OeqRo0ikxOez9yuB4ACf7qWucnUszKRoi6F3UbHTYOmOLeoMbByUD7JVDL8aunggFPyaFQW7tBn6WlmWIDJn-zytlCx0ABanyY9Nrpntbf63rotdjyiEFDN4ANeIrsTU-rWB4GSliliqEtlV8lGv38xlnLqoQ1Em6Vj6gYd6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i255/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

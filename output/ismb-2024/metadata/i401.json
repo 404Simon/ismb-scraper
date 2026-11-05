@@ -1,0 +1,140 @@
+{
+  "paper_name": "Predicting protein functions using positive-unlabeled ranking with ontology-based priors",
+  "authors": [
+    "Zhapa-Camacho, Fernando",
+    "Tang, Zhenwei",
+    "Kulmanov, Maxat",
+    "Hoehndorf, Robert"
+  ],
+  "authors_detail": [
+    {
+      "name": "Fernando Zhapa-Camacho",
+      "affiliations": [
+        "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia",
+        "Computer, Electrical and Mathematical Sciences & Engineering Division (CEMSE), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia"
+      ],
+      "country_hints": [
+        "Saudi Arabia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-0710-2259"
+    },
+    {
+      "name": "Zhenwei Tang",
+      "affiliations": [
+        "Department of Computer Science, University of Toronto, Toronto, ON M5S 1A1, Canada"
+      ],
+      "country_hints": [
+        "Canada"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8742-9146"
+    },
+    {
+      "name": "Maxat Kulmanov",
+      "affiliations": [
+        "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia",
+        "Computer, Electrical and Mathematical Sciences & Engineering Division (CEMSE), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia",
+        "SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence, King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia"
+      ],
+      "country_hints": [
+        "Saudi Arabia"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1710-1820"
+    },
+    {
+      "name": "Robert Hoehndorf",
+      "affiliations": [
+        "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia",
+        "Computer, Electrical and Mathematical Sciences & Engineering Division (CEMSE), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia",
+        "SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence, King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia"
+      ],
+      "country_hints": [
+        "Saudi Arabia"
+      ],
+      "orcid": "https://orcid.org/0000-0001-8149-5890"
+    }
+  ],
+  "joint_first": [
+    "Fernando Zhapa-Camacho"
+  ],
+  "joint_senior": [
+    "Robert Hoehndorf"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 12,
+    "h_lead": 44,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Saudi Arabia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 81,
+    "I_open": 1,
+    "I_closed": 1
+  },
+  "lead_affiliations": [
+    "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Robert Hoehndorf",
+      "openalex_id": "https://openalex.org/A5043808311",
+      "h_index": 44
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/bio-ontology-research-group/PU-GO",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae237",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i401/7700893",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i401/58355035/btae237.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/bio-ontology-research-group/PU-GO"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.11079885"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i401/7700893",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae237/1/btae237_supplementary_data.zip?Expires=1796446893&Signature=eB7YeuXAGpAM-MQsQbwo3R1YakKwtx3PtCd5boNm88hHnnQEIg6680JHGgI33ZJpM7yxHezrPqOZuQUcV0y6iVlC6-EFC3FB5pvXGVNye6ekc4t45xw60WYk1tlE4iBkRibVholVr0mHnhUwXmnYQDxo3L9AJwQMrcicdVYzFcPUipoxGbevrT~zeLIDq1KMzmxvHPIPHxc2eNZCdui4SVl9Cqa6gt0VgnufdmTu0Cq7~zYeQBN4zfdamFbdrITQnSrjdlBzASqyjJb8gEe~GMYQLxpoQT1Mlw1ESczT1kfydjTQp3zmBV3Q4gcdI4Xyhbf3mi6R0LoIxwuL8KkJag__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://dx.doi.org/10.5281/zenodo.11079885",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae237/1/btae237_supplementary_data.zip?Expires=1796867611&Signature=drSUEMP302oNYIe6212j2~l08laGW2ML-3HkzIU6O2tCl~Dz7nBSjgf-9RylwlPUnP8VY4uHXLRRkYq6Gd2G6LuHtBnB0M2hCgwcWIfLB4mhj-jDFUEFXquVo-kUhoi-hPM~9k9Veikm~Y9NzMKXZHiiWp9rEOe5jzY-kJnhOuYqpqp7FAmH0wYGFPZT-YMuVvFE37OEYzEfLFCYV7Rb3XcvUzTZk4pPCe7SnMkR06xjG1d2mHybLXsb7P6ttegZJVwrj68OHyoX8sAKcfUdZ1NjHFUmUuEZq6cctQSuSjVe2RRtc3O4lZadOYWqGPMlh6c68DpNvNfzDosrBp4z5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i401/article.html",
+    "pdf": "files/i401/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae237/1/m_btae237f1.jpeg?Expires=1796446893&Signature=W8WT4w0sozIZXeMRPQHlntPyqSmHoAkk2~R4~igGswPgSYcwS0F9kVJ0yrPm0Zc19Kh0WseJxbQPPXfs2YptLuHhbMT0ArzhP1JGdOR9WfdwuvJdpAryx4hQ2Q5Ja5OoIPB2lb0x0QdfybkOiWC-zN-p4BMQsvnmjjSg43JlhuThp05kASPICrc~gcoUkKP-qoXQ7Up457iyyzXVoXVRJifcTsLjP6msthGJ35o7lqDloem0nJmgEhG4COxKApETCp4O3NCstfWsw0UB4qtfZKlhkqi5wAtZC3YRcbL7i932Yh8ul1JjY9Cokhu6Ug97gSqzomz1cfubpWWkBbMPbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i401/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae237/1/m_btae237f2.jpeg?Expires=1796446893&Signature=dskOiO51FygU4~zML4yBgK5q3FY~vMgtWueEwLP8XVf5evXq~52KBGzXdDhUBs4PXMOm2sf~8iS-BVv~h4beYRkQPo3iCQXslUUtyfJfq-VuUjoELBQincxFz5Sm82mFbgh~J-Qct4PjsO9BE83UKag2iP41Gxhdf3xP4ko7nvO59MpqHUny3lvLh5YdJFE5LsAKGpq8VMBsU0z5CNNbU1AOXI~h2g7cKI3ZIlnwxjuCJNqO2uBD9Nl2YDqt-fMoZUSVBGvZ7p1J7qKfgg02OWzmfLqwvXtcJYeVvP3t-WwGatzPjO-f155YshBuNWTS4ANb6xpLIKkvP8laR011Ng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i401/figures/figure-002.jpg"
+      }
+    ]
+  }
+}

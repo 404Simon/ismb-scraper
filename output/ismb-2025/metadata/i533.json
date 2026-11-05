@@ -1,0 +1,193 @@
+{
+  "paper_name": "Leveraging transcription factor physical proximity for enhancing gene regulation inference",
+  "authors": [
+    "Huang, Xiaoqing",
+    "Hullur, Aamir R",
+    "Jafari, Elham",
+    "Shridhar, Kaushik",
+    "Zhou, Mu",
+    "Mackie, Kenneth",
+    "Huang, Kun",
+    "Wang, Yijie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xiaoqing Huang",
+      "affiliations": [
+        "Department of Biostatistics and Health Data Sciences, Indiana University School of Medicine, Indianapolis, IN 46202, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Aamir R Hullur",
+      "affiliations": [
+        "Computer Science Department, Indiana University Bloomington, Bloomington, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Elham Jafari",
+      "affiliations": [
+        "Computer Science Department, Indiana University Bloomington, Bloomington, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0001-7511-9266"
+    },
+    {
+      "name": "Kaushik Shridhar",
+      "affiliations": [
+        "Computer Science Department, Indiana University Bloomington, Bloomington, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mu Zhou",
+      "affiliations": [
+        "Department of Computer Science, Rutgers University, New Brunswick, NJ 08910, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kenneth Mackie",
+      "affiliations": [
+        "Gill Center for Biomolecular Science, Department of Psychological and Brain Sciences, Indiana University Bloomington, Bloomington, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kun Huang",
+      "affiliations": [
+        "Department of Biostatistics and Health Data Sciences, Indiana University School of Medicine, Indianapolis, IN 46202, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-8530-370X"
+    },
+    {
+      "name": "Yijie Wang",
+      "affiliations": [
+        "Computer Science Department, Indiana University Bloomington, Bloomington, IN 47408, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0003-1656-8939"
+    }
+  ],
+  "joint_first": [
+    "Xiaoqing Huang"
+  ],
+  "joint_senior": [
+    "Yijie Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 8,
+    "R": 2,
+    "h_lead": 12,
+    "Y": 2025,
+    "L_lead": 2,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 1,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Biostatistics and Health Data Sciences, Indiana University School of Medicine, Indianapolis, IN 46202, United States",
+    "Computer Science Department, Indiana University Bloomington, Bloomington, IN 47408, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Yijie Wang",
+      "openalex_id": "https://openalex.org/A5100429836",
+      "h_index": 12
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/EJIUB/GRIP",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf186",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i533/8199356",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i533/63745325/btaf186.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/EJIUB/GRIP"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/btaf186_supplementary_data.zip?Expires=1796414955&Signature=G9YB5wBMEl9GRw5hXP7G~WMAlayiFsdQv7UKR9BNJ9gLB72MyALdP6H63hwHiF~L8xb~Vk2mC~YvFnGmmAF6izlb9rK9KKoQ2oFIbNihpDkQbkAt8PjwhQJA4~zRMjoZaXU~KxVT35lKg6nngkEcAHOT4yqQgSXYPLRm7OmZrhkQ6De1CbLyxxpOWJfNPagrAXCHp5vbGD6anU3E79WACo0mhr5xDTiQl5JY1ds4JlxJUsoqBfqYF2FPJFT1LiiWpr-ha0hdKcL0cXQmFj7ieYhe5FsW71~E5x3mWH6OBp1-eWzZHB795~v0KuN0dkLHjEQ-yf3N7t9KaxMGTVZ6AA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "https://scanpy.readthedocs.io/en/stable/tutorials/basics/clustering-2017.html",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/btaf186_supplementary_data.zip?Expires=1796910464&Signature=aAIIyTMK000Qx1r2LskrE7zZq9rv6GJjCLN4DHUF34nyI7ZHWAOSVuDD~A~0CSq0dYU52BihIeMoeUWRfE3NN3Dv642cKoXF6EB5zMs8xLeh2Twd0FAKtbH1CgLpM5u9I0dby73z48bgiVfPzwbCXeIk2JFgaxTPo0aINSrBfyOY80XJuDQBihObLul8uQRlpeLtvvZnC6Ys02bHTS9HBzRBOXhf3beW4mMrl3u6b5uWIiKKMi1yGWGontF8sSpuRYJXAyO74wndR2mQMDQHeSqwAxa2FfMNZ8eIWJXuHFiZqoqSBhiXFCj1Iw4y00TlvP1hXEjZzSqjvLzGdlsIgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i533/article.html",
+    "pdf": "files/i533/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/m_btaf186f1.jpeg?Expires=1796414955&Signature=4AO0GXpdm99USv1ZU-F5vtSbkdn117cfIoVxIZHra~Y-rj~adcNXhj1qumBkFG8DOAFH96xQd8dGsgaEYZvjyMh7sCuzvKldtSit2Z-9aZh--2wqZXnZ1hQYwDisp2vRE00lDqewQQYikSzhzqs38MD0WJ2sXSzRfJ7LMQJa0AAw4itHZauAZ8SOxvkXffK~dv1TWmlJMXO1w6S9NN7x9V1o509goPVIFfl8B1FV6oI3sAhEvCmvTZEeGgLi21pdobAQJ8jtKaR9-KHgE8-dQ~293IYtPnVeifByfQiEp7rkQK7ESg1TuaJieEny7CNUwXjXkrF8XR6RudeNvXv5xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i533/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/m_btaf186f2.jpeg?Expires=1796414955&Signature=V-HTQbCTsIwB4DQhrEhhAwcy6sZOwytWYTdEiB2YpTvZtLTM5Ba-pvpXgeB~fF1cCNCXL5YjyJBmyqikuIVfKnQG--~J7QS-4hmWX~2Gaiw10oTCUGUPCDZgKZWG1RFraf5JSnLL1d7eyAhmCWtDPyHSUb7daWVwlpXFsjjduftOsZW-SpAwdpWbrUCT81fBkiPpkfCngo86NgK7ngA-DG5Zb8xPUFPYW3hLOgptQ2AUoq4xPkHsJc1kV-zBN93~LLR~XJ9psq3u~951BBN7OgKZK2vznKM0fG4hp08oQYq1QsGPrGWgJL6EYQhpw-28I7OhcvwUnghEc1QXs4mYcQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i533/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/m_btaf186f3.jpeg?Expires=1796414955&Signature=pAw34AKx7wVY3B6PUJBz6RUjX5r8-eGGhVK5MdQRCKZwfylVIt89PpqbMy0ZNGfpfEybOa-KKZhkP3BKHGammxVKP-FrDomnJ6DIYf9RK9Qdcu6qbnuhwCtZVoVddRUyNF34PTWuUCKdQrp2xDt7Fn1rblO60Yd2H~SIALd06adY886zjW~KvVOLFBNiFj4G6nR~p6OcgvwXtFad3NPF4LmYaw-01fWRJytBqmPGJNidvS03NWkdqEOkbGXuja2rUY7ShpBoQaXo2CMRrOlf730ehUc6vqEO5jagzXfr2EeUZF5Vy8USgAIGuJoGiWOXThoc6fFtFbbV45gzX9qhdg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i533/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/m_btaf186f4.jpeg?Expires=1796414955&Signature=cRczFFUCziaehufrJcGdVPxpv3DtQcuujLKQrAFQ42YA~NUVsZN7HKPwy~y4Hul21F-AXK-FQW7F0aqahagg7v-7lqA0Nt3aXFA2zILNc9d4r1vZWX96Ck1afQx3218idNeJftVDPppt3t4gcigEB2yDhgJDX8WzQ2uzTEhJzMkBpjFkSCGnNoc0roF~JIpgEc4xt8sC7fN~F2QWqgr5A1nUQ9h7KpxbOIpflnvb1ptc0pdJj-sRUvwiY3s54ya95KAhCoUtuOaWrrecwy7UljUw2Y9su-lheSRKa4yvX9P6ixiydz-st~TsXVsQZOdZToD56NUi0P8LBcmKmrY5dQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i533/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/m_btaf186f5.jpeg?Expires=1796414955&Signature=UHfxBCUD1DNJmBitZR5okhjLz~hq2qPx9JtoIubO7-E18KaH22Cb2D6JI2cbEN1kp70-aZJ1iRAczOgFP51XwOuOQgLztQTRQcWPFyhKzvaEKdLT8mNtRtlxnicWhfOZDbtB7w~JYcl~I03qVlA5CodJ1YliJNXKpcbmXDHSjpqopqDDkzy7TZktUuIfui1wnHhUOroFWXnrJd9Dqw~f9s5bxoyLRENs~-YoGiapxlklojMZ-ougWHUmym1mz7bHu2JfL~N7BQZ5Lz3ycDxztrApZwcIAu4-86f92I9W2~~ef1ijGe~gPlCK4Bwa9oH9GEk3Y26w8cPDjnYyd2uh6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i533/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf186/1/m_btaf186f6.jpeg?Expires=1796414955&Signature=lkTu5DdcSnnw2mhSA1W72cT6td3Ai8FthziaIGIi19KhdoYbOT-GD4ZbBgYAuSPmWlf9AYh8b6ybAg~3CId5s2lpIhC~HqzYwj7yy2M~quFsF36YKFSg6vQUpxZGI~p3JrUhXS~GgnhFZ8tMeyMzUHq6JOTC~JXdjuEhqvRvn8JaKMGhTnoJFEBrPXL5e1QjC0I79hGblpGW6wj0MLGh5jsJzaSBXdki63YVlDBMwhZt8cP7BDYK9YttjtuZedbtjsDypAybc2hg278T4h4P4H3gyEO2RA8VDmwBMZZIMIGa6Xpx7MAqmO3M-tD14~JomsN0F~LXxGkZ1t7uNVSo7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i533/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "paper_name": "Recomb-Mix: fast and accurate local ancestry inference",
+  "authors": [
+    "Wei, Yuan",
+    "Zhi, Degui",
+    "Zhang, Shaojie"
+  ],
+  "authors_detail": [
+    {
+      "name": "Yuan Wei",
+      "affiliations": [
+        "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Degui Zhi",
+      "affiliations": [
+        "McWilliams School of Biomedical Informatics, University of Texas Health Science Center at Houston, Houston, TX 77030, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shaojie Zhang",
+      "affiliations": [
+        "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": "https://orcid.org/0000-0002-4051-5549"
+    }
+  ],
+  "joint_first": [
+    "Yuan Wei"
+  ],
+  "joint_senior": [
+    "Shaojie Zhang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 3,
+    "R": 8,
+    "h_lead": 37,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 18,
+    "C": 51,
+    "I_open": 2,
+    "I_closed": 5
+  },
+  "lead_affiliations": [
+    "Department of Computer Science, University of Central Florida, Orlando, FL 32816, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Shaojie Zhang",
+      "openalex_id": "https://openalex.org/A5100768909",
+      "h_index": 37
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ucfcbb/Recomb-Mix",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf227",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i180/8199351",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i180/63745289/btaf227.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ucfcbb/Recomb-Mix"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf227/1/btaf227_supplementary_data.pdf?Expires=1796437586&Signature=WM~sEHPgo~SgztT7o0BtUneKRt6j7W7Jv6Su7FOqxPHBMaA8u8RV7x2PTJQ8mkv4rr9L6aqkJC~~2L~bI5~exQyr0kyzskl5lxwekmPKlp~5tF0qw7kGWNC7qVD0QsyYyPavyP7tYSMA8262jRsQM5ABDHJ~SfgBhVpMlcjucbY9Fo8VebsJfZVAnTr4OJZKT-GKficD0~0Rv1fkFij7fZzcdLB8nd~U-KsT4eksjjZHuh4cBTaXnTakM5OU3s9usAcbEZi8VcDfWXPkeqWBXCp4Ov-r0Yi4WRneH0rGTqVcYXW0PF-~34-grZqLfbYxAcWlzfSmV-uSpQ-wMQioDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i180/article.html",
+    "pdf": "files/i180/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf227/1/m_btaf227f1.jpeg?Expires=1796437586&Signature=xolXUDN1QABnM186bQyI-fcgvHgfVV3Yf5yiG0b~Jdg4SCEW13MgDlinZv0Akflcbg85W4RtLILcUSa7kfjDcpUOkQpYBGG4Mn9GmBDjdCU1R1lhSbjERW25X0TwCzQ5u6IbAMUg2r~JJ3AAqPXKBFZ5tU2LDogUYN8DYczMJBAltG019qWiOGkZdc-4P1ItkPqHC~98L6EitupdNcDIE6XvblPRbQIYqduWOIZjGhbSIy8QWDNgL3Mvol~DuQQ4wUl8CjyvfVRQz75GxMtsqMrcO~eTizaOZQFVXC3esajVWZMFhQ~W43OOjqNAVy3nLlqgg~rFRJLPmpzuWVN2ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf227/1/m_btaf227f2.jpeg?Expires=1796437586&Signature=CJQvznrzA5QHDNQiaVlLRfIxsro~f3qkWA1XHeEDdCRjHDPpKjQXLnQ7J~rOwWnurghiMghV4sMTWcM~JErw39f1mFdBbOIHM3G32hAwlEPLxMLSyenA3iR662QWGtYVYX54fWdauRWKzh3I411z1O-8iVHzO73qIbc3~HRC-LC2EVUtiVe24wnODOuYtVpFPe2il~6c36scaxcdA~clxLSUPNLSYYx~~NURIzm93x0eYMgCv2rvI~DViVMem505zjL3jbD4XMufPhvapgR0viLVG4x0PVbttIJMjm~kIG67fqC46aL8d1Egd~kzBMYpwfqYC541hCn6VJlnQGpWHw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf227/1/m_btaf227f3.jpeg?Expires=1796437586&Signature=MF9SkASPMxK2l2GKFzHe6WVF0VjJbREbx4rCbbuRKMscCfRCjbEFAiYurqBdKD9T-2XdKfTGxzoG~UWC6AOQi41giJb3nt0Qov4zShvar1gsqpk~7UCcw-HIFZrdMNQOc-NV2unqCurvyEAgPqSHOa2L-Dtelntttgf9RIxn7syPRgaq~kfZbFiWEJvWSgmziqgbKzOj9oLOOYBCwHK1A9ueR3nshVcsET8tAncfCop9NTOALLoLEzeQNPlaVzRfnJ9oK-twkIJtTGl6wWOv2VUx-w1Sm-Q8-7nwSp-QVreQThaRx4~LALFsrSPJNqM2u-CBXlZ~MtQ92SsRwuNYJw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf227/1/m_btaf227f4.jpeg?Expires=1796437586&Signature=IFWYdabyiO0stTbM8sqlc7h1PoR3z0EikrJWLtsQc7t6-IKr3b-XGhFaMBfqVLuG6HuemIkGrS08wqEgU9xU2Ay3gAxL0FtVM4-X9C5Q2ocrKtDEyDGI7MD~haIZzAW4Mi~JClq-QjSrgQ9qUX~gemm5lGS~0XQ39Bg~DS~aVKxBxKdhSAL2I1q9gcTEL9W6LFEnDA0-H21A4hLnVP~nAIdjuJTShcpLz1luDxtw5hvfZtAae6QmVJK6vdDzK0H5n1uDmiYq2T1d2zusdnM74IBMEDzx9GbBSuSuk5i~s8DKyo0~p7EDu73eKAbTQQDpeCa-ViwbBhpiw7k3Suo3-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf227/1/m_btaf227f5.jpeg?Expires=1796437586&Signature=jnc1RA-1VnxsNUcR0~Lsnv9Z-cu6NIjVM27GtcK5LzQnn2kADCD3cSZml2ZB7R74yM1SD8sKYY~065BPuE-Z8PioRhMFhtSt6R4hq~Vn-TKah3q1X1Bq~gteiAADQxyUbvABcWkDMGL3fVKFrdzCtG5HN~uBlhWhHX8p7RtPvX~0-QW3qycaPWSwKTWfAoTloBvsHvQ2Ba3gTRIwbRP31E-mpySHjV70aVNHzpcGsIh2n4A3Ar2Cw6iyKSupDS~OQ10GvNqV3GOjYJ2x1LZ9aoqiL5puKTWc1AqPklxjRhY-AunFQIft9a3OfWTD6t5BzJ4E2OHltcCF3tjSGhd7EQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i180/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

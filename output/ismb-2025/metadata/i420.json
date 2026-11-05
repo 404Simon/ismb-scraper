@@ -1,0 +1,138 @@
+{
+  "paper_name": "Harnessing deep learning for proteome-scale detection of amyloid signaling motifs",
+  "authors": [
+    "Pysz, Krzysztof",
+    "Gałązka, Jakub",
+    "Dyrka, Witold"
+  ],
+  "authors_detail": [
+    {
+      "name": "Krzysztof Pysz",
+      "affiliations": [
+        "Katedra Inżynierii Biomedycznej, Wydział Podstawowych Problemów Techniki, Politechnika Wrocławska, Wybrzeże Wyspiańskiego 27, 50-370 Wrocław, Poland"
+      ],
+      "country_hints": [
+        "Poland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jakub Gałązka",
+      "affiliations": [
+        "Katedra Inżynierii Biomedycznej, Wydział Podstawowych Problemów Techniki, Politechnika Wrocławska, Wybrzeże Wyspiańskiego 27, 50-370 Wrocław, Poland",
+        "Wydział Informatyki i Telekomunikacji, Politechnika Wrocławska, Wybrzeże Wyspiańskiego 27, 50-370 Wrocław, Poland"
+      ],
+      "country_hints": [
+        "Poland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Witold Dyrka",
+      "affiliations": [
+        "Katedra Inżynierii Biomedycznej, Wydział Podstawowych Problemów Techniki, Politechnika Wrocławska, Wybrzeże Wyspiańskiego 27, 50-370 Wrocław, Poland"
+      ],
+      "country_hints": [
+        "Poland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2683-077X"
+    }
+  ],
+  "joint_first": [
+    "Krzysztof Pysz",
+    "Jakub Gałązka"
+  ],
+  "joint_senior": [
+    "Witold Dyrka"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": 11,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Poland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 50,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Katedra Inżynierii Biomedycznej, Wydział Podstawowych Problemów Techniki, Politechnika Wrocławska, Wybrzeże Wyspiańskiego 27, 50-370 Wrocław, Poland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Witold Dyrka",
+      "openalex_id": "https://openalex.org/A5058156708",
+      "h_index": 11
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/wdyrka-pwr/ASMscan",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf200",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i420/8199397",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i420/63745632/btaf200.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/chrispysz/asmscan-proteinbert-run",
+      "https://github.com/jakub-galazka/asmscan-bilstm",
+      "https://github.com/chrispysz/asmscan-proteinbert",
+      "https://github.com/wdyrka-pwr/ASMscan"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": []
+  },
+  "files": {
+    "html": "files/i420/article.html",
+    "pdf": "files/i420/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf200/1/m_btaf200f1.jpeg?Expires=1796406693&Signature=ovl1SwxLjJgy6j5B3fNDq67KRt3K8OC9xdteUWgfzwbxga9FqtpWTa11Zs6en1GesgoFtKY4rBIdKTleyIM1af139LLwD4PViWliWHuuEEnWilmnCImPBUKrnAm9aXoJQhl-PmD7kJpC4stVoBsFBprIcq4orFEtW5t3TUI2i~mQkkxXDTgiy69t6IfcXPzi-Kerhlnj~g7qrNSGJg9sbbteMQkuEjbM~T7KQp58X~u6KEm6OlwE5uOxkH~d1ryjCdeTc3RJLYLyd-qPLXy9n~fV9UZHx~SjTGI5IoVo5d9IomB51mlaw7qFGRI601c0d8g4xBAfbljixIdPJZ~t6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i420/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf200/1/m_btaf200f2.jpeg?Expires=1796406693&Signature=fKlpPWAYNYrv4w3uMaZ1xdcpQM49lwcfvPwz2gKA6rLovo78NHKVWXhmEKr4ilsIHuhLSczCMnMypj1cdISgR7WCA8p8gNR91dQoYEvIKc6sO1UUHnLbeY-6uQGOus6urZjQQeeQdBUi60NmoJT-2zEesyb~F4EDLvqwCfsswXXQc8FNoU8jiaQm38DI7nZKN7Pyn21XhmDVgRj3fvJI9BTZ4pcrA89iCL4Jd4U01Ybq4m4IUBhf7roS1tNcObp6WlP6BZwEP-4HCErTjWfVeN5x3wpJwR7B~UdEi0TK1f~I6SzkREcGq5bBRXNYp-WWN6IK1oB8ol779jt9qs1q0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i420/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf200/1/m_btaf200f3.jpeg?Expires=1796406693&Signature=I0VNeUrc6jWdxrDmQ~ergyl~nekX55ukP~5XZcTguWMjV3ZOrND~3qF0Zs7Otl0h7t-l4q8zJvawtdE-SQxFbGHBla0Y0pkbFD6QVS10YvcPeAhUHeI9wSugLJyeAg8hhyjwusUucpidjI5W~71zjy5LMacI-r5JSqhASOmlUjljZXrSRBPSNnVt8e0oKqIlZz4kC3NdoeeYMfM~kqZpUEeCeZwloRg21WKQTv96QKtTUuFcR3OuYLR4W5AJUjxImsMu~7pnKCvVAEjHHudZBO2gwONtCU3SI-D1tk7lak7cJ0XbUX9VjXhDV~0cq1jB~PIIsg2BHOVta-cmdGEKcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i420/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf200/1/m_btaf200f4.jpeg?Expires=1796406693&Signature=M2EgkaQn49vEBrbOc2ApNkVm4Et3sQC5Rkzqqzz-nNrBQABhm28akoUNVzMnUEEFqNcpShRMHf8gQ-whVJ-FpnEm5zgJr~PGAqmXnLVgtuD4DUT0NN-NCkxwmuVq6ZgsRvdVEC4Z8uHY0usPJTcqd4euowTPeJ-jzR00eFihWzbgcQ-2yw0NePR-gqNVFdfUcAtmIsP84C-8eHumWloVuFmW6MAbo85rxA57ks5DXLxwhP7EbLVgTDqeo6kRree6j4MoZEQ4bhr7EH3jTGYFx1F5rzjdGt94kT5w18Xm0vQdGDtl8gBUVV3DAlm8SvTufeUgYuSyopDIt96ClXUDQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i420/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf200/1/m_btaf200f5.jpeg?Expires=1796406693&Signature=HsR5PLbfbmCVYDROFnJgtI4J8OJFtXlT-plJMXd~qhm4TknGEsS6cSevEZjr3N6mYkfLWAZFNXXYVQlMWWa7t~GyMztXDNJoI0mVpJThTLrbYeEu2FpyrPy4BxJ-cMNVvzsm08ZSnxFBFkTMrJ6HBQhctZjbtYcEHb5DggS1v1WfP~cs0Uzxb9Ife55Sl1y3d5UNtrqTV6REUBBkD3PSRCoKUF3TbLSgAR1oGQmaKhmjSeCeNFwL5yfzqWeGl6DiHijE4B3Xq~iIwEGFEwgVoTo9365jEnSHznwQmhlc0K5mW4AezKQ4awwjC88gmAay8gyoXBzlRA~ylGW9xkYkgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i420/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf200/1/m_btaf200f6.jpeg?Expires=1796406693&Signature=qvKSnRMd4nFHqH56YJIXoiIQR4ejDVVJL-CP~mCmYtICKcSoeHML0CxGmg48LxL-43IIovTSP3DcuwEoBF3qmLladKWzbgdUpesngJpen3oeApKB2dsQZSb56Tiv9Juj8bbmx5UhfbKAsVNUSOejD1eZLO5lJ2hhnesmTxFw8UR94dIUqk1i4UwZt0jbG6v-4PndjXpx5WdFBAl-7ufJdyPNg8WsC1vlHs5uHBpMi5c6ptKjM1HvAFWWhwj-CnSqsccen46P~lT-9GTIyGMcA8~VmHWG--7G1QQ7Ig-e0nNfAMXxAeBkc~y~S76CNLy9dPXXNOHC4Ih9nr8LlzDfzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i420/figures/figure-006.jpg"
+      }
+    ]
+  }
+}

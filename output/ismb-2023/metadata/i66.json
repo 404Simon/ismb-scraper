@@ -1,0 +1,115 @@
+{
+  "paper_name": "Coriolis: enabling metagenomic classification on lightweight mobile devices",
+  "authors": [
+    "Mikalsen, Andrew J",
+    "Zola, Jaroslaw"
+  ],
+  "authors_detail": [
+    {
+      "name": "Andrew J Mikalsen",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University at Buffalo, Buffalo, NY 14260, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jaroslaw Zola",
+      "affiliations": [
+        "Department of Computer Science and Engineering, University at Buffalo, Buffalo, NY 14260, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Andrew J Mikalsen"
+  ],
+  "joint_senior": [
+    "Jaroslaw Zola"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 11,
+    "h_lead": 17,
+    "Y": 2023,
+    "L_lead": 1,
+    "C_lead": [
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": null,
+    "C": null,
+    "I_open": null,
+    "I_closed": null
+  },
+  "lead_affiliations": [
+    "Department of Computer Science and Engineering, University at Buffalo, Buffalo, NY 14260, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Jaroslaw Zola",
+      "openalex_id": "https://openalex.org/A5000660681",
+      "h_index": 17
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": null,
+    "missing": [
+      "M",
+      "T",
+      "S",
+      "C",
+      "I_open",
+      "I_closed"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btad243",
+  "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i66/7210430",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/39/Supplement_1/i66/50741350/btad243.pdf",
+  "artifacts": {
+    "repositories": [],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "http://score-group.org/?id=smarten",
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad243/1/btad243_supplementary_data.pdf?Expires=1796417444&Signature=cHSUowAafSu1PtyhWX-h-R1V2N6DGySygLxU9mQ6U580rlh~T3z92Qw8a7-z1vWzve9f-PJc7f8OULYBSzIMiWnEh3buHpOqCufG4hcA1swMLCVd2Np5R4w8XMdghnr1hg~2c9RFmXlEycugnCLzu4SBvyiD-XcuEQZsXHMBs8niWJaaEIKuM0VA~7OYxhmvcsc~MJyyLkOS7Ld~qRUYYO58W7LrG1a500dFfKKxm9pjbBR2DE6MAI3xSBUKg9jUIM4Abb6nQdbjpOWSRJSIpKm7KR3wgavtkZU23jDyfFrpke3HHIJMdhWGdIpLij3OlA1iCWVPimKojyuCaqgFMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i66/article.html",
+    "pdf": "files/i66/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad243/1/m_btad243f1.jpeg?Expires=1796417444&Signature=RyXFFLZ7inuH7mOKQHFzFZI8OvipKeJrSbUOx~vAhemQ9fMxERV9~Bqr7nMMfIvXTgjkIgKqeDjFwI0JqWAPAnLGizRW9B17iYo9MxuFNmzgl5kYqzyMWjJUqs~CZShwAJirZ2~Lve79YIYan2RKU6ZP3daUQSFUce8fTOepMWEDYSKz41bzdMMMPakos5IN~JmEckX2UuY0E9m6usaFmcxbSq-vS6wLfszXlOeBv7coH7hroyO9XoFee6Cu~0SGvoYyno0npf8L6JZej9oSOUetd4MPKuSMd1cyQERvBHStQArLBL6w5oPf8OnpYp1t8pyeriBirG7rg4~jc4tD5g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i66/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad243/1/m_btad243f2.jpeg?Expires=1796417444&Signature=TLkKysSTrBZggUKvWAd0HbN6b1X6FbfnIYG81OzJirBs-ncR9YZCHNOGmSkjL-iY5MS~WfzC0UZ3R54UbUJ4AZHtWvq6HzpQ0rmeLw6li4eIZjPRqys5TeN1NKKbzdFJFfkv4uYfftT8HGrB9e9mePyqqjaZkA3lMU7q7rwFr4GQ6~qCKRdIY~653UYJ8Lthd~FqnLe1PzAsJf0dqgupkl9HrYUE9YU0YTckhru3BMBnLVKWbLo1cP5QaBJ~pF5THdVomE4RF66xWSVTmh-Sw3Y~70n-dQG2g5d~2SyhiKsQJiGlek6JfahuLuINRAa8739j5Xdgr9i1c3S5JljPkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i66/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/39/Supplement_1/10.1093_bioinformatics_btad243/1/m_btad243f3.jpeg?Expires=1796417444&Signature=4f4Y1rfSetYz61fIQkcn68dx9iBp1ls-LvOYs4jMc34MqWSd58FLU969j5mAl3or31~~ioA8L3GEHMZf6ryUwLnE1xW-Z9SAY~XxD6k4rd1AkugC6vfKFURvE7JSK3zHxkcidXB-GWLQkVwQGHOxp456RWIsS5M-JOIg~BSnj0lIfaYznVhM7D5CKj0jl7oxm9ROr4DkX087DWVTx-Qx3qwiD5qvrnPbfGujTnDUnUYQeSWv~IIssd2oDYHO-6~YV3kDSVrZ1rZqHQpR7cAtEIFKIFp~taZEUAMg45OrafMSbgkhN8ZDgH8Ub5lYutZqbcEhiPV~HlRnJwLZovCzFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i66/figures/figure-003.jpg"
+      }
+    ]
+  }
+}

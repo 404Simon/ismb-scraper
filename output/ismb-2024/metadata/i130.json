@@ -1,0 +1,135 @@
+{
+  "paper_name": "Transfer learning of condition-specific perturbation in gene interactions improves drug response prediction",
+  "authors": [
+    "Bang, Dongmin",
+    "Koo, Bonil",
+    "Kim, Sun"
+  ],
+  "authors_detail": [
+    {
+      "name": "Dongmin Bang",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-9217-8380"
+    },
+    {
+      "name": "Bonil Koo",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4357-1850"
+    },
+    {
+      "name": "Sun Kim",
+      "affiliations": [
+        "Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, 08826, Republic of Korea",
+        "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea",
+        "Department of Computer Science and Engineering, Seoul National University, Seoul, 08826, Republic of Korea",
+        "Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, 08826, Republic of Korea"
+      ],
+      "country_hints": [
+        "Republic of Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5385-9546"
+    }
+  ],
+  "joint_first": [
+    "Dongmin Bang",
+    "Bonil Koo"
+  ],
+  "joint_senior": [
+    "Sun Kim"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 17,
+    "h_lead": 36,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 11,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "AIGENDRUG Co., Ltd., Seoul, 08758, Republic of Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Sun Kim",
+      "openalex_id": "https://openalex.org/A5100460439",
+      "h_index": 36
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/eugenebang/CSG2A",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae249",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i130/7700850",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i130/58585787/btae249.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/eugenebang/CSG2A"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae249/2/btae249_supplementary_data.pdf?Expires=1796500340&Signature=fKf4b7IosFUHX8HbkmSMy8kbvjeQyZZwZxot7XP3flZMOhdcYQ4Ivsj3asJEA5oFNmROS03AeUVxzTF33gp2pUc0ouZb75erSIz9HBpjiQYzVbwWUO7vdLrosx7n76llMK46mzmKjNyrfBwaTCevw6J~GW0uIV-mknD5~T0bdxbG-VzK-w6psafp8KCMrvshTa6h7zlfKDifhqRJrDs43wpoYizvE8Q6k~BVrVCUDIOJ2WdxJnDqlBlF1RwEmbyoyu41IFLfRY1IgAFke4uRrYuCMOtnfIHsBOF9jJsQi5RjbLhAER45P-PS6X13dkGZWw-X34fnfSUGJeWkBzZR5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i130/article.html",
+    "pdf": "files/i130/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae249/2/m_btae249f1.jpeg?Expires=1796500340&Signature=xcYWfcVohH~x5ooHuhW7KTG1hIV9JAqnMgcUx8hyuvmZ3wVWKIrGC8rC7jVSEj-Siz5GVsK-clNsCG3V49hzFcxAaC16Y9-zht33LSygwfdLF1Tuv5F9sXPSvG6Qp47Al9x5nknwL30biTUMSvJnCyCXvi9qg-WqysrF~wxgTQas39GImueI4~IdNkXZxI35LVxXf4bExSjemSIsDEoq4kLZeZC9SjTMUFs~-sSFOx5V7IU~0DlmMQQmNyLk1xromOcm9GXIejOyr~JdJ0g9zfwai4thurwjfQ66-UP0KwkI8tUD5OZ42fNv9P3PISqhhYY38tHWIKBAC-qzmdJ~IA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i130/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae249/2/m_btae249f2.jpeg?Expires=1796500340&Signature=Ac2t1PHNUXyY4mD~notsIT0PB5uKFTak98MBm6MRLfGu7T3UO6sl9fT9dBx4QuT7FvUnYUcezU31ay7ATZCZIoZEtxGppoV89MRT5c89jbvNOLYcTqXbnlxTtLPmst45Epth78CDG~s62QNOYKk5oJ7qpCVVmQ2HEJQpLa-XqCgwO5g6N1ADSIBStZokWO8R8418dDeg6t0WvNFqz-XiwmxFvGy7AcUQonoUeiV66L0P-s-YPFLkOIh9w2DkrKEdsYcFFWmnAeLxezHNYS-7BtBvy3CbKGat5SgLj3HCC2pT72J9ImA1wbpTjqFd6q7Jjz7By8uYrJ2L4Hj7heym1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i130/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae249/2/m_btae249f3.jpeg?Expires=1796500340&Signature=YHbfJrrogDV8HQ6nLshZ0yynX0ohXFYCP-calv2oRvkudGCZCzeiWt6OpCytDbL4ybO3Rvc4NNJSdebWwj6pb-RPFXkETfJvqBMslbgEG9hnADFJwFF135QRUSu9WQR4H~Xu2AwhnwhZ3Dtx1zodrxqLT0GGKe53hZclnd6MPRnGnP2nfMy79GKZhJh84jxSXnZc1JhIOML8zCfyP1LVJ5QkAv5J-zPc~MohX1LV2Yn9AKn22YhIN3bFjz-OLdRZzcscmJ~yXYZ5-PA~29V1js~YidWyiopE6BKBdznCTSjqnk2VrOoAXLsAwYJ9ZPf9n5s2-k1bgIlYXj9APata9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i130/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae249/2/m_btae249f4.jpeg?Expires=1796500340&Signature=ZADExuDum-KuAh3grWe4a0dudYp-0WPviwIuz~CmolgpxmRfyfo8Nn51u8991bJw8GB~Rb-pGBTroC5eRhE3sfBX6EZ0lPTynMWDCnFxGyzZeXPo08D7pqyYq9S5RWQiqFLNDWn002BHDIMHwxMc4Fztb-BNwyfNwKaQLUkbKkiVTrxZvuHQrDhTVukZA88CTUxgJ1Ct2XeaU-jve8RB~nHs6o~2BUwjheeIfyiXtNqwewfPv5L9QWii07RHHaMUk8EJZoPashR0VJuHcx2oxnZD8fS7G2zfK56UNpWhTeAWY4bLjf~MY-BooJWqmqAE0x8Vlb284M6nnCvlSJs3ww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i130/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

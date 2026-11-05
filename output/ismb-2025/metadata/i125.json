@@ -1,0 +1,124 @@
+{
+  "paper_name": "TCR-epiDiff: solving dual challenges of TCR generation and binding prediction",
+  "authors": [
+    "Seo, Se Yeon",
+    "Rhee, Je-Keun"
+  ],
+  "authors_detail": [
+    {
+      "name": "Se Yeon Seo",
+      "affiliations": [
+        "Department of Bioinformatics & Life Science, Soongsil University, Seoul 06978, Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Je-Keun Rhee",
+      "affiliations": [
+        "Department of Bioinformatics & Life Science, Soongsil University, Seoul 06978, Korea"
+      ],
+      "country_hints": [
+        "Korea"
+      ],
+      "orcid": "https://orcid.org/0000-0003-4811-8895"
+    }
+  ],
+  "joint_first": [
+    "Se Yeon Seo"
+  ],
+  "joint_senior": [
+    "Je-Keun Rhee"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 7,
+    "h_lead": 21,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "South Korea"
+    ],
+    "M": null,
+    "T": null,
+    "S": 8,
+    "C": 131,
+    "I_open": 2,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Department of Bioinformatics & Life Science, Soongsil University, Seoul 06978, Korea"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Je-Keun Rhee",
+      "openalex_id": "https://openalex.org/A5012207088",
+      "h_index": 21
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/seoseyeon/TCR-epiDiff",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf202",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i125/8199382",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i125/63745521/btaf202.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/seoseyeon/TCR-epiDiff"
+    ],
+    "zenodo": [
+      "https://doi.org/10.5281/zenodo.15094766",
+      "https://doi.org/10.5281/zenodo.15094767"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://www.10xgenomics.com/cn/datasets/cd-8-plus-t-cells-of-healthy-donor-1-1-standard-3-0-2",
+      "https://www.10xgenomics.com/cn/datasets/cd-8-plus-t-cells-of-healthy-donor-2-1-standard-3-0-2"
+    ]
+  },
+  "files": {
+    "html": "files/i125/article.html",
+    "pdf": "files/i125/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf202/1/m_btaf202f1.jpeg?Expires=1796564574&Signature=42K~dkNvjeZvkHjAAcUVN2n7EEzc6slhXfiotZ-O0D8GIg3WWeukmIwBh7fSHmztTjYfEY7QHsOjdp68zEs3uwhE2mGjpd~EHrVEcc-DQh4xeSmQXy5R8nj12okAcZvUfxlw9NbTyT1nGjwtTsghlCV5TQZHLGRnbxqj-IviI11dNUuVt~UC7DELgd4HwhYakSQ~zKayMcXglm1ORVkd54ab404pdEKif9b10v3iYYUNZYWMO24UQYckpyRys1GooTuaGls9FVgEPv552LyVntgEMUn2Dm2jLhE8qhOWC9NXXLaY164fgzjkZmlq8vBK9c~KGC8mZcpPg1h2RGH9Lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf202/1/m_btaf202f2.jpeg?Expires=1796564574&Signature=dw~RqqngjrPzL-UQJTCIF6mO-2-yBDxjPaTuYDOMyCECzxpDUXpYxKMEbmnnozhnSXnMM0900txCNBOf3TDFsp2-vH~d2N0ilcZJlsMjMH1JBS0rh8GcL~JOT9ETESVqQmScsF0SZ0TEBIffsrHshCu7Kl8MSwvUL4S-hK3FheaOI-9Db7Lej2riJRpLdfaYmhtevsy4u4sxmQKv6lBFJX~4-qo5QAPYDDpEN9p0tbavKgXEEh69VOvFGhrlZTBZtgZpdxBpRcUf-9OLrk8Cp5pu4mtNbeLQN21Y4bNXy3Yub50ZFWyptG1FoZNFXaqd7WNjxH8Joozdvjg-3HTJXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf202/1/m_btaf202f3.jpeg?Expires=1796564574&Signature=C~6j3XhaNiy7lecvlacXjsqLLI4IYa9qeXAKJmT0BDe~v9NL~3qiAgpLr9VqNqlNh4f1EhOD76GpwnNcI1n3Yg3HTHb3Cz2cW~xImx~ZM~HLQq71gd-LS4GuReTXkT4pgGiEue54OI2bNK1QaUq8tzdVvo9SDrIj36kjmUeyapJhB~ZrNxnsMdnrF6HcgXP21GBiV-jiD2OOoiiQq5E-KHUJ-XueV925EYT4rcyn~PLM-1bJmBtN0AG6e989YK8qr7QlCYOZwleHxmQbckSz6XNh32AF8nicmlB5VebxAts5krYXuDoDUHRKHOmR3FEWRnf6oKPxS1Gq3QBIPMYt7Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf202/1/m_btaf202f4.jpeg?Expires=1796564574&Signature=FvPI22kTMy3Te~FeHzDWEUN1mmVjZVRyI6C6g0bLkDcUWzBLwL2tfWy-~Q9PeunGki0MhYiYEGrx7h97JcUAS-c732HKDs-Th8kmSNSuSEeVQtehZJTsax5CbNXLv6XmkpA4UQsyG08SnZwBXQ4CI3W4LCHI6AZQ7XmJ3CVk7yQJK93QamAjIJ2ssWghiQR2S-idWbuDWxfAJorpV8MtwBIN6L-lNriM7pRlHZ9H8NoODTna40awFHeyo8XBuSZaFgRwibZHBrEVHivD8qwVrlgJ-LQeCv87FCZsd~jYG5682YQBe6sLCFbY5u2M4PH4Ma5U2CSdp2muVxVKyXxtvQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf202/1/m_btaf202f5.jpeg?Expires=1796564574&Signature=qd9sN2YIEHHklYsOc2ZJN8bcI2cGDqKxoopun8Slng4VB5u709Mx0wQeaxFgNAkkw-8b2Nvux9XXHk8VLCrBAPXW-4p1itwr~VEiz8aRU7xgLHy0YJxERUtTZ778wpe5SUtt8KoFwP7BDjiUUHFDvf6H6xo3vf3d1ImQapVxskM9xS8PwnEa~JZb7ExVJgLBytxkQfAqf~1rUZ-cmo9pj~Z-DQ8mDZp6I60-UVnYsKs6G0eLSTVweKyRn9XIOm7aL5oecmRx7wBSlHI~nGSLqHJmFCJrjf8LPMBRnAD-bp9smF7dRNopzfDfrSfHJZAkaVgNheZjFLdVmBQ3u1RQXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i125/figures/figure-005.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "paper_name": "Probabilistic pathway-based multimodal factor analysis",
+  "authors": [
+    "Immer, Alexander",
+    "Stark, Stefan G",
+    "Jacob, Francis",
+    "Bonilla, Ximena",
+    "Thomas, Tinu",
+    "Kahles, André",
+    "Goetze, Sandra",
+    "Milani, Emanuela S",
+    "Wollscheid, Bernd",
+    "The Tumor Profiler Consortium",
+    "Aebersold, Rudolf",
+    "Ak, Melike",
+    "Al-Quaddoomi, Faisal S",
+    "Albert, Silvana I",
+    "Albinus, Jonas",
+    "Alborelli, Ilaria",
+    "Andani, Sonali",
+    "Attinger, Per-Olof",
+    "Bacac, Marina",
+    "Baumhoer, Daniel",
+    "Beck-Schimmer, Beatrice",
+    "Beerenwinkel, Niko",
+    "Beisel, Christian",
+    "Bernasconi, Lara",
+    "Bertolini, Anne",
+    "Bodenmiller, Bernd",
+    "Bosshard, Lars",
+    "Calgua, Byron",
+    "Casanova, Ruben",
+    "Chevrier, Stéphane",
+    "Chicherova, Natalia",
+    "Coelho, Ricardo",
+    "D'Costa, Maya",
+    "Danenberg, Esther",
+    "Davidson, Natalie R",
+    "Drăgan, Monica-Andreea",
+    "Dummer, Reinhard",
+    "Engler, Stefanie",
+    "Erkens, Martin",
+    "Eschbach, Katja",
+    "Esposito, Cinzia",
+    "Fedier, André",
+    "Ferreira, Pedro F",
+    "Ficek-Pascual, Joanna",
+    "Frei, Anja L",
+    "Frey, Bruno",
+    "Grob, Linda",
+    "Gut, Gabriele",
+    "Günther, Detlef",
+    "Haeuptle, Pirmin",
+    "Heinzelmann-Schwarz, Viola",
+    "Herter, Sylvia",
+    "Holtackers, Rene",
+    "Huesser, Tamara",
+    "Irmisch, Anja",
+    "Jacobs, Andrea",
+    "Jaeger, Tim M",
+    "Jahn, Katharina",
+    "James, Alva R",
+    "Jermann, Philip M",
+    "Kahraman, Abdullah",
+    "Koelzer, Viktor H",
+    "Kuebler, Werner",
+    "Kuipers, Jack",
+    "Kunze, Christian P",
+    "Kurzeder, Christian",
+    "Lehmann, Kjong-Van",
+    "Levesque, Mitchell",
+    "Lischetti, Ulrike",
+    "Lombardo, Flavio C",
+    "Lugert, Sebastian",
+    "Maass, Gerd",
+    "Manz, Markus G",
+    "Markolin, Philipp",
+    "Mehnert, Martin",
+    "Mena, Julien",
+    "Metzler, Julian M",
+    "Miglino, Nicola",
+    "Moch, Holger",
+    "Muenst, Simone",
+    "Murri, Riccardo",
+    "Ng, Charlotte K Y",
+    "Nicolet, Stefan",
+    "Nowak, Marta",
+    "Lopez, Monica Nunez",
+    "Pedrioli, Patrick G A",
+    "Pelkmans, Lucas",
+    "Piscuoglio, Salvatore",
+    "Prummer, Michael",
+    "Laurie, Prélot",
+    "Rimmer, Natalie",
+    "Ritter, Mathilde",
+    "Rommel, Christian",
+    "Rosano-González, María L",
+    "Rätsch, Gunnar",
+    "Santacroce, Natascha",
+    "del Castillo, Jacobo Sarabia",
+    "Schlenker, Ramona",
+    "Schwalie, Petra C",
+    "Schwan, Severin",
+    "Schär, Tobias",
+    "Senti, Gabriela",
+    "Shao, Wenguang",
+    "Singer, Franziska",
+    "Sivapatham, Sujana",
+    "Snijder, Berend",
+    "Sobottka, Bettina",
+    "Sreedharan, Vipin T",
+    "Stark, Stefan",
+    "Stekhoven, Daniel J",
+    "Tanna, Tanmay",
+    "Theocharides, Alexandre P A",
+    "Thomas, Tinu M",
+    "Tolnay, Markus",
+    "Tosevski, Vinko",
+    "Toussaint, Nora C",
+    "Tuncel, Mustafa A",
+    "Tusup, Marina",
+    "Van Drogen, Audrey",
+    "Vetter, Marcus",
+    "Vlajnic, Tatjana",
+    "Weber, Sandra",
+    "Weber, Walter P",
+    "Wegmann, Rebekka",
+    "Weller, Michael",
+    "Wendt, Fabian",
+    "Wey, Norbert",
+    "Wicki, Andreas",
+    "Wildschut, Mattheus H E",
+    "Yu, Shuqing",
+    "Ziegler, Johanna",
+    "Zimmermann, Marc",
+    "Zoche, Martin",
+    "Zuend, Gregor"
+  ],
+  "authors_detail": [
+    {
+      "name": "Alexander Immer",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Max Planck Institute for Intelligent Systems, 72076 Tübingen, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Stefan G Stark",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Francis Jacob",
+      "affiliations": [
+        "Ovarian Cancer Research, Department of Biomedicine, University Hospital Basel and University of Basel, 4031 Basel, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ximena Bonilla",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tinu Thomas",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "André Kahles",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0002-3411-0692"
+    },
+    {
+      "name": "Sandra Goetze",
+      "affiliations": [
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland",
+        "Institute of Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, 8093 Zurich, Switzerland",
+        "ETH PHRT Swiss Multi-Omics Center (SMOC), 8093 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Emanuela S Milani",
+      "affiliations": [
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland",
+        "Institute of Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, 8093 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bernd Wollscheid",
+      "affiliations": [
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland",
+        "Institute of Translational Medicine, Department of Health Sciences and Technology, ETH Zurich, 8093 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "The Tumor Profiler Consortium",
+      "affiliations": [],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Gunnar Rätsch",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Swiss Institute of Bioinformatics, 1015 Lausanne, Switzerland",
+        "AI Center at ETH Zurich, 8092 Zurich, Switzerland",
+        "Biomedical Informatics Research, University Hospital Zurich, 8006 Zurich, Switzerland",
+        "Department of Biology, ETH Zurich, 8049 Zurich, Switzerland"
+      ],
+      "country_hints": [
+        "Switzerland"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5486-8532"
+    },
+    {
+      "name": "Kjong-Van Lehmann",
+      "affiliations": [
+        "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland",
+        "Cancer Research Center Cologne Essen, University Hospital Cologne, 50937 Cologne, Germany",
+        "Joint Research Center for Computational Biomedicine, University Hospital RWTH Aachen, 52074 Aachen, Germany"
+      ],
+      "country_hints": [
+        "Switzerland",
+        "Germany"
+      ],
+      "orcid": "https://orcid.org/0000-0002-1936-298X"
+    }
+  ],
+  "joint_first": [
+    "Alexander Immer"
+  ],
+  "joint_senior": [
+    "Kjong-Van Lehmann"
+  ],
+  "has_group_author": true,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 12,
+    "R": 0,
+    "h_lead": 43,
+    "Y": 2024,
+    "L_lead": 1,
+    "C_lead": [
+      "Switzerland"
+    ],
+    "M": null,
+    "T": null,
+    "S": 2,
+    "C": 8,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Biomedical Informatics Group, Department of Computer Science, ETH Zurich, 8092 Zurich, Switzerland"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Kjong-Van Lehmann",
+      "openalex_id": "https://openalex.org/A5022555275",
+      "h_index": 43
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ratschlab/path-fa",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae216",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i189/7700877",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i189/58585794/btae216.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ratschlab/path-fa"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/btae216_supplementary_data.pdf?Expires=1796426024&Signature=bhqw77N9U91YjraYINV7NA3fXIgpX46Wv-nmdnsdQC7iXtbK9cu~cVfP8K09NpuDPxdS5zFmQVFDDLlM6uj4UhXeTjnlD0tB2KHa2kBdXIQA6ZRo1nOIqBqeu-DdsikmQFcU3ZsvBOOkNR50aYvoM8CokxS3YYvLdRrwuMLppQHIgIFFalxGXHgra-CQppEFGMIVxXYGMXyx~BA7qHv6~vk5WL8ox5O-gZqPjwxD3SLH1v41MH1FvpJ8tHYZP8FPTfGzpSHylamjrtiinDRI71B2Rwvo7Pw4G0tiDZdpjrNO6ge6wp~FaB7QKSGiu86YcChy9dQCuJdq4Qj4ImAgVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i189/article.html",
+    "pdf": "files/i189/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f1.jpeg?Expires=1796426024&Signature=De9D-IdKgIGnL24FyRzrWKnOWNsYY6YJ2imP~mjT22b9EQgqJggr4JXS7DZnITaJQRqVWjSyXz89dgrPboYnRI-j5g67QNmKBCFjBrmNbfAnaSSxe9pY-g3RNyMVBa7qni6LAQoxMs1yPmb6zzoYkHL7u5PzJoGuGQLaBWEDmYD2YwPZ06RBjgP~KXFjCn4hn96191V9EClXXPkp9pVE2LTLFshaED94Cy1gKzpM61eUj7PeMK18Wgf46ZoUVFQKJlRdFK3FjnSbpwOJbZFGjNZ6HTvsgMA~zqs-2zTZllQoYtM3a50w0xYb8DxFdgrGx2X8cmiV9IBFotTsEneJhw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f2.jpeg?Expires=1796426024&Signature=G4Njxg-OPeuhzQPiGbx-m0pe~CYYAoMirfUGjFUDJoe-xfWYMuRGkhHzZSxBnmleTd3n5kc8LdO9EYq7-iPN5YOwDPvvIVXDPkjYWR2wJGKs6LkEWuwrky4LgfzVwWV~BzZIVljSAJlkRMuoMGSbB9HTr-vc7wcvzaoKBMQdRhOaSNkKzBT2pnApk~CV5bxTrhk2PL~1Uz1TTt6ZX-M1x75JlI6oKcPP3fOk4afO8q-4UlOhNuvdm7YPQ7Y~7cadS5mT9xsbw6CZA4lQbns3nrZk57aRsr1XCTxXsRTHhEPL0oT5Q7Lp-BqPKEaomTOulB6GVOMIIoiDHBqpxaNJvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f3.jpeg?Expires=1796426024&Signature=ohzUe9I9p2v6XKsMEkdOlOPb~08GU0XM8PhK0Z~YhK8jzaj8poyXnYdtRuiPwxNiWoTy1ekOXdNZExoYAa3Bol~eq8mVRdR6BK6Tn5QQRLKduXnKmFWBXfBq0aeAD2Oaa4cwIUsspXSWbL8373n6wwfkr0qZg8adxhYj5R7vsz~T4uOuDbIGCE2wS8JsaQPWlVyjChj9aEmOlxw26jHhQnmrGtXrmY21Po~VGX9LaCJ194ys~RRTI2nFWW7wqzhQlxNquMldorswkC~jQUnfa~wFaxMU2F4wgxJNAhnjeo-xTLgNO-wxkqhecrK2nNU2aS9GnpH-vABmlTZMfJ4Svw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f4.jpeg?Expires=1796426024&Signature=iQ-cDfKsRjre3KJ8n871CuB896EZlZgPnY~QMJEtzpRyzC6nCCRSlmbaa~AswBU6Gqw9TcJpZQMt3uXD7xvf0DEmTt5t1G~XUImgJ8Sf4Xa4U5IiBf6cBxycGPlNLTErlgYaFPHWibvmqXk5V6pqdbcN6DRI233fxcGhcESeEkWSy1etsBqw1YOjT3O~fc7-yd93UNuRkN4lYTgVjWuY0FaPBZvPwUfvxgqkpgGbeqBkABCS3VWDDEmYCY2tbJFuqfV517Cb1-60SIO9MdEzRtBu2taCt0ZV9nViIFsD0QuMBusj~uWc9PvWov1MvotpUKVDd9XTQLG1gb8rTVKyQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f5.jpeg?Expires=1796426024&Signature=NW3Ofrze820VmvrqMRsiGHpnPLp-LfQH6slXuOvLnGyaD7Y4OGT8jNECyeQBSYqAAYJA1PTA4MJGbrDcmN6GA8dKM88dULQgxoagbprBmSbw6s93K4UNPw3qz5Rqkf0LPwvHe91nnYzh5tK0YnzyqX~ObAN-BRyDqugjJNvp1juidRh7D1IS7-tF1ZpCUkOI31g5Wi2WFbz8HSYGIucGBTNjTQttwT3mJMgvF9OKzs~QvJb3~LuoufNn2uLX7goZpXnK2AbcrmNMpJk9nZySrYgREi0xItOwEfSm3AllCxFeEuQKGUMuMqU0WhKZPDvX29dJX0gzKwK0xSJOfrt37Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f6.jpeg?Expires=1796426024&Signature=igMe0-vnVXoP2pG-GDTV22AlK8C3IjXGtaibpBPLa~Sz1~-L9vpsoO0Fy5VFQujyMUoJ40m5lcb7JgvbaCHN0~ROTh27wCgIY5B0Uued~nx3yjxD2z-CQl6kr3Hay~nBniMOu2KWBfwEuJhpJx2oLkZ-X8mZLAl9MQa8ixiNhtUCOZ1x-z~TCCzJgQckUvDj8mCYoy3LYvm23b2-QQ5OxOpE84xzYmfHmR7n8sCa5QbfIUZVXU95AxJkN1QYBrJEBSzF72DVFtkWQwB2AeXBwF-COjJ1~agECjfdkBk2wLydKkpDA4N0arNwzfvQC1xUWSxTjGZ6XPckklvXqJIRWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae216/2/m_btae216f7.jpeg?Expires=1796426024&Signature=J1-xZV6tciIHlm7S3INdl6gXHf-NYJakncBvVE1xvCTaa5f2Vn~X588~QSbAuhBA-KVwOanL3gU4~lyBaHs1UPQ7~2lqGIoC6ehgNwjKPko0ndT-gXb-q3F1dnkrseWEEeVeBs7~MNEloBIyCOFhxrySjlgJQFWjs-2FFf~ky3jdqYHk-XfEaQYH1abkfi8rRJy7qiOFqhtKqCOLNz80aSeuRDpG5S8tTmrp0Jos13WNYlRerOonBRMPe5JvWLH0h67gn9RdzeZqw9a-Vrv2NxA0pIwiu7qCO8DI4Qrf-GrOSBb82Rtj1IaELMFStSapvLQxDXOBuHTSZDqPUI95lA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i189/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

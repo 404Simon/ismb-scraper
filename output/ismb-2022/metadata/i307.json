@@ -1,0 +1,115 @@
+{
+  "paper_name": "MeConcord: a new metric to quantitatively characterize DNA methylation heterogeneity across reads and CpG sites",
+  "authors": [
+    "Zhang, Xianglin",
+    "Wang, Xiaowo"
+  ],
+  "authors_detail": [
+    {
+      "name": "Xianglin Zhang",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Bioinformatics Division, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing 100084, China"
+      ],
+      "country_hints": [],
+      "orcid": null
+    },
+    {
+      "name": "Xiaowo Wang",
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Bioinformatics Division, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing 100084, China"
+      ],
+      "country_hints": [],
+      "orcid": "https://orcid.org/0000-0003-2965-8036"
+    }
+  ],
+  "joint_first": [
+    "Xianglin Zhang"
+  ],
+  "joint_senior": [
+    "Xiaowo Wang"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 2,
+    "R": 4,
+    "h_lead": 30,
+    "Y": 2022,
+    "L_lead": 1,
+    "C_lead": [
+      "China"
+    ],
+    "M": null,
+    "T": null,
+    "S": 6,
+    "C": 35,
+    "I_open": 1,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Bioinformatics Division, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing 100084, China"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Xiaowo Wang",
+      "openalex_id": "https://openalex.org/A5008093795",
+      "h_index": 30
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/WangLabTHU/MeConcord",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btac248",
+  "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i307/6617534",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_1/i307/49887230/btac248.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/WangLabTHU/MeConcord"
+    ],
+    "zenodo": [],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48580",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE86340"
+    ],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac248/3/btac248_supplementary_data.pdf?Expires=1796460156&Signature=TYUgIO7px3GDD2QEhMDyWReFT55vV2tvd-ZvyUF2fljw6AbxuEXpRgtfn2yPJ8B4HgEv3G~9CZQf7Mp1UskFu1TAHuipJTTQiZMHHQIc4ukAyKMzXoBX9q3~xiq7QGykNPqi~0wYHOiwaIBSKPFCia6PsA~sOCHcZuNnFWEqRp0SF0S0G37EQSr217Tk7aU9M7dcPysVhMM4r13gf0XXm0s6TnV6vdD3NQwALonBA3mn7BYXWDZk3MN60V5zIn7w~4EFvJM0lFveUC3C4He9dFBYsc9ZCrTp105ijstnPOW4-bq0qY9CD9TOEF84m3bv0Ep6DS9UB6dlyb90a7JgMQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i307/article.html",
+    "pdf": "files/i307/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac248/3/m_btac248f1.jpeg?Expires=1796460156&Signature=G07-wJC392ovz3-GqqMJF5V-lufkffy5qQ-tjK8v4duwCVOUP5W1U4o4Rbse1bcAR5iIMP2DbKddAW6W0xbaJwjdnoNgCu7nCZCzWAkPeI4XgahtoiacX0HDrxXYlGtnaoRKskRON-mgFXdfUy4--NU9sBaqV7KTVKRzXt4~kV-K8ol2MyzMYkDgTUxZkxO9yxygvDWiI6mkBEWoYeT4Uy2J4jYRhqXfm7ZQRNiSA7zC6gPdeZ2pg~cBqxxkr20FwiFXK9PqnDBO0lNk52ml4Fbd5QgUVnAWWLJtMxtD1-Zkl0d-Ku3htkBoyJIM3MUE2Td~CzeyvAiVvT6jh9RGBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i307/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac248/3/m_btac248f2.jpeg?Expires=1796460156&Signature=DkSDWjPVVOAb~3dYj9iP62zfsWRNsIUDBp9zVH-4~JL3oqEyad13inuckSQ0ij0R7uKZ9C6kfrC-Puh8RaMCzf3EDxSM5eWPWb~Fw2TkmWXlMMKqqBBd-r0AL65TcU169Ia35G~ER~70temWzORgP~U1TGjiolNA5nbHkHWPM2N1SoKGkQLaotpPCq-wQlta4GgA-cieEoeg89jAUIC5E6wjTOnuG8eBUSqb~1EPiH0ZY37nB5JwXcP95Cyz7F8pVtaXbMv6utDpKc1e6Fn5NhKPnSowNS45dH4S~Ate1TEQ9PqK3Q5mR9YwfmxCzeh~YKipZYcRK~O1kmlXJtTRZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i307/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac248/3/m_btac248f3.jpeg?Expires=1796460156&Signature=LtrRehzfB0Syx3V63KqKBIw4v66GxgH~BgMAx-NVaXxaxWWJ2j7UKnd98tIqHiL9PFbxpS9I-t7jX6hYhM0zGARjwC2UZP8ofE2sRNlq4lEoIkx4vCet5BQQoTKRJkV46Xifbvf8kgF5MxHfxSTDjdcqljdDOf3pelfGHqKAOWzdaRrqPXO3lsIuSfdA3E0LasfHy9qPDibfqbdigUmL5tUwPK9VK00wMhBTjEaHlDM5hRMnyvVfOx7vdGyW2l4HiOSbyuStEq9CeBpsiR4EQfV2ovCEyuKKw0hSkxiAZgVF8KXWLDsqAkxYyskJBZEw5uj~Gu49Y8WXtXJWKvTqnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i307/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/Supplement_1/10.1093_bioinformatics_btac248/3/m_btac248f4.jpeg?Expires=1796460156&Signature=4FA8grGCHl6Xh0DmkaPyNazKCA4OBnGK3QbzffxTdSQ6lZv1kmToI9VpVnteqm-EyKBtc9EnKRqPuCotqH8gqHqi0wipnDL~67OBfAt9EpoFCYkAiJT3d1hVCxDF0y-331NraIZ6CURmfGPe4Ywsq3zwceUy-Q9itsUVaDsGdhYOrZaGfzLMqjKVoO01HN3VIHG~sqWQcYm~set24NaMkptR6u0F0-n32OSgd6rL1TrVPCS5QJSRIjfmBVLwK2BCjGARhEVM4g8MnQE-ieSMYgwHoJhT9Tl5l7puCVragqYhlqVdot4xsf6ID~vK7VXC7t5jwmQaWXks~vXhDiRoWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i307/figures/figure-004.jpg"
+      }
+    ]
+  }
+}

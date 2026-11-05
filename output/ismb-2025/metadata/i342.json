@@ -1,0 +1,153 @@
+{
+  "paper_name": "Accurate PROTAC-targeted degradation prediction with DegradeMaster",
+  "authors": [
+    "Liu, Jie",
+    "Roy, Michael J",
+    "Isbel, Luke",
+    "Li, Fuyi"
+  ],
+  "authors_detail": [
+    {
+      "name": "Jie Liu",
+      "affiliations": [
+        "South Australian Immunogenomics Cancer Institute (SAiGENCI), The University of Adelaide, Adelaide, South Australia 5005, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-2800-608X"
+    },
+    {
+      "name": "Michael J Roy",
+      "affiliations": [
+        "South Australian Immunogenomics Cancer Institute (SAiGENCI), The University of Adelaide, Adelaide, South Australia 5005, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0003-0198-9108"
+    },
+    {
+      "name": "Luke Isbel",
+      "affiliations": [
+        "South Australian Immunogenomics Cancer Institute (SAiGENCI), The University of Adelaide, Adelaide, South Australia 5005, Australia",
+        "Adelaide Centre for Epigenetics, The University of Adelaide, Adelaide, South Australia 5005, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0002-5270-4347"
+    },
+    {
+      "name": "Fuyi Li",
+      "affiliations": [
+        "South Australian Immunogenomics Cancer Institute (SAiGENCI), The University of Adelaide, Adelaide, South Australia 5005, Australia"
+      ],
+      "country_hints": [
+        "Australia"
+      ],
+      "orcid": "https://orcid.org/0000-0001-5216-3213"
+    }
+  ],
+  "joint_first": [
+    "Jie Liu"
+  ],
+  "joint_senior": [
+    "Fuyi Li"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 1,
+    "A_senior": 1,
+    "A_lead": 2,
+    "A_total": 4,
+    "R": 25,
+    "h_lead": 41,
+    "Y": 2025,
+    "L_lead": 1,
+    "C_lead": [
+      "Australia"
+    ],
+    "M": null,
+    "T": null,
+    "S": 4,
+    "C": 8,
+    "I_open": 2,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "South Australian Immunogenomics Cancer Institute (SAiGENCI), The University of Adelaide, Adelaide, South Australia 5005, Australia"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Fuyi Li",
+      "openalex_id": "https://openalex.org/A5063409460",
+      "h_index": 41
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/ABILiLab/DegradeMaster",
+    "missing": [
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btaf191",
+  "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i342/8199394",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i342/63745605/btaf191.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/ABILiLab/DegradeMaster"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/14715718"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/btaf191_supplementary_data.pdf?Expires=1796435651&Signature=EmxtT8Zn-~kMkcS9g4aipaEgyeace6v6lO~v0AHsGqySRuDO1YcLYGUknTNS91mJs~Qvi0g8d6byXNlqA6qde3H05H-BWlAu8oPCsHCVnF9YSpeG89Nn0poHyb~~q6t9wtau78~F1Xdn0kc~pZ4p6uE6qQ2CYZBRa82DdsP7JedoYNrJF~ZLlTU8cnJ1k1yF8n9~pHytFa-xiZfQwbm4C224Pc~GAB2D9rviJZaKfiR096-jEp4vFfMCIjeWpKbw-wKLReW8w47SsDYinTNAK6oTJf1vqkZ-0WQpnzwX57Jpw-A0bENR7B0E~Pv3cslDNB7EoHhgRkZQ6lX8mdj8Ww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i342/article.html",
+    "pdf": "files/i342/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f1.jpeg?Expires=1796435651&Signature=dw0nqjMJMiMIoS0MpJTfjM0q0oG0sbIxIMtQZnzWRRveRSvr~0chGkpt4KV-GbT4nScodX03dIsE0q775DHx7Vmn5KPLdfxzkgw9B2oeud3fow7SzGQ1BcJJSt7sOkyR~dhjtSGIXALMFVnLwSEfafv~LhDSxsRPtf1jyQfTOmv5fWBm9eiWKJIHqOOhp~P5eHM-5ZhhZUjhBltGohnv~mkj71l7p~23rhXfp~vC1aYKyiWUdbe~mfzERtIaVBEYsMr2W4PgMynOIICF4LU~bulsjMUZmN2Ayk2QWtGmZ5czIHr9spyI3M--pPDQyAI4Jiy5VyQsnrtN5TsyfvKOFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f2.jpeg?Expires=1796435651&Signature=ZoPQ3ozitbiaCOAZD48dzOlsE1y6FyE5C5SAkg2dH~lMuB7XBzpZNNg5xD3jzWVRCDK2qKndrz5ukc7-uupGxveRb9LVbqa-AOlw78ApKoMjX~HTq8Q92JQC4FHBvmEm4ZSiMXaAEH5PZLU-0~9WTCDCe2FOOONQCHvKSX8oPNUAca7Us~KtokZBLtYWVJIGHRh2iL9baPHOuWZZOjNTRoADCsoFZ~F3LTQxOrB-3O2sZuF09qjmNZyoJZjlg61jXD~BgYAsgBZuaoq~fuyEt8PCM4Wl4Wz~Ca4iZXoc4Lxk4-91afkwP~xq3tWyoWI47XTZijDO~F4qYJIVq6pRCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f3.jpeg?Expires=1796435651&Signature=wMvdiS82OUl0MkQTRoCj1ZWpa6c36-qSbkQu58w547Fm5EsyNrAVAxCUBCNc-BbQR~b08up7wyFVOoqe7UGEVQP98ti7LNCtjJ2Z~b8kPvg0FrFgsG2JPyu1dKy2dD~E0pFnGfUdBL64erwCS21O8ImgGqd7Pl~CnAQlBt4HLU2xvnswBERAZB6b5AOJxEec8oljxq4FAWkTEjSsjAKz5c9KbU4YglfmXfJQkCTGlIeYUTeaoqHskbhyP16liJouz8LSWX2Evj0YbY8DchVQ3xGZDQW58uTTaGeffzYIbKa7Ssj~lott-pd1xYLyt9QXnj4whlV0pAclderjDhMyWA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f4.jpeg?Expires=1796435651&Signature=MlyKOangcn50XOkn2tacySz1o0MvROCX3OmQjPJf0N8bdru0WTw1mbwd~OHsTOisjelfFr-ggUvJ-Li1LlPRdglxgOEsNP6csn01jIy9pe26x3k8B2z0tKBFid6M0NCdWy3RCUvhDnJYdX4Q~oVrAKs2PxxlABCToVgv04~seb0UTIfeQ3ASFJJJRFAFQjm4qWMJ0YFSIWDLFeDudh6OEwFjATSgUj03LoOkEUf1upiINW~kH-x2mKoV4Ex0iEynqi96BFvKuJUHgVAEmRytJ1UuJbEmmAMZVG~gNAgSCsTvOjC6Xd759JxLMuQwokRtoZU7GDLXc52ElgWlR-Eilw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-004.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f5.jpeg?Expires=1796435651&Signature=mZGunQnUX7wJcfAnM0bAnCqJv0UFlni8yR010S1y3vF8nILM5xM3kfYoQRVnMiqhPmw-uKm9~kGvPNqcr5xwqXZOpUzbQzE0e3Drc-~2K3Own6dali6kEk4BFy3E5e03nFQ0DoMs3jVOWViwgHXL03k8nkj6ABAGCZQl~scflSERUgCPYpwni4ymEwfSANnkNmFKhLcC7syfVUS3WnmPhY0QJx6Aeq4bUn3SR~8N35jGd-acbWu6wmkybUnsUBFL0i-~R8Of2R5ewwjDjzz1A2~tTTd7hGQIE7VJVFBithjTw3RCRWKfTwSwXIsEBfRGCAX92o-m2HFiS83ssm7SbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-005.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f6.jpeg?Expires=1796435651&Signature=GKGW9Ikm2XKhLlkuxjXkkX9d6-XG~EZmpxTQEgvq57f6skAvicQUM--8Z43bdLW0gLsrXjMVSAfaswiWPJzqZkWuW5OiDjSk7gD7ZpG5JoKZmBl1ApwY83yfKoD1TRreW6gX4jVzBOAjpOK8rdm9vElZiWTe1IXniwk7yfmnElN710d5gTfN0v4zJOrQczoD6r-5MwtS7cAsXUpDY3rvtonwQSmuSlHuHarIvscIvDsa~nhwA8YhHcKP8hK0amYeAnEV3dwGAJGB6SrncCxMq4svzh5Fvw0mok-oozpwWGssQzN4kWJK3leju5~v3rHDFGTky3mB~GHwF6ubzpUdpw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-006.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/41/Supplement_1/10.1093_bioinformatics_btaf191/1/m_btaf191f7.jpeg?Expires=1796435651&Signature=PzWCmgsLXFGnXMsx7UoNnhv5aZby-L1RdXTPUP5O4g7fi31YNgu6f9ScW3iQpPrq0suZJbjZqAGvVaBiwsB0aLznINy9UUs63UgNFr7XVwsD5hObBONzh3txmtA5lpBg8ELf8nzhJucEnMJ9eIj5BlyQcLErSGYDICT~FRYoj-GtK-Ze84bwXC8JsEu1zRprhjRPCrFdFrnrYXHaNllp4Xsd2pU6xJ0mhpnEl8ipindnajmlFcDdTwzC9On7wxVx04CXjh0SmuO8n~9w-16d4PZcBncapYWXQfgdmaGJLEQS0cTRBCB8QhlAIHFPZf3aYIVbInnSC2y5HeXagqx11g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i342/figures/figure-007.jpg"
+      }
+    ]
+  }
+}

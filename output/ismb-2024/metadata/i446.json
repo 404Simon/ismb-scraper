@@ -1,0 +1,135 @@
+{
+  "paper_name": "Optimal sequencing budget allocation for trajectory reconstruction of single cells",
+  "authors": [
+    "Moriel, Noa",
+    "Memet, Edvin",
+    "Nitzan, Mor"
+  ],
+  "authors_detail": [
+    {
+      "name": "Noa Moriel",
+      "affiliations": [
+        "School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem 9190401, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Edvin Memet",
+      "affiliations": [
+        "Department of Physics, Harvard University, Cambridge, MA 02138, United States"
+      ],
+      "country_hints": [
+        "United States"
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mor Nitzan",
+      "affiliations": [
+        "School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem 9190401, Israel",
+        "Racah Institute of Physics, The Hebrew University of Jerusalem, Jerusalem 9190401, Israel",
+        "Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel"
+      ],
+      "country_hints": [
+        "Israel"
+      ],
+      "orcid": null
+    }
+  ],
+  "joint_first": [
+    "Noa Moriel",
+    "Edvin Memet"
+  ],
+  "joint_senior": [
+    "Mor Nitzan"
+  ],
+  "has_group_author": false,
+  "metrics": {
+    "A_first": 2,
+    "A_senior": 1,
+    "A_lead": 3,
+    "A_total": 3,
+    "R": 0,
+    "h_lead": null,
+    "Y": 2024,
+    "L_lead": 2,
+    "C_lead": [
+      "Israel",
+      "United States"
+    ],
+    "M": null,
+    "T": null,
+    "S": 0,
+    "C": 105,
+    "I_open": 0,
+    "I_closed": 0
+  },
+  "lead_affiliations": [
+    "School of Computer Science and Engineering, The Hebrew University of Jerusalem, Jerusalem 9190401, Israel",
+    "Department of Physics, Harvard University, Cambridge, MA 02138, United States"
+  ],
+  "openalex_senior_authors": [
+    {
+      "name": "Mor Nitzan",
+      "openalex_id": "https://openalex.org/A5067199884",
+      "h_index": null
+    }
+  ],
+  "metrics_meta": {
+    "snapshot_date": "2026-11-05",
+    "github_repository": "https://github.com/nitzanlab/trajectory_reconstruction_tradeoff",
+    "missing": [
+      "h_lead",
+      "M",
+      "T"
+    ]
+  },
+  "doi": "10.1093/bioinformatics/btae258",
+  "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i446/7700887",
+  "link_to_pdf": "https://academic.oup.com/bioinformatics/article-pdf/40/Supplement_1/i446/58354983/btae258.pdf",
+  "artifacts": {
+    "repositories": [
+      "https://github.com/nitzanlab/trajectory_reconstruction_tradeoff"
+    ],
+    "zenodo": [
+      "https://zenodo.org/records/1443566"
+    ],
+    "figshare": [],
+    "dryad": [],
+    "osf": [],
+    "software_heritage": [],
+    "code_ocean": [],
+    "packages": [],
+    "datasets": [],
+    "models": [],
+    "containers": [],
+    "other": [
+      "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae258/1/btae258_supplementary_data.pdf?Expires=1796547263&Signature=CaxyiF6G8L4CbjhJS9z1Rhh4gAikjawYM4B5K7sfvL0RtZmDkYO5MtOKDUqDBH4FwRmXpyYQyCethidyw3Ux8GbxzW0sH8NFJxaI1xt6ARee7AHnRUzqqMXQ3yvUewJRWQpTeUU7aSnw0cRPZpP0DeaI6i76lzAxs9WW9vh0C841riTEMjmRlEvzRJTmcmtiY0eA1KmhPElkoXSZdc5pfB5rl0KIN4nv3pReooqT9BYoKfXDTkCMYsDh9coiZKvwQNVqi2F4fT08rtEpUhtkF-cae5FqJPWvU2a6wsXaXXlMXaqpgTDJ8xJWQ6fFwk9FZNUbAyXXzGIyDvBgrohrUQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    ]
+  },
+  "files": {
+    "html": "files/i446/article.html",
+    "pdf": "files/i446/paper.pdf",
+    "figures": [
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae258/1/m_btae258f1.jpeg?Expires=1796547263&Signature=nZUKX3RhVU8XRW24ZFbnV0Y4QoqJHK1kJq0uU3vAIuYhtLM2kI4imE4r1~7TI~E5AJCfT3kqWBu2qgaXB3EJ7X7nfPjp3f1~UwSwgweg9c~nudzlYnAPw0VBeddK~oDrpWEcSJwDM7E42u3r6Isqc3CTn9xHwmb3YIA7814nHDWicLLvxT7lUWIMei0B63u9zbTOIpICWsejjL05FnlvYTYdaly59Q4vImrS4pARrQE9PfFXR95tpaKx3~2qBdXgiW4nNJGpaGE3a-h~4uEOLzfn31b59uRrYlsuQh16fwVXm1Fkro0Ci3hsPfX3UuMCJeCwl3eogNFDvU7fYWJnKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i446/figures/figure-001.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae258/1/m_btae258f2.jpeg?Expires=1796547263&Signature=0-pEA7PA-jJu8j5neF8xCrV5XeHSJ4Q5r7FkMXGNGUBpS6Me2c8158tIIxjrOGum~Vt9YeAEBctk3JDa1MmLJW81LRJFwgqwUVtM1W5maI~LhpZXfIKdo-f-Jl8d~g8uaKbbrYok3dhjqrZtK8nOroqN46SvXnFkmpoazU3YEly9-bCd50fHcNyCbOPTDBxJ0sicEj9d9GIyeFllIwijrc9Q8SviP3oK3Y8d9V4y5xqjHZ7ZySWnYThAQUu2Nqnlc4JE5k~iTQ8WU62Q-KtBqGGbMnvZ7IHQR98zCVXwm0~GHED6UfwphMypK2D2kgFpzFRiAZxBzCCMNnvz~IT~AQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i446/figures/figure-002.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae258/1/m_btae258f3.jpeg?Expires=1796547263&Signature=CIvuhQvuQoeTOL41RebUXtRqO7zBrFlHPqQrQBQoywQ~2fBznPPNTL0bajtQLL2uYdu83A-SJwpDF0dvvajIUwNocR4PlKRHlMsRIhHxqy38j7rUSpTK0k33HOzEVIZskkGFnm-rTbtuDZuLBdut~wOi93vYvGsolApvoaZk2N5aCUpe1UjdD86hy9SsPh2CMPgoZdlWk6csTA4QseTzC7E9SxnL8bfXuasTfHgBHAH7m1s0r4rHDvexbMOh4sbl~5i1c4cmZHC-feH-G8HedXzI1HBS6FrjRZPTTxVrW1DmxKhM7IfgVqve-llTABayxPDthiKJmo3GNDy6qihJ6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i446/figures/figure-003.jpg"
+      },
+      {
+        "source_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae258/1/m_btae258f4.jpeg?Expires=1796547263&Signature=M9kDYrf5KWwLK7XcL31yqFQH8Hr46JCVPYUr8q7bEIlsiNgQ~zYsLzrbFlEhxrvUo15hzQl~Nfblhsq1lWrEnvg8SdwVyX~xfMm6LcirEyRvwsv9oPTF3uzj0LVsv5us91U0wFe5sLt~v-dSIoKDoMLdJJMh7yrB1rZ~OFq5AiU7YUZiVNrTFusPjpcV2z-dlBGlXx8OaDf69wQXKubpQTGPbmvzaivrgc4nZKNuB0sFX6gKIjYk~4KR-PYSPFA1gD9Qlafp2UkI3SCCyuLLTAYpw2nTPY6uWZ5AMjYtcCfBUJZXgwpXYA8zODMnoclNJmCo4n5Fi06uyGtEFMtw5Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+        "path": "files/i446/figures/figure-004.jpg"
+      }
+    ]
+  }
+}
