@@ -6,7 +6,24 @@ import csv
 import json
 from pathlib import Path
 
-from .methods import load_methods
+AGGREGATE_METADATA = {"papers.json", "errors.json"}
+
+
+def load_methods(source_root: Path) -> dict[str, bool]:
+    """Read ``M`` from the scraped per-paper metadata (written by ``bun run classify-m``)."""
+    methods: dict[str, bool] = {}
+    for metadata_path in sorted(source_root.glob("ismb-*/metadata/*.json")):
+        if metadata_path.name in AGGREGATE_METADATA:
+            continue
+        try:
+            record = json.loads(metadata_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        method = record.get("metrics", {}).get("M")
+        if isinstance(method, bool):
+            year = metadata_path.parents[1].name.removeprefix("ismb-")
+            methods[f"{year}/{metadata_path.stem}"] = method
+    return methods
 
 
 def write_paper_annotations(
@@ -34,7 +51,7 @@ def write_paper_annotations(
     if unlabeled:
         raise SystemExit(f"Unlabeled clusters for {name}: {', '.join(unlabeled)}")
 
-    methods = load_methods(results_dir / "methods.json")
+    methods = load_methods(input_dir.parent)
     annotations: dict[str, dict] = {}
     missing_methods: list[str] = []
 

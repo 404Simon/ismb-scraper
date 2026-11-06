@@ -113,7 +113,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 64,
@@ -134,7 +134,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/srtaheri/OptimalAdjustmentSet",
     "missing": [
-      "M",
       "T"
     ]
   },

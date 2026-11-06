@@ -27,7 +27,7 @@ All DOIs are `10.1093/bioinformatics/...`.
 
 ## Special handling
 
-- **Semantic `M`/`T`:** `null` for every paper because `results/semantic/papers.json` does not exist. They are listed in `metrics_meta.missing`.
+- **Semantic `M`/`T`:** `null` for every paper until annotated. Run `bun run classify-m` to fill `M`; `T` still comes from the embedding/cluster/label/export pipeline. Missing values are listed in `metrics_meta.missing`.
 - **OUP GitHub URL escaping:** underscores encoded as `/_` are normalized, e.g. `rna/_small/_parsimony` -> `rna_small_parsimony`.
 - **Missing primary repository:** if the top-ranked GitHub repo returns 404, the next candidate is tried. Backfilled this way: 2024 `btae229` -> `bmarchand/rna_small_parsimony`, 2023 `btad227` -> `fredericlemoine/reprohackathon_ismb2023`.
 - **OUP PDF 403:** PDFs were loaded through Chrome so OUP's redirect to the signed `watermark02.silverchair.com` URL could be followed. Fixed `btac236` (2022) and `btaf253` (2025).

@@ -172,7 +172,7 @@
       "United Kingdom",
       "United States"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 0,
     "C": 6,
@@ -206,7 +206,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ISCBWikiTeam/spanish",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -115,7 +115,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 2,
     "C": 192,
@@ -136,7 +136,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/NakhlehLab/Phylovar",
     "missing": [
-      "M",
       "T"
     ]
   },

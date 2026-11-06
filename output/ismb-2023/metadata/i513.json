@@ -68,7 +68,7 @@
       "Austria",
       "France"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 4,
     "C": 23,
@@ -90,7 +90,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/giang-trinh/trap-mvn",
     "missing": [
-      "M",
       "T"
     ]
   },

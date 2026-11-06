@@ -57,7 +57,7 @@
     "C_lead": [
       "Türkiye"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 7,
@@ -79,7 +79,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/begumbektas/makl",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -56,7 +56,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 8,
     "C": 4,
@@ -77,7 +77,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/luo-group/GraNA",
     "missing": [
-      "M",
       "T"
     ]
   },

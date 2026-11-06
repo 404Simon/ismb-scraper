@@ -74,7 +74,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 25,
     "C": 51,
@@ -95,7 +95,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ak422/DDAffinity",
     "missing": [
-      "M",
       "T"
     ]
   },

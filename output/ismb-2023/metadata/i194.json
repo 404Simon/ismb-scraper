@@ -67,7 +67,7 @@
     "C_lead": [
       "Netherlands"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 8,
     "C": 62,
@@ -88,7 +88,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/pephco/ASDEC",
     "missing": [
-      "M",
       "T"
     ]
   },

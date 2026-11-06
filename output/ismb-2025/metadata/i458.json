@@ -64,7 +64,7 @@
       "Germany",
       "Russia"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 2,
     "C": 31,
@@ -86,7 +86,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/i-Molecule/OrgNet",
     "missing": [
-      "M",
       "T"
     ]
   },

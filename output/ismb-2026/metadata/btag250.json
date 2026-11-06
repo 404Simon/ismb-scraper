@@ -155,7 +155,7 @@
     "C_lead": [
       "Malta"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 40,
     "C": 1391,
@@ -176,7 +176,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/BioGeMT/agentomics-ml",
     "missing": [
-      "M",
       "T"
     ]
   },

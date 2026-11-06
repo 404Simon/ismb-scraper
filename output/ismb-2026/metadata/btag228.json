@@ -67,7 +67,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 48,
@@ -88,7 +88,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/zpliulab/R4ST",
     "missing": [
-      "M",
       "T"
     ]
   },

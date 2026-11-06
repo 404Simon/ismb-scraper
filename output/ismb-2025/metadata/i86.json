@@ -68,7 +68,7 @@
       "China",
       "Singapore"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 3,
     "C": 11,
@@ -90,7 +90,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/gracygyx/HIGSyn",
     "missing": [
-      "M",
       "T"
     ]
   },

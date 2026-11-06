@@ -3,14 +3,14 @@
   "authors": [
     "Cokelaer, Thomas",
     "Cohen-Boulakia, Sarah",
-    "Lemoine, Fr\u00e9d\u00e9ric"
+    "Lemoine, Frédéric"
   ],
   "authors_detail": [
     {
       "name": "Thomas Cokelaer",
       "affiliations": [
-        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Plate-Forme Technologique Biomics, 75015 Paris, France",
-        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
+        "Institut Pasteur, Université Paris Cité, Plate-Forme Technologique Biomics, 75015 Paris, France",
+        "Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
       ],
       "country_hints": [
         "France"
@@ -20,7 +20,7 @@
     {
       "name": "Sarah Cohen-Boulakia",
       "affiliations": [
-        "Universit\u00e9 Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique, 91405 Orsay, France"
+        "Université Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Numérique, 91405 Orsay, France"
       ],
       "country_hints": [
         "France"
@@ -28,10 +28,10 @@
       "orcid": "https://orcid.org/0000-0002-7439-1441"
     },
     {
-      "name": "Fr\u00e9d\u00e9ric Lemoine",
+      "name": "Frédéric Lemoine",
       "affiliations": [
-        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France",
-        "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, G5 Evolutionary Genomics of RNA Viruses, 75015 Paris, France"
+        "Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France",
+        "Institut Pasteur, Université Paris Cité, G5 Evolutionary Genomics of RNA Viruses, 75015 Paris, France"
       ],
       "country_hints": [
         "France"
@@ -44,7 +44,7 @@
   ],
   "joint_senior": [
     "Sarah Cohen-Boulakia",
-    "Fr\u00e9d\u00e9ric Lemoine"
+    "Frédéric Lemoine"
   ],
   "has_group_author": false,
   "metrics": {
@@ -59,7 +59,7 @@
     "C_lead": [
       "France"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 1,
     "C": 14,
@@ -67,8 +67,8 @@
     "I_closed": 0
   },
   "lead_affiliations": [
-    "Universit\u00e9 Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique, 91405 Orsay, France",
-    "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
+    "Université Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Numérique, 91405 Orsay, France",
+    "Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
   ],
   "openalex_senior_authors": [
     {
@@ -77,7 +77,7 @@
       "h_index": 24
     },
     {
-      "name": "Fr\u00e9d\u00e9ric Lemoine",
+      "name": "Frédéric Lemoine",
       "openalex_id": null,
       "h_index": null
     }
@@ -87,7 +87,6 @@
     "github_repository": "https://github.com/fredericlemoine/reprohackathon_ismb2023",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

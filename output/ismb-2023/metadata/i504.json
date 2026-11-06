@@ -79,7 +79,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 8,
     "C": 54,
@@ -100,7 +100,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/MinxZ/Gemini",
     "missing": [
-      "M",
       "T"
     ]
   },

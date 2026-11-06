@@ -117,7 +117,7 @@
     "C_lead": [
       "Türkiye"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 9,
     "C": 140,
@@ -138,7 +138,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/cansyl/TransferLearning4DTI",
     "missing": [
-      "M",
       "T"
     ]
   },

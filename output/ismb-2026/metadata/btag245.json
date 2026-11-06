@@ -45,7 +45,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 11,
     "C": 239,
@@ -66,7 +66,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/jsdoublel/camus",
     "missing": [
-      "M",
       "T"
     ]
   },

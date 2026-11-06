@@ -60,7 +60,7 @@
       "Israel",
       "United States"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 0,
     "C": 105,
@@ -83,7 +83,6 @@
     "github_repository": "https://github.com/nitzanlab/trajectory_reconstruction_tradeoff",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

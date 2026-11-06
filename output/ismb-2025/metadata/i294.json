@@ -67,7 +67,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 9,
     "C": 14,
@@ -88,7 +88,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ai4nucleome/mutBERT",
     "missing": [
-      "M",
       "T"
     ]
   },

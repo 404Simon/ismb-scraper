@@ -114,7 +114,7 @@
     "C_lead": [
       "South Korea"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 6,
     "C": 8,
@@ -135,7 +135,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/dmis-lab/MolPLA",
     "missing": [
-      "M",
       "T"
     ]
   },

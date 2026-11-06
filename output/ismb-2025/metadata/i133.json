@@ -50,7 +50,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 6,
     "C": 48,
@@ -71,7 +71,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/bozdaglab/Top_DTI",
     "missing": [
-      "M",
       "T"
     ]
   },

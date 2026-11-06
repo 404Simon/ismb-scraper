@@ -71,7 +71,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 27,
     "C": 21,
@@ -92,7 +92,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/gersteinlab/MolLM",
     "missing": [
-      "M",
       "T"
     ]
   },

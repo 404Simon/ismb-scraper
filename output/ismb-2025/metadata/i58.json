@@ -57,7 +57,7 @@
       "Finland",
       "India"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 30,
@@ -79,7 +79,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/SantaAnkit/Efficient-3D-kernels-for-molecular-property-prediction",
     "missing": [
-      "M",
       "T"
     ]
   },

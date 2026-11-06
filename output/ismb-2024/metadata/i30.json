@@ -84,7 +84,7 @@
       "Canada",
       "Singapore"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 71,
     "C": 206,
@@ -111,7 +111,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/bluenote-1577/floria",
     "missing": [
-      "M",
       "T"
     ]
   },

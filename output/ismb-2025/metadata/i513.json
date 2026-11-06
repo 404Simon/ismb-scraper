@@ -32,7 +32,7 @@
       "name": "Wei Chen",
       "affiliations": [
         "Department of Biostatistics, University of Pittsburgh, Pittsburgh, PA, 15261, United States",
-        "Department of Pediatrics, UPMC Children\u2019s Hospital of Pittsburgh, Pittsburgh, PA, 15224, United States"
+        "Department of Pediatrics, UPMC Children’s Hospital of Pittsburgh, Pittsburgh, PA, 15224, United States"
       ],
       "country_hints": [
         "United States"
@@ -70,7 +70,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 9,
     "C": 18,
@@ -91,7 +91,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/poseidonchan/w1ot",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -144,7 +144,7 @@
       "China",
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 4,
@@ -168,7 +168,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/lihan97/ProMeta",
     "missing": [
-      "M",
       "T"
     ]
   },

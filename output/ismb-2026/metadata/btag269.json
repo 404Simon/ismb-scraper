@@ -100,7 +100,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 0,
     "C": 47,
@@ -121,7 +121,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/xinliangSun/scTAPE",
     "missing": [
-      "M",
       "T"
     ]
   },

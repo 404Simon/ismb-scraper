@@ -58,7 +58,7 @@
     "C_lead": [
       "Canada"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 114,
@@ -79,7 +79,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/li-lab-mcgill/miRformer",
     "missing": [
-      "M",
       "T"
     ]
   },

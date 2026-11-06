@@ -156,7 +156,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 2,
     "C": 18,
@@ -178,7 +178,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/ncbi-nlp/cGSA",
     "missing": [
-      "M",
       "T"
     ]
   },

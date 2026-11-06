@@ -45,7 +45,7 @@
     "C_lead": [
       "Israel"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 52,
@@ -67,7 +67,6 @@
     "github_repository": "https://github.com/burstein-lab/BioTokenizers",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

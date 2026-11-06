@@ -92,7 +92,7 @@
     "C_lead": [
       "Germany"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 10,
     "C": 9,
@@ -113,7 +113,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/daisybio/Tangram_Refinement_Strategies",
     "missing": [
-      "M",
       "T"
     ]
   },

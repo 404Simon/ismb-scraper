@@ -159,7 +159,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 9,
     "C": 20,
@@ -180,7 +180,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/CHNFTQ/Capricorn",
     "missing": [
-      "M",
       "T"
     ]
   },

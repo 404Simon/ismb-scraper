@@ -57,7 +57,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 5,
     "C": 1,
@@ -80,7 +80,6 @@
     "github_repository": "https://github.com/Hhhzj-7/DeepCoVDR",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

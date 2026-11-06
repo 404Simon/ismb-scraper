@@ -87,7 +87,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 148,
     "C": 57,
@@ -109,7 +109,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ai4protein/VenusREM",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -151,7 +151,7 @@
     "C_lead": [
       "Germany"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 5,
     "C": 514,
@@ -172,7 +172,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/cbg-ethz/metMHN",
     "missing": [
-      "M",
       "T"
     ]
   },

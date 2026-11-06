@@ -95,7 +95,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 22,
     "C": 46,
@@ -116,7 +116,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/dpeerlab/scKINETICS",
     "missing": [
-      "M",
       "T"
     ]
   },

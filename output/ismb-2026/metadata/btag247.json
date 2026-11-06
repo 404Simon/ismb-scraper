@@ -78,7 +78,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 6,
     "C": 19,
@@ -99,7 +99,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/PelenJiang/SIVA",
     "missing": [
-      "M",
       "T"
     ]
   },

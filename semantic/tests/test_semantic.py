@@ -24,11 +24,6 @@ from ismb_semantic.labeling import (
     run_labeling,
     write_indexes,
 )
-from ismb_semantic.methods import (
-    parse_method_text,
-    parse_opencode_method,
-    run_classification,
-)
 from ismb_semantic.papers import load_papers_jsonl
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -56,13 +51,6 @@ def _label_input(clusters: list[dict] | None = None) -> dict:
             {"id": 1, "size": 2, "titles": ["Single-cell analysis", "Spatial omics"]},
         ],
     }
-
-
-def _write_papers(input_dir: Path, papers: list[dict]) -> None:
-    input_dir.mkdir(parents=True, exist_ok=True)
-    (input_dir / "papers.jsonl").write_text(
-        "\n".join(json.dumps(paper) for paper in papers) + "\n", encoding="utf-8"
-    )
 
 
 def _write_run(input_dir: Path, data: dict) -> None:
@@ -403,84 +391,11 @@ class LabelingRunTest(unittest.TestCase):
             self.assertEqual(labels, {})
 
 
-class MethodParsingTest(unittest.TestCase):
-    def test_boolean_values(self):
-        self.assertIs(parse_method_text('{"M": true}'), True)
-        self.assertIs(parse_method_text('{"M": false}'), False)
-        self.assertIs(parse_method_text('{"m": "true"}'), True)
-
-    def test_noise_and_prose(self):
-        self.assertIs(parse_method_text('Result: {"M": true}'), True)
-        self.assertIs(parse_method_text('</think>\n```json\n{"M": false}\n```'), False)
-        self.assertIsNone(parse_method_text('{"M": "maybe"}'))
-        self.assertIsNone(parse_method_text("no json"))
-
-    def test_event_stream(self):
-        self.assertIs(parse_opencode_method(_event('{"M": true}')), True)
-
-
-class MethodClassificationTest(unittest.TestCase):
-    def _papers(self) -> list[dict]:
-        return [
-            {
-                "key": "2024/a",
-                "year": 2024,
-                "paper_id": "a",
-                "title": "A new method",
-                "doi": "10.1/a",
-                "text": "We introduce a new algorithm.",
-            },
-            {
-                "key": "2024/b",
-                "year": 2024,
-                "paper_id": "b",
-                "title": "A benchmark",
-                "doi": "10.1/b",
-                "text": "We compare existing methods.",
-            },
-        ]
-
-    def test_classifies_and_reuses_results(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            input_dir = Path(tmp) / "input"
-            results_dir = Path(tmp) / "results"
-            _write_papers(input_dir, self._papers())
-
-            with patch("ismb_semantic.methods.run_opencode") as run:
-                run.side_effect = [_event('{"M": true}'), _event('{"M": false}')]
-                self.assertEqual(run_classification(input_dir, results_dir, "m", "a", False, 10), 0)
-                self.assertEqual(run.call_count, 2)
-
-            with patch("ismb_semantic.methods.run_opencode") as run:
-                self.assertEqual(run_classification(input_dir, results_dir, "m", "a", False, 10), 0)
-                self.assertEqual(run.call_count, 0)
-
-            methods = json.loads((results_dir / "methods.json").read_text(encoding="utf-8"))
-            self.assertEqual(methods, {"2024/a": True, "2024/b": False})
-
-    def test_failure_is_retried_on_the_next_run(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            input_dir = Path(tmp) / "input"
-            results_dir = Path(tmp) / "results"
-            _write_papers(input_dir, self._papers())
-
-            with patch("ismb_semantic.methods.run_opencode") as run:
-                run.side_effect = [_event("no json"), _event('{"M": false}')]
-                self.assertEqual(run_classification(input_dir, results_dir, "m", "a", False, 10), 1)
-
-            with patch("ismb_semantic.methods.run_opencode") as run:
-                run.return_value = _event('{"M": true}')
-                self.assertEqual(run_classification(input_dir, results_dir, "m", "a", False, 10), 0)
-                self.assertEqual(run.call_count, 1)
-
-            methods = json.loads((results_dir / "methods.json").read_text(encoding="utf-8"))
-            self.assertEqual(methods, {"2024/a": True, "2024/b": False})
-
-
 class AnnotationExportTest(unittest.TestCase):
     def test_writes_per_doi_annotations(self):
         with tempfile.TemporaryDirectory() as tmp:
-            input_dir = Path(tmp) / "input"
+            output_dir = Path(tmp) / "output"
+            input_dir = output_dir / "semantic"
             results_dir = Path(tmp) / "results"
             run_dir = input_dir / "k-02"
             run_dir.mkdir(parents=True)
@@ -490,12 +405,15 @@ class AnnotationExportTest(unittest.TestCase):
                 "1,2024,b,Paper B,10.1/B\n",
                 encoding="utf-8",
             )
+            metadata_dir = output_dir / "ismb-2024" / "metadata"
+            metadata_dir.mkdir(parents=True)
+            for paper_id, method in (("a", True), ("b", False)):
+                (metadata_dir / f"{paper_id}.json").write_text(
+                    json.dumps({"metrics": {"M": method}}), encoding="utf-8"
+                )
             (results_dir / "labels").mkdir(parents=True)
             (results_dir / "labels" / "k-02.json").write_text(
                 json.dumps({"0": "Protein structure", "1": "Benchmarks"}), encoding="utf-8"
-            )
-            (results_dir / "methods.json").write_text(
-                json.dumps({"2024/a": True, "2024/b": False}), encoding="utf-8"
             )
 
             missing = write_paper_annotations(

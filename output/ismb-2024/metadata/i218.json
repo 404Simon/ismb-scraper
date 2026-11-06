@@ -67,7 +67,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 10,
     "C": 20,
@@ -88,7 +88,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/raphael-group/MERLIN",
     "missing": [
-      "M",
       "T"
     ]
   },

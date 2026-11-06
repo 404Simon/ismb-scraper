@@ -92,7 +92,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 26,
     "C": 1510,
@@ -113,7 +113,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/carpentries-incubator/ml4bio-workshop",
     "missing": [
-      "M",
       "T"
     ]
   },

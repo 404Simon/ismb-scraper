@@ -47,7 +47,7 @@
     "C_lead": [
       "Switzerland"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 9,
     "C": 92,
@@ -68,7 +68,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/cbg-ethz/oncotree2vec",
     "missing": [
-      "M",
       "T"
     ]
   },

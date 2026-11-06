@@ -146,7 +146,7 @@
       "Germany",
       "Norway"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": null,
     "C": null,
@@ -168,7 +168,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": null,
     "missing": [
-      "M",
       "T",
       "S",
       "C",

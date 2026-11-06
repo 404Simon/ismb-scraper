@@ -115,7 +115,7 @@
     "C_lead": [
       "United Kingdom"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 0,
     "C": 27,
@@ -137,7 +137,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/Bashford-Rogers-lab/vdjremix",
     "missing": [
-      "M",
       "T"
     ]
   },

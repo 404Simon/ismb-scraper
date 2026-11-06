@@ -8,6 +8,7 @@
   },
   "scripts": {
     "scrape": "bun ./src/cli.ts",
+    "classify-m": "bun ./src/classify-m.ts",
     "semantic": "uv run --project semantic ismb-semantic",
     "test": "bun test"
   },

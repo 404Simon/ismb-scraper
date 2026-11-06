@@ -32,7 +32,7 @@
     "C_lead": [
       "Italy"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 108,
     "C": 634,
@@ -48,7 +48,6 @@
     "github_repository": "https://github.com/jermp/sshash",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

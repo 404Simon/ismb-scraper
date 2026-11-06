@@ -67,7 +67,7 @@
     "C_lead": [
       "Türkiye"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 3,
     "C": 18,
@@ -88,7 +88,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/boun-tabi-lifelu/puffin",
     "missing": [
-      "M",
       "T"
     ]
   },

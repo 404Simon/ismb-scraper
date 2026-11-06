@@ -82,7 +82,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 8,
     "C": 17,
@@ -103,7 +103,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ak422/CATH-ddG",
     "missing": [
-      "M",
       "T"
     ]
   },

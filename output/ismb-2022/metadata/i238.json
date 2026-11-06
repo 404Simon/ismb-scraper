@@ -41,7 +41,7 @@
     "C_lead": [
       "Saudi Arabia"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 34,
     "C": 18,
@@ -62,7 +62,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/bio-ontology-research-group/deepgozero",
     "missing": [
-      "M",
       "T"
     ]
   },

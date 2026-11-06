@@ -16,7 +16,7 @@ One command archives each paper and extracts all metadata in the same run. There
 
   The scraper checks `gh auth status --hostname github.com` at startup and exits if it is not signed in. There is no token fallback.
 
-- For semantic labels: [uv](https://docs.astral.sh/uv/) and [OpenCode](https://opencode.ai/) with a configured model provider.
+- For `M`: [OpenCode](https://opencode.ai/) with a configured model provider. For topic labels: [uv](https://docs.astral.sh/uv/) as well.
 
 ## Usage
 
@@ -111,7 +111,21 @@ A metric that cannot be resolved is `null` and its name is listed (once) in `met
 
 ## Semantic labels
 
-Embeddings, Leiden clusters, and OpenCode-assigned category labels live in the `semantic/` Python subproject. Scraping stays one command; semantic work runs on the HPC or at annotation time. Semantic labeling needs `uv` and `opencode` (`opencode run`) locally.
+### Method classification (`M`)
+
+One command classifies every archived paper and writes `M` directly into the metadata:
+
+```bash
+bun run classify-m
+```
+
+It reads `output/ismb-*/files/<id>/article.html`, uses `.opencode/agents/semantic-classifier.md` and `semantic/prompts/classify_method.md`, and makes exactly one `opencode run` call per paper with `opencode-go/deepseek-v4.1-flash`. `M` is `true` for a paper whose main contribution is a new method, algorithm, model, or software approach, and `false` for evaluation-focused work. The command updates `metadata/<id>.json`, `metadata/papers.json`, `metadata/papers.csv`, and `metrics_meta.missing`.
+
+Papers that already have a boolean `M` are reused. Rerun the same command to retry failures; remove a paper's `M` value to reclassify it. No embeddings, clustering, or `results/semantic` export is involved.
+
+### Topics (`T`)
+
+Embeddings, Leiden clusters, and OpenCode-assigned topic labels for `T` live in the `semantic/` Python subproject. This part still needs `uv`, `opencode`, and the A100 embedding job.
 
 ```bash
 uv sync --project semantic
@@ -123,7 +137,6 @@ Embeddings run on one A100 through `hpc/embed.slurm`. The script only embeds and
 uv run --project semantic ismb-semantic embed --reuse
 uv run --project semantic ismb-semantic cluster --clusters 2-20
 uv run --project semantic ismb-semantic label --clusters 2-20
-uv run --project semantic ismb-semantic classify
 uv run --project semantic ismb-semantic export --k 12
 ```
 
@@ -131,7 +144,7 @@ Through Bun, the same commands are `bun run semantic -- cluster --clusters 2-20`
 
 `cluster` checks that `papers.jsonl` and `embedding_meta.json` describe the same papers before writing anything. It writes per-run artifacts under the ignored `output/semantic/k-XX/` and fails if it cannot find a partition with exactly the requested number of clusters; no directory is written for a wrong count. `label` makes exactly one headless `opencode run` call per unlabeled cluster through `.opencode/agents/semantic-labeler.md`, using `opencode-go/deepseek-v4.1-flash` via OpenCode Go. There is no automatic retry: a failed or duplicate label is recorded and the command exits non-zero, leaving other clusters labeled. Rerun the same command to retry only the missing clusters. Labels are reused only when `labels/k-XX.meta.json` matches the hashes of the current cluster data, model, agent file (`.opencode/agents/<agent>.md`), and prompt; otherwise stale labels are ignored with a warning and relabeled. Add `--force` to relabel everything. Outputs are `results/semantic/labels/k-XX.json`, `results/semantic/categories/k-XX.csv`, `results/semantic/categories.csv` (`k,category,year,paper_id,title,doi`), and `results/semantic/summary.csv`.
 
-`classify` labels every paper with `M` (true for a new method, algorithm, or model; false for evaluation-focused work). `export --k` joins `M` with the cluster labels for that `k` and writes `results/semantic/papers.json` as `doi -> {M, T}`. The scraper reads that file by default and attaches `M` and `T` to each record by DOI. All semantic LLM calls use `opencode-go/deepseek-v4.1-flash`; there is no model override.
+`export --k` joins `M` (read from `output/ismb-*/metadata/*.json`) with the cluster labels for that `k` and writes `results/semantic/papers.json` as `doi -> {M, T}`. The scraper reads that file by default and attaches `M` and `T` to each record by DOI. All semantic LLM calls use `opencode-go/deepseek-v4.1-flash`; there is no model override.
 
 Run the Python tests with `uv run --project semantic python -m unittest discover -s semantic/tests`.
 
@@ -163,7 +176,7 @@ Deliberate exclusions and known quirks for the archived ISMB 2022-2026 corpus ar
 - `Y` is parsed from the article's `citation_publication_date`/`citation_date` metadata, with JSON-LD `datePublished` as a fallback. If no date is present, `Y` is `null` and listed in `metrics_meta.missing`.
 - `L_lead` is the size of an exact minimum hitting set over the affiliation sets of the joint first and joint senior authors. The selected affiliations are stored in `lead_affiliations`. Lead authors with no extracted affiliation are ignored; if no lead author has an affiliation, `L_lead` and `lead_affiliations` are `null` and `L_lead` is listed in `metrics_meta.missing`.
 - `C_lead` is the sorted set of countries parsed from the affiliations in the `L_lead` hitting set. If any selected affiliation has no parseable country, `C_lead` is `null` and listed in `metrics_meta.missing`.
-- `M` and `T` are optional semantic annotations loaded from `--semantic`. `M` is true for a new method/algorithm/model and false for evaluation-focused work. `T` is the cluster label at the `k` selected during export. Missing annotations are `null` and listed in `metrics_meta.missing`.
+- `M` is normally written directly into the metadata by `bun run classify-m`: true for a new method/algorithm/model and false for evaluation-focused work. `M` and `T` can also be loaded from `--semantic` during a scrape; `T` is the cluster label at the `k` selected during export. Missing annotations are `null` and listed in `metrics_meta.missing`.
 - `R` and `h_lead` come from OpenAlex. `h_lead` is the mean OpenAlex h-index over the joint senior authors. `openalex_senior_authors` stores each resolved author's name, OpenAlex author id, and h-index; unresolved ids or unavailable h-indexes are `null`.
 - An equal-contribution note that names authors is assigned by position: a matching prefix becomes joint first authors, a matching suffix joint senior authors. An unnamed note (for example `Equal contribution.`) is not guessed; the default single first/senior author is kept.
 - `S`, `C`, `I_open`, and `I_closed` come from one primary `github.com` repository in the paper's artifacts, through `gh api`. The primary repository is chosen by preferring links in code/implementation availability sections, then a repository whose name matches the article title, then the first repository in article order. If that repository has been deleted (404), the next-ranked candidate is tried. Oxford Academic's escaped underscores in links (`owner/rna/_small/_parsimony`) are normalized to `owner/rna_small_parsimony`. `C` is the number of commits on the default branch. Renamed repositories are canonicalized from `repos/<owner>/<repo>` before the issue searches. Pull requests are excluded from the issue counts. Search calls are serialized with a 2.1 s gap and retried on rate limits, because `search/issues` allows 30 requests/minute. If no repository is found, or a `gh` call still fails after retries, the metric is `null` and listed in `metrics_meta.missing`; the paper is still archived.

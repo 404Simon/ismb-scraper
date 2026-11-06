@@ -68,7 +68,7 @@
     "C_lead": [
       "Australia"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 4,
     "C": 8,
@@ -89,7 +89,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ABILiLab/DegradeMaster",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -64,7 +64,7 @@
       "Türkiye",
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 3,
     "C": 17,
@@ -86,7 +86,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ciceklab/LYCEUM",
     "missing": [
-      "M",
       "T"
     ]
   },

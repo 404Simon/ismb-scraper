@@ -58,7 +58,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 38,
     "C": 157,
@@ -79,7 +79,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/AI-sandbox/ADAMIXTURE",
     "missing": [
-      "M",
       "T"
     ]
   },

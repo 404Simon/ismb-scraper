@@ -83,7 +83,7 @@
     "C_lead": [
       "South Korea"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 14,
@@ -104,7 +104,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/jaeminjj/PU-GRAIL",
     "missing": [
-      "M",
       "T"
     ]
   },

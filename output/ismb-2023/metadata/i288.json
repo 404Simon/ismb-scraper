@@ -78,7 +78,7 @@
     "C_lead": [
       "Canada"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 5,
     "C": 323,
@@ -99,7 +99,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/cchauve/PlasBin-flow",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -111,7 +111,7 @@
     {
       "name": "Yesid Cuesta Astroz",
       "affiliations": [
-        "Colombian Institute of Tropical Medicine, CES University, Medell\u00edn, Colombia"
+        "Colombian Institute of Tropical Medicine, CES University, Medellín, Colombia"
       ],
       "country_hints": [
         "Colombia"
@@ -131,7 +131,7 @@
     {
       "name": "Pradeep Eranti",
       "affiliations": [
-        "UMRS-1124, INSERM, Universit\u00e9 de Paris, Paris, France"
+        "UMRS-1124, INSERM, Université de Paris, Paris, France"
       ],
       "country_hints": [
         "France"
@@ -182,7 +182,7 @@
     {
       "name": "Tiago Lubiana",
       "affiliations": [
-        "School of Pharmaceutical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+        "School of Pharmaceutical Sciences, University of São Paulo, São Paulo, Brazil",
         "Ronin Institute, Montclair, NJ, USA"
       ],
       "country_hints": [
@@ -311,7 +311,7 @@
       "United Kingdom",
       "United States"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": null,
     "C": null,
@@ -334,7 +334,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": null,
     "missing": [
-      "M",
       "T",
       "S",
       "C",

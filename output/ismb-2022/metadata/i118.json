@@ -103,7 +103,7 @@
     "C_lead": [
       "Israel"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 2,
     "C": 257,
@@ -124,7 +124,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/noaeker/lasso_positions_sampling",
     "missing": [
-      "M",
       "T"
     ]
   },

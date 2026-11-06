@@ -4,7 +4,7 @@
     "Marchand, Bertrand",
     "Anselmetti, Yoann",
     "Lafond, Manuel",
-    "Ouangraoua, A\u00efda"
+    "Ouangraoua, Aïda"
   ],
   "authors_detail": [
     {
@@ -38,7 +38,7 @@
       "orcid": null
     },
     {
-      "name": "A\u00efda Ouangraoua",
+      "name": "Aïda Ouangraoua",
       "affiliations": [
         "Department of Computer Science, University of Sherbrooke, Sherbrooke, QC J1K 2R1, Canada"
       ],
@@ -52,7 +52,7 @@
     "Bertrand Marchand"
   ],
   "joint_senior": [
-    "A\u00efda Ouangraoua"
+    "Aïda Ouangraoua"
   ],
   "has_group_author": false,
   "metrics": {
@@ -67,7 +67,7 @@
     "C_lead": [
       "Canada"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 1,
     "C": 38,
@@ -79,7 +79,7 @@
   ],
   "openalex_senior_authors": [
     {
-      "name": "A\u00efda Ouangraoua",
+      "name": "Aïda Ouangraoua",
       "openalex_id": "https://openalex.org/A5004463624",
       "h_index": 15
     }
@@ -88,7 +88,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/bmarchand/rna_small_parsimony",
     "missing": [
-      "M",
       "T"
     ]
   },

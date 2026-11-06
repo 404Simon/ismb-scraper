@@ -78,7 +78,7 @@
     "C_lead": [
       "Australia"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 3,
     "C": 129,
@@ -99,7 +99,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/santule/indelmip",
     "missing": [
-      "M",
       "T"
     ]
   },

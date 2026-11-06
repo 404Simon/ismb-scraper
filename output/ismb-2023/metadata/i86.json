@@ -92,7 +92,7 @@
     "C_lead": [
       "Germany"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 2,
     "C": 12,
@@ -114,7 +114,6 @@
     "github_repository": "https://github.com/msmdev/PlasmoFAB",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

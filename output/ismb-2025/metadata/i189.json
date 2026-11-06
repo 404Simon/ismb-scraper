@@ -48,7 +48,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 15,
     "C": 65,
@@ -69,7 +69,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/daifengwanglab/ARTEMIS",
     "missing": [
-      "M",
       "T"
     ]
   },

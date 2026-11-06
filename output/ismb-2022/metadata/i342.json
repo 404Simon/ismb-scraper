@@ -32,7 +32,7 @@
     "C_lead": [
       "Germany"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": null,
     "C": null,
@@ -48,7 +48,6 @@
     "github_repository": null,
     "missing": [
       "h_lead",
-      "M",
       "T",
       "S",
       "C",

@@ -68,7 +68,7 @@
     "C_lead": [
       "France"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 47,
     "C": 263,
@@ -94,7 +94,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/imartayan/CBL",
     "missing": [
-      "M",
       "T"
     ]
   },

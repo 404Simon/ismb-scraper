@@ -56,7 +56,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 127,
     "C": 458,
@@ -78,7 +78,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/COMBINE-lab/oarfish",
     "missing": [
-      "M",
       "T"
     ]
   },

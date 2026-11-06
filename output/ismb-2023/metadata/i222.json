@@ -45,7 +45,7 @@
     "C_lead": [
       "Sweden"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 48,
     "C": 422,
@@ -66,7 +66,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/aljpetri/isONform",
     "missing": [
-      "M",
       "T"
     ]
   },

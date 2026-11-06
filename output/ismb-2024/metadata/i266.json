@@ -93,7 +93,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 59,
     "C": 42,
@@ -114,7 +114,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/gersteinlab/BioCoder",
     "missing": [
-      "M",
       "T"
     ]
   },

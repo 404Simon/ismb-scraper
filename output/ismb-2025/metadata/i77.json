@@ -57,7 +57,7 @@
     "C_lead": [
       "South Korea"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 0,
     "C": 24,
@@ -79,7 +79,6 @@
     "github_repository": "https://github.com/knhc1234/FACT",
     "missing": [
       "h_lead",
-      "M",
       "T"
     ]
   },

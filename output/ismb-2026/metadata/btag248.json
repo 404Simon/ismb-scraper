@@ -80,7 +80,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 0,
     "C": 25,
@@ -101,7 +101,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/WangLabTHU/biomolecule-al-decipher",
     "missing": [
-      "M",
       "T"
     ]
   },

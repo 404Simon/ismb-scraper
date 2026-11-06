@@ -180,7 +180,7 @@
         "United Kingdom",
         "United States"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": null,
       "C": null,
@@ -213,7 +213,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -358,7 +357,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 51,
@@ -380,7 +379,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/YangSH-ac/PhageMind",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -517,7 +515,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 30,
@@ -538,7 +536,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/az002/RAmpSim",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -632,7 +629,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 22,
@@ -653,7 +650,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/dyxstat/VirBinn",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -860,7 +856,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 18,
@@ -882,7 +878,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ncbi-nlp/cGSA",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -997,7 +992,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 37,
@@ -1018,7 +1013,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/spcho-dev/EPIC",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1169,7 +1163,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 3,
@@ -1191,7 +1185,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/sslim-aidrug/DiSPA",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1346,7 +1339,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 47,
@@ -1367,7 +1360,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/xinliangSun/scTAPE",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1507,7 +1499,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 1,
@@ -1528,7 +1520,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/NNeuralDynamics/eGOT",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1645,7 +1636,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 38,
@@ -1666,7 +1657,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/yctao7/AutoPCR",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1794,7 +1784,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 4,
@@ -1815,7 +1805,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/wnsgk/AC-Active",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1958,7 +1947,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 83,
@@ -1979,7 +1968,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Ewha-AI/MOCDT",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2189,7 +2177,7 @@
       "C_lead": [
         "Malta"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 40,
       "C": 1391,
@@ -2210,7 +2198,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/BioGeMT/agentomics-ml",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2346,7 +2333,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 8,
@@ -2367,7 +2354,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/stardj/KLaR",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2458,7 +2444,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 2,
@@ -2479,7 +2465,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2609,7 +2594,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 37,
@@ -2631,7 +2616,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/datax-lab/FairHICON",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2728,7 +2712,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 11,
       "C": 239,
@@ -2749,7 +2733,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/jsdoublel/camus",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2871,7 +2854,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 52,
@@ -2892,7 +2875,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/bo1929/phlag",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3010,7 +2992,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 38,
       "C": 157,
@@ -3031,7 +3013,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/AI-sandbox/ADAMIXTURE",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3143,7 +3124,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 6,
@@ -3164,7 +3145,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/mgtools/D2T",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3279,7 +3259,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 172,
@@ -3300,7 +3280,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/raphael-group/LAML-Pro",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3475,7 +3454,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 13,
       "C": 12,
@@ -3496,7 +3475,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/EperLuo/BaisBench",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3649,7 +3627,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 8,
@@ -3670,7 +3648,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/gersteinlab/NoisyFlow",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3802,7 +3779,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 0,
       "C": 25,
@@ -3823,7 +3800,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/WangLabTHU/biomolecule-al-decipher",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3925,7 +3901,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 2,
       "C": 41,
@@ -3947,7 +3923,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Lazarus42/seed_chainer_indels",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4079,7 +4054,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 7,
@@ -4101,7 +4076,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/datax-lab/PIMO",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4289,7 +4263,7 @@
         "China",
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 4,
@@ -4313,7 +4287,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/lihan97/ProMeta",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4413,7 +4386,7 @@
       "C_lead": [
         "Israel"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 7,
       "C": 33,
@@ -4434,7 +4407,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/OrensteinLab/CROP",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4598,7 +4570,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 55,
@@ -4619,7 +4591,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/AmpliconSuite/BFBArchitect",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4713,7 +4684,7 @@
         "Italy",
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 108,
       "C": 634,
@@ -4735,7 +4706,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/jermp/sshash",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4883,7 +4853,7 @@
       "C_lead": [
         "Finland"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 17,
       "C": 149,
@@ -4904,7 +4874,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/algbio/BubbleFinder",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5014,7 +4983,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 3,
       "C": 20,
@@ -5035,7 +5004,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/medvedevgroup/Accurate_repeat-aware_kmer_based_estimator",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5172,7 +5140,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 26,
       "C": 152,
@@ -5193,7 +5161,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/treangenlab/Seqwin",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5356,7 +5323,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 10,
       "C": 258,
@@ -5377,7 +5344,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ucfcbb/TeraTools",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5477,7 +5443,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 93,
@@ -5498,7 +5464,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/vibansal-lab/edgecopy",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5598,7 +5563,7 @@
       "C_lead": [
         "Canada"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 25,
@@ -5619,7 +5584,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/li-lab-mcgill/dna-aware-s2f-eval",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5769,7 +5733,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 6,
@@ -5790,7 +5754,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/dmis-lab/ATTNSOM",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5910,7 +5873,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 15,
@@ -5931,7 +5894,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/drxiangma/EnzPlacer",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6034,7 +5996,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 2,
@@ -6055,7 +6017,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/hliulab/XMolRL",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6164,7 +6125,7 @@
       "C_lead": [
         "Israel"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 52,
@@ -6186,7 +6147,6 @@
       "github_repository": "https://github.com/burstein-lab/BioTokenizers",
       "missing": [
         "h_lead",
-        "M",
         "T"
       ]
     },
@@ -6338,7 +6298,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -6359,7 +6319,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -6485,7 +6444,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 43,
@@ -6506,7 +6465,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ak422/USP-ddG",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6632,7 +6590,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -6653,7 +6611,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -6795,7 +6752,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 14,
@@ -6816,7 +6773,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/jaeminjj/PU-GRAIL",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6925,7 +6881,7 @@
       "C_lead": [
         "Germany"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 31,
@@ -6946,7 +6902,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/i-Molecule/OrgNet",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7058,7 +7013,7 @@
       "C_lead": [
         "Türkiye"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 3,
       "C": 18,
@@ -7079,7 +7034,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/boun-tabi-lifelu/puffin",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7226,7 +7180,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 54,
@@ -7247,7 +7201,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Azam-Shi/BiMba",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7356,7 +7309,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 9,
       "C": 321,
@@ -7377,7 +7330,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/shanry/RNA-Undesign",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7520,7 +7472,7 @@
         "Canada",
         "Jordan"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 0,
       "C": 6,
@@ -7542,7 +7494,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/AnonymousISCBConf/Win-Win-Privacy-Utility-Analysis",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7638,7 +7589,7 @@
       "C_lead": [
         "Israel"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 5,
@@ -7659,7 +7610,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/OrensteinLab/NPBIP",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7787,7 +7737,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 48,
@@ -7808,7 +7758,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/zpliulab/R4ST",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7903,7 +7852,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 12,
       "C": 43,
@@ -7924,7 +7873,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Kingsford-Group/seq2ribo",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8055,7 +8003,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 5,
@@ -8076,7 +8024,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/1062638515/spavelo",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8187,7 +8134,7 @@
       "C_lead": [
         "United Arab Emirates"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 9,
       "C": 19,
@@ -8208,7 +8155,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/BaiDing1234/PertAdapt",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8316,7 +8262,7 @@
       "C_lead": [
         "Canada"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 114,
@@ -8337,7 +8283,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/li-lab-mcgill/miRformer",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8483,7 +8428,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 5,
       "C": 25,
@@ -8505,7 +8450,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/tju-zl/CPS",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8635,7 +8579,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 19,
@@ -8656,7 +8600,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/PelenJiang/SIVA",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8801,7 +8744,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 3,
       "C": 452,
@@ -8822,7 +8765,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Shao-Group/amaranth",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8965,7 +8907,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 25,
@@ -8987,7 +8929,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/rsinghlab/DRIFT",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -9113,7 +9054,7 @@
       "C_lead": [
         "Switzerland"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 7,
@@ -9134,7 +9075,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/paolamalsot/destriping-GLM",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -9383,7 +9323,7 @@
       "C_lead": [
         "Germany"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 6,
       "C": 874,
@@ -9404,7 +9344,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/nf-core/diseasemodulediscovery",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -9590,7 +9529,7 @@
       "C_lead": [
         "United Kingdom"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 27,
@@ -9612,7 +9551,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Bashford-Rogers-lab/vdjremix",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -9720,7 +9658,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 12,
       "C": 17,
@@ -9741,7 +9679,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Helix-Research-Lab/GATSBI-embedding",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -9871,7 +9808,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 10,
       "C": 81,
@@ -9892,7 +9829,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/raphael-group/MGW",
       "missing": [
-        "M",
         "T"
       ]
     },

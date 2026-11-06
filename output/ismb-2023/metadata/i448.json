@@ -112,7 +112,7 @@
     "C_lead": [
       "South Korea"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 11,
     "C": 5,
@@ -133,7 +133,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/dmis-lab/ArkDTA",
     "missing": [
-      "M",
       "T"
     ]
   },

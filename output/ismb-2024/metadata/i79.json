@@ -94,7 +94,7 @@
     "C_lead": [
       "China"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 2,
     "C": 35,
@@ -115,7 +115,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/lyotvincent/PhiHER2",
     "missing": [
-      "M",
       "T"
     ]
   },

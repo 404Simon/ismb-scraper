@@ -4,14 +4,14 @@
     "authors": [
       "Cokelaer, Thomas",
       "Cohen-Boulakia, Sarah",
-      "Lemoine, Fr\u00e9d\u00e9ric"
+      "Lemoine, Frédéric"
     ],
     "authors_detail": [
       {
         "name": "Thomas Cokelaer",
         "affiliations": [
-          "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Plate-Forme Technologique Biomics, 75015 Paris, France",
-          "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
+          "Institut Pasteur, Université Paris Cité, Plate-Forme Technologique Biomics, 75015 Paris, France",
+          "Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
         ],
         "country_hints": [
           "France"
@@ -21,7 +21,7 @@
       {
         "name": "Sarah Cohen-Boulakia",
         "affiliations": [
-          "Universit\u00e9 Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique, 91405 Orsay, France"
+          "Université Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Numérique, 91405 Orsay, France"
         ],
         "country_hints": [
           "France"
@@ -29,10 +29,10 @@
         "orcid": "https://orcid.org/0000-0002-7439-1441"
       },
       {
-        "name": "Fr\u00e9d\u00e9ric Lemoine",
+        "name": "Frédéric Lemoine",
         "affiliations": [
-          "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France",
-          "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, G5 Evolutionary Genomics of RNA Viruses, 75015 Paris, France"
+          "Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France",
+          "Institut Pasteur, Université Paris Cité, G5 Evolutionary Genomics of RNA Viruses, 75015 Paris, France"
         ],
         "country_hints": [
           "France"
@@ -45,7 +45,7 @@
     ],
     "joint_senior": [
       "Sarah Cohen-Boulakia",
-      "Fr\u00e9d\u00e9ric Lemoine"
+      "Frédéric Lemoine"
     ],
     "has_group_author": false,
     "metrics": {
@@ -60,7 +60,7 @@
       "C_lead": [
         "France"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 1,
       "C": 14,
@@ -68,8 +68,8 @@
       "I_closed": 0
     },
     "lead_affiliations": [
-      "Universit\u00e9 Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique, 91405 Orsay, France",
-      "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
+      "Université Paris-Saclay, CNRS, Laboratoire Interdisciplinaire des Sciences du Numérique, 91405 Orsay, France",
+      "Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, 75015 Paris, France"
     ],
     "openalex_senior_authors": [
       {
@@ -78,7 +78,7 @@
         "h_index": 24
       },
       {
-        "name": "Fr\u00e9d\u00e9ric Lemoine",
+        "name": "Frédéric Lemoine",
         "openalex_id": null,
         "h_index": null
       }
@@ -88,7 +88,6 @@
       "github_repository": "https://github.com/fredericlemoine/reprohackathon_ismb2023",
       "missing": [
         "h_lead",
-        "M",
         "T"
       ]
     },
@@ -221,7 +220,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 175,
       "C": 798,
@@ -242,7 +241,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BigDataBiology/SemiBin",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -373,7 +371,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 14,
       "C": 64,
@@ -394,7 +392,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/KennthShang/PhaVIP",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -607,7 +604,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 7,
       "C": 13,
@@ -628,7 +625,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/MihirMongia/AdenPredictor",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -731,7 +727,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -753,7 +749,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -872,7 +867,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 323,
@@ -893,7 +888,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/KoslickiLab/L2-UniFrac",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -997,7 +991,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -1018,7 +1012,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -1076,7 +1069,7 @@
       {
         "name": "Jonas C Ditz",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, T\u00fcbingen 72076, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1086,7 +1079,7 @@
       {
         "name": "Bernhard Reuter",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, T\u00fcbingen 72076, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1096,7 +1089,7 @@
       {
         "name": "Nico Pfeifer",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, T\u00fcbingen 72076, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1123,7 +1116,7 @@
       "C_lead": [
         "Germany"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 20,
@@ -1131,7 +1124,7 @@
       "I_closed": 0
     },
     "lead_affiliations": [
-      "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, T\u00fcbingen 72076, Germany"
+      "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, Tübingen 72076, Germany"
     ],
     "openalex_senior_authors": [
       {
@@ -1144,7 +1137,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jditz/comics",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1211,7 +1203,7 @@
       {
         "name": "Jonas C Ditz",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1221,7 +1213,7 @@
       {
         "name": "Jacqueline Wistuba-Hamprecht",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1231,8 +1223,8 @@
       {
         "name": "Timo Maier",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany",
-          "Computomics GmbH, 72072 T\u00fcbingen, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany",
+          "Computomics GmbH, 72072 Tübingen, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1242,8 +1234,8 @@
       {
         "name": "Rolf Fendel",
         "affiliations": [
-          "Institute of Tropical Medicine, University Hospital T\u00fcbingen, 72074 T\u00fcbingen, Germany",
-          "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany"
+          "Institute of Tropical Medicine, University Hospital Tübingen, 72074 Tübingen, Germany",
+          "German Center for Infection Research (DZIF), Partner Site Tübingen, Tübingen, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1253,7 +1245,7 @@
       {
         "name": "Nico Pfeifer",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1263,7 +1255,7 @@
       {
         "name": "Bernhard Reuter",
         "affiliations": [
-          "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany"
+          "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
         ],
         "country_hints": [
           "Germany"
@@ -1291,7 +1283,7 @@
       "C_lead": [
         "Germany"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 2,
       "C": 12,
@@ -1299,7 +1291,7 @@
       "I_closed": 0
     },
     "lead_affiliations": [
-      "Methods in Medical Informatics, Department of Computer Science, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany"
+      "Methods in Medical Informatics, Department of Computer Science, University of Tübingen, 72076 Tübingen, Germany"
     ],
     "openalex_senior_authors": [
       {
@@ -1313,7 +1305,6 @@
       "github_repository": "https://github.com/msmdev/PlasmoFAB",
       "missing": [
         "h_lead",
-        "M",
         "T"
       ]
     },
@@ -1355,17 +1346,17 @@
   {
     "paper_name": "AttOmics: attention-based architecture for diagnosis and prognosis from omics data",
     "authors": [
-      "Beaude, Aur\u00e9lien",
+      "Beaude, Aurélien",
       "Rafiee Vahid, Milad",
-      "Aug\u00e9, Franck",
+      "Augé, Franck",
       "Zehraoui, Farida",
       "Hanczar, Blaise"
     ],
     "authors_detail": [
       {
-        "name": "Aur\u00e9lien Beaude",
+        "name": "Aurélien Beaude",
         "affiliations": [
-          "IBISC, Universit\u00e9 Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France",
+          "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France",
           "Artificial Intelligence & Deep Analytics, Omics Data Science, Sanofi R&D Data and Data Science, 1 Av. Pierre Brossolette, Chilly-Mazarin 91385, France"
         ],
         "country_hints": [
@@ -1384,7 +1375,7 @@
         "orcid": "https://orcid.org/0000-0002-1785-0234"
       },
       {
-        "name": "Franck Aug\u00e9",
+        "name": "Franck Augé",
         "affiliations": [
           "Artificial Intelligence & Deep Analytics, Omics Data Science, Sanofi R&D Data and Data Science, 1 Av. Pierre Brossolette, Chilly-Mazarin 91385, France"
         ],
@@ -1396,7 +1387,7 @@
       {
         "name": "Farida Zehraoui",
         "affiliations": [
-          "IBISC, Universit\u00e9 Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
+          "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
         ],
         "country_hints": [
           "France"
@@ -1406,7 +1397,7 @@
       {
         "name": "Blaise Hanczar",
         "affiliations": [
-          "IBISC, Universit\u00e9 Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
+          "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
         ],
         "country_hints": [
           "France"
@@ -1415,7 +1406,7 @@
       }
     ],
     "joint_first": [
-      "Aur\u00e9lien Beaude"
+      "Aurélien Beaude"
     ],
     "joint_senior": [
       "Blaise Hanczar"
@@ -1433,7 +1424,7 @@
       "C_lead": [
         "France"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -1441,7 +1432,7 @@
       "I_closed": null
     },
     "lead_affiliations": [
-      "IBISC, Universit\u00e9 Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
+      "IBISC, Université Paris-Saclay, Univ Evry, 23 Boulevard de France, Evry-Courcouronnes 91020, France"
     ],
     "openalex_senior_authors": [
       {
@@ -1454,7 +1445,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -1506,23 +1496,23 @@
     }
   },
   {
-    "paper_name": "Transfer learning for drug\u2013target interaction prediction",
+    "paper_name": "Transfer learning for drug–target interaction prediction",
     "authors": [
-      "Dalk\u0131ran, Alperen",
+      "Dalkıran, Alperen",
       "Atakan, Ahmet",
-      "Rifaio\u011flu, Ahmet S",
+      "Rifaioğlu, Ahmet S",
       "Martin, Maria J",
-      "Atalay, Reng\u00fcl \u00c7etin",
+      "Atalay, Rengül Çetin",
       "Acar, Aybar C",
-      "Do\u011fan, Tunca",
+      "Doğan, Tunca",
       "Atalay, Volkan"
     ],
     "authors_detail": [
       {
-        "name": "Alperen Dalk\u0131ran",
+        "name": "Alperen Dalkıran",
         "affiliations": [
           "Department of Computer Engineering, Middle East Technical University, Ankara 06800, Turkey",
-          "Department of Computer Engineering, Adana Alparslan T\u00fcrke\u015f Science and Technology University, Adana 01250, Turkey"
+          "Department of Computer Engineering, Adana Alparslan Türkeş Science and Technology University, Adana 01250, Turkey"
         ],
         "country_hints": [
           "Turkey"
@@ -1533,7 +1523,7 @@
         "name": "Ahmet Atakan",
         "affiliations": [
           "Department of Computer Engineering, Middle East Technical University, Ankara 06800, Turkey",
-          "Department of Computer Engineering, Erzincan Binali Y\u0131ld\u0131r\u0131m University, Erzincan 24002, Turkey"
+          "Department of Computer Engineering, Erzincan Binali Yıldırım University, Erzincan 24002, Turkey"
         ],
         "country_hints": [
           "Turkey"
@@ -1541,7 +1531,7 @@
         "orcid": null
       },
       {
-        "name": "Ahmet S Rifaio\u011flu",
+        "name": "Ahmet S Rifaioğlu",
         "affiliations": [
           "Department of Computer Engineering, Iskenderun Technical University, Hatay 31200, Turkey",
           "Faculty of Medicine, Institute for Computational Biomedicine, Heidelberg University and Heidelberg University Hospital, Heidelberg 69120, Germany"
@@ -1555,7 +1545,7 @@
       {
         "name": "Maria J Martin",
         "affiliations": [
-          "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL\u2013EBI), Cambridge, Hinxton CB10 1SD, United Kingdom"
+          "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL–EBI), Cambridge, Hinxton CB10 1SD, United Kingdom"
         ],
         "country_hints": [
           "United Kingdom"
@@ -1563,7 +1553,7 @@
         "orcid": null
       },
       {
-        "name": "Reng\u00fcl \u00c7etin Atalay",
+        "name": "Rengül Çetin Atalay",
         "affiliations": [
           "Faculty of Pulmonary and Critical Care Medicine, the University of Chicago, Chicago, IL, 60637, United States"
         ],
@@ -1583,9 +1573,9 @@
         "orcid": null
       },
       {
-        "name": "Tunca Do\u011fan",
+        "name": "Tunca Doğan",
         "affiliations": [
-          "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL\u2013EBI), Cambridge, Hinxton CB10 1SD, United Kingdom",
+          "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL–EBI), Cambridge, Hinxton CB10 1SD, United Kingdom",
           "Department of Computer Engineering, Hacettepe University, Ankara 06800, Turkey"
         ],
         "country_hints": [
@@ -1606,7 +1596,7 @@
       }
     ],
     "joint_first": [
-      "Alperen Dalk\u0131ran"
+      "Alperen Dalkıran"
     ],
     "joint_senior": [
       "Volkan Atalay"
@@ -1622,9 +1612,9 @@
       "Y": 2023,
       "L_lead": 1,
       "C_lead": [
-        "T\u00fcrkiye"
+        "Türkiye"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": 9,
       "C": 140,
@@ -1645,7 +1635,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/cansyl/TransferLearning4DTI",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -1717,7 +1706,7 @@
     "paper_name": "GAN-based data augmentation for transcriptomics: survey and comparative assessment",
     "authors": [
       "Lacan, Alice",
-      "Sebag, Mich\u00e8le",
+      "Sebag, Michèle",
       "Hanczar, Blaise"
     ],
     "authors_detail": [
@@ -1732,7 +1721,7 @@
         "orcid": null
       },
       {
-        "name": "Mich\u00e8le Sebag",
+        "name": "Michèle Sebag",
         "affiliations": [
           "TAU, CNRS-INRIA-LISN, University Paris-Saclay, Gif-sur-Yvette 91190, France"
         ],
@@ -1771,7 +1760,7 @@
       "C_lead": [
         "France"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": null,
       "C": null,
@@ -1792,7 +1781,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -1918,7 +1906,7 @@
       "C_lead": [
         "United Kingdom"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 25,
@@ -1940,7 +1928,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/HaotingZhang1/SynBa",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2009,7 +1996,7 @@
       "IMAXT Consortium",
       "Huang, Chris",
       "Gandhi, Anita K",
-      "Bouchard-C\u00f4t\u00e9, Alexandre",
+      "Bouchard-Côté, Alexandre",
       "Weng, Andrew P",
       "Roth, Andrew"
     ],
@@ -2082,7 +2069,7 @@
         "orcid": null
       },
       {
-        "name": "Alexandre Bouchard-C\u00f4t\u00e9",
+        "name": "Alexandre Bouchard-Côté",
         "affiliations": [
           "Department of Statistics, University of British Columbia, 2207 Main Mall, Vancouver, BC V6T1Z4, Canada"
         ],
@@ -2134,7 +2121,7 @@
       "C_lead": [
         "Canada"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 5,
       "C": 2,
@@ -2155,7 +2142,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Roth-Lab/SpatialSort",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2214,7 +2200,7 @@
       "Trevino, Alexandro",
       "Kim, Honesty",
       "Ruffalo, Matthew",
-      "D\u2019Angio, H Blaize",
+      "D’Angio, H Blaize",
       "Preska, Ryan",
       "Duvvuri, Umamaheswar",
       "Mayer, Aaron T",
@@ -2224,7 +2210,7 @@
       {
         "name": "Monica T Dayao",
         "affiliations": [
-          "Joint Carnegie Mellon University\u2014University of Pittsburgh Ph.D. Program in Computational Biology, Pittsburgh, PA 15213, United States",
+          "Joint Carnegie Mellon University—University of Pittsburgh Ph.D. Program in Computational Biology, Pittsburgh, PA 15213, United States",
           "Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 15213, United States"
         ],
         "country_hints": [
@@ -2263,7 +2249,7 @@
         "orcid": null
       },
       {
-        "name": "H Blaize D\u2019Angio",
+        "name": "H Blaize D’Angio",
         "affiliations": [
           "Enable Medicine, Menlo Park, CA 94025, United States"
         ],
@@ -2333,7 +2319,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -2354,7 +2340,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -2409,13 +2394,13 @@
     }
   },
   {
-    "paper_name": "PPAD: a deep learning architecture to predict progression of Alzheimer\u2019s disease",
+    "paper_name": "PPAD: a deep learning architecture to predict progression of Alzheimer’s disease",
     "authors": [
       "Al Olaimat, Mohammad",
       "Martinez, Jared",
       "Saeed, Fahad",
       "Bozdag, Serdar",
-      "Alzheimer\u2019s Disease Neuroimaging Initiative"
+      "Alzheimer’s Disease Neuroimaging Initiative"
     ],
     "authors_detail": [
       {
@@ -2461,7 +2446,7 @@
         "orcid": null
       },
       {
-        "name": "Alzheimer\u2019s Disease Neuroimaging Initiative",
+        "name": "Alzheimer’s Disease Neuroimaging Initiative",
         "affiliations": [],
         "country_hints": [],
         "orcid": null
@@ -2471,7 +2456,7 @@
       "Mohammad Al Olaimat"
     ],
     "joint_senior": [
-      "Alzheimer\u2019s Disease Neuroimaging Initiative"
+      "Alzheimer’s Disease Neuroimaging Initiative"
     ],
     "has_group_author": true,
     "metrics": {
@@ -2486,7 +2471,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 7,
       "C": 93,
@@ -2498,7 +2483,7 @@
     ],
     "openalex_senior_authors": [
       {
-        "name": "Alzheimer\u2019s Disease Neuroimaging Initiative",
+        "name": "Alzheimer’s Disease Neuroimaging Initiative",
         "openalex_id": "https://openalex.org/A5106733559",
         "h_index": 143
       }
@@ -2507,7 +2492,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bozdaglab/PPAD",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2657,7 +2641,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 10,
@@ -2678,7 +2662,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/JieZheng-ShanghaiTech/KR4SL",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2813,7 +2796,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 8,
@@ -2834,7 +2817,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/wxl387/Privacy-Preserving-Population-Stratification-for-Collaborative-Genomic-Research",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -2957,7 +2939,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 44,
@@ -2978,7 +2960,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/flu-crew/PD_stats",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3086,7 +3067,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 134,
@@ -3108,7 +3089,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ytabatabaee/CASTLES",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3225,7 +3205,7 @@
       "C_lead": [
         "Netherlands"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 62,
@@ -3246,7 +3226,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/pephco/ASDEC",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3358,7 +3337,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -3379,7 +3358,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -3446,12 +3424,12 @@
   {
     "paper_name": "Effects of spaced k-mers on alignment-free genotyping",
     "authors": [
-      "H\u00e4ntze, Hartmut",
+      "Häntze, Hartmut",
       "Horton, Paul"
     ],
     "authors_detail": [
       {
-        "name": "Hartmut H\u00e4ntze",
+        "name": "Hartmut Häntze",
         "affiliations": [
           "Department of Computer Science and Information Engineering, National Cheng Kung University, Tainan City 701, Taiwan"
         ],
@@ -3472,7 +3450,7 @@
       }
     ],
     "joint_first": [
-      "Hartmut H\u00e4ntze"
+      "Hartmut Häntze"
     ],
     "joint_senior": [
       "Paul Horton"
@@ -3490,7 +3468,7 @@
       "C_lead": [
         "Taiwan"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 5,
       "C": 237,
@@ -3511,7 +3489,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/hhaentze/MaskedPangenie",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3602,7 +3579,7 @@
       "C_lead": [
         "Sweden"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 48,
       "C": 422,
@@ -3623,7 +3600,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/aljpetri/isONform",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3751,7 +3727,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 9,
       "C": 14,
@@ -3772,7 +3748,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Shao-Group/subseqhash",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -3849,7 +3824,7 @@
       "Grady, Patrick G S",
       "Patchigolla, Venkata",
       "Bi, Jinbo",
-      "O\u2019Neill, Rachel J",
+      "O’Neill, Rachel J",
       "Chi, Zhiyi",
       "Aguiar, Derek"
     ],
@@ -3915,7 +3890,7 @@
         "orcid": null
       },
       {
-        "name": "Rachel J O\u2019Neill",
+        "name": "Rachel J O’Neill",
         "affiliations": [
           "Institute for Systems Genomics and Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3003, United States"
         ],
@@ -3965,7 +3940,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 103,
@@ -3986,7 +3961,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bayesomicslab/ONT-nonb-GoFAE-DND",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4090,7 +4064,7 @@
       "C_lead": [
         "France"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 10,
       "C": 55,
@@ -4111,7 +4085,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Malfoy/PAC",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4175,7 +4148,7 @@
     "authors": [
       "Alanko, Jarno N",
       "Vuohtoniemi, Jaakko",
-      "M\u00e4klin, Tommi",
+      "Mäklin, Tommi",
       "Puglisi, Simon J"
     ],
     "authors_detail": [
@@ -4200,7 +4173,7 @@
         "orcid": null
       },
       {
-        "name": "Tommi M\u00e4klin",
+        "name": "Tommi Mäklin",
         "affiliations": [
           "Department of Mathematics and Statistics, University of Helsinki, Helsinki 00014, Finland"
         ],
@@ -4239,7 +4212,7 @@
       "C_lead": [
         "Finland"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 59,
       "C": 936,
@@ -4260,7 +4233,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/algbio/themisto",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4376,7 +4348,7 @@
       "C_lead": [
         "France"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 17,
       "C": 126,
@@ -4397,7 +4369,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/SandraLouise/SVJedi-graph",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4454,8 +4425,8 @@
         "name": "Timofey Prodanov",
         "affiliations": [
           "Bioinformatics and Systems Biology Graduate Program, University of California San Diego, La Jolla, CA 92093, United States",
-          "Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, D\u00fcsseldorf 40225, Germany",
-          "Center for Digital Medicine, Heinrich Heine University, D\u00fcsseldorf 40225, Germany"
+          "Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf 40225, Germany",
+          "Center for Digital Medicine, Heinrich Heine University, Düsseldorf 40225, Germany"
         ],
         "country_hints": [
           "United States",
@@ -4493,7 +4464,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 4,
@@ -4515,7 +4486,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/tprodanov/ParascopyVC",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4571,8 +4541,8 @@
     "authors": [
       "Mane, Aniket",
       "Faizrahnemoon, Mahsa",
-      "Vina\u0159, Tom\u00e1\u0161",
-      "Brejov\u00e1, Bro\u0148a",
+      "Vinař, Tomáš",
+      "Brejová, Broňa",
       "Chauve, Cedric"
     ],
     "authors_detail": [
@@ -4597,7 +4567,7 @@
         "orcid": null
       },
       {
-        "name": "Tom\u00e1\u0161 Vina\u0159",
+        "name": "Tomáš Vinař",
         "affiliations": [
           "Department of Applied Informatics, Comenius University, Bratislava 84248, Slovakia"
         ],
@@ -4607,7 +4577,7 @@
         "orcid": null
       },
       {
-        "name": "Bro\u0148a Brejov\u00e1",
+        "name": "Broňa Brejová",
         "affiliations": [
           "Department of Computer Science, Comenius University, Bratislava 84248, Slovakia"
         ],
@@ -4646,7 +4616,7 @@
       "C_lead": [
         "Canada"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 5,
       "C": 323,
@@ -4667,7 +4637,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/cchauve/PlasBin-flow",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4821,7 +4790,7 @@
       "C_lead": [
         "Switzerland"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 71,
       "C": 49,
@@ -4842,7 +4811,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/CMU-SAFARI/RawHash",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -4968,7 +4936,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 10,
       "C": 92,
@@ -4989,7 +4957,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jianlin-cheng/DProQA",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5099,7 +5066,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 34,
       "C": 171,
@@ -5120,7 +5087,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jianlin-cheng/TransFun",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5177,7 +5143,7 @@
       {
         "name": "Jia-Ning Li",
         "affiliations": [
-          "School of Life Sciences, Northwestern Polytechnical University, Xi\u2019an 710072, China"
+          "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
         ],
         "country_hints": [
           "China"
@@ -5187,7 +5153,7 @@
       {
         "name": "Guang Yang",
         "affiliations": [
-          "School of Life Sciences, Northwestern Polytechnical University, Xi\u2019an 710072, China"
+          "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
         ],
         "country_hints": [
           "China"
@@ -5197,7 +5163,7 @@
       {
         "name": "Peng-Cheng Zhao",
         "affiliations": [
-          "School of Life Sciences, Northwestern Polytechnical University, Xi\u2019an 710072, China"
+          "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
         ],
         "country_hints": [
           "China"
@@ -5207,7 +5173,7 @@
       {
         "name": "Xue-Xin Wei",
         "affiliations": [
-          "School of Life Sciences, Northwestern Polytechnical University, Xi\u2019an 710072, China"
+          "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
         ],
         "country_hints": [
           "China"
@@ -5217,7 +5183,7 @@
       {
         "name": "Jian-Yu Shi",
         "affiliations": [
-          "School of Life Sciences, Northwestern Polytechnical University, Xi\u2019an 710072, China"
+          "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
         ],
         "country_hints": [
           "China"
@@ -5244,7 +5210,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 12,
       "C": 29,
@@ -5252,7 +5218,7 @@
       "I_closed": 1
     },
     "lead_affiliations": [
-      "School of Life Sciences, Northwestern Polytechnical University, Xi\u2019an 710072, China"
+      "School of Life Sciences, Northwestern Polytechnical University, Xi’an 710072, China"
     ],
     "openalex_senior_authors": [
       {
@@ -5265,7 +5231,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/lijianing0902/CProMG",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5365,7 +5330,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 8,
@@ -5386,7 +5351,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ucfcbb/RNAMotifFamilySimilarity",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5462,7 +5426,7 @@
       "Paatero, Anja",
       "Kellosalo, Juho",
       "Paavilainen, Ville O",
-      "L\u00e4hdesm\u00e4ki, Harri"
+      "Lähdesmäki, Harri"
     ],
     "authors_detail": [
       {
@@ -5517,7 +5481,7 @@
         "orcid": null
       },
       {
-        "name": "Harri L\u00e4hdesm\u00e4ki",
+        "name": "Harri Lähdesmäki",
         "affiliations": [
           "Department of Computer Science, Aalto University, Espoo 02150, Finland"
         ],
@@ -5531,7 +5495,7 @@
       "Alexandru Dumitrescu"
     ],
     "joint_senior": [
-      "Harri L\u00e4hdesm\u00e4ki"
+      "Harri Lähdesmäki"
     ],
     "has_group_author": false,
     "metrics": {
@@ -5546,7 +5510,7 @@
       "C_lead": [
         "Finland"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 486,
@@ -5558,7 +5522,7 @@
     ],
     "openalex_senior_authors": [
       {
-        "name": "Harri L\u00e4hdesm\u00e4ki",
+        "name": "Harri Lähdesmäki",
         "openalex_id": "https://openalex.org/A5049442192",
         "h_index": 52
       }
@@ -5567,7 +5531,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Dumitrescu-Alexandru/TSignal",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -5633,7 +5596,7 @@
     }
   },
   {
-    "paper_name": "Getting \u2018\u03d5\u03c8\u03c7al\u2019 with proteins: minimum message length inference of joint distributions of backbone and sidechain dihedral angles",
+    "paper_name": "Getting ‘ϕψχal’ with proteins: minimum message length inference of joint distributions of backbone and sidechain dihedral angles",
     "authors": [
       "Amarasinghe, Piyumi R",
       "Allison, Lloyd",
@@ -5725,7 +5688,7 @@
       "C_lead": [
         "Australia"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -5746,7 +5709,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -5900,7 +5862,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 54,
@@ -5921,7 +5883,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/xuyp-csu/CellBRF",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6036,7 +5997,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 128,
@@ -6057,7 +6018,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/chrishil1/ChromDL",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6120,7 +6080,7 @@
       {
         "name": "Yanlin Zhang",
         "affiliations": [
-          "School of Computer Science, McGill University, Montr\u00e9al, Qu\u00e9bec H3A 0E9, Canada"
+          "School of Computer Science, McGill University, Montréal, Québec H3A 0E9, Canada"
         ],
         "country_hints": [
           "Canada"
@@ -6130,7 +6090,7 @@
       {
         "name": "Mathieu Blanchette",
         "affiliations": [
-          "School of Computer Science, McGill University, Montr\u00e9al, Qu\u00e9bec H3A 0E9, Canada"
+          "School of Computer Science, McGill University, Montréal, Québec H3A 0E9, Canada"
         ],
         "country_hints": [
           "Canada"
@@ -6157,7 +6117,7 @@
       "C_lead": [
         "Canada"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 10,
       "C": 39,
@@ -6165,7 +6125,7 @@
       "I_closed": 3
     },
     "lead_affiliations": [
-      "School of Computer Science, McGill University, Montr\u00e9al, Qu\u00e9bec H3A 0E9, Canada"
+      "School of Computer Science, McGill University, Montréal, Québec H3A 0E9, Canada"
     ],
     "openalex_senior_authors": [
       {
@@ -6178,7 +6138,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BlanchetteLab/RefHiC",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6236,7 +6195,7 @@
       "Haviv, Doron",
       "Alonso-Curbelo, Direna",
       "Lowe, Scott W",
-      "Pe\u2019er, Dana"
+      "Pe’er, Dana"
     ],
     "authors_detail": [
       {
@@ -6294,7 +6253,7 @@
         "orcid": null
       },
       {
-        "name": "Dana Pe\u2019er",
+        "name": "Dana Pe’er",
         "affiliations": [
           "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, Sloan Kettering Institute, 408 E 69th Street, New York, NY 10021, United States",
           "Howard Hughes Medical Institute, 4000 Jones Bridge Road, Chevy Chase, Maryland 20815, United States"
@@ -6310,7 +6269,7 @@
       "Chujun Julia Zhao"
     ],
     "joint_senior": [
-      "Dana Pe\u2019er"
+      "Dana Pe’er"
     ],
     "has_group_author": false,
     "metrics": {
@@ -6325,7 +6284,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 22,
       "C": 46,
@@ -6337,7 +6296,7 @@
     ],
     "openalex_senior_authors": [
       {
-        "name": "Dana Pe\u2019er",
+        "name": "Dana Pe’er",
         "openalex_id": "https://openalex.org/A5074451448",
         "h_index": 86
       }
@@ -6346,7 +6305,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/dpeerlab/scKINETICS",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6471,7 +6429,7 @@
       "C_lead": [
         "Netherlands"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 8,
@@ -6492,7 +6450,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/kbiharie/TACTiCS",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6549,7 +6506,7 @@
   {
     "paper_name": "An intrinsically interpretable neural network architecture for sequence-to-function learning",
     "authors": [
-      "Balc\u0131, Ali Tu\u011frul",
+      "Balcı, Ali Tuğrul",
       "Ebeid, Mark Maher",
       "Benos, Panayiotis V",
       "Kostka, Dennis",
@@ -6557,7 +6514,7 @@
     ],
     "authors_detail": [
       {
-        "name": "Ali Tu\u011frul Balc\u0131",
+        "name": "Ali Tuğrul Balcı",
         "affiliations": [
           "Joint Carnegie Mellon University-University of Pittsburgh Program in Computational Biology, Pittsburgh, PA 15213, United States",
           "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA 15213, United States"
@@ -6613,7 +6570,7 @@
       }
     ],
     "joint_first": [
-      "Ali Tu\u011frul Balc\u0131"
+      "Ali Tuğrul Balcı"
     ],
     "joint_senior": [
       "Maria Chikina"
@@ -6631,7 +6588,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 94,
@@ -6652,7 +6609,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/boooooogey/ATAConv",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6768,7 +6724,7 @@
         "Israel",
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 0,
       "C": 4,
@@ -6790,7 +6746,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/syq2012/iterative_weight_update_for_reconstruction",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -6864,7 +6819,7 @@
       {
         "name": "Saumya Gupta",
         "affiliations": [
-          "Stem Cell Program, Boston Children\u2019s Hospital, 300 Longwood Avenue, Boston, MA 02115, United States",
+          "Stem Cell Program, Boston Children’s Hospital, 300 Longwood Avenue, Boston, MA 02115, United States",
           "Department of Stem Cell and Regenerative Biology, Harvard University, 7 Divinity Ave, Cambridge, MA 02138, United States"
         ],
         "country_hints": [
@@ -6927,7 +6882,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 2,
       "C": 28,
@@ -6948,7 +6903,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/gimelbrantlab/controlFreq",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7049,7 +7003,7 @@
       "C_lead": [
         "Germany"
       ],
-      "M": null,
+      "M": false,
       "T": null,
       "S": null,
       "C": null,
@@ -7070,7 +7024,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -7131,7 +7084,7 @@
     }
   },
   {
-    "paper_name": "ArkDTA: attention regularization guided by non-covalent interactions for explainable drug\u2013target binding affinity prediction",
+    "paper_name": "ArkDTA: attention regularization guided by non-covalent interactions for explainable drug–target binding affinity prediction",
     "authors": [
       "Gim, Mogan",
       "Choe, Junseok",
@@ -7244,7 +7197,7 @@
       "C_lead": [
         "South Korea"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 11,
       "C": 5,
@@ -7265,7 +7218,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/dmis-lab/ArkDTA",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7377,7 +7329,7 @@
       "C_lead": [
         "Germany"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -7398,7 +7350,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -7506,7 +7457,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 4,
@@ -7527,7 +7478,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/luo-group/GraNA",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7643,7 +7593,7 @@
       "C_lead": [
         "China"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 5,
       "C": 1,
@@ -7666,7 +7616,6 @@
       "github_repository": "https://github.com/Hhhzj-7/DeepCoVDR",
       "missing": [
         "h_lead",
-        "M",
         "T"
       ]
     },
@@ -7713,7 +7662,7 @@
     }
   },
   {
-    "paper_name": "CLARIFY: cell\u2013cell interaction and gene regulatory network refinement from spatially resolved transcriptomics",
+    "paper_name": "CLARIFY: cell–cell interaction and gene regulatory network refinement from spatially resolved transcriptomics",
     "authors": [
       "Bafna, Mihir",
       "Li, Hechen",
@@ -7770,7 +7719,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 6,
       "C": 89,
@@ -7791,7 +7740,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/MihirBafna/clarify",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -7959,7 +7907,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 1,
       "C": 64,
@@ -7980,7 +7928,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/srtaheri/OptimalAdjustmentSet",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8127,7 +8074,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 54,
@@ -8148,7 +8095,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/MinxZ/Gemini",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8269,7 +8215,7 @@
         "Austria",
         "France"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 4,
       "C": 23,
@@ -8291,7 +8237,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/giang-trinh/trap-mvn",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8406,7 +8351,7 @@
       "C_lead": [
         "Switzerland"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 13,
       "C": 14,
@@ -8427,7 +8372,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BorgwardtLab/HOGImine",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8488,7 +8432,7 @@
       {
         "name": "Giulio Ermanno Pibiri",
         "affiliations": [
-          "Ca\u2019 Foscari University of Venice, Venice 30172, Italy",
+          "Ca’ Foscari University of Venice, Venice 30172, Italy",
           "ISTI-CNR, Pisa 56124, Italy"
         ],
         "country_hints": [
@@ -8499,7 +8443,7 @@
       {
         "name": "Yoshihiro Shibuya",
         "affiliations": [
-          "University Gustave Eiffel, Marne-la-Vall\u00e9e 77454, France"
+          "University Gustave Eiffel, Marne-la-Vallée 77454, France"
         ],
         "country_hints": [
           "France"
@@ -8537,7 +8481,7 @@
         "France",
         "Italy"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 44,
       "C": 159,
@@ -8546,7 +8490,7 @@
     },
     "lead_affiliations": [
       "University of Lille, CRIStAL CNRS, UMR 9189 , Lille F-59000, France",
-      "Ca\u2019 Foscari University of Venice, Venice 30172, Italy"
+      "Ca’ Foscari University of Venice, Venice 30172, Italy"
     ],
     "openalex_senior_authors": [
       {
@@ -8559,7 +8503,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jermp/lphash",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8615,7 +8558,7 @@
     }
   },
   {
-    "paper_name": "Deep Local Analysis deconstructs protein\u2013protein interfaces and accurately estimates binding affinity changes upon mutation",
+    "paper_name": "Deep Local Analysis deconstructs protein–protein interfaces and accurately estimates binding affinity changes upon mutation",
     "authors": [
       "Mohseni Behbahani, Yasser",
       "Laine, Elodie",
@@ -8625,7 +8568,7 @@
       {
         "name": "Yasser Mohseni Behbahani",
         "affiliations": [
-          "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Universit\u00e9, CNRS, IBPS, Paris 75005, France"
+          "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Université, CNRS, IBPS, Paris 75005, France"
         ],
         "country_hints": [
           "France"
@@ -8635,7 +8578,7 @@
       {
         "name": "Elodie Laine",
         "affiliations": [
-          "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Universit\u00e9, CNRS, IBPS, Paris 75005, France"
+          "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Université, CNRS, IBPS, Paris 75005, France"
         ],
         "country_hints": [
           "France"
@@ -8645,7 +8588,7 @@
       {
         "name": "Alessandra Carbone",
         "affiliations": [
-          "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Universit\u00e9, CNRS, IBPS, Paris 75005, France"
+          "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Université, CNRS, IBPS, Paris 75005, France"
         ],
         "country_hints": [
           "France"
@@ -8672,7 +8615,7 @@
       "C_lead": [
         "France"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": null,
       "C": null,
@@ -8680,7 +8623,7 @@
       "I_closed": null
     },
     "lead_affiliations": [
-      "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Universit\u00e9, CNRS, IBPS, Paris 75005, France"
+      "Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Sorbonne Université, CNRS, IBPS, Paris 75005, France"
     ],
     "openalex_senior_authors": [
       {
@@ -8693,7 +8636,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "M",
         "T",
         "S",
         "C",
@@ -8797,7 +8739,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 8,
       "C": 15,
@@ -8818,7 +8760,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ma-compbio/UNADON",
       "missing": [
-        "M",
         "T"
       ]
     },
@@ -8959,7 +8900,7 @@
       "C_lead": [
         "United States"
       ],
-      "M": null,
+      "M": true,
       "T": null,
       "S": 7,
       "C": 114,
@@ -8980,7 +8921,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/shanry/SAMFEO",
       "missing": [
-        "M",
         "T"
       ]
     },

@@ -46,7 +46,7 @@
       "Italy",
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 108,
     "C": 634,
@@ -68,7 +68,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/jermp/sshash",
     "missing": [
-      "M",
       "T"
     ]
   },

@@ -82,7 +82,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 1,
     "C": 30,
@@ -103,7 +103,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/medvedevgroup/minimizer-jaccard-estimator",
     "missing": [
-      "M",
       "T"
     ]
   },

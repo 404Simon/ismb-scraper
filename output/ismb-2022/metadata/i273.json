@@ -79,7 +79,7 @@
     "C_lead": [
       "Australia"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 0,
     "C": 12,
@@ -100,7 +100,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/jiyuc/AutoGOAConsistency",
     "missing": [
-      "M",
       "T"
     ]
   },

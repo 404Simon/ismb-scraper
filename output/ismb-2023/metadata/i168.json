@@ -89,7 +89,7 @@
     "C_lead": [
       "United States"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 0,
     "C": 8,
@@ -110,7 +110,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/wxl387/Privacy-Preserving-Population-Stratification-for-Collaborative-Genomic-Research",
     "missing": [
-      "M",
       "T"
     ]
   },

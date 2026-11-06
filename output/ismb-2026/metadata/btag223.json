@@ -195,7 +195,7 @@
     "C_lead": [
       "Germany"
     ],
-    "M": null,
+    "M": false,
     "T": null,
     "S": 6,
     "C": 874,
@@ -216,7 +216,6 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/nf-core/diseasemodulediscovery",
     "missing": [
-      "M",
       "T"
     ]
   },

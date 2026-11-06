@@ -90,7 +90,7 @@
     "C_lead": [
       "Switzerland"
     ],
-    "M": null,
+    "M": true,
     "T": null,
     "S": 3,
     "C": 76,
@@ -111,7 +111,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ratschlab/mla",
     "missing": [
-      "M",
       "T"
     ]
   },
