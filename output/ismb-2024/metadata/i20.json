@@ -70,7 +70,7 @@
       "Slovenia"
     ],
     "M": false,
-    "T": null,
+    "T": "Drug-target interaction & response prediction",
     "S": 5,
     "C": 12,
     "I_open": 0,
@@ -89,9 +89,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/IB-ULFRI/instructor-notes",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae208",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i20/7700875",

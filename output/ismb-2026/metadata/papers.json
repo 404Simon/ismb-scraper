@@ -181,7 +181,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": null,
       "C": null,
       "I_open": null,
@@ -213,7 +213,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -358,7 +357,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 2,
       "C": 51,
       "I_open": 1,
@@ -378,9 +377,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/YangSH-ac/PhageMind",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag262",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag262/8726334",
@@ -516,7 +513,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 2,
       "C": 30,
       "I_open": 0,
@@ -535,9 +532,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/az002/RAmpSim",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag303",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag303/8726350",
@@ -630,7 +625,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 1,
       "C": 22,
       "I_open": 0,
@@ -649,9 +644,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/dyxstat/VirBinn",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag271",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag271/8726339",
@@ -857,7 +850,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 2,
       "C": 18,
       "I_open": 0,
@@ -877,9 +870,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ncbi-nlp/cGSA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag214",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag214/8726338",
@@ -993,7 +984,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 0,
       "C": 37,
       "I_open": 0,
@@ -1012,9 +1003,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/spcho-dev/EPIC",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag229",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag229/8726348",
@@ -1164,7 +1153,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 1,
       "C": 3,
       "I_open": 0,
@@ -1184,9 +1173,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/sslim-aidrug/DiSPA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag272",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag272/8726300",
@@ -1340,7 +1327,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 0,
       "C": 47,
       "I_open": 0,
@@ -1359,9 +1346,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/xinliangSun/scTAPE",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag269",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag269/8726343",
@@ -1500,7 +1485,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 2,
       "C": 1,
       "I_open": 0,
@@ -1519,9 +1504,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/NNeuralDynamics/eGOT",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag216",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag216/8726293",
@@ -1637,7 +1620,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 0,
       "C": 38,
       "I_open": 0,
@@ -1656,9 +1639,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/yctao7/AutoPCR",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag304",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag304/8726349",
@@ -1785,7 +1766,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 1,
       "C": 4,
       "I_open": 0,
@@ -1804,9 +1785,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/wnsgk/AC-Active",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag302",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag302/8726304",
@@ -1948,7 +1927,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 0,
       "C": 83,
       "I_open": 0,
@@ -1967,9 +1946,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Ewha-AI/MOCDT",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag274",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag274/8726288",
@@ -2178,7 +2155,7 @@
         "Malta"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 40,
       "C": 1391,
       "I_open": 1,
@@ -2197,9 +2174,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/BioGeMT/agentomics-ml",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag250",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag250/8726289",
@@ -2334,7 +2309,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 0,
       "C": 8,
       "I_open": 0,
@@ -2353,9 +2328,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/stardj/KLaR",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag320",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag320/8726354",
@@ -2445,7 +2418,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 1,
       "C": 2,
       "I_open": 0,
@@ -2464,9 +2437,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag217",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag217/8726311",
@@ -2595,7 +2566,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": 0,
       "C": 37,
       "I_open": 0,
@@ -2615,9 +2586,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/datax-lab/FairHICON",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag237",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag237/8726291",
@@ -2713,7 +2682,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 11,
       "C": 239,
       "I_open": 0,
@@ -2732,9 +2701,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/jsdoublel/camus",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag245",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag245/8726316",
@@ -2855,7 +2822,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 2,
       "C": 52,
       "I_open": 0,
@@ -2874,9 +2841,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/bo1929/phlag",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag273",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag273/8726330",
@@ -2993,7 +2958,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 38,
       "C": 157,
       "I_open": 0,
@@ -3012,9 +2977,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/AI-sandbox/ADAMIXTURE",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag236",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag236/8726296",
@@ -3125,7 +3088,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": 0,
       "C": 6,
       "I_open": 0,
@@ -3144,9 +3107,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/mgtools/D2T",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag291",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag291/8726295",
@@ -3260,7 +3221,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 4,
       "C": 172,
       "I_open": 1,
@@ -3279,9 +3240,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/raphael-group/LAML-Pro",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag219",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag219/8726299",
@@ -3455,7 +3414,7 @@
         "China"
       ],
       "M": false,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 13,
       "C": 12,
       "I_open": 1,
@@ -3474,9 +3433,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/EperLuo/BaisBench",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag227",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag227/8726318",
@@ -3628,7 +3585,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 1,
       "C": 8,
       "I_open": 0,
@@ -3647,9 +3604,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/gersteinlab/NoisyFlow",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag239",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag239/8726326",
@@ -3780,7 +3735,7 @@
         "China"
       ],
       "M": false,
-      "T": null,
+      "T": "Protein function & interaction prediction",
       "S": 0,
       "C": 25,
       "I_open": 0,
@@ -3799,9 +3754,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/WangLabTHU/biomolecule-al-decipher",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag248",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag248/8726337",
@@ -3902,7 +3855,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 2,
       "C": 41,
       "I_open": 0,
@@ -3922,9 +3875,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Lazarus42/seed_chainer_indels",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag312",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag312/8726336",
@@ -4055,7 +4006,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 0,
       "C": 7,
       "I_open": 0,
@@ -4075,9 +4026,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/datax-lab/PIMO",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag238",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag238/8726317",
@@ -4264,7 +4213,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 1,
       "C": 4,
       "I_open": 0,
@@ -4286,9 +4235,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/lihan97/ProMeta",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag267",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag267/8726356",
@@ -4387,7 +4334,7 @@
         "Israel"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 7,
       "C": 33,
       "I_open": 0,
@@ -4406,9 +4353,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/OrensteinLab/CROP",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag210",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag210/8726328",
@@ -4571,7 +4516,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 4,
       "C": 55,
       "I_open": 1,
@@ -4590,9 +4535,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/AmpliconSuite/BFBArchitect",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag225",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag225/8726302",
@@ -4685,7 +4628,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 108,
       "C": 634,
       "I_open": 0,
@@ -4705,9 +4648,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/jermp/sshash",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag264",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag264/8726351",
@@ -4854,7 +4795,7 @@
         "Finland"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 17,
       "C": 149,
       "I_open": 0,
@@ -4873,9 +4814,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/algbio/BubbleFinder",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag235",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag235/8726301",
@@ -4984,7 +4923,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 3,
       "C": 20,
       "I_open": 0,
@@ -5003,9 +4942,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/medvedevgroup/Accurate_repeat-aware_kmer_based_estimator",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag234",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag234/8726344",
@@ -5141,7 +5078,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 26,
       "C": 152,
       "I_open": 1,
@@ -5160,9 +5097,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/treangenlab/Seqwin",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag261",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag261/8726324",
@@ -5324,7 +5259,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 10,
       "C": 258,
       "I_open": 0,
@@ -5343,9 +5278,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ucfcbb/TeraTools",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag268",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag268/8726346",
@@ -5444,7 +5377,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 0,
       "C": 93,
       "I_open": 0,
@@ -5463,9 +5396,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/vibansal-lab/edgecopy",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag221",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag221/8726319",
@@ -5564,7 +5495,7 @@
         "Canada"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 0,
       "C": 25,
       "I_open": 0,
@@ -5583,9 +5514,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/li-lab-mcgill/dna-aware-s2f-eval",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag266",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag266/8726307",
@@ -5734,7 +5663,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein function & interaction prediction",
       "S": 2,
       "C": 6,
       "I_open": 1,
@@ -5753,9 +5682,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/dmis-lab/ATTNSOM",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag314",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag314/8726294",
@@ -5874,7 +5801,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 0,
       "C": 15,
       "I_open": 0,
@@ -5893,9 +5820,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/drxiangma/EnzPlacer",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag215",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag215/8726303",
@@ -5997,7 +5922,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 1,
       "C": 2,
       "I_open": 1,
@@ -6016,9 +5941,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/hliulab/XMolRL",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag242",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag242/8726309",
@@ -6126,7 +6049,7 @@
         "Israel"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 1,
       "C": 52,
       "I_open": 0,
@@ -6146,8 +6069,7 @@
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/burstein-lab/BioTokenizers",
       "missing": [
-        "h_lead",
-        "T"
+        "h_lead"
       ]
     },
     "doi": "10.1093/bioinformatics/btag226",
@@ -6299,7 +6221,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": null,
       "C": null,
       "I_open": null,
@@ -6319,7 +6241,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -6445,7 +6366,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 6,
       "C": 43,
       "I_open": 2,
@@ -6464,9 +6385,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/ak422/USP-ddG",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag249",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag249/8726290",
@@ -6591,7 +6510,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": null,
       "C": null,
       "I_open": null,
@@ -6611,7 +6530,6 @@
       "snapshot_date": "2026-11-04",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -6753,7 +6671,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 1,
       "C": 14,
       "I_open": 1,
@@ -6772,9 +6690,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/jaeminjj/PU-GRAIL",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag263",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag263/8726352",
@@ -6882,7 +6798,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 2,
       "C": 31,
       "I_open": 2,
@@ -6901,9 +6817,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/i-Molecule/OrgNet",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag258",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag258/8726341",
@@ -7014,7 +6928,7 @@
         "Türkiye"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": 3,
       "C": 18,
       "I_open": 1,
@@ -7033,9 +6947,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/boun-tabi-lifelu/puffin",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag265",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag265/8726308",
@@ -7181,7 +7093,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 0,
       "C": 54,
       "I_open": 0,
@@ -7200,9 +7112,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Azam-Shi/BiMba",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag243",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag243/8726357",
@@ -7310,7 +7220,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 9,
       "C": 321,
       "I_open": 0,
@@ -7329,9 +7239,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/shanry/RNA-Undesign",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag246",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag246/8726360",
@@ -7473,7 +7381,7 @@
         "Jordan"
       ],
       "M": false,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 0,
       "C": 6,
       "I_open": 0,
@@ -7493,9 +7401,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/AnonymousISCBConf/Win-Win-Privacy-Utility-Analysis",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag311",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag311/8726355",
@@ -7590,7 +7496,7 @@
         "Israel"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 4,
       "C": 5,
       "I_open": 1,
@@ -7609,9 +7515,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/OrensteinLab/NPBIP",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag232",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag232/8726353",
@@ -7738,7 +7642,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": 1,
       "C": 48,
       "I_open": 0,
@@ -7757,9 +7661,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/zpliulab/R4ST",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag228",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag228/8726327",
@@ -7853,7 +7755,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 12,
       "C": 43,
       "I_open": 0,
@@ -7872,9 +7774,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Kingsford-Group/seq2ribo",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag296",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag296/8726312",
@@ -8004,7 +7904,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": 1,
       "C": 5,
       "I_open": 0,
@@ -8023,9 +7923,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/1062638515/spavelo",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag270",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag270/8726340",
@@ -8135,7 +8033,7 @@
         "United Arab Emirates"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 9,
       "C": 19,
       "I_open": 0,
@@ -8154,9 +8052,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/BaiDing1234/PertAdapt",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag307",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag307/8726320",
@@ -8263,7 +8159,7 @@
         "Canada"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 1,
       "C": 114,
       "I_open": 0,
@@ -8282,9 +8178,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/li-lab-mcgill/miRformer",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag222",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag222/8726332",
@@ -8429,7 +8323,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 5,
       "C": 25,
       "I_open": 0,
@@ -8449,9 +8343,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/tju-zl/CPS",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag218",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag218/8726342",
@@ -8580,7 +8472,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & spatial transcriptomics",
       "S": 6,
       "C": 19,
       "I_open": 0,
@@ -8599,9 +8491,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/PelenJiang/SIVA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag247",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag247/8726331",
@@ -8745,7 +8635,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 3,
       "C": 452,
       "I_open": 0,
@@ -8764,9 +8654,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Shao-Group/amaranth",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag292",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag292/8726313",
@@ -8908,7 +8796,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 4,
       "C": 25,
       "I_open": 0,
@@ -8928,9 +8816,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/rsinghlab/DRIFT",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag259",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag259/8726325",
@@ -9055,7 +8941,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 2,
       "C": 7,
       "I_open": 0,
@@ -9074,9 +8960,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/paolamalsot/destriping-GLM",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag306",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag306/8726321",
@@ -9324,7 +9208,7 @@
         "Germany"
       ],
       "M": false,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 6,
       "C": 874,
       "I_open": 38,
@@ -9343,9 +9227,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/nf-core/diseasemodulediscovery",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag223",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag223/8726292",
@@ -9530,7 +9412,7 @@
         "United Kingdom"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 0,
       "C": 27,
       "I_open": 0,
@@ -9550,9 +9432,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Bashford-Rogers-lab/vdjremix",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag326",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag326/8726345",
@@ -9659,7 +9539,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug discovery & binding prediction",
       "S": 12,
       "C": 17,
       "I_open": 0,
@@ -9678,9 +9558,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/Helix-Research-Lab/GATSBI-embedding",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag233",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag233/8726358",
@@ -9809,7 +9687,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 10,
       "C": 81,
       "I_open": 0,
@@ -9828,9 +9706,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-04",
       "github_repository": "https://github.com/raphael-group/MGW",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btag220",
     "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag220/8726335",

@@ -80,7 +80,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Gene network & chromatin integration",
     "S": 207,
     "C": 434,
     "I_open": 24,
@@ -99,9 +99,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/Noble-Lab/casanovo",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae218",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i410/7700854",

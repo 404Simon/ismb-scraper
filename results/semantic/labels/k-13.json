@@ -1,15 +1,15 @@
 {
-  "0": "Drug-target interaction prediction",
-  "1": "Drug discovery & protein prediction",
-  "2": "Spatial transcriptomics",
-  "3": "Molecular representation & multimodal learning",
-  "4": "Genetic perturbation modeling",
-  "5": "Protein function & stability prediction",
-  "6": "Genomic sequence algorithms",
-  "7": "Biomedical large language models",
-  "8": "Single-cell genomics & epigenomics",
-  "9": "Mass spectrometry proteomics",
-  "10": "Phylogenetics & sequence algorithms",
-  "11": "Viral taxonomy classification",
-  "12": "Protein-nucleic acid interactions"
+  "0": "Perturbation response modeling",
+  "1": "Graph-based biomedical prediction",
+  "2": "Evolutionary sequence analysis",
+  "3": "Metagenomics & microbial genomics",
+  "4": "Biomolecular interaction prediction",
+  "5": "RNA transcriptomics & design",
+  "6": "Protein & nucleic-acid binding prediction",
+  "7": "Single-cell & spatial transcriptomics",
+  "8": "Drug-target binding & docking",
+  "9": "Protein stability & function prediction",
+  "10": "Genomic data integration & representation",
+  "11": "Biomedical model evaluation",
+  "12": "Protein structure & function modeling"
 }

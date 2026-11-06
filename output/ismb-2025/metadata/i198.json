@@ -46,7 +46,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug-target interaction & response prediction",
     "S": 146,
     "C": 43,
     "I_open": 1,
@@ -65,9 +65,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/BioinfoMachineLearning/FlowDock",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf187",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i198/8199366",

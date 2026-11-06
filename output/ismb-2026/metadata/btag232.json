@@ -58,7 +58,7 @@
       "Israel"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 4,
     "C": 5,
     "I_open": 1,
@@ -77,9 +77,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/OrensteinLab/NPBIP",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag232",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag232/8726353",

@@ -58,7 +58,7 @@
       "South Korea"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug-target interaction & response prediction",
     "S": 0,
     "C": 24,
     "I_open": 0,
@@ -78,8 +78,7 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/knhc1234/FACT",
     "missing": [
-      "h_lead",
-      "T"
+      "h_lead"
     ]
   },
   "doi": "10.1093/bioinformatics/btaf184",

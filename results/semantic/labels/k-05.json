@@ -1,7 +1,7 @@
 {
-  "0": "Protein sequence & interaction prediction",
-  "1": "Genomic & molecular representation learning",
-  "2": "Spatial & single-cell transcriptomics",
-  "3": "Drug discovery & response prediction",
-  "4": "Omics data integration & modeling"
+  "0": "Genomic & protein predictive modeling",
+  "1": "Network-based systems biology",
+  "2": "Protein interaction & drug-target prediction",
+  "3": "Phylogenetics & sequence algorithms",
+  "4": "Viral genomics & metagenomics"
 }

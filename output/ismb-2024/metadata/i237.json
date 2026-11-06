@@ -68,7 +68,7 @@
       "Canada"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 1,
     "C": 38,
     "I_open": 0,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/bmarchand/rna_small_parsimony",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae229",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i237/7700894",

@@ -1,8 +1,8 @@
 {
-  "0": "Biomedical foundation models & representation learning",
-  "1": "Molecular interaction & property prediction",
-  "2": "Single-cell dynamics & spatial omics",
-  "3": "Protein function & interaction prediction",
-  "4": "Spatial transcriptomics & cell interactions",
-  "5": "Single-cell epigenomics & lineage analysis"
+  "0": "Protein function & variant effects",
+  "1": "Phylogenetics & sequence algorithms",
+  "2": "Single-cell & perturbation modeling",
+  "3": "Protein property prediction",
+  "4": "Drug discovery & molecular design",
+  "5": "Regulatory genomics & sequence modeling"
 }

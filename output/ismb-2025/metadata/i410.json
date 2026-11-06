@@ -71,7 +71,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 10,
     "C": 31,
     "I_open": 0,
@@ -90,9 +90,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ZhuLab-Fudan/GOAnnotator",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf199",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i410/8199377",

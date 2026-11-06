@@ -83,7 +83,7 @@
       "South Korea"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 1,
     "C": 4,
     "I_open": 0,
@@ -102,9 +102,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/wnsgk/AC-Active",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag302",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag302/8726304",

@@ -86,7 +86,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 2,
     "C": 28,
     "I_open": 0,
@@ -105,9 +105,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/gimelbrantlab/controlFreq",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad254",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i431/7210455",

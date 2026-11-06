@@ -57,7 +57,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & spatial transcriptomics",
     "S": 220,
     "C": 1103,
     "I_open": 25,
@@ -76,9 +76,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/COMBINE-lab/alevin-fry",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf234",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i237/8199381",

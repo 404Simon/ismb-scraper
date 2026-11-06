@@ -91,7 +91,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug-target interaction & response prediction",
     "S": 2,
     "C": 26,
     "I_open": 2,
@@ -110,9 +110,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ctestagrose/LLMTB",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf232",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i40/8199408",

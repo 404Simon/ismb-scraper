@@ -57,7 +57,7 @@
       "Finland"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 14,
     "C": 46,
     "I_open": 1,
@@ -76,9 +76,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/algbio/SRFAligner",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf225",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i265/8199399",

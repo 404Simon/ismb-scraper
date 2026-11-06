@@ -105,7 +105,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 4,
     "C": 55,
     "I_open": 1,
@@ -124,9 +124,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/AmpliconSuite/BFBArchitect",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag225",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag225/8726302",

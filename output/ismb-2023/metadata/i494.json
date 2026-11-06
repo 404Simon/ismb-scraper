@@ -114,7 +114,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 1,
     "C": 64,
     "I_open": 0,
@@ -133,9 +133,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/srtaheri/OptimalAdjustmentSet",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad270",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i494/7210500",

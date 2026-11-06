@@ -59,7 +59,7 @@
       "Poland"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 0,
     "C": 50,
     "I_open": 0,
@@ -78,9 +78,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/wdyrka-pwr/ASMscan",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf200",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i420/8199397",

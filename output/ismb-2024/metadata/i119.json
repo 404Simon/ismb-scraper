@@ -69,7 +69,7 @@
       "South Korea"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug-target interaction & response prediction",
     "S": 63,
     "C": 38,
     "I_open": 1,
@@ -88,9 +88,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/dmis-lab/self-biorag",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae238",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i119/7700892",

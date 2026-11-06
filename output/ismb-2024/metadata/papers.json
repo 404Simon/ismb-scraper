@@ -174,7 +174,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 0,
       "C": 6,
       "I_open": 0,
@@ -206,9 +206,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ISCBWikiTeam/spanish",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae247",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i11/7700879",
@@ -329,7 +327,7 @@
         "Slovenia"
       ],
       "M": false,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 5,
       "C": 12,
       "I_open": 0,
@@ -348,9 +346,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/IB-ULFRI/instructor-notes",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae208",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i20/7700875",
@@ -485,7 +481,7 @@
         "Singapore"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 71,
       "C": 206,
       "I_open": 0,
@@ -510,9 +506,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bluenote-1577/floria",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae252",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i30/7700908",
@@ -656,7 +650,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 3,
       "C": 234,
       "I_open": 0,
@@ -675,9 +669,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/M-Serajian/MTB-Pipeline",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae243",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i39/7700900",
@@ -793,7 +785,7 @@
         "France"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 47,
       "C": 263,
       "I_open": 2,
@@ -817,9 +809,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/imartayan/CBL",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae217",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i48/7700845",
@@ -1007,7 +997,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 10,
       "C": 41,
       "I_open": 3,
@@ -1026,9 +1016,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/treangenlab/rhea",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae224",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i58/7700881",
@@ -1143,7 +1131,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 9,
       "C": 138,
       "I_open": 0,
@@ -1162,9 +1150,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ZiyiHuang0708/SourceID-NMF",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae227",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i68/7700851",
@@ -1332,7 +1318,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Biomolecular structure modeling",
       "S": 2,
       "C": 35,
       "I_open": 0,
@@ -1351,9 +1337,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/lyotvincent/PhiHER2",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae236",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i79/7700888",
@@ -1485,7 +1469,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 6,
       "C": 7,
       "I_open": 0,
@@ -1504,9 +1488,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/sschrod/CODEX",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae261",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i91/7700898",
@@ -1722,7 +1704,7 @@
         "Norway"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": null,
       "C": null,
       "I_open": null,
@@ -1743,7 +1725,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -1996,7 +1977,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 1,
       "C": 27,
       "I_open": 0,
@@ -2015,9 +1996,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/pateltanvi2992/Analyzing-Facial-Expressions-with-Generative-AI-in-Clinical-Genetics",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae239",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i110/7700869",
@@ -2135,7 +2114,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 63,
       "C": 38,
       "I_open": 1,
@@ -2154,9 +2133,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/dmis-lab/self-biorag",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae238",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i119/7700892",
@@ -2271,7 +2248,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 8,
       "C": 11,
       "I_open": 1,
@@ -2290,9 +2267,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/eugenebang/CSG2A",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae249",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i130/7700850",
@@ -2494,7 +2469,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 5,
       "C": 514,
       "I_open": 0,
@@ -2513,9 +2488,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/cbg-ethz/metMHN",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae250",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i140/7700849",
@@ -2619,7 +2592,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 4,
       "C": 12,
       "I_open": 0,
@@ -2638,9 +2611,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/euxhenh/Truffle",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae241",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i151/7700864",
@@ -2748,7 +2719,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 1,
       "C": 11,
       "I_open": 0,
@@ -2767,9 +2738,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/pgwall/qms",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae209",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i160/7700872",
@@ -2874,7 +2843,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 5,
       "C": 53,
       "I_open": 0,
@@ -2893,9 +2862,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bozdaglab/TA-RNN",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae264",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i169/7700905",
@@ -3010,7 +2977,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 9,
       "C": 92,
       "I_open": 0,
@@ -3029,9 +2996,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/cbg-ethz/oncotree2vec",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae214",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i180/7700847",
@@ -3366,7 +3331,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 2,
       "C": 8,
       "I_open": 0,
@@ -3385,9 +3350,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ratschlab/path-fa",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae216",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i189/7700877",
@@ -3526,7 +3489,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 7,
       "C": 6,
       "I_open": 2,
@@ -3545,9 +3508,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/IBM/matilda",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae235",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i199/7700884",
@@ -3684,7 +3645,7 @@
         "Israel"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 1,
       "C": 215,
       "I_open": 0,
@@ -3703,9 +3664,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/noaeker/bootstrap_repo",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae255",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i208/7700891",
@@ -3824,7 +3783,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 10,
       "C": 20,
       "I_open": 5,
@@ -3843,9 +3802,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/raphael-group/MERLIN",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae231",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i218/7700844",
@@ -3955,7 +3912,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 1,
       "C": 89,
       "I_open": 0,
@@ -3974,9 +3931,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/raphael-group/MOLLUSC",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae221",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i228/7700871",
@@ -4098,7 +4053,7 @@
         "Canada"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 1,
       "C": 38,
       "I_open": 0,
@@ -4117,9 +4072,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bmarchand/rna_small_parsimony",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae229",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i237/7700894",
@@ -4309,7 +4262,7 @@
         "Switzerland"
       ],
       "M": false,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 2,
       "C": 5,
       "I_open": 0,
@@ -4333,9 +4286,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ratschlab/AKI-EWS",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae212",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i247/7700890",
@@ -4471,7 +4422,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Biomolecular structure modeling",
       "S": 3,
       "C": 8,
       "I_open": 0,
@@ -4490,9 +4441,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/lkytal/SpecEncoder",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae220",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i257/7700866",
@@ -4644,7 +4593,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 59,
       "C": 42,
       "I_open": 0,
@@ -4663,9 +4612,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/gersteinlab/BioCoder",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae230",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i266/7700865",
@@ -4796,7 +4743,7 @@
         "Australia"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 3,
       "C": 129,
       "I_open": 0,
@@ -4815,9 +4762,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/santule/indelmip",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae254",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i277/7700856",
@@ -4957,7 +4902,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 7,
       "C": 77,
       "I_open": 2,
@@ -4976,9 +4921,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/vikshiv/sigmoni",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae213",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i287/7700860",
@@ -5107,7 +5050,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 8,
       "C": 7,
       "I_open": 0,
@@ -5126,9 +5069,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/COMBINE-lab/forseti",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae207",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i297/7700855",
@@ -5236,7 +5177,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 9,
       "C": 1053,
       "I_open": 2,
@@ -5255,9 +5196,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Shao-Group/aletsch",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae215",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i307/7700882",
@@ -5407,7 +5346,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 1,
       "C": 49,
       "I_open": 4,
@@ -5426,9 +5365,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Shao-Group/lsb-learn",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae228",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i318/7700858",
@@ -5559,7 +5496,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 4,
       "C": 21,
       "I_open": 0,
@@ -5578,9 +5515,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ilanshom/adaptiveMSA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae225",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i328/7700885",
@@ -5726,7 +5661,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 3,
       "C": 76,
       "I_open": 0,
@@ -5745,9 +5680,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ratschlab/mla",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae226",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i337/7700889",
@@ -5891,7 +5824,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Biomolecular structure modeling",
       "S": 57,
       "C": 9,
       "I_open": 0,
@@ -5910,9 +5843,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ml4bio/RiboDiffusion",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae259",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i347/7700903",
@@ -6032,7 +5963,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 27,
       "C": 21,
       "I_open": 2,
@@ -6051,9 +5982,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/gersteinlab/MolLM",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae260",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902",
@@ -6224,7 +6153,7 @@
         "South Korea"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 6,
       "C": 8,
       "I_open": 0,
@@ -6243,9 +6172,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/dmis-lab/MolPLA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae256",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i369/7700868",
@@ -6388,7 +6315,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 2,
       "C": 6,
       "I_open": 0,
@@ -6407,9 +6334,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/WangLabTHU/combmotif",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae262",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i381/7700897",
@@ -6534,7 +6459,7 @@
         "Australia"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 0,
       "C": 18,
       "I_open": 0,
@@ -6554,9 +6479,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jiyuc/de-inconsistency",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae246",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i390/7700907",
@@ -6677,7 +6600,7 @@
         "Saudi Arabia"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein function & interaction prediction",
       "S": 4,
       "C": 81,
       "I_open": 1,
@@ -6696,9 +6619,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bio-ontology-research-group/PU-GO",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae237",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i401/7700893",
@@ -6823,7 +6744,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 207,
       "C": 434,
       "I_open": 24,
@@ -6842,9 +6763,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Noble-Lab/casanovo",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae218",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i410/7700854",
@@ -6970,7 +6889,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Biomolecular structure modeling",
       "S": 25,
       "C": 51,
       "I_open": 7,
@@ -6989,9 +6908,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ak422/DDAffinity",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae232",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i418/7700870",
@@ -7090,7 +7007,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 1,
       "C": 158,
       "I_open": 0,
@@ -7109,9 +7026,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/shawn-peng/xlms",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae233",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i428/7700896",
@@ -7235,7 +7150,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 5,
       "C": 31,
       "I_open": 0,
@@ -7254,9 +7169,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/automl/learna_tools",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae222",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i437/7700895",
@@ -7367,7 +7280,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 0,
       "C": 105,
       "I_open": 0,
@@ -7388,8 +7301,7 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/nitzanlab/trajectory_reconstruction_tradeoff",
       "missing": [
-        "h_lead",
-        "T"
+        "h_lead"
       ]
     },
     "doi": "10.1093/bioinformatics/btae258",
@@ -7514,7 +7426,7 @@
         "United Arab Emirates"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 15,
       "C": 12,
       "I_open": 2,
@@ -7533,9 +7445,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BaiDing1234/AttentionPert",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae244",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i453/7700899",
@@ -7641,7 +7551,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 5,
       "C": 17,
       "I_open": 0,
@@ -7660,9 +7570,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/hliulab/cycleCDR",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae248",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i462/7700878",
@@ -7878,7 +7786,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 9,
       "C": 20,
       "I_open": 2,
@@ -7897,9 +7805,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/CHNFTQ/Capricorn",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae211",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i471/7700867",
@@ -8025,7 +7931,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 6,
       "C": 78,
       "I_open": 1,
@@ -8044,9 +7950,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/raphael-group/copulacci",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae219",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859",
@@ -8160,7 +8064,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 7,
       "C": 44,
       "I_open": 1,
@@ -8179,9 +8083,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/rsinghlab/scGrapHiC",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae223",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i490/7700876",
@@ -8322,7 +8224,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 1,
       "C": 5,
       "I_open": 0,
@@ -8341,9 +8243,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BorgwardtLab/spinoptmmd",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae251",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i501/7700883",
@@ -8486,7 +8386,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 4,
       "C": 15,
       "I_open": 0,
@@ -8505,9 +8405,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/genemine/DISHyper",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae257",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i511/7700842",
@@ -8608,7 +8506,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 8,
       "C": 6,
       "I_open": 1,
@@ -8627,9 +8525,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/sunericd/SPRITE",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae253",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i521/7700857",
@@ -8746,7 +8642,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 4,
       "C": 54,
       "I_open": 0,
@@ -8765,9 +8661,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/kuanglab/GraphTucker",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae245",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i529/7700901",
@@ -8903,7 +8797,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 2,
       "C": 15,
       "I_open": 0,
@@ -8924,9 +8818,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/daydayupzzl/HeteroDTA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae240",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i539/7700904",
@@ -9099,7 +8991,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 39,
       "C": 95,
       "I_open": 2,
@@ -9118,9 +9010,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/theislab/graphcompass",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae242",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i548/7700863",
@@ -9235,7 +9125,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 282,
       "C": 1628,
       "I_open": 137,
@@ -9254,9 +9144,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ICB-DCM/pyPESTO",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae210",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i558/7700886",
@@ -9366,7 +9254,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Gene network & chromatin integration",
       "S": 2,
       "C": 237,
       "I_open": 1,
@@ -9385,9 +9273,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/yangymargaret/REUNION",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btae234",
     "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i567/7700880",

@@ -59,7 +59,7 @@
       "United Kingdom"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein function & interaction prediction",
     "S": 5,
     "C": 35,
     "I_open": 0,
@@ -78,9 +78,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/Nik-BB/Understanding_DRP_models",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf255",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i142/8199361",

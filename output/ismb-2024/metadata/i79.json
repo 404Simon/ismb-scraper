@@ -95,7 +95,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Biomolecular structure modeling",
     "S": 2,
     "C": 35,
     "I_open": 0,
@@ -114,9 +114,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/lyotvincent/PhiHER2",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae236",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i79/7700888",

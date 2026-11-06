@@ -1,12 +1,12 @@
 {
-  "0": "Biomolecular interaction prediction",
-  "1": "Protein function & stability prediction",
-  "2": "Spatial transcriptomics",
-  "3": "Graph-based biomedical prediction",
-  "4": "Perturbation response modeling",
-  "5": "Genome sequence analysis & indexing",
-  "6": "LLM-based biomedical reasoning",
-  "7": "Protein & RNA structure design",
-  "8": "MicroRNA interaction prediction",
-  "9": "Single-cell & epigenomic analysis"
+  "0": "Protein & genomic representation learning",
+  "1": "Phylogenetics & sequence algorithms",
+  "2": "Biomolecular interaction prediction",
+  "3": "Single-cell & spatial transcriptomics",
+  "4": "Gene regulatory network inference",
+  "5": "Phage & viral genomics",
+  "6": "RNA design & transcriptome analysis",
+  "7": "Genetic perturbation modeling",
+  "8": "Metagenomic binning & long-read analysis",
+  "9": "Probabilistic modeling & inference"
 }

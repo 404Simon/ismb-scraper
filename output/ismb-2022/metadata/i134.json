@@ -116,7 +116,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Biomolecular structure modeling",
     "S": null,
     "C": null,
     "I_open": null,
@@ -137,7 +137,6 @@
     "snapshot_date": "2026-11-05",
     "github_repository": null,
     "missing": [
-      "T",
       "S",
       "C",
       "I_open",

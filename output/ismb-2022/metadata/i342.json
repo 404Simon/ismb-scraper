@@ -33,7 +33,7 @@
       "Germany"
     ],
     "M": true,
-    "T": null,
+    "T": "Phylogenetics & tree-based inference",
     "S": null,
     "C": null,
     "I_open": null,
@@ -48,7 +48,6 @@
     "github_repository": null,
     "missing": [
       "h_lead",
-      "T",
       "S",
       "C",
       "I_open",

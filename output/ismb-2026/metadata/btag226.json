@@ -46,7 +46,7 @@
       "Israel"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 1,
     "C": 52,
     "I_open": 0,
@@ -66,8 +66,7 @@
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/burstein-lab/BioTokenizers",
     "missing": [
-      "h_lead",
-      "T"
+      "h_lead"
     ]
   },
   "doi": "10.1093/bioinformatics/btag226",

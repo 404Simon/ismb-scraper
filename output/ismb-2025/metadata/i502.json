@@ -46,7 +46,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & spatial transcriptomics",
     "S": 2,
     "C": 85,
     "I_open": 0,
@@ -65,9 +65,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/JiaRuofan/Detection-of-Cell-type-specific-DMRs-in-EWAS",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf243",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i502/8199367",

@@ -59,7 +59,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 38,
     "C": 157,
     "I_open": 0,
@@ -78,9 +78,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/AI-sandbox/ADAMIXTURE",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag236",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag236/8726296",

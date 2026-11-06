@@ -33,7 +33,7 @@
       "Italy"
     ],
     "M": true,
-    "T": null,
+    "T": "Microbial genomics & metagenomics",
     "S": 108,
     "C": 634,
     "I_open": 0,
@@ -47,8 +47,7 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/jermp/sshash",
     "missing": [
-      "h_lead",
-      "T"
+      "h_lead"
     ]
   },
   "doi": "10.1093/bioinformatics/btac245",

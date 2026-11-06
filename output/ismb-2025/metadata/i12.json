@@ -222,7 +222,7 @@
       "United States"
     ],
     "M": false,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 1,
     "C": 6,
     "I_open": 2,
@@ -254,9 +254,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/lubianat/compbio-on-wiki",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf216",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i12/8199389",

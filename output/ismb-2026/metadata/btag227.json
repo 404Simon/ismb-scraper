@@ -124,7 +124,7 @@
       "China"
     ],
     "M": false,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 13,
     "C": 12,
     "I_open": 1,
@@ -143,9 +143,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/EperLuo/BaisBench",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag227",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag227/8726318",

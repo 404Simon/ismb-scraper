@@ -46,7 +46,7 @@
       "Canada"
     ],
     "M": true,
-    "T": null,
+    "T": "Gene network & chromatin integration",
     "S": 10,
     "C": 39,
     "I_open": 0,
@@ -65,9 +65,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/BlanchetteLab/RefHiC",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad266",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i386/7210428",

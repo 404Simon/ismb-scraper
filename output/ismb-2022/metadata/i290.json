@@ -55,7 +55,7 @@
       "Switzerland"
     ],
     "M": true,
-    "T": null,
+    "T": "Microbial genomics & metagenomics",
     "S": 49,
     "C": 129,
     "I_open": 15,
@@ -75,9 +75,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/wmacnair/psupertime",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btac227",
   "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i290/6617492",

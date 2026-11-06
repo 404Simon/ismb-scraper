@@ -90,7 +90,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 10,
     "C": 33,
     "I_open": 1,
@@ -110,9 +110,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/FuchuanQu/GiantHunter",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf239",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i30/8199392",

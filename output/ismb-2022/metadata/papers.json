@@ -69,7 +69,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 0,
       "C": 2,
       "I_open": 0,
@@ -88,9 +88,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/xiutianxi/robust-genomic-fp-github",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac243",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i143/6617498",
@@ -233,7 +231,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 26,
       "C": 1510,
       "I_open": 63,
@@ -252,9 +250,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/carpentries-incubator/ml4bio-workshop",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac233",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i10/6617510",
@@ -621,7 +617,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": null,
       "C": null,
       "I_open": null,
@@ -643,7 +639,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -741,7 +736,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 41,
       "C": 318,
       "I_open": 13,
@@ -760,9 +755,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/dkoslicki/CMash",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac237",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i28/6617499",
@@ -899,7 +892,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 3,
       "C": 14,
       "I_open": 0,
@@ -919,9 +912,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/HectorRDB/Caldera_ISMB",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac238",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i36/6617517",
@@ -1040,7 +1031,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 3,
       "C": 36,
       "I_open": 0,
@@ -1059,9 +1050,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/tianqitang1/ContigNet",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac239",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i45/6617519",
@@ -1196,7 +1185,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 3,
       "C": 110,
       "I_open": 0,
@@ -1215,9 +1204,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/ytabatabaee/QR-STAR",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac224",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i109/6617518",
@@ -1383,7 +1370,7 @@
         "Israel"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 2,
       "C": 257,
       "I_open": 0,
@@ -1402,9 +1389,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/noaeker/lasso_positions_sampling",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac252",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i118/6617489",
@@ -1517,7 +1502,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 21,
       "C": 129,
       "I_open": 1,
@@ -1536,9 +1521,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/CMUSchwartzLab/TUSV-ext",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac253",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i125/6617488",
@@ -1714,7 +1697,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Biomolecular structure modeling",
       "S": null,
       "C": null,
       "I_open": null,
@@ -1735,7 +1718,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -1851,7 +1833,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Genomic variation & sequence analysis",
       "S": 13,
       "C": 47,
       "I_open": 0,
@@ -1870,9 +1852,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/CostaLab/MOJITOO",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac220",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520",
@@ -1994,7 +1974,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 49,
       "C": 129,
       "I_open": 15,
@@ -2014,9 +1994,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/wmacnair/psupertime",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac227",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i290/6617492",
@@ -2126,7 +2104,7 @@
         "Canada"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 3,
       "C": 31,
       "I_open": 1,
@@ -2145,9 +2123,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BlanchetteLab/PhyloPGM",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac259",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i299/6617503",
@@ -2244,7 +2220,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 6,
       "C": 35,
       "I_open": 1,
@@ -2263,9 +2239,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/WangLabTHU/MeConcord",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac248",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i307/6617534",
@@ -2420,7 +2394,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 6,
       "C": 1,
       "I_open": 0,
@@ -2439,9 +2413,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/sciai-lab/DTAE",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac249",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i316/6617527",
@@ -2665,7 +2637,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": null,
       "C": null,
       "I_open": null,
@@ -2685,7 +2657,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -2862,7 +2833,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 11,
       "C": 12,
       "I_open": 0,
@@ -2881,9 +2852,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/CMUSchwartzLab/RADs",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac262",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i386/6617536",
@@ -2997,7 +2966,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 4,
       "C": 24,
       "I_open": 0,
@@ -3016,9 +2985,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/murphy17/HPA-SimCLR",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac263",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i395/6617512",
@@ -3124,7 +3091,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 1,
       "C": 12,
       "I_open": 0,
@@ -3143,9 +3110,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Kingsford-Group/gtedemedtest",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac264",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i404/6617532",
@@ -3235,7 +3200,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Single-cell & transcriptomic modeling",
       "S": 7,
       "C": 28,
       "I_open": 2,
@@ -3255,9 +3220,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/maryamrabiee/quco",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac265",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i413/6617531",
@@ -3406,7 +3369,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": null,
       "C": null,
       "I_open": null,
@@ -3426,7 +3389,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -3618,7 +3580,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 20,
       "C": 29,
       "I_open": 1,
@@ -3637,9 +3599,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/sschrod/BITES",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac221",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i60/6617509",
@@ -3747,7 +3707,7 @@
         "Japan"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": null,
       "C": null,
       "I_open": null,
@@ -3767,7 +3727,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -3893,7 +3852,7 @@
         "Türkiye"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 1,
       "C": 7,
       "I_open": 0,
@@ -3913,9 +3872,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/begumbektas/makl",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac241",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i77/6617523",
@@ -4065,7 +4022,7 @@
         "Canada"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": 11,
       "C": 6,
       "I_open": 0,
@@ -4094,9 +4051,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bowang-lab/CONCERTO",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac266",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i84/6617525",
@@ -4212,7 +4167,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": null,
       "C": null,
       "I_open": null,
@@ -4233,7 +4188,6 @@
       "github_repository": null,
       "missing": [
         "h_lead",
-        "T",
         "S",
         "C",
         "I_open",
@@ -4433,7 +4387,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Drug-target interaction & response prediction",
       "S": 2,
       "C": 8,
       "I_open": 0,
@@ -4452,9 +4406,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/BorgwardtLab/MODS-recovery",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac229",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i101/6617486",
@@ -4608,7 +4560,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 4,
       "C": 62,
       "I_open": 2,
@@ -4627,9 +4579,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/dubingxue/MLGL-MP",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac222",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i325/6617514",
@@ -4758,7 +4708,7 @@
         "Japan"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 3,
       "C": 6,
       "I_open": 0,
@@ -4777,9 +4727,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/anhnda/SPARSE",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac250",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i333/6617516",
@@ -4852,7 +4800,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": null,
       "C": null,
       "I_open": null,
@@ -4867,7 +4815,6 @@
       "github_repository": null,
       "missing": [
         "h_lead",
-        "T",
         "S",
         "C",
         "I_open",
@@ -5020,7 +4967,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 7,
       "C": 29,
       "I_open": 0,
@@ -5039,9 +4986,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/srtaheri/LVMwithDoCalculus",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac251",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i350/6617530",
@@ -5171,7 +5116,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Perturbation response modeling",
       "S": 1,
       "C": 14,
       "I_open": 0,
@@ -5191,9 +5136,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/aimed-lab/DEMA",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac261",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i359/6617529",
@@ -5302,7 +5245,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 100,
       "C": 278,
       "I_open": 4,
@@ -5321,9 +5264,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/Murali-group/halp",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac231",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i369/6617500",
@@ -5443,7 +5384,7 @@
         "China"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 17,
       "C": 7,
       "I_open": 1,
@@ -5462,9 +5403,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/yourh/DeepMHCII",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac225",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i220/6617501",
@@ -5574,7 +5513,7 @@
         "Australia"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": null,
       "C": null,
       "I_open": null,
@@ -5594,7 +5533,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -5689,7 +5627,7 @@
         "Saudi Arabia"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 34,
       "C": 18,
       "I_open": 4,
@@ -5708,9 +5646,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/bio-ontology-research-group/deepgozero",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac256",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i238/6617515",
@@ -5824,7 +5760,7 @@
         "Switzerland"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 5,
       "C": 167,
       "I_open": 3,
@@ -5843,9 +5779,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/phineasng/DECODE",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac257",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i246/6617535",
@@ -6019,7 +5953,7 @@
         "Australia"
       ],
       "M": false,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": null,
       "C": null,
       "I_open": null,
@@ -6039,7 +5973,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -6171,7 +6104,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Protein structure & mutational effect prediction",
       "S": null,
       "C": null,
       "I_open": null,
@@ -6192,7 +6125,6 @@
       "snapshot_date": "2026-11-05",
       "github_repository": null,
       "missing": [
-        "T",
         "S",
         "C",
         "I_open",
@@ -6315,7 +6247,7 @@
         "Australia"
       ],
       "M": true,
-      "T": null,
+      "T": "Phylogenetics & tree-based inference",
       "S": 0,
       "C": 12,
       "I_open": 0,
@@ -6334,9 +6266,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jiyuc/AutoGOAConsistency",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac230",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i273/6617491",
@@ -6461,7 +6391,7 @@
         "Germany"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 114,
       "C": 181,
       "I_open": 0,
@@ -6480,9 +6410,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/sirselim/jetson_nanopore_sequencing",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac223",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i153/6617484",
@@ -6621,7 +6549,7 @@
         "United States"
       ],
       "M": false,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 1,
       "C": 30,
       "I_open": 0,
@@ -6640,9 +6568,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/medvedevgroup/minimizer-jaccard-estimator",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac244",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i169/6617497",
@@ -6795,7 +6721,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 15,
       "C": 77,
       "I_open": 5,
@@ -6815,9 +6741,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jnalanko/syotti",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac226",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i177/6617487",
@@ -6901,7 +6825,7 @@
         "Italy"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 108,
       "C": 634,
       "I_open": 0,
@@ -6915,8 +6839,7 @@
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/jermp/sshash",
       "missing": [
-        "h_lead",
-        "T"
+        "h_lead"
       ]
     },
     "doi": "10.1093/bioinformatics/btac245",
@@ -7073,7 +6996,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 2,
       "C": 192,
       "I_open": 0,
@@ -7092,9 +7015,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/NakhlehLab/Phylovar",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac254",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i195/6617481",
@@ -7204,7 +7125,7 @@
         "United States"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 3,
       "C": 6,
       "I_open": 0,
@@ -7224,9 +7145,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/fmfi-compbio/mc-overlaps",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac255",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i203/6617480",
@@ -7337,7 +7256,7 @@
         "Netherlands"
       ],
       "M": true,
-      "T": null,
+      "T": "Microbial genomics & metagenomics",
       "S": 16,
       "C": 59,
       "I_open": 4,
@@ -7356,9 +7275,7 @@
     "metrics_meta": {
       "snapshot_date": "2026-11-05",
       "github_repository": "https://github.com/UMCUGenetics/PolarMorphism",
-      "missing": [
-        "T"
-      ]
+      "missing": []
     },
     "doi": "10.1093/bioinformatics/btac228",
     "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i212/6617483",

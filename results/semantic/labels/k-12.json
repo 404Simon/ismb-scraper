@@ -1,14 +1,14 @@
 {
-  "0": "Single-cell & spatial omics",
-  "1": "Sequence analysis & phylogenetics",
-  "2": "Protein function & stability prediction",
-  "3": "Drug-target interaction & discovery",
-  "4": "Drug response & perturbation prediction",
-  "5": "Long-read sequencing analysis",
-  "6": "Single-cell transcriptomics & epigenomics",
-  "7": "Biological interaction & network prediction",
-  "8": "Diffusion models for biomolecular design",
-  "9": "Network medicine & biomarker discovery",
-  "10": "Biological sequence embedding & metric learning",
-  "11": "Phylogenetic networks & fitness inference"
+  "0": "Protein structure & mutational effect prediction",
+  "1": "Perturbation response modeling",
+  "2": "Genomic variation & sequence analysis",
+  "3": "Drug discovery & binding prediction",
+  "4": "Phylogenetics & tree-based inference",
+  "5": "Microbial genomics & metagenomics",
+  "6": "Single-cell & transcriptomic modeling",
+  "7": "Single-cell & spatial transcriptomics",
+  "8": "Drug-target interaction & response prediction",
+  "9": "Gene network & chromatin integration",
+  "10": "Protein function & interaction prediction",
+  "11": "Biomolecular structure modeling"
 }

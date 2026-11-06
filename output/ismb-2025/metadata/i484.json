@@ -79,7 +79,7 @@
       "Germany"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 5,
     "C": 164,
     "I_open": 0,
@@ -99,9 +99,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/TheMody/GeneDiffusion",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf209",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i484/8199400",

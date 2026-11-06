@@ -1,6 +1,6 @@
 {
-  "0": "Genomics & protein modeling",
-  "1": "Protein function & interaction prediction",
-  "2": "Spatial transcriptomics",
-  "3": "Drug discovery & response prediction"
+  "0": "Phylogenetics & sequence algorithms",
+  "1": "Single-cell & spatial omics",
+  "2": "Protein function & drug discovery",
+  "3": "Protein structure & interaction analysis"
 }

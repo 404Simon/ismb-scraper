@@ -58,7 +58,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 6,
     "C": 128,
     "I_open": 0,
@@ -77,9 +77,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/chrishil1/ChromDL",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad217",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i377/7210509",

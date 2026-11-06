@@ -1,5 +1,5 @@
 {
-  "label_input_hash": "49d5d09bc77cd66e4c14dff48878f9f66014b76b1e6c7c192d13fb813cfe0111",
+  "label_input_hash": "4fa5356f6792b7970709fb3bc3065e10097df3b91077327f3a5e418fefc06e63",
   "model": "opencode-go/deepseek-v4.1-flash",
   "agent": "semantic-labeler",
   "agent_hash": "bfee8f7f176dfc8d89dbc4c31f50fc6dd7243834f9412f4ebf7b6c8c8c2a2e68",

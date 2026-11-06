@@ -80,7 +80,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 1,
     "C": 49,
     "I_open": 4,
@@ -99,9 +99,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/Shao-Group/lsb-learn",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae228",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i318/7700858",

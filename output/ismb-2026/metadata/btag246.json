@@ -60,7 +60,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 9,
     "C": 321,
     "I_open": 0,
@@ -79,9 +79,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/shanry/RNA-Undesign",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag246",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag246/8726360",

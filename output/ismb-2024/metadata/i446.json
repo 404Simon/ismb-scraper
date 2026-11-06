@@ -61,7 +61,7 @@
       "United States"
     ],
     "M": false,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 0,
     "C": 105,
     "I_open": 0,
@@ -82,8 +82,7 @@
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/nitzanlab/trajectory_reconstruction_tradeoff",
     "missing": [
-      "h_lead",
-      "T"
+      "h_lead"
     ]
   },
   "doi": "10.1093/bioinformatics/btae258",

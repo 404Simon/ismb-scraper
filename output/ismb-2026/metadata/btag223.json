@@ -196,7 +196,7 @@
       "Germany"
     ],
     "M": false,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 6,
     "C": 874,
     "I_open": 38,
@@ -215,9 +215,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/nf-core/diseasemodulediscovery",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag223",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag223/8726292",

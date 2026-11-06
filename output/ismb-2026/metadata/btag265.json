@@ -68,7 +68,7 @@
       "Türkiye"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & spatial transcriptomics",
     "S": 3,
     "C": 18,
     "I_open": 1,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/boun-tabi-lifelu/puffin",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag265",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag265/8726308",

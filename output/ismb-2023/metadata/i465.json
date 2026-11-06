@@ -57,7 +57,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 8,
     "C": 4,
     "I_open": 1,
@@ -76,9 +76,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/luo-group/GraNA",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad241",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i465/7210461",

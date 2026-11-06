@@ -88,7 +88,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 148,
     "C": 57,
     "I_open": 16,
@@ -108,9 +108,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ai4protein/VenusREM",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf189",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i401/8199374",

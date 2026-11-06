@@ -68,7 +68,7 @@
       "Netherlands"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 8,
     "C": 62,
     "I_open": 0,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/pephco/ASDEC",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad265",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i194/7210429",

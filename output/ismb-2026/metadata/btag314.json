@@ -91,7 +91,7 @@
       "South Korea"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein function & interaction prediction",
     "S": 2,
     "C": 6,
     "I_open": 1,
@@ -110,9 +110,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/dmis-lab/ATTNSOM",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag314",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag314/8726294",

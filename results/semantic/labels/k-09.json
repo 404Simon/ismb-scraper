@@ -1,11 +1,11 @@
 {
-  "0": "Single-cell & spatial omics",
-  "1": "Phylogenetics & sequence algorithms",
-  "2": "Protein function & stability prediction",
-  "3": "Drug-target interaction & affinity prediction",
-  "4": "Protein interaction & binding prediction",
-  "5": "Genomic sequence analysis",
-  "6": "Drug response & perturbation modeling",
-  "7": "Single-cell transcriptomics & epigenomics",
-  "8": "Biomedical graph representation learning"
+  "0": "Genomic & protein representation learning",
+  "1": "Single-cell & spatial transcriptomics",
+  "2": "Sequence analysis & phylogenetics",
+  "3": "Gene regulatory network inference",
+  "4": "Biomolecular interaction prediction",
+  "5": "Drug-target & therapeutic response prediction",
+  "6": "Drug discovery & molecular design",
+  "7": "Genomics & transcriptomics analysis",
+  "8": "Protein structure & function prediction"
 }

@@ -69,7 +69,7 @@
       "Australia"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 0,
     "C": 18,
     "I_open": 0,
@@ -89,9 +89,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/jiyuc/de-inconsistency",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae246",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i390/7700907",

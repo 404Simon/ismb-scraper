@@ -107,7 +107,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & spatial transcriptomics",
     "S": 4,
     "C": 13,
     "I_open": 1,
@@ -127,9 +127,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/lyotvincent/CUCA",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf201",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i115/8199364",

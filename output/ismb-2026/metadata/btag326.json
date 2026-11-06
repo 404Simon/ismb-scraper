@@ -116,7 +116,7 @@
       "United Kingdom"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 0,
     "C": 27,
     "I_open": 0,
@@ -136,9 +136,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/Bashford-Rogers-lab/vdjremix",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag326",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag326/8726345",

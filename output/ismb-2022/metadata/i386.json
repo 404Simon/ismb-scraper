@@ -115,7 +115,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 11,
     "C": 12,
     "I_open": 0,
@@ -134,9 +134,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/CMUSchwartzLab/RADs",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btac262",
   "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i386/6617536",

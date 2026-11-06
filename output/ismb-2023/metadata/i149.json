@@ -77,7 +77,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Biomolecular structure modeling",
     "S": 7,
     "C": 93,
     "I_open": 2,
@@ -96,9 +96,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/bozdaglab/PPAD",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad249",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i149/7210436",

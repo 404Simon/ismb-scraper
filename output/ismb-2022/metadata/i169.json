@@ -83,7 +83,7 @@
       "United States"
     ],
     "M": false,
-    "T": null,
+    "T": "Microbial genomics & metagenomics",
     "S": 1,
     "C": 30,
     "I_open": 0,
@@ -102,9 +102,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/medvedevgroup/minimizer-jaccard-estimator",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btac244",
   "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i169/6617497",

@@ -106,7 +106,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 6,
     "C": 54,
     "I_open": 0,
@@ -125,9 +125,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/xuyp-csu/CellBRF",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad216",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i368/7210499",

@@ -68,7 +68,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Microbial genomics & metagenomics",
     "S": 10,
     "C": 20,
     "I_open": 5,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/raphael-group/MERLIN",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae231",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i218/7700844",

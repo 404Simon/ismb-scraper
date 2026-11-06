@@ -42,7 +42,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Microbial genomics & metagenomics",
     "S": 6,
     "C": 35,
     "I_open": 1,
@@ -61,9 +61,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/WangLabTHU/MeConcord",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btac248",
   "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i307/6617534",

@@ -47,7 +47,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 108,
     "C": 634,
     "I_open": 0,
@@ -67,9 +67,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/jermp/sshash",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag264",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag264/8726351",

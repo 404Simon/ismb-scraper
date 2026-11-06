@@ -114,7 +114,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 10,
     "C": 41,
     "I_open": 3,
@@ -133,9 +133,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/treangenlab/rhea",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae224",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i58/7700881",

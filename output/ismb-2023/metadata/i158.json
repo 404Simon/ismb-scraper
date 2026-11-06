@@ -83,7 +83,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 6,
     "C": 10,
     "I_open": 1,
@@ -102,9 +102,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/JieZheng-ShanghaiTech/KR4SL",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad261",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i158/7210467",

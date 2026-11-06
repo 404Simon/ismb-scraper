@@ -68,7 +68,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Microbial genomics & metagenomics",
     "S": null,
     "C": null,
     "I_open": null,
@@ -89,7 +89,6 @@
     "github_repository": null,
     "missing": [
       "h_lead",
-      "T",
       "S",
       "C",
       "I_open",

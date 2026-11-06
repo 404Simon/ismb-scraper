@@ -68,7 +68,7 @@
       "Canada"
     ],
     "M": true,
-    "T": null,
+    "T": "Phylogenetics & tree-based inference",
     "S": 3,
     "C": 31,
     "I_open": 1,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/BlanchetteLab/PhyloPGM",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btac259",
   "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i299/6617503",

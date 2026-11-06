@@ -57,7 +57,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 9,
     "C": 138,
     "I_open": 0,
@@ -76,9 +76,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ZiyiHuang0708/SourceID-NMF",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae227",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i68/7700851",

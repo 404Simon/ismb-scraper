@@ -79,7 +79,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & spatial transcriptomics",
     "S": 0,
     "C": 19,
     "I_open": 1,
@@ -98,9 +98,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/raphael-group/spatial_anomaly_detection",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf242",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i493/8199368",

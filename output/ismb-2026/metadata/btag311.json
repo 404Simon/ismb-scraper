@@ -69,7 +69,7 @@
       "Jordan"
     ],
     "M": false,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 0,
     "C": 6,
     "I_open": 0,
@@ -89,9 +89,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/AnonymousISCBConf/Win-Win-Privacy-Utility-Analysis",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag311",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag311/8726355",

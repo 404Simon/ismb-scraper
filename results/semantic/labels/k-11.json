@@ -1,13 +1,13 @@
 {
-  "0": "Spatial & single-cell transcriptomics",
-  "1": "Phylogenetics & ancestry inference",
-  "2": "Protein function and interaction prediction",
-  "3": "Drug response & target discovery",
-  "4": "Genomic sequence algorithms & indexing",
-  "5": "Protein-ligand & drug-target interactions",
-  "6": "Biomedical language models",
-  "7": "Single-cell multi-omics & lineage",
-  "8": "microRNA-target interaction prediction",
-  "9": "Generative protein & RNA design",
-  "10": "Evolutionary inference & sequence algorithms"
+  "0": "Genomics & proteomics",
+  "1": "Protein interaction & drug discovery",
+  "2": "Phylogenetics & sequence algorithms",
+  "3": "Omics predictive modeling",
+  "4": "Single-cell & spatial omics",
+  "5": "Network-based interaction modeling",
+  "6": "Transcriptomics & RNA design",
+  "7": "Genetic perturbation modeling",
+  "8": "Protein function & stability prediction",
+  "9": "Graph & tree-structured modeling",
+  "10": "Interpretable network & tree modeling"
 }

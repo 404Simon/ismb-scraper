@@ -47,7 +47,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 0,
     "C": 93,
     "I_open": 0,
@@ -66,9 +66,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/vibansal-lab/edgecopy",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag221",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag221/8726319",

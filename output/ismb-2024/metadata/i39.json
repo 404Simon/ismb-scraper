@@ -90,7 +90,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 3,
     "C": 234,
     "I_open": 0,
@@ -109,9 +109,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/M-Serajian/MTB-Pipeline",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae243",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i39/7700900",

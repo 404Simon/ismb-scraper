@@ -123,7 +123,7 @@
       "France"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 112,
     "C": 2397,
     "I_open": 9,
@@ -143,9 +143,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/xxsds/sdsl-lite",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf211",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i246/8199345",

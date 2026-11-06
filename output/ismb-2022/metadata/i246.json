@@ -66,7 +66,7 @@
       "Switzerland"
     ],
     "M": true,
-    "T": null,
+    "T": "Phylogenetics & tree-based inference",
     "S": 5,
     "C": 167,
     "I_open": 3,
@@ -85,9 +85,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/phineasng/DECODE",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btac257",
   "article_url": "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i246/6617535",

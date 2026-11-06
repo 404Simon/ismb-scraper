@@ -47,7 +47,7 @@
       "South Korea"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 0,
     "C": 37,
     "I_open": 0,
@@ -66,9 +66,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/spcho-dev/EPIC",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag229",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag229/8726348",

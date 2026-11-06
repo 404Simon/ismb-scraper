@@ -68,7 +68,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug discovery & binding prediction",
     "S": 9,
     "C": 14,
     "I_open": 0,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ai4nucleome/mutBERT",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btaf229",
   "article_url": "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i294/8199401",

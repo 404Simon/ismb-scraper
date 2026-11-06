@@ -68,7 +68,7 @@
       "Finland"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 59,
     "C": 936,
     "I_open": 13,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/algbio/themisto",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad233",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i260/7210444",

@@ -48,7 +48,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Gene network & chromatin integration",
     "S": 2,
     "C": 237,
     "I_open": 1,
@@ -67,9 +67,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/yangymargaret/REUNION",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae234",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i567/7700880",

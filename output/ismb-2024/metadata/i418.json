@@ -75,7 +75,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Biomolecular structure modeling",
     "S": 25,
     "C": 51,
     "I_open": 7,
@@ -94,9 +94,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/ak422/DDAffinity",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae232",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i418/7700870",

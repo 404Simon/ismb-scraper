@@ -79,7 +79,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Protein structure & mutational effect prediction",
     "S": 7,
     "C": 77,
     "I_open": 2,
@@ -98,9 +98,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/vikshiv/sigmoni",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae213",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i287/7700860",

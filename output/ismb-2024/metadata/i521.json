@@ -57,7 +57,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Perturbation response modeling",
     "S": 8,
     "C": 6,
     "I_open": 1,
@@ -76,9 +76,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/sunericd/SPRITE",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btae253",
   "article_url": "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i521/7700857",

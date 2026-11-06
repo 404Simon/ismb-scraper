@@ -68,7 +68,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Genomic variation & sequence analysis",
     "S": 14,
     "C": 64,
     "I_open": 5,
@@ -87,9 +87,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-05",
     "github_repository": "https://github.com/KennthShang/PhaVIP",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btad229",
   "article_url": "https://academic.oup.com/bioinformatics/article/39/Supplement_1/i30/7210437",

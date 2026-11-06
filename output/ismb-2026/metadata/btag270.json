@@ -79,7 +79,7 @@
       "China"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & spatial transcriptomics",
     "S": 1,
     "C": 5,
     "I_open": 0,
@@ -98,9 +98,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/1062638515/spavelo",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag270",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag270/8726340",

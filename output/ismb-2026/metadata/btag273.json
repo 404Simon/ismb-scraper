@@ -69,7 +69,7 @@
       "United States"
     ],
     "M": true,
-    "T": null,
+    "T": "Single-cell & transcriptomic modeling",
     "S": 2,
     "C": 52,
     "I_open": 0,
@@ -88,9 +88,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/bo1929/phlag",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag273",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag273/8726330",

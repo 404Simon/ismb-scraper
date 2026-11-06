@@ -156,7 +156,7 @@
       "Malta"
     ],
     "M": true,
-    "T": null,
+    "T": "Drug-target interaction & response prediction",
     "S": 40,
     "C": 1391,
     "I_open": 1,
@@ -175,9 +175,7 @@
   "metrics_meta": {
     "snapshot_date": "2026-11-04",
     "github_repository": "https://github.com/BioGeMT/agentomics-ml",
-    "missing": [
-      "T"
-    ]
+    "missing": []
   },
   "doi": "10.1093/bioinformatics/btag250",
   "article_url": "https://academic.oup.com/bioinformatics/article/42/Supplement_1/btag250/8726289",

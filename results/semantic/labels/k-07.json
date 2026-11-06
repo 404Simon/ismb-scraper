@@ -1,9 +1,9 @@
 {
-  "0": "Single-cell & spatial transcriptomics",
-  "1": "Single-cell dynamics modeling",
-  "2": "Protein & drug interaction prediction",
-  "3": "Drug discovery & response prediction",
-  "4": "Protein function & variant effect prediction",
+  "0": "Drug discovery & protein function prediction",
+  "1": "Single-cell & spatial omics",
+  "2": "Biological sequence classification",
+  "3": "Protein stability & mutation effects",
+  "4": "Long-read sequencing & metagenomics",
   "5": "Phylogenetics & sequence algorithms",
-  "6": "Multi-omics integration & representation"
+  "6": "Regulatory genomics & network inference"
 }
