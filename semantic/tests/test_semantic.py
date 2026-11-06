@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import csv
 import hashlib
 import json
 import tempfile
@@ -392,7 +393,7 @@ class LabelingRunTest(unittest.TestCase):
 
 
 class AnnotationExportTest(unittest.TestCase):
-    def test_writes_per_doi_annotations(self):
+    def test_writes_topic_into_metadata(self):
         with tempfile.TemporaryDirectory() as tmp:
             output_dir = Path(tmp) / "output"
             input_dir = output_dir / "semantic"
@@ -407,30 +408,75 @@ class AnnotationExportTest(unittest.TestCase):
             )
             metadata_dir = output_dir / "ismb-2024" / "metadata"
             metadata_dir.mkdir(parents=True)
+            records = {}
             for paper_id, method in (("a", True), ("b", False)):
+                record = {
+                    "doi": f"10.1/{paper_id.upper()}",
+                    "metrics": {"M": method, "T": None},
+                    "metrics_meta": {"missing": ["T"] + ([] if method else ["M"])},
+                }
+                records[paper_id] = record
                 (metadata_dir / f"{paper_id}.json").write_text(
-                    json.dumps({"metrics": {"M": method}}), encoding="utf-8"
+                    json.dumps(record), encoding="utf-8"
                 )
+            (metadata_dir / "papers.json").write_text(
+                json.dumps(list(records.values())), encoding="utf-8"
+            )
+            (metadata_dir / "papers.csv").write_text(
+                '"paper_name","doi","M","T"\n'
+                '"Paper A","10.1/A","True",""\n'
+                '"Paper B","10.1/b","False",""\n',
+                encoding="utf-8",
+            )
             (results_dir / "labels").mkdir(parents=True)
             (results_dir / "labels" / "k-02.json").write_text(
                 json.dumps({"0": "Protein structure", "1": "Benchmarks"}), encoding="utf-8"
             )
 
-            missing = write_paper_annotations(
-                input_dir, results_dir, results_dir / "papers.json", 2
-            )
+            missing = write_paper_annotations(input_dir, results_dir, 2)
 
             self.assertEqual(missing, 0)
-            annotations = json.loads(
-                (results_dir / "papers.json").read_text(encoding="utf-8")
+            for paper_id, topic in (("a", "Protein structure"), ("b", "Benchmarks")):
+                record = json.loads(
+                    (metadata_dir / f"{paper_id}.json").read_text(encoding="utf-8")
+                )
+                self.assertEqual(record["metrics"]["T"], topic)
+                self.assertNotIn("T", record["metrics_meta"]["missing"])
+            aggregate = json.loads(
+                (metadata_dir / "papers.json").read_text(encoding="utf-8")
             )
             self.assertEqual(
-                annotations,
-                {
-                    "10.1/a": {"M": True, "T": "Protein structure"},
-                    "10.1/b": {"M": False, "T": "Benchmarks"},
-                },
+                [record["metrics"]["T"] for record in aggregate],
+                ["Protein structure", "Benchmarks"],
             )
+            rows = list(
+                csv.DictReader((metadata_dir / "papers.csv").open(encoding="utf-8"))
+            )
+            self.assertEqual([row["T"] for row in rows], ["Protein structure", "Benchmarks"])
+
+    def test_missing_m_is_counted(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output_dir = Path(tmp) / "output"
+            input_dir = output_dir / "semantic"
+            results_dir = Path(tmp) / "results"
+            run_dir = input_dir / "k-02"
+            run_dir.mkdir(parents=True)
+            (run_dir / "clusters.csv").write_text(
+                "cluster,year,paper_id,title,doi\n0,2024,a,Paper A,10.1/a\n",
+                encoding="utf-8",
+            )
+            metadata_dir = output_dir / "ismb-2024" / "metadata"
+            metadata_dir.mkdir(parents=True)
+            (metadata_dir / "a.json").write_text(
+                json.dumps({"doi": "10.1/a", "metrics": {}, "metrics_meta": {"missing": ["M", "T"]}}),
+                encoding="utf-8",
+            )
+            (results_dir / "labels").mkdir(parents=True)
+            (results_dir / "labels" / "k-02.json").write_text(
+                json.dumps({"0": "Protein structure"}), encoding="utf-8"
+            )
+
+            self.assertEqual(write_paper_annotations(input_dir, results_dir, 2), 1)
 
     def test_incomplete_labels_fail(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -450,9 +496,7 @@ class AnnotationExportTest(unittest.TestCase):
             )
 
             with self.assertRaisesRegex(SystemExit, "Unlabeled clusters"):
-                write_paper_annotations(
-                    input_dir, results_dir, results_dir / "papers.json", 2
-                )
+                write_paper_annotations(input_dir, results_dir, 2)
 
 
 class EmbeddingMetaTest(unittest.TestCase):

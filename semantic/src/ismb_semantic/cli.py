@@ -53,13 +53,10 @@ def _parser() -> argparse.ArgumentParser:
     )
     label_parser.add_argument("--timeout", type=int, default=300, help="Seconds per OpenCode call.")
 
-    export_parser = sub.add_parser("export", help="Write per-paper M/T annotations.")
+    export_parser = sub.add_parser("export", help="Write topic labels into the metadata.")
     export_parser.add_argument("--input", type=Path, default=Path("output/semantic"))
     export_parser.add_argument("--results", type=Path, default=Path("results/semantic"))
     export_parser.add_argument("--k", type=int, required=True, help="Cluster count used for T.")
-    export_parser.add_argument(
-        "--output", type=Path, default=Path("results/semantic/papers.json")
-    )
     return parser
 
 
@@ -221,7 +218,6 @@ def _run_export(args: argparse.Namespace) -> None:
     missing = write_paper_annotations(
         input_dir=args.input,
         results_dir=args.results,
-        output_path=args.output,
         k=args.k,
     )
     if missing:

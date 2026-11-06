@@ -35,11 +35,6 @@ import {
 } from "./metadata";
 import { pageStateScript, readReadyPage } from "./page-readiness";
 import { parsePublicationYear } from "./publication";
-import {
-  loadSemanticAnnotations,
-  semanticKey,
-  type SemanticAnnotation
-} from "./semantic";
 
 interface IssueArticle {
   title: string;
@@ -164,7 +159,6 @@ const { values, positionals } = parseArgs({
     "skip-pdfs": { type: "boolean", default: false },
     "skip-html": { type: "boolean", default: false },
     "skip-figures": { type: "boolean", default: false },
-    semantic: { type: "string", default: "results/semantic/papers.json" },
     resume: { type: "boolean", default: false },
     "chrome-debug-port": { type: "string" },
     "challenge-timeout": { type: "string", default: "180" },
@@ -194,7 +188,6 @@ Options:
       --skip-pdfs              Do not download publisher PDFs
       --skip-html              Do not save standalone article HTML
       --skip-figures           Do not download article figures
-      --semantic <file>        DOI -> {M,T} annotations (default: results/semantic/papers.json)
       --resume                 Reuse metadata/<id>.json when it matches the current metric schema
       --chrome-debug-port <n> Attach to visible Chrome with remote debugging
       --challenge-timeout <s> Seconds to wait for verified, ready content (default: 180)
@@ -274,9 +267,6 @@ const chromeBackend = chromeUrl
   ? { type: "chrome" as const, url: chromeUrl }
   : "chrome";
 const interactiveChrome = chromeDebugPort !== null;
-const semanticAnnotations = await loadSemanticAnnotations(
-  resolve(String(values.semantic))
-);
 
 await mkdir(metadataDir, { recursive: true });
 await mkdir(filesDir, { recursive: true });
@@ -359,8 +349,7 @@ const results = await mapLimit(issueArticles, concurrency, async (article, index
       paperFilesDir,
       metadataPath,
       outDir,
-      snapshotDate,
-      semanticAnnotations
+      snapshotDate
     );
     failures.push(...result.warnings);
     const artifactCount = ARTIFACT_KEYS.reduce(
@@ -407,8 +396,7 @@ async function scrapeArticle(
   paperFilesDir: string,
   metadataPath: string,
   archiveRoot: string,
-  snapshotDate: string,
-  semanticAnnotations: Map<string, SemanticAnnotation>
+  snapshotDate: string
 ): Promise<ScrapeResult> {
   const view = new Bun.WebView({
     backend: chromeBackend,
@@ -464,7 +452,6 @@ async function scrapeArticle(
     );
     const { author_notes: authorNotes, ...authorFields } = authorMetadata;
     const doi = normalizeDoi(data.doi);
-    const annotation = semanticAnnotations.get(semanticKey(doi));
     const openAlex = await openAlexMetricsFor(
       paperName,
       doi,
@@ -485,16 +472,16 @@ async function scrapeArticle(
       Y: publicationYear,
       L_lead: leadLabs.count,
       C_lead: leadLabs.countries,
-      M: annotation?.M ?? null,
-      T: annotation?.T ?? null
+      M: null,
+      T: null
     };
     const derivedMissing = unique([
       ...mergedMetrics.missing,
       ...(publicationYear === null ? ["Y"] : []),
       ...(leadLabs.count === null ? ["L_lead"] : []),
       ...(leadLabs.countries === null ? ["C_lead"] : []),
-      ...(annotation?.M == null ? ["M"] : []),
-      ...(annotation?.T == null ? ["T"] : [])
+      "M",
+      "T"
     ]);
     const repositoryCandidates = rankGitHubRepositoryCandidates(
       data.artifactCandidates,

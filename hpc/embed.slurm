@@ -16,7 +16,7 @@
 #   uv sync --project semantic           # creates semantic/.venv; the venv is not rsynced
 #   export HF_HOME=/home/woody/iwbn/$USER/hf-cache
 #   uv run --project semantic hf download zeroentropy/zembed-1-embedding
-#   rsync -a output/ismb-20{24,25,26} <host>:<repo>/output/
+#   rsync -a output/ismb-20{22,23,24,25,26} <host>:<repo>/output/
 #   sbatch.tinygpu hpc/embed.slurm
 #   rsync -a <host>:<repo>/output/semantic/ output/semantic/
 #
@@ -29,7 +29,7 @@ set -euo pipefail
 PROJECT_ROOT="${PROJECT_ROOT:-${SLURM_SUBMIT_DIR:-$PWD}}"
 SOURCE="${SOURCE:-${PROJECT_ROOT}/output}"
 OUTPUT="${OUTPUT:-${PROJECT_ROOT}/output/semantic}"
-YEARS="${YEARS:-2024 2025 2026}"
+YEARS="${YEARS:-2022 2023 2024 2025 2026}"
 HF_HOME="${HF_HOME:-/home/woody/iwbn/${USER}/hf-cache}"
 
 export HF_HOME
